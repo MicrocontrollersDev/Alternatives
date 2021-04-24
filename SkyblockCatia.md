@@ -19,3 +19,7 @@ Other stuff:
 - Toggle Sprint/Sneak - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189) / [Lily's Toggle Sprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases)
 
 **Warning: Using the Toggle Sneak feature may cause bans on Hypixel**
+
+## Credits
+
+[MisterCheezeCake](https://github.com/MisterCheezeCake)
