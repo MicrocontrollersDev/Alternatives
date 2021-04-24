@@ -83,4 +83,7 @@ Note: Using SkyblockCatia is not recommended, since it has many incompatibilitie
 - [stef-the](https://github.com/stef-the)
 - [Sychic](https://github.com/Sychic)
 
-# Now that I saved you $5, consider giving that money to me instead.
+# Now that I saved you $5, consider giving that money to people who deserve it instead.
+
+- [Moulberry's Patreon](https://www.patreon.com/moulberry)
+- [Sk1er's Store](https://store.sk1er.club)
