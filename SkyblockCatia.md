@@ -10,9 +10,8 @@ Skyblock stuff:
 - [**Moulberry's Not Enough Updates**](discord.gg/moulberry)
 - [**Sychic and Lily's Skytils**](https://github.com/Skytils/SkytilsMod/releases)
 - [**Cow's Cowlection**](https://github.com/cow-mc/Cowlection/releases)
-- 
 Other stuff:
-- Coords - powns coords hud
-- Armor Status - powns armorhud
-- Potion Status - Powns potionhud
-- Toggle Sprint/Sneak - powns/lily
+- Coords - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
+- Armor Status - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
+- Potion Status - - [Powns's PotionHud](https://download.powns.dev/potionhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
+- Toggle Sprint/Sneak - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189) / [Lily's Toggle Sprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases)
