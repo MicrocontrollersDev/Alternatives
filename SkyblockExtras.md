@@ -45,7 +45,7 @@ Note: Using SkyblockCatia is not recommended, since it has many incompatibilitie
     - Context: NEU had originally made a feature that allowed you to retexture skulls with custom models. On the SBE discord, they had specifically stated that they will not be stealing features from other mods and people should not request for them to add features from other mods, then added the same NEU feature.
 - **Blatantly steals from Skytils**
     - Added necron phase timers literally the day after Skytils. Complex also stalks the Skytils github, most likely looking for code/features to steal, which is just scummy.
-- [**Use ModCore despite breaking Sk1'er mod licenses**](https://i.imgur.com/fkWUtGi.png)
+- [**Use ModCore despite breaking Sk1er mod licenses**](https://i.imgur.com/fkWUtGi.png)
     - Scummy and illegal
 - [**Breaks MC EULA**](https://i.imgur.com/SyNXc9W.png) (no I don't know why "don't" looks messed up)
     - Mojang can take down the mod at any time and you'd lose $5. And no, calling it a "donation to Complex" doesn't change anything in the eyes of the law. The mod is advertised as paid, and is unlocked with money.
