@@ -1,14 +1,10 @@
 # Skyblock-Extras-Alternatives
+
 For when you don't want to break EULA
-
-- [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/releases)
-
-![](kekw/kekw.png)
-
-And I guess these mods too
 
 | Name | Description | Developer |
 | --- | --- | --- |
+| [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/releases) | [**List of features**](https://github.com/bowser0000/SkyblockMod/blob/development/README.md) | [Danker](https://github.com/bowser0000) |
 | [**NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784)) | Lots of things that are essential to Skyblock: [**List of features**](https://pastebin.pl/view/c8854a1f) | [Moulberry](https://moulberry.codes/) |
 | [**Skytils**](https://github.com/Skytils/SkytilsMod/releases) | Even more cool shit: [**List of features**](https://github.com/Skytils/SkytilsMod/blob/main/README.md) | [Sychic](https://github.com/Sychic) and [Lily](https://github.com/My-Name-Is-Jeff) |
 | [**Patcher**](https://sk1er.club/mods/patcher) | Performance enhancements, bug fixes, and QOL changes: [**List of features**](https://github.com/LunaNotdev/Patcher-Explanation) | [Asbyth](https://github.com/asbyth) ([Sk1erLLC](https://github.com/sk1erllc/)) |
@@ -17,9 +13,10 @@ And I guess these mods too
 
 **Check out [SkyClient](https://discord.com/invite/VH6fdBYzQQ) for an instant installer ~~& updater~~ for the mods listed above and more!**
 
-Note: Using SkyblockCatia is not recommended, since it has many incompatibilities and some features that aren't even for Skyblock. It's the bloatiest mod I've ever seen, and the config menu is literal hell.
+**Note**: Using SkyblockCatia is not recommended, since it has many incompatibilities and some features that aren't even for Skyblock. It's the bloatiest mod I've ever seen, and the config menu is literal hell.
 
 # Reasons NOT to Buy or Use SBE:
+
 - [**Shitty puzzle solvers v1**](https://i.imgur.com/zXydj0j.png)
 - [**Shitty features v1**](https://i.imgur.com/T3V8kDQ.png)
 - [**Shitty features v2**](https://i.imgur.com/mFdaV2n.png)
@@ -71,6 +68,7 @@ Note: Using SkyblockCatia is not recommended, since it has many incompatibilitie
 - If you already did buy it, the Sunk Cost Fallacy makes it so that you still shouldn't use it. The money you spent is already long gone and no longer plays a factor in your decision making. Using the $5 as an excuse to continue using SBE is the irrational decision. Think of it as buying a broken spoon that barely works, and then finding a brand new working one in your drawer. There is no reason to continue using the broken spoon. Even if you do use it, you're not getting your money's worth out of it. That money was thrown away and nothing can be done about it. Same applies for SBE. Your money is gone. Remove SBE from your device.
 
 # Credits
+
 - Abd
 - [Angry_Pineapple](https://github.com/Angry-Pineapple3121)
 - [asbyth](https://github.com/asbyth)
