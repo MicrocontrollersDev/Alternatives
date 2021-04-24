@@ -1,8 +1,6 @@
 # SkyblockCatia-Alternatives
 
-idek what sbc has yell at me later
-idc about formatting either rn thats a problem for later me
-pretty much im too busy with hw rn but want to get a base done asap
+
 
 Skyblock stuff:
 - [**Biscuit's SkyBlock Addons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
