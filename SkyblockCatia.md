@@ -8,8 +8,8 @@ Skyblock stuff:
 - [**Biscuit's SkyBlock Addons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
 - [**Danker's SkyBlock Mod**](https://github.com/bowser0000/SkyblockMod/releases/)
 - [**Moulberry's Not Enough Updates**](discord.gg/moulberry)
-- [**Sychic and Lily's Skytils**] (https://github.com/Skytils/SkytilsMod/releases)
-- [**Cow's Cowlection**] (https://github.com/cow-mc/Cowlection/releases)
+- [**Sychic and Lily's Skytils**](https://github.com/Skytils/SkytilsMod/releases)
+- [**Cow's Cowlection**](https://github.com/cow-mc/Cowlection/releases)
 - 
 Other stuff:
 - Coords - powns coords hud
