@@ -47,7 +47,7 @@ For when you don't want to break EULA
 - [**Breaks MC EULA**](https://i.imgur.com/SyNXc9W.png) (no I don't know why "don't" looks messed up)
     - Mojang can take down the mod at any time and you'd lose $5. And no, calling it a "donation to Complex" doesn't change anything in the eyes of the law. The mod is advertised as paid, and is unlocked with money.
 - [**Performance issues**](https://i.imgur.com/8sYs8bg.png), and [**even more performance issues**](https://i.imgur.com/bxJyO2X.png)
-    - SBE is notorious for destroying your FPS. Their attempt at fixing it was stealing Patcher FPS optimisation features.
+    - SBE is notorious for destroying your FPS. Their attempt at fixing it was stealing Patcher FPS optimization features.
 - ?????
     - [What](https://i.imgur.com/WD3mPZg.png)
     - [The](https://i.imgur.com/sF6LLQD.png)
