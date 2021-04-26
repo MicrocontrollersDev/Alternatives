@@ -23,3 +23,6 @@
 - **AutoWho**
 - **Skypixel**
 - [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md)
+
+# Credits
+- [JackedUp21](https://github.com/JackedUp21)
