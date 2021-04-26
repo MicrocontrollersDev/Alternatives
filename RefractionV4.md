@@ -15,7 +15,7 @@
 
 # Replace
 - [**Canalex's Keystrokes with Sk1er's**](https://sk1er.club/mods/keystrokesmod)
-- [** spiderfrog's old animations with Sk1er's**](https://sk1er.club/beta)
+- [**spiderfrog's old animations with Sk1er's**](https://sk1er.club/beta)
 
 # Remove
 - **Modcore Container**
