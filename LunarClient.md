@@ -69,7 +69,7 @@ _Cosmetic Options_
 
 _Misc Options_
 - **Borderless Fullscreen** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Disable Weather** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar)
+- **Disable Weather** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Scroll to Zoom** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 _Texture Pack Options_
@@ -81,10 +81,10 @@ _General_
 - **Hide Enderportals** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Full Bright** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Enchantment Glint** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Lazy Chunk Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) (singleplayer only)
+- **Lazy Chunk Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) (singleplayer only)
 
 _Entity Options_
-- **Shadow** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar)
+- **Shadow** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Entities** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Tile Entities** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
