@@ -1,6 +1,6 @@
 # Skyblock-Extras-Alternatives
 
-For when you don't want to break EULA
+**Do not give money to these shitheads!**
 
 | Name | Description | Developer |
 | --- | --- | --- |
