@@ -74,7 +74,7 @@
     - Skytils users: comes up with [new idea](https://i.imgur.com/BNsQQhW.png), SBE users: ["just fuckin steal it"](https://i.imgur.com/sj4gM5e.jpg)
     - [Join SkyClient server](https://i.imgur.com/tuX1ct7.png) just to call it bad and promote SBE when they don't even know what Skyclient is. It's a mod installer, not a client.
     - [SBE user makes flat earther claims](https://i.imgur.com/vUje6i7.png) after I give them literal evidence that SBE skids other mods. The dude never actually read the proof either, he kept asking for it, and after I would send it he would ask over and over.
-    - [SBE users making shit up](https://i.imgur.com/FbjLvgy.png)
+    - [SBE users lying about what SBE and other mods have](https://i.imgur.com/FbjLvgy.png)
 - **Took Complex and Alpha 400 hours to learn to copy paste**
     - ![image](https://user-images.githubusercontent.com/66657148/116174803-fd186500-a6c3-11eb-858d-ed7d1dcc797d.png)
 
