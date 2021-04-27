@@ -105,3 +105,4 @@
 
 # Suck my dick Complex
 ![image](https://user-images.githubusercontent.com/66657148/116288951-df401400-a746-11eb-8142-f21ea200cc89.png)
+btw blankblaze.png is just a fucking white rectangle
