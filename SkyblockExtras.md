@@ -34,11 +34,12 @@
 - [**Spams the fuck out of your logs v4**](https://i.imgur.com/nIVikWF.png) (it's just depressing at this point)
 - **Blatantly steals from DSM** (can't find screenshot but its the tic tac toe solver, it's literally the same thing, even printed the exact same log messages)
 - [**Blatantly steals from SBC**](https://i.imgur.com/n7T9DkB.png)
-- [**Blatantly steals from Patcher**](https://hst.sh/xetawopini.java) and also [this](https://i.imgur.com/1Ir8zjS.png) 
-    - Context: When Patcher 1.5 was in beta, and 1.12 crop hitboxes were added, they were bugged and were pretty broken. When Complex "made" his version, he somehow managed to produce the exact same bug. Fishy. Moulberry then helped fix the Patcher glitch, and soon after, Complex had also magically fixed it.
+- **Blatantly steals from Patcher**
+    - Context: When Patcher 1.5 was in beta, and 1.12 crop hitboxes were added, they were bugged and were pretty broken. When Complex "made" his version, he somehow managed to produce the exact same bug. asbyth talks more about it [here](https://i.imgur.com/1Ir8zjS.png). Moulberry then helped fix the Patcher glitch, and soon after, Complex had also magically fixed it.
     - In the SBE code and the Patcher code, there is code for crop hitboxes. Across the two mods, they are 100% identical. The ONLY changes made between the two mods is that the orders of the crops are slightly different. This aso ties into what was discussed above.
-    - [Patcher's Crop Botboxes](https://hst.sh/wosekuxana.java)
+    - [Patcher's Crop Hitboxes](https://hst.sh/wosekuxana.java)
     - [SBE's Crop Hitboxes](https://hst.sh/odupiwadut.java)
+    - [Side by Side Comparison](https://hst.sh/xetawopini.java)
 - [**Blatantly steals from NEU**](https://i.imgur.com/nNJp8bD.png) 
     - Context: NEU had originally made a feature that allowed you to retexture skulls with custom models. On the SBE discord, they had specifically stated that they will not be stealing features from other mods and people should not request for them to add features from other mods, then added the same NEU feature.
 - **Blatantly steals from Skytils**
@@ -91,3 +92,4 @@
 
 - [Moulberry's Patreon](https://www.patreon.com/moulberry)
 - [Sk1er's Store](https://store.sk1er.club)
+- [Antonio32A's Patreon](https://www.patreon.com/dungeonutilities)
