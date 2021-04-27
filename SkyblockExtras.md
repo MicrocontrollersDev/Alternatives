@@ -20,6 +20,7 @@
 - [**Shitty puzzle solvers v1**](https://i.imgur.com/zXydj0j.png)
 - [**Shitty features v1**](https://i.imgur.com/T3V8kDQ.png)
 - [**Shitty features v2**](https://i.imgur.com/mFdaV2n.png)
+- [**Shitty features v3**](https://i.imgur.com/gl0EF9g.png)
 - **Shit code**
     - [Using mixins when they can just use forge events](https://i.imgur.com/ELNlotr.png)
     - Can tell by incompatibility nightmare
@@ -107,8 +108,9 @@ I do not see a problem with free mods having similar features to your mod when y
 
 # Credits
 
+Huge thanks to [Angry_Pineapple](https://github.com/Angry-Pineapple3121) who found many of the screenshots provided here and also deobfuscated most of SBE's code to better expose Complex and Alpha!
+
 - Abd
-- [Angry_Pineapple](https://github.com/Angry-Pineapple3121)
 - [asbyth](https://github.com/asbyth)
 - [AzuredBlue](https://github.com/AzuredBlue)
 - [bumble](https://github.com/itsbumble)
