@@ -46,7 +46,7 @@
     - Added necron phase timers literally the day after Skytils. Complex also stalks the Skytils github, most likely looking for code/features to steal, which is just scummy.
 - [**Use ModCore despite breaking Sk1er mod licenses**](https://i.imgur.com/fkWUtGi.png)
     - Scummy and illegal
-- [**Breaks MC EULA**](https://i.imgur.com/SyNXc9W.png) (no I don't know why "don't" looks messed up)
+- [**Breaks Minecraft's EULA**](https://i.imgur.com/SyNXc9W.png) (no I don't know why "don't" looks messed up)
     - Mojang can take down the mod at any time and you'd lose $5. And no, calling it a "donation to Complex" doesn't change anything in the eyes of the law. The mod is advertised as paid, and is unlocked with money.
     - AlphaElite is missing a few chromosomes and apparently [cannot read](https://i.imgur.com/Z0JbcBb.png). What are you on about bro?
 - Performance issues
