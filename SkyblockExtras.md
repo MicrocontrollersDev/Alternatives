@@ -56,6 +56,7 @@ For when you don't want to break EULA
 - **Complex and AlphaElite are shitty human beings**
     - Illegally steal other people's work that they spent hundreds of hours on and make money off of it.
     - [Lie about other mods stealing from them](https://i.imgur.com/L7ilxLS.png) when they're the ones ripping off features
+    - [Lie about other mods stealing from them v2](https://i.imgur.com/WLFeKkH.png)
     - Are dicks to other mod developers (especially Moulberry)
     - Suck up to YouTubers to get them to defend them
     - Don't give these idiots money nor support
@@ -76,6 +77,7 @@ For when you don't want to break EULA
 - [asbyth](https://github.com/asbyth)
 - [AzuredBlue](https://github.com/AzuredBlue)
 - [bumble](https://github.com/itsbumble)
+- [DJtheRedstoner](https://github.com/DJtheRedstoner)
 - [Feel65](https://github.com/Feel65)
 - [Koxx12](https://github.com/koxx12-dev)
 - [Lily](https://github.com/My-Name-Is-Jeff)
