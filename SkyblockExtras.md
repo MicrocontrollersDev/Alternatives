@@ -48,7 +48,10 @@
     - Scummy and illegal
 - [**Breaks MC EULA**](https://i.imgur.com/SyNXc9W.png) (no I don't know why "don't" looks messed up)
     - Mojang can take down the mod at any time and you'd lose $5. And no, calling it a "donation to Complex" doesn't change anything in the eyes of the law. The mod is advertised as paid, and is unlocked with money.
-- [**Performance issues**](https://i.imgur.com/8sYs8bg.png), and [**even more performance issues**](https://i.imgur.com/bxJyO2X.png)
+- Performance issues
+    - [Testimony 1](https://i.imgur.com/8sYs8bg.png)
+    - [Testimony 2](https://i.imgur.com/bxJyO2X.png)
+    - [Testimony 3](https://i.imgur.com/vpl5i2B.png) 
     - SBE is notorious for destroying your FPS. Their attempt at fixing it was stealing Patcher FPS optimization features.
 - ?????
     - [What](https://i.imgur.com/WD3mPZg.png)
@@ -66,6 +69,11 @@
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
     - Good luck getting any help from these idiots
     - Now for the dumbest fucking coversation I've seen with an SBE helper: [The cause of cancer](https://imgur.com/a/yocc5XO)
+- **Shitty uers**
+    - Skytils users: comes up with [new idea](https://i.imgur.com/BNsQQhW.png), SBE users: ["just fuckin steal it"](https://i.imgur.com/sj4gM5e.jpg)
+    - [Join SkyClient server](https://i.imgur.com/tuX1ct7.png) just to call it bad and promote SBE when they don't even know what Skyclient is. It's a mod installer, not a client.
+    - [SBE user makes flat earther claims](https://i.imgur.com/vUje6i7.png) after I give them literal evidence that SBE skids other mods. The dude never actually read the proof either, he kept asking for it, and after I would send it he would ask over and over.
+    - [SBE users making shit up](https://i.imgur.com/FbjLvgy.png)
 - **Took Complex and Alpha 400 hours to learn to copy paste**
     - ![image](https://user-images.githubusercontent.com/66657148/116174803-fd186500-a6c3-11eb-858d-ed7d1dcc797d.png)
 
@@ -87,6 +95,7 @@
 - [LunaNotDev](https://github.com/LunaNotdev)
 - [stef-the](https://github.com/stef-the)
 - [Sychic](https://github.com/Sychic)
+- Yan
 
 # Now that I saved you $5, consider giving that money to people who deserve it instead.
 
