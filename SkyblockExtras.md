@@ -65,6 +65,8 @@
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
     - Good luck getting any help from these idiots
     - Now for the dumbest fucking coversation I've seen with an SBE helper: [The cause of cancer](https://imgur.com/a/yocc5XO)
+- **Took Complex and Alpha 400 hours to learn to copy paste**
+    - ![image](https://user-images.githubusercontent.com/66657148/116174803-fd186500-a6c3-11eb-858d-ed7d1dcc797d.png)
 
 # EVEN IF YOU ALREADY BOUGHT SBE, DO NOT USE IT!
 
