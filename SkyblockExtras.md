@@ -21,6 +21,7 @@ For when you don't want to break EULA
 - [**Shitty features v1**](https://i.imgur.com/T3V8kDQ.png)
 - [**Shitty features v2**](https://i.imgur.com/mFdaV2n.png)
 - **Shit code**
+    - [Using mixins when they can just use forge events](https://i.imgur.com/ELNlotr.png)
     - Can tell by incompatibility nightmare
 - [**Obfuscated to fuck**](https://i.imgur.com/r5RROwf.png) 
     - Context: This means we cant read the code unless we spend hours decrpyting it. This means that the mod is really unsafe as it can do anything such as pulling a JED (a mod that stole people's Minecraft accounts) and no one would know. It also makes it very easy for ComplexOrigin (SBE's creator) to hide the fact that he steals code (more on this later). If you crash, no one can help you, because the crashlog only consists of `iIiIiIiiIIiIiiIiIiiiIiIiIiIiiIiiiiIIIiiIiIiiIiiIiIiiIiiIiii` strings.
@@ -62,6 +63,8 @@ For when you don't want to break EULA
     - [Example 1](https://i.imgur.com/oWT1CJj.png)
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
     - Good luck getting any help from these idiots
+
+    - Now for the dumbest fucking coversation I've seen with an SBE helper: [The cause of cancer](https://imgur.com/a/yocc5XO)
 
 # EVEN IF YOU ALREADY BOUGHT SBE, DO NOT USE IT!
 
