@@ -41,6 +41,7 @@
     - [Patcher's Crop Hitboxes](https://hst.sh/wosekuxana.java)
     - [SBE's Crop Hitboxes](https://hst.sh/odupiwadut.java)
     - [Side by Side Comparison](https://hst.sh/xetawopini.java)
+    - They also added chat timestamps similar to Patcher's, which while technically there's nothing wrong with this... why? What do chat timestamps have to do with Skyblock. If someone wants chat timestamps they can just get Patcher. The "it's for people who don't have Patcher" argument is dumb as Patcher is pretty much essential for 1.8.
 - [**Blatantly steals from NEU**](https://i.imgur.com/nNJp8bD.png) 
     - Context: NEU had originally made a feature that allowed you to retexture skulls with custom models. On the SBE discord, they had specifically stated that they will not be stealing features from other mods and people should not request for them to add features from other mods, then added the same NEU feature.
 - **Blatantly steals from Skytils**
