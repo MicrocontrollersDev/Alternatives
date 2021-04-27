@@ -35,7 +35,7 @@
 - **Secondary Chat** - [5Zig's Reborn](https://5zigreborn.eu/)
 
 # PvP
-- **Speed FOV** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar)
+- **Speed FOV** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Swap Bow** - None
 
 # Menu GUI
@@ -135,7 +135,7 @@ _Miscellaneous_
 - **MiniMap** (**!!! Bannable on Hypixel !!!**) - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
 - **More Particles** - [Dewgs's ParticleMod](https://www.mediafire.com/file/z42f9gzegatz9cq/%255B1.8.9%255DParticleMod-1.02.jar/file) / [Aycy's OnHitParticles](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - **Motion Blur** - [Moulberry's Motionblur (BETA)](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) (Must join Sk1er Discord for link to work) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
-- **OptiFine** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar)
+- **OptiFine** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Rainbow GUI** - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
 - **ResourcePack 24** - [Official Mod](https://resourcepacks24.de/texturepack-mod) / [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds ability to make folders)
 - **Send To Server** - None
