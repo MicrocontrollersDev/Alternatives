@@ -10,7 +10,7 @@
 -   **CPS counter/keystrokes mod** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 -   **Clear chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 -   **Clan wars** (unknown)
--   **Clear Water** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar)
+-   **Clear Water** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 -   **Combo Counter** - [Erouax Combo Display](https://www.mediafire.com/file/ofrq5kgikbklb2a/Combo_Display_1.8.9.jar/file)
 -   **Coordinates** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
 -   **Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3164058)
@@ -49,7 +49,7 @@
 -   **Toggle Sneak** - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
 -   **Toggle Sprint** - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
 -   **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
--   **Zoom** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (tweaks Optifine's)
+-   **Zoom** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (tweaks Optifine's)
 -   **Emotes** (No alternatives)
 -   **New Chat**
     -   **Compact Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
