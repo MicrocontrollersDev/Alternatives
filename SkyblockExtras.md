@@ -117,6 +117,7 @@ I do not see a problem with free mods having similar features to your mod when y
 - [Koxx12](https://github.com/koxx12-dev)
 - [Lily](https://github.com/My-Name-Is-Jeff)
 - [LunaNotDev](https://github.com/LunaNotdev)
+- [nacrt](https://github.com/nacrt)
 - [stef-the](https://github.com/stef-the)
 - [Sychic](https://github.com/Sychic)
 - Yan
