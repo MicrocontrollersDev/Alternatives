@@ -63,7 +63,6 @@ For when you don't want to break EULA
     - [Example 1](https://i.imgur.com/oWT1CJj.png)
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
     - Good luck getting any help from these idiots
-
     - Now for the dumbest fucking coversation I've seen with an SBE helper: [The cause of cancer](https://imgur.com/a/yocc5XO)
 
 # EVEN IF YOU ALREADY BOUGHT SBE, DO NOT USE IT!
