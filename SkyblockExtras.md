@@ -92,7 +92,7 @@
 
 Not to mention, this is completely missing the point. You are making a shitty, paid mod, adding features that good, free mods have. You have absolutely no fucking right to complain about other mods adding features you have. And it's not like they're stealing the code either ya fucking pirated stringer user. They are making the code from scratch, while there is literal evidence of you copy pasting code. Get off your high fucking horse.
 
-I do not see a problem with free mods having similar features to your mod when you are not only breaking Minecraft's EULA, but also federal law...
+I do not see a problem with free mods having similar features to your mod when you do the same and are not only breaking Minecraft's EULA, but also federal law...
 
 # EVEN IF YOU ALREADY BOUGHT SBE, DO NOT USE IT!
 
