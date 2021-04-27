@@ -83,11 +83,16 @@
 - Nearby Burrow Particles: Okay? So what? If you were making burrow waypoints why wouldn't you make this
 - Larger Heads: Skytils originally just wanted to mimic newer version behavior, but later made it a slider. Not your idea.
 - Big Items: Widely used in UHC for bigger apples/gold/heads. You did not come up with this.
-- Puzzler Solver: There is no fucking way you are trying to claim they stole puzzler solver from you. No fucking shit they would add it.
+- Puzzler Solver: NEU made this 5-6 days before you revealed SBE 2.0
+- Show Ghosts: NEU made this 5-6 days before you revealed SBE 2.0
 - Dungeon Solvers: DungeonUtilities did it first. You did not come up with the idea of dungeon solvers, and either way, the one skytils has are very different.
 - Prettify dmg markings: Skytils has a custom animation and coloring. It is nothing like SBE.
 - blankblaze.png: a white fuckin rectangle. Either way, it's gone now.
 - Hide Dicer Msgs: Skytils has a whole spam hider section for multiple things. You made a spam hider for a single thing. Good shit Complex, you have the IQ of a four year old.
+
+Not to mention, this is completely missing the point. You are making a shitty, paid mod, adding features that good free mods have. You have absolutely no fucking right to complain about other mods adding features you have. Your mod already breaks EULA, free mods do not. 
+
+I do not see a problem with free mods having similar features to your mod when you are not only breaking Minecraft's EULA, but also federal law...
 
 # EVEN IF YOU ALREADY BOUGHT SBE, DO NOT USE IT!
 
