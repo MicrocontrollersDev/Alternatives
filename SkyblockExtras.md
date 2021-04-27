@@ -77,9 +77,27 @@
 - **Took Complex and Alpha 400 hours to learn to copy paste**
     - ![image](https://user-images.githubusercontent.com/66657148/116174803-fd186500-a6c3-11eb-858d-ed7d1dcc797d.png)
 
+# Suck my dick Complex
+
+![image](https://user-images.githubusercontent.com/66657148/116289878-be2bf300-a747-11eb-9bba-bc32533c4064.png)
+- Nearby Burrow Particles: Okay? So what? If you were making burrow waypoints why wouldn't you make this
+- Larger Heads: Skytils originally just wanted to mimic newer version behavior, but later made it a slider. Not your idea.
+- Big Items: Widely used in UHC for bigger apples/gold/heads. You did not come up with this.
+- Puzzler Solver: There is no fucking way you are trying to claim they stole puzzler solver from you. No fucking shit they would add it.
+- Dungeon Solvers: DungeonUtilities did it first. You did not come up with the idea of dungeon solvers, and either way, the one skytils has are very different.
+- Prettify dmg markings: Skytils has a custom animation and coloring. It is nothing like SBE.
+- blankblaze.png: a white fuckin rectangle. Either way, it's gone now.
+- Hide Dicer Msgs: Skytils has a whole spam hider section for multiple things. You made a spam hider for a single thing. Good shit Complex, you have the IQ of a four year old.
+
 # EVEN IF YOU ALREADY BOUGHT SBE, DO NOT USE IT!
 
 - If you already did buy it, the Sunk Cost Fallacy makes it so that you still shouldn't use it. The money you spent is already long gone and no longer plays a factor in your decision making. Using the $5 as an excuse to continue using SBE is the irrational decision. Think of it as buying a broken spoon that barely works, and then finding a brand new working one in your drawer. There is no reason to continue using the broken spoon. Even if you do use it, you're not getting your money's worth out of it. That money was thrown away and nothing can be done about it. Same applies for SBE. Your money is gone. Remove SBE from your device.
+
+# Now that I saved you $5, consider giving that money to people who deserve it instead.
+
+- [Moulberry's Patreon](https://www.patreon.com/moulberry)
+- [Sk1er's Store](https://store.sk1er.club)
+- [Antonio32A's Patreon](https://www.patreon.com/dungeonutilities)
 
 # Credits
 
@@ -96,13 +114,3 @@
 - [stef-the](https://github.com/stef-the)
 - [Sychic](https://github.com/Sychic)
 - Yan
-
-# Now that I saved you $5, consider giving that money to people who deserve it instead.
-
-- [Moulberry's Patreon](https://www.patreon.com/moulberry)
-- [Sk1er's Store](https://store.sk1er.club)
-- [Antonio32A's Patreon](https://www.patreon.com/dungeonutilities)
-
-# Suck my dick Complex
-![image](https://user-images.githubusercontent.com/66657148/116289878-be2bf300-a747-11eb-9bba-bc32533c4064.png)
-- btw blankblaze.png is just a fucking white rectangle
