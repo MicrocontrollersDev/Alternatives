@@ -21,6 +21,7 @@
 - [**Shitty features v1**](https://i.imgur.com/T3V8kDQ.png)
 - [**Shitty features v2**](https://i.imgur.com/mFdaV2n.png)
 - [**Shitty features v3**](https://i.imgur.com/gl0EF9g.png)
+- [**Shitty features v4**](https://i.imgur.com/yAtQ9ay.png)
 - **Shit code**
     - [Using mixins when they can just use forge events](https://i.imgur.com/ELNlotr.png)
     - Can tell by incompatibility nightmare
@@ -54,7 +55,8 @@
 - Performance issues
     - [Testimony 1](https://i.imgur.com/8sYs8bg.png)
     - [Testimony 2](https://i.imgur.com/bxJyO2X.png)
-    - [Testimony 3](https://i.imgur.com/vpl5i2B.png) 
+    - [Testimony 3](https://i.imgur.com/vpl5i2B.png)
+    - [Testimony 4](https://i.imgur.com/YX86ELc.png)
     - SBE is notorious for destroying your FPS. Their attempt at fixing it was stealing Patcher FPS optimization features.
 - ?????
     - [What](https://i.imgur.com/WD3mPZg.png)
@@ -70,9 +72,11 @@
 - **Shitty fucking staff holy shit**
     - [Example 1](https://i.imgur.com/oWT1CJj.png)
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
-    - Good luck getting any help from these idiots
+    - [Example 3](https://i.imgur.com/SIjMpFr.png)
     - Now for the dumbest fucking coversation I've seen with an SBE helper: [The cause of cancer](https://imgur.com/a/yocc5XO)
-- **Shitty uers**
+    - Good luck getting any help from these idiots
+- **Dumbass users**
+    - Give [shitty reasons](https://i.imgur.com/rCBVw3T.png) to convince people to use SBE
     - Skytils users: comes up with [new idea](https://i.imgur.com/BNsQQhW.png), SBE users: ["just fuckin steal it"](https://i.imgur.com/sj4gM5e.jpg)
     - [Join SkyClient server](https://i.imgur.com/tuX1ct7.png) just to call it bad and promote SBE when they don't even know what Skyclient is. It's a mod installer, not a client.
     - [SBE user makes flat earther claims](https://i.imgur.com/vUje6i7.png) after I give them literal evidence that SBE skids other mods. The dude never actually read the proof either, he kept asking for it, and after I would send it he would ask over and over.
@@ -92,6 +96,7 @@
 - Prettify dmg markings: Skytils has a custom animation and coloring. It is nothing like SBE.
 - blankblaze.png: a white fuckin rectangle. Either way, it's gone now.
 - Hide Dicer Msgs: Skytils has a whole spam hider section for multiple things. You made a spam hider for a single thing. Good shit Complex, you have the IQ of a four year old.
+- I'd try to refute more but it's hard when I can't see SBE changelogs and when I'm banned from your server only for making this list apparently.
 
 Not to mention, this is completely missing the point. You are making a shitty, paid mod, adding features that good, free mods have. You have absolutely no fucking right to complain about other mods adding features you have. And it's not like they're stealing the code either ya fucking pirated stringer user. They are making the code from scratch, while there is literal evidence of you copy pasting code. Get off your high fucking horse. There is nothing wrong with taking inspiration from other mods, but when you not only copy the idea exactly, but also copy paste the code, that's when you know you're a fucking cunt.
 
