@@ -11,4 +11,4 @@ Ping me on discord at Microcontrollers#6733 or create an issue in the issues tab
 Please follow the style that everything else is using, and add your name to the credits list yourself (in alphabetical order).
 If you are going to update/add a mod, make sure that you change/add it on every list where applicable.
 
-I don't mind commit spam but please try to keep it to a minimum. If needed, I will make the changes myself, add you to the credits, and close the PR.
+If changes are made that I do not like, I may cherrypick the changes myself, add you to the credits, and close the PR.
