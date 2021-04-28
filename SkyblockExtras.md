@@ -35,6 +35,7 @@
 - [**Spams the fuck out of your logs v3**](https://i.imgur.com/ExwvQrU.png) (its not even funny anymore)
 - [**Spams the fuck out of your logs v4**](https://i.imgur.com/nIVikWF.png) (it's just depressing at this point)
 - **Blatantly steals from DSM** (can't find screenshot but its the tic tac toe solver, it's literally the same thing, even printed the exact same log messages)
+    - Complex [admitting to copying DSM](https://i.imgur.com/Fmjgzfz.png) 😤
 - [**Blatantly steals from SBC**](https://i.imgur.com/n7T9DkB.png)
 - **Blatantly steals from Patcher**
     - Context: When Patcher 1.5 was in beta, and 1.12 crop hitboxes were added, they were bugged and were pretty broken. When Complex "made" his version, he somehow managed to produce the exact same bug. asbyth talks more about it [here](https://i.imgur.com/1Ir8zjS.png). Moulberry then helped fix the Patcher glitch, and soon after, Complex had also magically fixed it.
