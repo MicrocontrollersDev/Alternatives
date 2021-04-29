@@ -76,6 +76,7 @@
     - [Example 3](https://i.imgur.com/SIjMpFr.png)
     - [Example 4](https://i.imgur.com/ewsGxgs.png)
     - [Example 5](https://i.imgur.com/Ax7HjOn.png)
+    - [Example 6](https://i.imgur.com/GUek5Wb.png)
     - Now for the dumbest fucking coversation I've seen with an SBE helper: [The cause of cancer](https://imgur.com/a/yocc5XO)
     - Good luck getting any help from these idiots
 - **Dumbass users**
