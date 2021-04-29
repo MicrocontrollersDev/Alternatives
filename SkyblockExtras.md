@@ -22,6 +22,7 @@
 - [**Shitty features v2**](https://i.imgur.com/mFdaV2n.png)
 - [**Shitty features v3**](https://i.imgur.com/gl0EF9g.png)
 - [**Shitty features v4**](https://i.imgur.com/yAtQ9ay.png)
+- [**Shitty features v5**](https://i.imgur.com/3Fbc7y6.png)
 - **Shit code**
     - [Using mixins when they can just use forge events](https://i.imgur.com/ELNlotr.png)
     - Can tell by incompatibility nightmare
