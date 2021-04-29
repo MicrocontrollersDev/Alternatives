@@ -15,6 +15,7 @@
 
 # Replace
 - [**Canalex's Keystrokes with Sk1er's**](https://sk1er.club/mods/keystrokesmod)
+  - Old and no longer maintained. Sk1er's will continue to receive updates once ModCore 2 is released.
 - [**spiderfrog's old animations with Sk1er's**](https://sk1er.club/beta)
   - Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes.
 
@@ -24,6 +25,7 @@
 - **Player API**
   - Player API used to be nessesary for Toggle Sneak mods to function, however it is now just useless.
 - **AutoWho**
+  - Hypixel removed AutoWho's core functionality a few years ago, and this now does nothing useful.
 - **Skypixel**
   - Skypixel is old, not maintained, and has many features that are either useless, or simply do not work anymore.
 - [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md)
