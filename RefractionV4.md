@@ -16,13 +16,19 @@
 # Replace
 - [**Canalex's Keystrokes with Sk1er's**](https://sk1er.club/mods/keystrokesmod)
 - [**spiderfrog's old animations with Sk1er's**](https://sk1er.club/beta)
+  - Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes.
 
 # Remove
 - **Modcore Container**
+  - Modcore Container was a mod meant to give players Modcore before it was packaged in mods that needed it. It is now useless and could cause issues when Modcore 2 comes out.
 - **Player API**
+  - Player API used to be nessesary for Toggle Sneak mods to function, however it is now just useless.
 - **AutoWho**
 - **Skypixel**
+  - Skypixel is old, not maintained, and has many features that are either useless, or simply do not work anymore.
 - [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md)
+  - LabyMod causes many issues with other mods, and has many alternatives that can be used without messing up other mods.
 
 # Credits
 - [JackedUp21](https://github.com/JackedUp21)
+- [MisterCheezeCake](https://github.com/MisterCheezeCake)
