@@ -75,6 +75,7 @@
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
     - [Example 3](https://i.imgur.com/SIjMpFr.png)
     - [Example 4](https://i.imgur.com/ewsGxgs.png)
+    - [Example 5](https://i.imgur.com/Ax7HjOn.png)
     - Now for the dumbest fucking coversation I've seen with an SBE helper: [The cause of cancer](https://imgur.com/a/yocc5XO)
     - Good luck getting any help from these idiots
 - **Dumbass users**
@@ -118,7 +119,7 @@ I do not see a problem with free mods having similar features to your mod when y
 
 Huge thanks to [Angry_Pineapple](https://github.com/Angry-Pineapple3121) who found many of the screenshots provided here and also deobfuscated most of SBE's code to better expose Complex and Alpha!
 
-- Abd
+- [Abd](https://github.com/BrahR)
 - [asbyth](https://github.com/asbyth)
 - [AzuredBlue](https://github.com/AzuredBlue)
 - [bumble](https://github.com/itsbumble)
