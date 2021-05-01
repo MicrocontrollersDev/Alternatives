@@ -115,9 +115,9 @@ I do not see a problem with free mods having similar features to your mod when y
 
 # Now that I saved you $5, consider giving that money to people who deserve it instead.
 
-- [Moulberry's Patreon](https://www.patreon.com/moulberry)
-- [Sk1er's Store](https://store.sk1er.club)
-- [Antonio32A's Patreon](https://www.patreon.com/dungeonutilities)
+- [Moulberry's Patreon](https://www.patreon.com/moulberry) - Can get you some cool animated and physics-based capes, as well as more to come in the future.
+- [Sk1er's Store](https://store.sk1er.club) - Can get you other cool cosmetics that many people will see.
+- [Antonio32A's Patreon](https://www.patreon.com/dungeonutilities) - Can get you DungeonUtilities beta.
 
 # Credits
 
