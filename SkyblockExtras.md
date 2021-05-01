@@ -92,15 +92,17 @@
 # Suck my dick Complex
 
 ![image](https://user-images.githubusercontent.com/66657148/116289878-be2bf300-a747-11eb-9bba-bc32533c4064.png)
-- Nearby Burrow Particles: Okay? So what? If you were making burrow waypoints why wouldn't you make this
+- Nearby Burrow Particles: Okay? So what? If you were making burrow waypoints why wouldn't you make this.
+- Mythos Trackers: Many skyblock mods have some sort of item/drop trackers.
 - Larger Heads: Skytils originally just wanted to mimic newer version behavior, but later made it a slider. Not your idea.
-- Big Items: Widely used in UHC for bigger apples/gold/heads. You did not come up with this.
-- Puzzler Solver: NEU made this 5-6 days before you revealed SBE 2.0
-- Show Ghosts: NEU made this 5-6 days before you revealed SBE 2.0
+- Big Items: Widely used in UHC for bigger apples/gold/heads. Powns also showcased a mod that did this back in 2019. You did not come up with this.
+- Puzzler Solver: NEU made this 5-6 days before you revealed SBE 2.0.
+- Show Ghosts: NEU made this 5-6 days before you revealed SBE 2.0.
 - Dungeon Solvers: DungeonUtilities did it first. You did not come up with the idea of dungeon solvers, and either way, the one skytils has are very different.
 - Prettify dmg markings: Skytils has a custom animation and coloring. It is nothing like SBE.
 - blankblaze.png: a white fuckin rectangle. Either way, it's gone now.
 - Hide Dicer Msgs: Skytils has a whole spam hider section for multiple things. You made a spam hider for a single thing. Good shit Complex, you have the IQ of a four year old.
+- Hide Fishing Hooks: Could be seen as an addon to NEU's line color as that could let you make other people's lines invisible but not the hook.
 - I'd try to refute more but it's hard when I can't see SBE changelogs and when I'm banned from your server only for making this list apparently.
 
 Not to mention, this is completely missing the point. You are making a shitty, paid mod, adding features that good, free mods have. You have absolutely no fucking right to complain about other mods adding features you have. And it's not like they're stealing the code either ya fucking pirated stringer user. They are making the code from scratch, while there is literal evidence of you copy pasting code. Get off your high fucking horse. There is nothing wrong with taking inspiration from other mods, but when you not only copy the idea exactly, but also copy paste the code, that's when you know you're a fucking cunt.
