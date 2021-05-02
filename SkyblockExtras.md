@@ -23,6 +23,8 @@
 - [**Shitty features v3**](https://i.imgur.com/gl0EF9g.png)
 - [**Shitty features v4**](https://i.imgur.com/yAtQ9ay.png)
 - [**Shitty features v5**](https://i.imgur.com/3Fbc7y6.png)
+- [**Shitty features v6**](https://i.imgur.com/rp1KVd5.png)
+- *Note - if any of these get fixed / are fixed in latest release, feel free to let me know so I can remove it. Since SBE is paid and obfuscated, I can't check.*
 - **Shit code**
     - [Using mixins when they can just use forge events](https://i.imgur.com/ELNlotr.png)
     - Can tell by incompatibility nightmare
