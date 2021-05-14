@@ -22,7 +22,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Example 5](https://i.imgur.com/0BFk3yw.png)
     - [Example 6](https://i.imgur.com/rp1KVd5.png)
     - [Example 7](https://i.imgur.com/zXydj0j.png)
-    - [Exmaple 8](https://i.imgur.com/FkvZUbs.png)
+    - [Example 8](https://i.imgur.com/FkvZUbs.png)
     - NOTE: Since I do not have access to the mod due to its paywall and obfuscation, if any of these features have been fixed, make an issue and I will gladly remove them from here.
 - [**Obfuscated**](https://i.imgur.com/r5RROwf.png)
     - Context: This means we can't read the code unless we spend hours deciphering it. This makes the mod very unsafe as it could be doing anything behind the user's back. It also spams the user's logs and is used to hide stolen code.
