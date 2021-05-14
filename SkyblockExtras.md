@@ -59,11 +59,11 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - Despite breaking Sk1er's license, which is contemptible.
 - [**Breaks MC EULA**](https://i.imgur.com/SyNXc9W.png)
     - Mojang can take down the mod at any time and you would lose $5. And no, calling it a "donation to the developers" doesn't change anything in the eyes of the law. The mod is advertised as paid, and is unlocked with money.
-    - The SBE developers also do not seem to understand the EULA, as can be seen [here](https://i.imgur.com/Z0JbcBb.png).
+    - The SBE developers also do not seem to understand the EULA, as can be seen [here](https://i.imgur.com/Z0JbcBb.png). The section the developer brings up is not the correct section to be looking at and is irrelevant.
 - **SBE developers take part in some fishy acts**
     - Illegally steal other people's work.
     - [Lie about other mods stealing from them](https://i.imgur.com/L7ilxLS.png).
-    - Are rude to other mod developers (banning them from their and other Skyblock servers, removing their roles, etc.).
+    - Are rude to other mod developers (banning them from their and [other Skyblock servers](https://i.imgur.com/Bye0N9v.png), removing their roles, etc.).
 - **Rude staff**
     - [Example 1](https://i.imgur.com/oWT1CJj.png)
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
@@ -72,6 +72,9 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Testimony 1](https://i.imgur.com/SIjMpFr.png)
     - [Testimony 2](https://i.imgur.com/Ax7HjOn.png)
     - If you have a problem with SBE, getting help on the SBE Discord server can be difficult. It is also hard to get help on any other discord server because of SBE's obfuscation and paywall.
+- **Actually getting SBE is a pain**
+    - To buy SBE, you have to be in their discord server, which requires phone authentification.
+    - You will get automatically banned from the SBE server on mention of certain things, including this list.
 
 # Rebuttal Against SBE Developers
 - An SBE developer compiled a list of features that Skytils stole from SBE. Here is a rebuttal to a few of the points made.
