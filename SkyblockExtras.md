@@ -9,16 +9,21 @@
 | [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some miniscule features, but they're cool nonetheless: [**List of features**]( https://github.com/cow-mc/Cowlection/blob/master/README.md) | [Cow](https://github.com/cow-mc/) |
 | [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/releases) | Has many features that SBE has as well as many unique features you won't find in any other Skyblock mods: [**List of features**](https://github.com/bowser0000/SkyblockMod/blob/development/README.md) | [Danker](https://github.com/bowser0000) |
 
+**Check out [SkyClient](https://discord.com/invite/VH6fdBYzQQ) for an instant installer & updater for the mods listed above and more!**
+
 Note: It is not recommended that you use SkyblockCatia either since that mod has a large amount of incompatibilities with other mods, along with a bunch of features that aren't even for Skyblock, making it a very bloated mod.
 
 # Reasons NOT to Buy or Use SBE:
-- [**Poorly made puzzle solvers**](https://i.imgur.com/zXydj0j.png)
 - **Poorly made features**
     - [Example 1](https://i.imgur.com/T3V8kDQ.png)
     - [Example 2](https://i.imgur.com/mFdaV2n.png)
     - [Example 3](https://i.imgur.com/yAtQ9ay.png)
     - [Example 4](https://i.imgur.com/gl0EF9g.png)
     - [Example 5](https://i.imgur.com/0BFk3yw.png)
+    - [Example 6](https://i.imgur.com/rp1KVd5.png)
+    - [Example 7](https://i.imgur.com/zXydj0j.png)
+    - [Exmaple 8](https://i.imgur.com/FkvZUbs.png)
+    - NOTE: Since I do not have access to the mod due to its paywall and obfuscation, if any of these features have been fixed, make an issue and I will gladly remove them from here.
 - [**Obfuscated**](https://i.imgur.com/r5RROwf.png)
     - Context: This means we can't read the code unless we spend hours deciphering it. This makes the mod very unsafe as it could be doing anything behind the user's back. It also spams the user's logs and is used to hide stolen code.
 - **Has very poor code**
@@ -44,13 +49,14 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - The TicTacToe solver is identical.
 - [**Blatantly steals from SBC**](https://i.imgur.com/n7T9DkB.png)
 - **Blatantly steals from Patcher**
-    - Context: When patcher 1.5 was in beta and 1.12 crop hitboxes were added, they were bugged and broken. When the SBE developers "made" their version, they somehow managed to produce the [exact same bug](https://i.imgur.com/1Ir8zjS.png). Then Moulberry came in and fixed the glitch, and not soon after, the SBE developers also supposedly "found out" how to fix it.
+    - Context: When patcher 1.5 was in beta and 1.12 crop hitboxes were added, they were bugged and broken. When the SBE developers "made" their version, they somehow managed to produce the exact same bug. Then Moulberry came in and fixed the glitch, and not soon after, the SBE developers also supposedly "found out" how to fix it.
     - [Side by side code comparison](https://hst.sh/xetawopini.java) showing that the code is now the exact same.
-    - [Uses ModCore](https://i.imgur.com/fkWUtGi.png) despite breaking Sk1er's license, which is contemptible.
 - [**Blatantly steals from NEU**](https://i.imgur.com/nNJp8bD.png)
     - Context: NEU had originally made a feature that allowed you to retexture skulls with custom models. On the SBE discord, they had specifically stated that they will not be stealing features from other mods and people should not request them to add stolen features. At the time Moulberry was pretty annoyed at SBE for blatantly stealing features and was saying on stream he was going to add dungeon puzzle solvers to make SBE useless which was when they put out that statement, but when Moulberry decided against dungeon puzzle solvers, they went straight back to stealing.
 - **Blatantly steals from Skytils**
     - Added necron phase timers literally the day after Skytils. One of the SBE developers also admitted to stalking the [Skytils github repository](https://github.com/Skytils/SkytilsMod).
+- [**Uses ModCore**](https://i.imgur.com/fkWUtGi.png)
+    - Despite breaking Sk1er's license, which is contemptible.
 - [**Breaks MC EULA**](https://i.imgur.com/SyNXc9W.png)
     - Mojang can take down the mod at any time and you would lose $5. And no, calling it a "donation to the developers" doesn't change anything in the eyes of the law. The mod is advertised as paid, and is unlocked with money.
     - The SBE developers also do not seem to understand the EULA, as can be seen [here](https://i.imgur.com/Z0JbcBb.png).
@@ -73,6 +79,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 <img src="https://i.imgur.com/cnifv8U.png" width="350px;"/>
 
 - **Nearby Burrow Particles** - Addon to Waypoints and is a straightforward feature.
+- **Mythos Trackers**: Many skyblock mods have some sort of item/drop trackers.
 - **Display Mythos Loot** - Loot trackers are a common occurence to be found in Skyblock mods.
 - **Larger Heads** - Originally made to mimic newer Minecraft version behavior.
 - **Big Items** - Originally showcased in Powns' PvP Essential mod a few years ago.
@@ -85,6 +92,8 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 - **Prettify Dmg Markings** - Skytils has a custom animation and coloring. Sychic had also started work on it way before Skytils became a thing.
 - **Hide Dicer Msgs** - Skytils has a whole spam hider feature, hiding many chat messages. Dicer is just one of the things they include.
 - **Hide Fishing Hooks** - Can be seen as an addon to NEU's fish line colors.
+
+- Not to mention, this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's. SBE picked it poison when making the mod paid and obfuscated and this is the consequences of that.
 
 # Even if you already bought SBE, do NOT use it!
 If you already did buy it, the Sunk Cost Fallacy makes it so that you still should not use it. The money you spent is already long gone and no longer plays a factor in your decision making. Using the $5 as an excuse to continue using SBE is the irrational decision. Think of it as buying a broken spoon that barely works, and then finding a brand new and perfectly working one in your drawer. There is no reason to continue using the broken spoon. Even if you do use it, you are not getting your money's worth out of it. That money was thrown away and nothing can be done about it. The same applies for SBE; your money is gone. You may as well remove SBE from your mods folder.
@@ -100,7 +109,6 @@ If you already did buy it, the Sunk Cost Fallacy makes it so that you still shou
 Huge thanks to [Angry_Pineapple](https://github.com/Angry-Pineapple3121) who found many of the screenshots provided here and also deobfuscated most of SBE's code!
 
 - [Abd](https://github.com/BrahR)
-- [asbyth](https://github.com/asbyth)
 - [AzuredBlue](https://github.com/AzuredBlue)
 - [bumble](https://github.com/itsbumble)
 - [DJtheRedstoner](https://github.com/DJtheRedstoner)
