@@ -36,6 +36,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Testimony 1](https://i.imgur.com/bxJyO2X.png)
     - [Testimony 2](https://i.imgur.com/YX86ELc.png)
     - [Testimony 3](https://i.imgur.com/vpl5i2B.png)
+    - [Testimony 4](https://i.imgur.com/ox4btVT.png)
     - SBE is notorious for destroying your FPS. The developers' attempt at fixing it was blatantly stealing Patcher FPS improvement features.
        - While Skyblock mods in general are known to be heavy on performance, SBE has a much larger impact than any of its alternatives.
 - **Use pirated software to protect against piracy**
