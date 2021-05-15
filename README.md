@@ -2,7 +2,7 @@
 
 # This is a place where alternatives to poorly made Minecraft mods as well as clients (and Chachy) can be stored.
 
-This repo now serves primarily as an "alpha" version of [Proudmuslim's website](https://proudmuslim.tech/). Here is where I create initial changes and will then occasionally push these changes to his repo when I feel a substantial amount or important changes have been made. For this reason, information in here may sometimes be wrong or incomplete, but it will always be up to date.
+While this repo does serve as its own entity, it will also serve as an "alpha" version of [Proudmuslim's website](https://proudmuslim.tech/) where everything is much more organized, looks better, and is easier to navigate. Here is where I create initial changes and will then occasionally push these changes to his repo when I feel a substantial amount or important changes have been made.
 
 # For Contributing:
 
