@@ -91,7 +91,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 
 - An SBE developer compiled a list of features that Skytils stole from SBE. Here is a rebuttal to a few of the points made.
 
-<img src="https://i.imgur.com/Uyvxads.png" height="700px;" width="900px;"/>
+<img src="https://i.imgur.com/Uyvxads.png" height="650px;" width="800px;"/>
 
 - **Nearby Burrow Particles** - Addon to Waypoints and is a straightforward feature.
 - **Mythos Trackers**: Many skyblock mods have some sort of item/drop trackers.
