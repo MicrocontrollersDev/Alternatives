@@ -88,7 +88,7 @@ _External Services_
 - **YouTube Subscriber** - None
 
 _Miscellaneous_
-- **Afk Time** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **AFK Time** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Click Test** -  [Aycy's MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - **Lava Challenge Time** - none
 
