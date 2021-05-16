@@ -140,6 +140,7 @@ Huge thanks to [Angry_Pineapple](https://github.com/Angry-Pineapple3121) who fou
 - [Lily](https://github.com/My-Name-Is-Jeff)
 - [LunaNotDev](https://github.com/LunaNotdev)
 - [nacrt](https://github.com/nacrt)
+- [Proudmuslim](https://github.com/proudmuslim-dev)
 - [stef-the](https://github.com/stef-the)
 - [Sychic](https://github.com/Sychic)
 - Yan
