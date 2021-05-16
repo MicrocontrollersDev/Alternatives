@@ -12,6 +12,7 @@
 Note: It is not recommended that you use SkyblockCatia either since that mod has a large amount of incompatibilities with other mods, along with a bunch of features that aren't even for Skyblock, making it a very bloated mod.
 
 # Reasons NOT to Buy or Use SBE:
+
 - **Poorly made features**
     - [Example 1](https://i.imgur.com/T3V8kDQ.png)
     - [Example 2](https://i.imgur.com/mFdaV2n.png)
@@ -48,10 +49,12 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - The TicTacToe solver is identical.
 - [**Blatantly steals from SBC**](https://i.imgur.com/n7T9DkB.png)
 - **Blatantly steals from Patcher**
-    - Context: When patcher 1.5 was in beta and 1.12 crop hitboxes were added, they were bugged and broken. When the SBE developers "made" their version, they somehow managed to produce the exact same bug. Moulberry came in and fixed the glitch, resulting in the SBE developers claiming that they "found out" how to fix it.
-    - [Side by side code comparison](https://hst.sh/xetawopini.java) showing that the code is now the exact same.
+    - When patcher 1.5 was in beta and 1.12 crop hitboxes were added, they were bugged and broken. When the SBE developers "made" their version, they somehow managed to produce the exact same bug. Moulberry came in and fixed the glitch, resulting in the SBE developers claiming that they "found out" how to fix it.
+        - [Side by side code comparison](https://hst.sh/xetawopini.java) showing that the code is now the exact same.
+    - SBE has a chat timestamp feature, which while not being "stolen" per say, does not belong in a Skyblock mod anyways. If someone wants chat timestamps, they can get it through Patcher.
+    - SBE developers claim that these features are "for people who don't use Patcher". However, Patcher is an all-purpose mod that brings many [bug fixes, performance improvements, and QOL features](https://github.com/LunaNotdev/Patcher-Explanation/blob/main/README.md) that everyone should be using regardless.
 - [**Blatantly steals from NEU**](https://i.imgur.com/nNJp8bD.png)
-    - Context: NEU had originally made a feature that allowed you to re-texture skulls with custom models. On the SBE discord, they had expressly stated that they would not be stealing features from other mods and people should not request them to add stolen features. Moulberry was annoyed at SBE at the time for blatantly stealing features and was saying on stream he was going to add dungeon puzzle solvers to make SBE useless. It was only after that threat that they put out that statement, but when Moulberry decided against dungeon puzzle solvers, they went straight back to stealing.
+    - NEU had originally made a feature that allowed you to re-texture skulls with custom models. On the SBE discord, they had expressly stated that they would not be stealing features from other mods and people should not request them to add stolen features. Moulberry was annoyed at SBE at the time for blatantly stealing features and was saying on stream he was going to add dungeon puzzle solvers to make SBE useless. It was only after that threat that they put out that statement, but when Moulberry decided against dungeon puzzle solvers, they went straight back to stealing.
 - **Blatantly steals from Skytils**
     - Added necron phase timers literally the day after Skytils. One of the SBE developers also admitted to stalking the [Skytils github repository](https://github.com/Skytils/SkytilsMod).
 - [**Uses ModCore**](https://i.imgur.com/fkWUtGi.png)
@@ -65,6 +68,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - Are rude to other mod developers and abuse any power they have over them. Things that they have done in the past (and continue doing) include but are not limited to:
         - Banning them from their own server and [other Skyblock servers](https://i.imgur.com/Bye0N9v.png).
         - Removing their roles in other servers.
+        - Blocking them.
 - **Rude staff**
     - [Example 1](https://i.imgur.com/oWT1CJj.png)
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
@@ -75,7 +79,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - If you have a problem with SBE, getting help on the SBE Discord server can be difficult. It is also hard to get help on any other discord server because of SBE's obfuscation and paywall.
 - **Actually getting SBE is a pain**
     - To buy SBE, you have to be in their discord server, which requires phone authentication.
-    - You will get automatically banned from the SBE server on mention of certain things, including this list.
+    - You will get automatically banned from the SBE server on mention of certain things, including this list, making it impossible to buy the mod.
 
 # Rebuttal Against SBE Developers
 
@@ -113,6 +117,7 @@ The following is a breakdown of why this is incorrect:
 This is all without mentioning that this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's. The SBE developers picked their poison when making the mod paid and obfuscated- these are the consequences of that.
 
 # Even if you already bought SBE, do NOT use it!
+
 If you already did buy it, the Sunk Cost Fallacy makes it so that you still should not use it. The money you spent is already long gone and no longer plays a factor in your decision making. Using the $5 as an excuse to continue using SBE is the irrational decision. Think of it as buying a broken spoon that barely works, and then finding a brand new and perfectly working one in your drawer. There is no reason to continue using the broken spoon. Even if you do use it, you are not getting your money's worth out of it. That money was thrown away and nothing can be done about it. The same applies for SBE; your money is gone. You may as well remove SBE from your mods folder.
 
 # Consider donating money to any of these people
@@ -124,7 +129,7 @@ If you already did buy it, the Sunk Cost Fallacy makes it so that you still shou
 # You can see this or versions of this list hosted on these websites
 
 - [Proudmuslim's website](https://proudmuslim.tech/bad-mod-alternatives/sbe.html)
-- [SBOV's website](https://sbov.art/sbe.html)
+- [Skyblock Overhaul's website](https://sbov.art/sbe.html)
 - Note: I was asked by the website owners before these were made and I gave them permission to use my work.
 
 # Credits
