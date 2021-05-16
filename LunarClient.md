@@ -10,7 +10,7 @@
 - **Armor Status** - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Key Strokes** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Coordinates** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Crosshair** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3164058)
+- **Crosshair** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3302478)
 - **Potion Effects** - [Powns's PotionEffectHud](http://www.mediafire.com/file/pas0pju90s98r6o/%255B1.8.9%255D_Powns%2527_PotionEffect_HUD_-_1.0.jar/file) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **DirectionHUD** - [Bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) (doesn't require bspkrs core) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
