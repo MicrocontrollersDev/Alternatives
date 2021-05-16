@@ -108,7 +108,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 - **Hide Dicer Msgs** - Skytils has a whole spam hider feature that is very different than anything SBE has, hiding many chat messages. Dicer is just one of the things they include.
 - **Hide Fishing Hooks** - Can be seen as an addon to NEU's fish line colors.
 
-Not to mention, this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's. SBE picked it poison when making the mod paid and obfuscated and this is the consequences of that.
+Not to mention, this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's. SBE picked its poison when making the mod paid and obfuscated and this is the consequences of that.
 
 # Even if you already bought SBE, do NOT use it!
 If you already did buy it, the Sunk Cost Fallacy makes it so that you still should not use it. The money you spent is already long gone and no longer plays a factor in your decision making. Using the $5 as an excuse to continue using SBE is the irrational decision. Think of it as buying a broken spoon that barely works, and then finding a brand new and perfectly working one in your drawer. There is no reason to continue using the broken spoon. Even if you do use it, you are not getting your money's worth out of it. That money was thrown away and nothing can be done about it. The same applies for SBE; your money is gone. You may as well remove SBE from your mods folder.
