@@ -11,7 +11,7 @@
 -   **Bossbar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
 -   **CPS counter/keystrokes mod** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 -   **Clear chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
--   **Clan wars** (unknown)
+-   **Clan wars** - Irrelevant
 -   **Clear Water** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 -   **Combo Counter** - [Erouax Combo Display](https://www.mediafire.com/file/ofrq5kgikbklb2a/Combo_Display_1.8.9.jar/file)
 -   **Coordinates** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
