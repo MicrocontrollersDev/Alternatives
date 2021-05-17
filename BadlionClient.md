@@ -1,6 +1,6 @@
 # List of Badlion Client Features - Alternatives:
 
-## To see a list of reasons why you shouldn't use Badlion Client, check out [wyvest's list here! (WIP)](https://github.com/wyvest/why-badlion-is-bad/blob/main/README.md)
+## To see a list of reasons why you shouldn't use Badlion Client, check out [Wyvest's list here! (WIP)](https://github.com/wyvest/why-badlion-is-bad/blob/main/README.md)
 
 -   **1.7 Animations** - [Sk1er's Old Animations (Beta](https://sk1er.club/beta) - Available in Sk1er Discord for now, currently missing item switch)
 -   **Armor Status** - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
@@ -11,11 +11,11 @@
 -   **Bossbar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
 -   **CPS counter/keystrokes mod** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 -   **Clear chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
--   **Clan wars** (unknown)
+-   **Clan wars** - Irrelevant
 -   **Clear Water** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 -   **Combo Counter** - [Erouax Combo Display](https://www.mediafire.com/file/ofrq5kgikbklb2a/Combo_Display_1.8.9.jar/file)
 -   **Coordinates** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
--   **Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3164058)
+-   **Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3302478)
 -   **Direction Mod** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
 -   **Enchant Glint** - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 -   **FOV Changer** - [Sk1er's Patcher (/fov)](https://sk1er.club/mods/patcher)

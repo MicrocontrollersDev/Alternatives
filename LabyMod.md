@@ -77,7 +77,7 @@ _Information_
 - **Server Support** - None
 - **Potion Effects** - [Powns's PotionHud](https://download.powns.dev/potionhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
-- **Combo** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
+- **Combo** - [Erouax Combo Display](https://www.mediafire.com/file/ofrq5kgikbklb2a/Combo_Display_1.8.9.jar/file)
 - **Range** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Speed** - [squeek502's Squeedometer](https://www.curseforge.com/minecraft/mc-mods/squeedometer/files/2495576) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 
@@ -88,7 +88,7 @@ _External Services_
 - **YouTube Subscriber** - None
 
 _Miscellaneous_
-- **Afk Time** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **AFK Time** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Click Test** -  [Aycy's MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - **Lava Challenge Time** - none
 
@@ -108,7 +108,7 @@ _Miscellaneous_
 - **ConnectionHistory** - None
 - **Controller** - None
 - **Custom Block Overlay** - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
-- **Custom Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3164058)
+- **Custom Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3302478)
 - **Custom Hitboxes** - [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - **CustomFilterSounds** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **CustomFont** - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/2568454)
