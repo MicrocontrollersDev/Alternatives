@@ -9,6 +9,8 @@
 | [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some miniscule features, but they're cool nonetheless: [**List of features**]( https://github.com/cow-mc/Cowlection/blob/master/README.md) | [Cow](https://github.com/cow-mc/) |
 | [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/releases) | Has many features that SBE has as well as many unique features you won't find in any other Skyblock mods: [**List of features**](https://github.com/bowser0000/SkyblockMod/blob/development/README.md) | [Danker](https://github.com/bowser0000) |
 
+**Check out [SkyClient](https://discord.com/invite/VH6fdBYzQQ) for an instant installer & updater for the mods listed above and more!**
+
 Note: It is not recommended that you use SkyblockCatia either since that mod has a large amount of incompatibilities with other mods, along with a bunch of features that aren't even for Skyblock, making it a very bloated mod.
 
 # Reasons NOT to Buy or Use SBE:
@@ -22,7 +24,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Example 6](https://i.imgur.com/rp1KVd5.png)
     - [Example 7](https://i.imgur.com/zXydj0j.png)
     - [Example 8](https://i.imgur.com/FkvZUbs.png)
-    - NOTE: Due to SBE's paywall and obfuscation we do not have access to the mod. Please open an issue or pull request if any of these features have been fixed.
+    - NOTE: Due to SBE's paywall and obfuscation, we do not have access to the mod. Please open an issue or pull request if any of these features have been fixed.
 - [**Obfuscated**](https://i.imgur.com/r5RROwf.png)
     - Context: This means we can't read the code unless we spend hours deciphering it. This makes the mod very unsafe as it could be doing anything behind the user's back. It also spams the user's logs and is used to hide stolen code.
 - **Has very poor code**
