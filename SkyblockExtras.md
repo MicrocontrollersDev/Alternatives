@@ -77,6 +77,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
     - [Example 3](https://i.imgur.com/pZ2y2mB.png)
     - [Example 4](https://i.imgur.com/GUek5Wb.png)
+    - [Example 5](https://i.imgur.com/BXUjqql.png)
     - [Testimony 1](https://i.imgur.com/SIjMpFr.png)
     - [Testimony 2](https://i.imgur.com/Ax7HjOn.png)
     - If you have a problem with SBE, getting help on the SBE Discord server can be difficult. It is also hard to get help on any other discord server because of SBE's obfuscation and paywall.
