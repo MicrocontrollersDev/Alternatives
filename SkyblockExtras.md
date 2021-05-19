@@ -27,6 +27,9 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - NOTE: Due to SBE's paywall and obfuscation, we do not have access to the mod. Please open an issue or pull request if any of these features have been fixed.
 - [**Obfuscated**](https://i.imgur.com/r5RROwf.png)
     - Context: This means we can't read the code unless we spend hours deciphering it. This makes the mod very unsafe as it could be doing anything behind the user's back. It also spams the user's logs and is used to hide stolen code.
+- **SBE developers are not very good at coding/modding**
+    - [Asking a basic question](https://i.imgur.com/HufmjAn.png).
+    - [Attempting to make a very unsafe feature](https://i.imgur.com/Uot3ANG.png).
 - **Has very poor code**
     - [Using a mixin](https://i.imgur.com/ELNlotr.png) when they could use a forge event.
     - [Poorly made colored names](https://i.imgur.com/8sYs8bg.png) causing a decrease in FPS.
