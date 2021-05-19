@@ -122,7 +122,7 @@ The following is a breakdown of why this is incorrect:
 - **Hide Dicer Msgs** - Skytils has a spam hider feature that is much more comprehensive than what SBE has. Dicer is just one of the things they include.
 - **Hide Fishing Hooks** - Can be seen as an addon to NEU's fish line colors.
 
-This is all without mentioning that this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's. The SBE developers picked their poison when making the mod paid and obfuscated- these are the consequences of that.
+This is all without mentioning that this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's, but unlike SBE, do not steal their code. The SBE developers picked their poison when making the mod paid and obfuscated- these are the consequences of that.
 
 # Even if you already bought SBE, do NOT use it!
 
