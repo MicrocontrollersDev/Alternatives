@@ -7,5 +7,9 @@ fuck you chachy
 - Noctember - plays valorant
 - Conor - conor
 
+# things not to do
+- don't be chachy
+- - british
+
 # Credits
 - Chachy

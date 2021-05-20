@@ -2,12 +2,14 @@
 
 | Name | Description | Developer |
 | --- | --- | --- |
-| [**NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784)) | Lots of things that are essential to Skyblock: [**List of features**](https://pastebin.pl/view/c8854a1f) | [Moulberry](https://moulberry.codes/) |
+| [**NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784)) | Lots of things that are essential to Skyblock: [**List of features**](https://haste.powercord.dev/cediwarabu.sql) | [Moulberry](https://moulberry.codes/) |
 | [**Skytils**](https://github.com/Skytils/SkytilsMod/releases) | Even more cool stuff, including but not limited to puzzle solvers and diana/relic waypoints: [**List of features**](https://github.com/Skytils/SkytilsMod/blob/main/README.md) | [Sychic](https://github.com/Sychic) and [Lily](https://github.com/My-Name-Is-Jeff) |
 | [**Patcher**](https://sk1er.club/mods/patcher) | Performance enhancements, bug fixes, and QOL changes: [**List of features**](https://github.com/LunaNotdev/Patcher-Explanation) | [Asbyth](https://github.com/asbyth) ([Sk1erLLC](https://github.com/sk1erllc/)) |
 | [**SkyblockAddons**](https://biscuit.codes/mods/Skyblockaddons/downloadversion/?v=1.5.5) | You know what this is. | [Biscuit](https://biscuit.codes/) |
 | [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some miniscule features, but they're cool nonetheless: [**List of features**]( https://github.com/cow-mc/Cowlection/blob/master/README.md) | [Cow](https://github.com/cow-mc/) |
 | [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/releases) | Has many features that SBE has as well as many unique features you won't find in any other Skyblock mods: [**List of features**](https://github.com/bowser0000/SkyblockMod/blob/development/README.md) | [Danker](https://github.com/bowser0000) |
+
+**Check out [SkyClient](https://discord.com/invite/VH6fdBYzQQ) for an instant installer & updater for the mods listed above and more!**
 
 Note: It is not recommended that you use SkyblockCatia either since that mod has a large amount of incompatibilities with other mods, along with a bunch of features that aren't even for Skyblock, making it a very bloated mod.
 
@@ -22,9 +24,12 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Example 6](https://i.imgur.com/rp1KVd5.png)
     - [Example 7](https://i.imgur.com/zXydj0j.png)
     - [Example 8](https://i.imgur.com/FkvZUbs.png)
-    - NOTE: Due to SBE's paywall and obfuscation we do not have access to the mod. Please open an issue or pull request if any of these features have been fixed.
+    - NOTE: Due to SBE's paywall and obfuscation, we do not have access to the mod. Please open an issue or pull request if any of these features have been fixed.
 - [**Obfuscated**](https://i.imgur.com/r5RROwf.png)
     - Context: This means we can't read the code unless we spend hours deciphering it. This makes the mod very unsafe as it could be doing anything behind the user's back. It also spams the user's logs and is used to hide stolen code.
+- **SBE developers are not very good at coding/modding**
+    - [Asking a basic question](https://i.imgur.com/HufmjAn.png).
+    - [Attempting to make a very unsafe feature](https://i.imgur.com/Uot3ANG.png).
 - **Has very poor code**
     - [Using a mixin](https://i.imgur.com/ELNlotr.png) when they could use a forge event.
     - [Poorly made colored names](https://i.imgur.com/8sYs8bg.png) causing a decrease in FPS.
@@ -36,6 +41,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Testimony 2](https://i.imgur.com/YX86ELc.png)
     - [Testimony 3](https://i.imgur.com/vpl5i2B.png)
     - [Testimony 4](https://i.imgur.com/ox4btVT.png)
+    - [Testimony 5](https://i.imgur.com/FuG9G5P.png)
     - SBE is notorious for destroying your FPS. The developers' attempt at fixing it was blatantly stealing FPS improvement features from Patcher.
        - While Skyblock mods in general are known to be heavy on performance, SBE has a much larger impact than any of its alternatives.
 - **Use pirated software to protect against piracy**
@@ -74,6 +80,8 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
     - [Example 3](https://i.imgur.com/pZ2y2mB.png)
     - [Example 4](https://i.imgur.com/GUek5Wb.png)
+    - [Example 5](https://i.imgur.com/BXUjqql.png)
+    - [Example 6](https://i.imgur.com/GUek5Wb.png)
     - [Testimony 1](https://i.imgur.com/SIjMpFr.png)
     - [Testimony 2](https://i.imgur.com/Ax7HjOn.png)
     - If you have a problem with SBE, getting help on the SBE Discord server can be difficult. It is also hard to get help on any other discord server because of SBE's obfuscation and paywall.
@@ -114,7 +122,7 @@ The following is a breakdown of why this is incorrect:
 - **Hide Dicer Msgs** - Skytils has a spam hider feature that is much more comprehensive than what SBE has. Dicer is just one of the things they include.
 - **Hide Fishing Hooks** - Can be seen as an addon to NEU's fish line colors.
 
-This is all without mentioning that this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's. The SBE developers picked their poison when making the mod paid and obfuscated- these are the consequences of that.
+This is all without mentioning that this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's, but unlike SBE, do not steal their code. The SBE developers picked their poison when making the mod paid and obfuscated- these are the consequences of that.
 
 # Even if you already bought SBE, do NOT use it!
 
