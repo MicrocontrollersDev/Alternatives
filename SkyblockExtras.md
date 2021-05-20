@@ -27,6 +27,9 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - NOTE: Due to SBE's paywall and obfuscation, we do not have access to the mod. Please open an issue or pull request if any of these features have been fixed.
 - [**Obfuscated**](https://i.imgur.com/r5RROwf.png)
     - Context: This means we can't read the code unless we spend hours deciphering it. This makes the mod very unsafe as it could be doing anything behind the user's back. It also spams the user's logs and is used to hide stolen code.
+- **SBE developers are not very good at coding/modding**
+    - [Asking a basic question](https://i.imgur.com/HufmjAn.png).
+    - [Attempting to make a very unsafe feature](https://i.imgur.com/Uot3ANG.png).
 - **Has very poor code**
     - [Using a mixin](https://i.imgur.com/ELNlotr.png) when they could use a forge event.
     - [Poorly made colored names](https://i.imgur.com/8sYs8bg.png) causing a decrease in FPS.
@@ -38,6 +41,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Testimony 2](https://i.imgur.com/YX86ELc.png)
     - [Testimony 3](https://i.imgur.com/vpl5i2B.png)
     - [Testimony 4](https://i.imgur.com/ox4btVT.png)
+    - [Testimony 5](https://i.imgur.com/FuG9G5P.png)
     - SBE is notorious for destroying your FPS. The developers' attempt at fixing it was blatantly stealing FPS improvement features from Patcher.
        - While Skyblock mods in general are known to be heavy on performance, SBE has a much larger impact than any of its alternatives.
 - **Use pirated software to protect against piracy**
@@ -76,6 +80,8 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Example 2](https://i.imgur.com/ZjTpUCd.png)
     - [Example 3](https://i.imgur.com/pZ2y2mB.png)
     - [Example 4](https://i.imgur.com/GUek5Wb.png)
+    - [Example 5](https://i.imgur.com/BXUjqql.png)
+    - [Example 6](https://i.imgur.com/GUek5Wb.png)
     - [Testimony 1](https://i.imgur.com/SIjMpFr.png)
     - [Testimony 2](https://i.imgur.com/Ax7HjOn.png)
     - If you have a problem with SBE, getting help on the SBE Discord server can be difficult. It is also hard to get help on any other discord server because of SBE's obfuscation and paywall.
@@ -116,7 +122,7 @@ The following is a breakdown of why this is incorrect:
 - **Hide Dicer Msgs** - Skytils has a spam hider feature that is much more comprehensive than what SBE has. Dicer is just one of the things they include.
 - **Hide Fishing Hooks** - Can be seen as an addon to NEU's fish line colors.
 
-This is all without mentioning that this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's. The SBE developers picked their poison when making the mod paid and obfuscated- these are the consequences of that.
+This is all without mentioning that this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's, but unlike SBE, do not steal their code. The SBE developers picked their poison when making the mod paid and obfuscated- these are the consequences of that.
 
 # Even if you already bought SBE, do NOT use it!
 

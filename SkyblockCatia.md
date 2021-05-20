@@ -1,4 +1,4 @@
-# SkyblockCatia-Alternatives
+# SkyblockCatia Alternatives
 
 *Very early WIP*
 
