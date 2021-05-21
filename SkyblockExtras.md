@@ -171,10 +171,10 @@ Huge thanks to [Angry_Pineapple](https://github.com/Angry-Pineapple3121) who fou
 - [Koxx12](https://github.com/koxx12-dev)
 - [Lily](https://github.com/My-Name-Is-Jeff)
 - [LunaNotDev](https://github.com/LunaNotdev)
+- [MisterCheezeCake](https://github.com/MisterCheezeCake)
 - [nacrt](https://github.com/nacrt)
 - [Proudmuslim](https://github.com/proudmuslim-dev)
 - [stef-the](https://github.com/stef-the)
 - [Sychic](https://github.com/Sychic)
 - Yan
 - [Zordlan](https://github.com/Zordlan)
-- [MisterCheezeCake](https://github.com/MisterCheezeCake)
