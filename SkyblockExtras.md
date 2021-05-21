@@ -3,7 +3,7 @@
 | Name | Description | Developer |
 | --- | --- | --- |
 | [**NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784)) | Lots of things that are essential to Skyblock: [**List of features**](https://haste.powercord.dev/cediwarabu.sql) | [Moulberry](https://moulberry.codes/) |
-| [**Skytils**](https://github.com/Skytils/SkytilsMod/releases) | Even more cool stuff, including but not limited to puzzle solvers and diana/relic waypoints: [**List of features**](https://github.com/Skytils/SkytilsMod/blob/main/README.md) | [Sychic](https://github.com/Sychic) and [Lily](https://github.com/My-Name-Is-Jeff) |
+| [**Skytils**](https://github.com/Skytils/SkytilsMod/releases) | Even more cool stuff, including but not limited to puzzle solvers and diana/relic waypoints: [**List of features**](https://github.com/Skytils/SkytilsMod/blob/1.x/README.md) | [Sychic](https://github.com/Sychic) and [Lily](https://github.com/My-Name-Is-Jeff) |
 | [**Patcher**](https://sk1er.club/mods/patcher) | Performance enhancements, bug fixes, and QOL changes: [**List of features**](https://github.com/LunaNotdev/Patcher-Explanation) | [Asbyth](https://github.com/asbyth) ([Sk1erLLC](https://github.com/sk1erllc/)) |
 | [**SkyblockAddons**](https://biscuit.codes/mods/Skyblockaddons/downloadversion/?v=1.5.5) | You know what this is. | [Biscuit](https://biscuit.codes/) |
 | [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some miniscule features, but they're cool nonetheless: [**List of features**]( https://github.com/cow-mc/Cowlection/blob/master/README.md) | [Cow](https://github.com/cow-mc/) |
@@ -57,23 +57,23 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 - **Blatantly steals from Patcher**
     - When patcher 1.5 was in beta and 1.12 crop hitboxes were added, they were bugged and broken. When the SBE developers "made" their version, they somehow managed to produce the exact same bug. Moulberry came in and fixed the glitch, resulting in the SBE developers claiming that they "found out" how to fix it.
         - [Side by side code comparison](https://hst.sh/xetawopini.java) showing that the code is now the exact same.
-    - SBE has a chat timestamp feature, which while not being "stolen" per say, does not belong in a Skyblock mod anyways. If someone wants chat timestamps, they can get it through Patcher.
     - SBE developers claim that these features are "for people who don't use Patcher". However, Patcher is an all-purpose mod that brings many [bug fixes, performance improvements, and QOL features](https://github.com/LunaNotdev/Patcher-Explanation/blob/main/README.md) that everyone should be using regardless.
-- [**Blatantly steals from NEU**](https://i.imgur.com/nNJp8bD.png)
+- **Blatantly steals from NEU**
     - NEU had originally made a feature that allowed you to re-texture skulls with custom models. On the SBE discord, they had expressly stated that they would not be stealing features from other mods and people should not request them to add stolen features. Moulberry was annoyed at SBE at the time for blatantly stealing features and was saying on stream he was going to add dungeon puzzle solvers to make SBE useless. It was only after that threat that they put out that statement, but when Moulberry decided against dungeon puzzle solvers, they went straight back to stealing.
 - **Blatantly steals from Skytils**
     - Added necron phase timers literally the day after Skytils. One of the SBE developers also admitted to stalking the [Skytils github repository](https://github.com/Skytils/SkytilsMod).
-- [**Uses ModCore**](https://i.imgur.com/fkWUtGi.png)
-    - Despite breaking Sk1er's license, which is contemptible.
 - [**Breaks MC EULA**](https://i.imgur.com/SyNXc9W.png)
     - Mojang can take down the mod at any time, which would have you lose $5. Calling it a "donation to the developers" doesn't change anything in the eyes of the law. The mod is advertised as paid, and is unlocked with money.
     - The SBE developers also do not seem to understand the EULA, as can be seen [here](https://i.imgur.com/Z0JbcBb.png). The section the developer brings up is not the correct section to be looking at and is irrelevant.
+        - In the rebuttal, further claims were made, including the section about not distribuing Mojang's code (which I never claimed they did), and about servers selling mods for modded Minecraft (SBE is not a modded Minecraft server).
 - **SBE developers take part in some fishy acts**
     - Illegally steal other people's work.
     - [Lie about other mods stealing from them](https://i.imgur.com/L7ilxLS.png).
     - Are rude to other mod developers and abuse any power they have over them. Things that they have done in the past (and continue doing) include but are not limited to:
         - Banning them from their own server and [other Skyblock servers](https://i.imgur.com/Bye0N9v.png).
+            - I was personally banned from the SBE server just for making this page. Many staff members on Moulberry's Bush have met the same fate despite not having done anything in relations to SBE.
         - Removing their roles in other servers.
+            - These happened in relation to SBE. For example, someone making a joke about SBE stealing and being met with having roles stripped from them.
         - Blocking them.
 - **Rude staff**
     - [Example 1](https://i.imgur.com/oWT1CJj.png)
@@ -86,7 +86,8 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
     - [Testimony 2](https://i.imgur.com/Ax7HjOn.png)
     - If you have a problem with SBE, getting help on the SBE Discord server can be difficult. It is also hard to get help on any other discord server because of SBE's obfuscation and paywall.
 - **Actually getting SBE is a pain**
-    - To buy SBE, you have to be in their discord server, which requires phone authentication.
+    - To buy SBE, you have to be in their discord server, which requires phone authentication. 
+        - SBE devs claim that since it is a discord feature that any server can enable, it should not be used as a point against them. However, SBE is the only Skyblock server I can think of that requires that level of verification. The keyword in their statement is "can". Just because you can enable it, doesn't mean it's needed. Ultimately, this makes it very hard for people who don't have their own phone number to get the mod.
     - You will get automatically banned from the SBE server on mention of certain things, including this list, making it impossible to buy the mod.
 
 # Rebuttal Against SBE Developers
@@ -98,6 +99,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 <img src="https://i.imgur.com/IVvbyjB.jpg" height="550px;" width="400px;"/>
 
 - While the terms "false" and "misinformation" are used, The SBE developer in question makes no attempt to prove his claims regarding "false misinformation" being provided on this page. This is a brazen attempt to maintain their user base.
+    - SBE has now updated their page to try and better refute these claims, but most either do not make sense or are flat out wrong. This list will see continual updates as I slowly continue to refute them. However, a few points made here have been changed to reflect things that I did get wrong and they are right about.
 
 ## The second rebuttal
 
@@ -105,24 +107,40 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 
 <img src="https://i.imgur.com/Uyvxads.png" height="609px;" width="783px;"/>
 
-The following is a breakdown of why this is incorrect:
+The following is a breakdown of why this is incorrect (with a follow up statement refuting more claims that were made in response to this):
 
 - **Nearby Burrow Particles** - Addon to Waypoints and is a straightforward feature.
 - **Mythos Trackers**: Many Skyblock mods have some sort of item/drop trackers.
+    - SBE devs claim that they are the one that popularized trackers, but trackers are not new to the Minecraft modding scene. Skywars stats trackers have been a thing for many years. Claiming that SBE was the first one to make it specifically for the Skyblock gamemode does not mean anything.
 - **Display Mythos Loot** - Loot trackers are a common occurrence to be found in Skyblock mods.
+    - See above 
 - **Larger Heads** - Originally made to mimic newer Minecraft version behavior.
-- **Big Items** - Originally showcased in Powns' PvP Essential mod a few years ago.
+    - SBE devs claim that this makes no sense as they were the first skyblock mod to do it. Porting newer features to older versions is something quite a few mods do, some of which can be helpful in Skyblock. For example, Patcher's 1.12 crop hitboxes was made before the SBE one.
+- **Big Items** - Originally showcased in Powns' PvP Essential mod a few years ago and has been used in texturepacks for many years.
+    - Many mods including texturepacks have had this feature in the past. Just because SBE was the first to include it in a skyblock mod does not make it origina. 
 - **Puzzler Solver** - Appeared in NEU 6 days before SBE 2.0 showcase.
+    - It is also ultimately the same as making dungeon solvers. Many mods will do it.
 - **Show Ghosts** - Appeared in NEU 6 days before SBE 2.0 showcase.
+    - Moulberry stated that he does not follow SBE development.
 - **Run Overview** - Many mods have this.
+    - This feature is not unique by any means. Having an overview of current gameplay is something that many other games have.
 - **Score approximation** - Other mods have things similar to this but not as complex.
+    - This feature is also not unique. Since score is only displayed at the end of the run, it is only natural for one to come up with the idea of making a mod that approximates it for you as the game progresses.
 - **Dungeon Solvers** - Many mods do this. DungeonUtilities has had solvers for a very long time.
+    - Complex helped with DU development. If he is fine with another mod having solvers, I do not see the reason that other mods cannot. 
 - **blankblaze.png** - This image is just a white rectangle. Either way, it has been replaced in Skytils with a better solution.
 - **Prettify Dmg Markings** - Skytils has custom animation and coloring. Sychic had also started work on it long before Skytils was made.
+    - While yes, both mods make the markings more legible, it is by no means a copy. The execution is entirely different. To say making something easier to understand is proof of copying is too far, which the SBE devs do mention when they say there is no proof that it was stolen. However, I think this should not have been included in the first place.
 - **Hide Dicer Msgs** - Skytils has a spam hider feature that is much more comprehensive than what SBE has. Dicer is just one of the things they include.
+    - Removing the title as well would seem only natural. If a small chat message would be removed, why wouldn't the large, vision obstructing title also be? Skytils does not say that the spam hider is purely for chat messages.
 - **Hide Fishing Hooks** - Can be seen as an addon to NEU's fish line colors.
+    - SBE devs claim NEU only lets you change color, however, it also lets let's you change alpha, making having NEU's and Skytils' feature on have the ability to remove other people's fishing lines entirely. 
+- **NOTE**: Not all things listed above are included here. This is for a few reasons:
+    - Contrary to popular belief, I do have a life and I do not have infinite time on my hands. A lot of things mentioned here are contributed by other people (mostly via discord, I make the changes, but I do try and fact check everything).
+    - I do not earn anything from this, unlike the amount of money the SBE developers earn from selling their mod. It is a very low priority for me to update this, and when I think the point gets across, I will stop.
 
 This is all without mentioning that this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's, but unlike SBE, do not steal their code. The SBE developers picked their poison when making the mod paid and obfuscated- these are the consequences of that.
+    - SBE developers said that other mods are also paid, such as the old SkyblockCatia and SkyblockAddons Beta. While this is true, SBA Beta is meeting a similar fate as well with many people getting the jar from others, and many straight up not using it anymore since many of its most popular features became irrelevant after the rules update. I cannot speak on SBC as I do not know much about the mod and do not want to assume why they went free.
 
 # Even if you already bought SBE, do NOT use it!
 
