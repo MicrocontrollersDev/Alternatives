@@ -129,6 +129,7 @@ The following is a breakdown of why this is incorrect (with a follow up statemen
 - **Dungeon Solvers** - Many mods do this. DungeonUtilities has had solvers for a very long time.
     - Complex helped with DU development. If he is fine with another mod having solvers, I do not see the reason that other mods cannot. 
 - **blankblaze.png** - This image is just a white rectangle. Either way, it has been replaced in Skytils with a better solution.
+    - An SBE dev pointed out in his rebuttal that these files have the same SHA 256 hash. The file is just a white rectangle. SHA 256 hashes do not look at file metadata, two identical files created at differant times will have the same hash. Just because 2 files share the same SHA 256 hash, it does not mean that one was coppied from the other.
 - **Prettify Dmg Markings** - Skytils has custom animation and coloring. Sychic had also started work on it long before Skytils was made.
     - While yes, both mods make the markings more legible, it is by no means a copy. The execution is entirely different. To say making something easier to understand is proof of copying is too far, which the SBE devs do mention when they say there is no proof that it was stolen. However, I think this should not have been included in the first place.
 - **Hide Dicer Msgs** - Skytils has a spam hider feature that is much more comprehensive than what SBE has. Dicer is just one of the things they include.
