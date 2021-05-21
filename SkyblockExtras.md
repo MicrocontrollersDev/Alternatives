@@ -140,7 +140,7 @@ The following is a breakdown of why this is incorrect (with a follow up statemen
     - I do not earn anything from this, unlike the amount of money the SBE developers earn from selling their mod. It is a very low priority for me to update this, and when I think the point gets across, I will stop.
 
 This is all without mentioning that this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's, but unlike SBE, do not steal their code. The SBE developers picked their poison when making the mod paid and obfuscated- these are the consequences of that.
-    - SBE developers said that other mods are also paid, such as the old SkyblockCatia and SkyblockAddons Beta. While this is true, SBA Beta is meeting a similar fate as well with many people getting the jar from others, and many straight up not using it anymore since many of its most popular features became irrelevant after the rules update. I cannot speak on SBC as I do not know much about the mod and do not want to assume why they went free.
+    - SBE developers said that other mods are also paid, such as the old SkyblockCatia and SkyblockAddons Beta. While this is true, SBA Beta is meeting a similar fate as well with many people getting the jar from others, and many straight up not using it anymore since many of its most popular features became irrelevant after the rules update. I cannot speak on SBC as I do not know much about the mod and do not want to assume why they went free. And all of that is beside the point, other people breaking a rule is not a valid justification for you doing the same.
 
 # Even if you already bought SBE, do NOT use it!
 
