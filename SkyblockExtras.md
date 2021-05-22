@@ -129,6 +129,7 @@ The following is a breakdown of why this is incorrect (with a follow up statemen
 - **Dungeon Solvers** - Many mods do this. DungeonUtilities has had solvers for a very long time.
     - Complex helped with DU development. If he is fine with another mod having solvers, I do not see the reason that other mods cannot. 
 - **blankblaze.png** - This image is just a white rectangle. Either way, it has been replaced in Skytils with a better solution.
+    - An SBE dev pointed out in his rebuttal that these files have the same SHA 256 hash. The file is just a white rectangle. SHA 256 hashes do not look at file metadata, two identical files created at differant times will have the same hash. Just because 2 files share the same SHA 256 hash, it does not mean that one was coppied from the other.
 - **Prettify Dmg Markings** - Skytils has custom animation and coloring. Sychic had also started work on it long before Skytils was made.
     - While yes, both mods make the markings more legible, it is by no means a copy. The execution is entirely different. To say making something easier to understand is proof of copying is too far, which the SBE devs do mention when they say there is no proof that it was stolen. However, I think this should not have been included in the first place.
 - **Hide Dicer Msgs** - Skytils has a spam hider feature that is much more comprehensive than what SBE has. Dicer is just one of the things they include.
@@ -140,7 +141,7 @@ The following is a breakdown of why this is incorrect (with a follow up statemen
     - I do not earn anything from this, unlike the amount of money the SBE developers earn from selling their mod. It is a very low priority for me to update this, and when I think the point gets across, I will stop.
 
 This is all without mentioning that this is missing the point. SBE is a paid mod which breaks EULA and has many downsides. Because of this, free mods will incorporate many features similar to SBE's, but unlike SBE, do not steal their code. The SBE developers picked their poison when making the mod paid and obfuscated- these are the consequences of that.
-    - SBE developers said that other mods are also paid, such as the old SkyblockCatia and SkyblockAddons Beta. While this is true, SBA Beta is meeting a similar fate as well with many people getting the jar from others, and many straight up not using it anymore since many of its most popular features became irrelevant after the rules update. I cannot speak on SBC as I do not know much about the mod and do not want to assume why they went free.
+    - SBE developers said that other mods are also paid, such as the old SkyblockCatia and SkyblockAddons Beta. While this is true, SBA Beta is meeting a similar fate as well with many people getting the jar from others, and many straight up not using it anymore since many of its most popular features became irrelevant after the rules update. I cannot speak on SBC as I do not know much about the mod and do not want to assume why they went free. And all of that is beside the point, other people breaking a rule is not a valid justification for you doing the same.
 
 # Even if you already bought SBE, do NOT use it!
 
@@ -170,6 +171,7 @@ Huge thanks to [Angry_Pineapple](https://github.com/Angry-Pineapple3121) who fou
 - [Koxx12](https://github.com/koxx12-dev)
 - [Lily](https://github.com/My-Name-Is-Jeff)
 - [LunaNotDev](https://github.com/LunaNotdev)
+- [MisterCheezeCake](https://github.com/MisterCheezeCake)
 - [nacrt](https://github.com/nacrt)
 - [Proudmuslim](https://github.com/proudmuslim-dev)
 - [stef-the](https://github.com/stef-the)
