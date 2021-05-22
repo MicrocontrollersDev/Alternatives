@@ -4,6 +4,8 @@
 
 This repo stores many alternatives to poorly made mods and clients for users who don't know much about this subject to learn from. Anybody may use this repo for their own work (such as but not limited to a website hosting these lists) as long as credit is properly given (my name and a link to this repo).
 
+NOTE: I AM NOT RESPONSIBLE FOR ANYTHING ANYONE ELSE MADE USING THESE LISTS. ANYTHING ANYBODY ELSE ADDS OR CHANGES TO MY LISTS, INCLUDING UNMERGED PULL REQUESTS ON THIS REPO, DO NOT REPRESENT ME NOR MY OPINIONS.
+
 As these lists have been around for a while and have taken up a lot of my time, it has become a low priority to me. For this reason, any contribution is welcomed and as this repo may slowly start to see less updates from me. If possible, please make a PR instead of reaching out to me on Discord. I usually check PRs relatively quickly.
 
 # For Contributing:
