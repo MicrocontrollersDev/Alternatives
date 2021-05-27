@@ -11,7 +11,7 @@
 
 **Check out [SkyClient](https://discord.com/invite/VH6fdBYzQQ) for an instant installer & updater for the mods listed above and more!**
 
-Note: It is not recommended that you use SkyblockCatia either since that mod has a large amount of incompatibilities with other mods, along with a bunch of features that aren't even for Skyblock, making it a very bloated mod. See [here](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockCatia.md) for a list of alternatives to SBC.
+Note: It is not recommended that you use SkyblockCatia either since that mod has a large amount of incompatibilities with other mods. See [here](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockCatia.md) for a list of alternatives to SBC.
 
 # Credits
 
