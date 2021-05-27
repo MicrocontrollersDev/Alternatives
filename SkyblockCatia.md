@@ -41,7 +41,7 @@
 *Global Config*
 
 - **Enable Confirm to Disconnect** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Enable Skin Rendering Fix** - None
+- **Enable Skin Rendering Fix** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates) via custom models
 - **Disable Hurt Camera Effect** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Enable Shortcut Game Button** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - **Enable 1.15 Armor Enchanted Glint** - None
