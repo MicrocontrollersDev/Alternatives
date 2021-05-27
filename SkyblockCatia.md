@@ -45,7 +45,7 @@
 - **Disable Hurt Camera Effect** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Enable Shortcut Game Button** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - **Enable 1.15 Armor Enchanted Glint** - None
-- **Enable Enchanted Glient for Skulls** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Enable Enchanted Glint for Skulls** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Enable Overwrite Sign Editing** - None
 - **Enable Sign Selection List** - None
 - **Enable Chat in Container Screen** - None
