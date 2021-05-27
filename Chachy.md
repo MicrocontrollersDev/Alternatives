@@ -12,4 +12,4 @@ fuck you chachy
 - - british
 
 # Credits
-- Chachy
+- [Chachy](https://i.imgur.com/kNuBgRe.png)
