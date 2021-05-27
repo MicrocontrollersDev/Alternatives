@@ -2,12 +2,12 @@
 
 | Name | Description | Developer |
 | --- | --- | --- |
-| [**NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784)) | Lots of things that are essential to Skyblock: [**List of features**](https://haste.powercord.dev/cediwarabu.sql) | [Moulberry](https://moulberry.codes/) |
+| [**NEU**](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) | Lots of things that are essential to Skyblock: [**List of features**](https://haste.powercord.dev/cediwarabu.sql) | [Moulberry](https://moulberry.codes/) |
 | [**Skytils**](https://github.com/Skytils/SkytilsMod/releases) | Even more cool stuff, including but not limited to puzzle solvers and diana/relic waypoints: [**List of features**](https://github.com/Skytils/SkytilsMod/blob/1.x/README.md) | [Sychic](https://github.com/Sychic) and [Lily](https://github.com/My-Name-Is-Jeff) |
 | [**Patcher**](https://sk1er.club/mods/patcher) | Performance enhancements, bug fixes, and QOL changes: [**List of features**](https://github.com/LunaNotdev/Patcher-Explanation) | [Asbyth](https://github.com/asbyth) ([Sk1erLLC](https://github.com/sk1erllc/)) |
 | [**SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest) | You know what this is. | [Biscuit](https://biscuit.codes/) |
-| [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some miniscule features, but they're cool nonetheless: [**List of features**]( https://github.com/cow-mc/Cowlection/blob/master/README.md) | [Cow](https://github.com/cow-mc/) |
-| [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/releases) | Has many features that SBE has as well as many unique features you won't find in any other Skyblock mods: [**List of features**](https://github.com/bowser0000/SkyblockMod/blob/development/README.md) | [Danker](https://github.com/bowser0000) |
+| [**Cowlection**](https://github.com/cow-mc/Cowlection/releases/latest) | Has some miniscule features, but they're cool nonetheless: [**List of features**]( https://github.com/cow-mc/Cowlection/blob/master/README.md) | [Cow](https://github.com/cow-mc/) |
+| [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/releases/latest) | Has many features that SBE has as well as many unique features you won't find in any other Skyblock mods: [**List of features**](https://github.com/bowser0000/SkyblockMod/blob/development/README.md) | [Danker](https://github.com/bowser0000) |
 
 **Check out [SkyClient](https://discord.com/invite/VH6fdBYzQQ) for an instant installer & updater for the mods listed above and more!**
 
