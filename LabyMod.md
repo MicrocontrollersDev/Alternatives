@@ -69,12 +69,12 @@ _Information_
 - **Date** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig's Reborn](https://5zigreborn.eu/)
 - **Biome** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Entity Count** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Chunk Caching Info** - None
+- **Chunk Caching Info** - None, servers must have support for Chunk Caching anyways
 - **Memory** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Ping** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy's BLC Ping Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - **Online Players** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Server Address** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) /
-- **Server Support** - None
+- **Server Address** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Server Support** - Irrelevant
 - **Potion Effects** - [Powns's PotionHud](https://download.powns.dev/potionhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **Combo** - [Erouax Combo Display](https://www.mediafire.com/file/ofrq5kgikbklb2a/Combo_Display_1.8.9.jar/file)
@@ -101,7 +101,7 @@ _Miscellaneous_
 - **BetterHat** - None
 - **Better Perspective** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/)
 - **BetterScreenshot** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **ChatLog** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/) / Minecraft Logs
+- **ChatLog** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/)
 - **ChatTime** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **ChatTranslator** - None
 - **Color Correction -** None
@@ -116,7 +116,7 @@ _Miscellaneous_
 - **CustomTime** - [Shatterpoint's TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases)
 - **DamageIndicator** (**!!! Bannable on Hypixel !!!**) - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/2353090)
 - **Direct Connect History** - None
-- **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) (doesn't require bspkrs core)/ [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE)
+- **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) (doesn't require bspkrs core) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - **FastJoin** - None
 - **Friend Tags** - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases)
 - **FriendViewer** - [Sk1er's ModCore](https://sk1er.club/modcore)
@@ -137,7 +137,7 @@ _Miscellaneous_
 - **Motion Blur** - [Moulberry's Motionblur (BETA)](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) (Must join Sk1er Discord for link to work) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - **OptiFine** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Rainbow GUI** - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
-- **ResourcePack 24** - [Official Mod](https://resourcepacks24.de/texturepack-mod) / [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds ability to make folders)
+- **ResourcePack 24** - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds the ability to make folders and a better GUI)
 - **Send To Server** - None
 - **ShinyPots** - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - **Spotify** - [DecobrDev's MediaMod](https://www.curseforge.com/minecraft/mc-mods/mediamod/files/2797563)
