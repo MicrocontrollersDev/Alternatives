@@ -62,27 +62,27 @@
 # Ingame GUI 
 
 _Information_
-- **FPS Counter** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
-- **Coordinates** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **FPS Counter** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Coordinates** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **F Direction** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Clock** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig's Reborn](https://5zigreborn.eu/)
+- **Clock** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig's Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Date** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig's Reborn](https://5zigreborn.eu/)
-- **Biome** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Entity Count** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Biome** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Entity Count** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Chunk Caching Info** - None, servers must have support for Chunk Caching anyways
-- **Memory** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Ping** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy's BLC Ping Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- **Memory** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Ping** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy's BLC Ping Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Online Players** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Server Address** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Server Address** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Server Support** - Irrelevant
-- **Potion Effects** - [Powns's PotionHud](https://download.powns.dev/potionhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Potion Effects** - [Powns's PotionHud](https://download.powns.dev/potionhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
-- **Combo** - [Erouax Combo Display](https://www.mediafire.com/file/ofrq5kgikbklb2a/Combo_Display_1.8.9.jar/file)
-- **Range** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Speed** - [squeek502's Squeedometer](https://www.curseforge.com/minecraft/mc-mods/squeedometer/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Combo** - [Erouax Combo Display](https://www.mediafire.com/file/ofrq5kgikbklb2a/Combo_Display_1.8.9.jar/file) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Range** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Speed** - [squeek502's Squeedometer](https://www.curseforge.com/minecraft/mc-mods/squeedometer/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 
 _Items_
-- **Armor Status** - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Armor Status** - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 
 _External Services_
 - **YouTube Subscriber** - None
@@ -116,7 +116,7 @@ _Miscellaneous_
 - **CustomTime** - [Shatterpoint's TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases)
 - **DamageIndicator** (**!!! Bannable on Hypixel !!!**) - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
 - **Direct Connect History** - None
-- **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) (doesn't require bspkrs core) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE)
+- **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) (doesn't require bspkrs core) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **FastJoin** - None
 - **Friend Tags** - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases)
 - **FriendViewer** - [Sk1er's ModCore](https://sk1er.club/modcore)
@@ -157,4 +157,5 @@ _Miscellaneous_
 - [Luna](https://github.com/lunanotdev)
 - [USB](https://github.com/U5B)
 - [Karmette](https://github.com/karmette)
+- [Wyvest](https://github.com/wyvest)
 - Coolbird1234
