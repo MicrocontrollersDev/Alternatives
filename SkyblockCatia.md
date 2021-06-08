@@ -28,7 +28,7 @@
 - **Glowing Dragon Armor** - None
 - **Disable Block Particles** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Fix Skyblock Enchant Tag** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
-- **Disable Night Vision** - [Sychich & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Disable Night Vision** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Display Realtime Ping** - None
 
 *Miscellaneuous*
