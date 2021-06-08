@@ -52,7 +52,7 @@
 - **Disable Error Log** - None
 
 *Toast Config*
-- [Sychich & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ## Credits
 
