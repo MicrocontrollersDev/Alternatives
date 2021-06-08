@@ -4,7 +4,7 @@ This list is in no way even closed to finished and should not be shared; this is
 
 ## yes
 
-Reasoning: SBA has not recieved a new update in over a year and is locked behind a paywall, only given to donators. It has come to the point where SBA 1.5 has very few important features that haven't been replaced/outshined by other mods, and the same is mostly true with the 1.6 betas. The mod has begun to feel like a cash grab in which no development is made but people only buy for its well known name. Therefore, I plan to make an alternatives list to help prevent people for paying for something that doesn't recieve updates. This will be split into two sections, one for 1.6 features, and one for 1.5 features (for those who want to completely remove SBA).
+Reasoning: SBA has not recieved a new update in over a year and is locked behind a paywall, only given to donators. It has come to the point where SBA 1.5 has very few important features that haven't been replaced/outshined by other mods, and the same is mostly true with the 1.6 betas. The mod has begun to feel like a cash grab in which no development is made but people only buy for its well known name. Therefore, I plan to make an alternatives list to help prevent people for paying for something that doesn't recieve updates. This will be split into two sections, one for 1.6 features, and one for 1.5 features (for those who want to completely remove SBA - note: many of these features simply won't have alternatives).
 
 - **"Minion Cannot Reach" Warning**
 - **Allow Locking Slots** neu
