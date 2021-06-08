@@ -1,1 +1,112 @@
-Reasoning: SBA has not recieved a new update in over a year and is locked behind a paywall, only given to donators. It has come to the point where SBA 1.5 has very few features that haven't been replaced/outshined by other mods, and the same is mostly true with the 1.6 betas. The mod has begun to feel like a cash grab in which no development is made but people only buy for its well known name. Therefore, I plan to make an alternatives list to help prevent people for paying for something that doesn't recieve updates. This will be split into two sections, one for 1.6 features, and one for 1.5 features as well since there is not much of a point to continue using this mod.
+# WARNING
+
+This list is in no way even closed to finished and should not be shared; this is still being created and will not be organized for a while. It also may be removed at any time due to the sheer amount of features in SBA that do not/will not have an alternative in the near future, or be shortened to only 1.6 beta specific features
+
+## yes
+
+Reasoning: SBA has not recieved a new update in over a year and is locked behind a paywall, only given to donators. It has come to the point where SBA 1.5 has very few features that haven't been replaced/outshined by other mods, and the same is mostly true with the 1.6 betas. The mod has begun to feel like a cash grab in which no development is made but people only buy for its well known name. Therefore, I plan to make an alternatives list to help prevent people for paying for something that doesn't recieve updates. This will be split into two sections, one for 1.6 features, and one for 1.5 features (for those who want to completely remove SBA).
+
+- **"Minion Cannot Reach" Warning**
+- **Allow Locking Slots** neu
+- **Birch Park Rainmaker Timer**
+- **Change Enderchest Color in the End**
+- **Change Zealot Color**
+- **Color Bow Green When Using Toxic Arrow Poison**
+- **Combat Timer Display**
+- **Compact Tab List** hytils
+- **Dark Auction Timer**
+- **Defence Number**
+- **Defence Percentage**
+- **Defence Symbol**
+- **Disable Boss Messages**
+- **Disable Enderman Teleportation**
+- **Disable Location Not Perfect Warnings**
+- **Disable Magical Mushroom Soup Messages** skytils?
+- **Disable Mort Messages** skytils?
+- **Disable Night Vision Potion Blinking** skytils?
+- **Disable Teleport Pad Messages**
+- **Discord Rich Presence** hycord
+- **Dolphin Pet Tracker**
+- **Don't Reset Cursor Between Inventories** neu?
+- **Dragon Tracker**
+- **Drill Fuel Bar** neu
+- **Drill Fuel Number** neu?
+- **Dungeon Death Counter**
+- **Dungeon Map Display** neu
+- **Dungeons Collected Essences Display**
+- **Dungeons Secret Dsiplay** dungeonguide?
+- **Dungeons Teammate Name Overlay**
+- **Endstone Protector Display**
+- **Fancy Warp Menu**
+- **Fishing Particle Overlay** neu
+- **Full Inventory Warning**
+- **Full Minion Warning**
+- **Glowing Dropped Items** hypixel please update
+- **Glowing Dungeon Teammates** hypixel please update
+- **Health Bar**
+- **Health Change Number**
+- **Health Number**
+- **Hide Far Entities in Lobby** patcher technically
+- **Hide Food & Armor Bar**
+- **Hide Other Player's Presents**
+- **Hide Pet Health Bar** default hypixel feature?
+- **Hide Skeleton's Helmet Bones**
+- **Hide Sven Pup Nametags**
+- **Hide Vanilla Health Bar**
+- **Item Drop Confirmation**
+- **Item Pickup Log**
+- **Legendary Sea Creature Warning**
+- **Magma Boss Timer**
+- **Magma Boss Warning**
+- **Mana Bar**
+- **Mana Number**
+- **No Arrows Left Alert**
+- **Parse Enchant Tooltips** neu?
+- **Potion and Powerup Timers**
+- **Power Orb Display**
+- **Reforge Filter**
+- **Replace Roman Numerals on Items**
+- **Rock Pet Tracker**
+- **Show backpack Preview** neu?
+- **Show Bait List While Holding a Rod**
+- **Show Base Stat Boost for Dungeon Items**
+- **Show Broken Dragon Fragments**
+- **Show Critical Dungeon Teammates** dsm?
+- **Show Dungeon Healing Circle Wall**
+- **Show Dungeon Milestone**
+- **Show Experimentation Table Tooltips** neu
+- **Show Floor Obtained Dungeon Items**
+- **Show Item Anvil Uses** useless now
+- **Show Item Cooldowns**
+- **Show Reforge Overlay**
+- **Show SBA Button in Pause Menu** - lol
+- **Show Stacking Enchant Progress**
+- **Show Sword Kills**
+- **Show What Fetchur Wants Today** skytils
+- **Show if Item's Rarity has been Upgraded**
+- **Skeleton's Helmet Bones Bar**
+- **Skill Progress Bar** neu?
+- **Skill Progress Display** neu?
+- **Slayer Armor Progress Indicator**
+- **Slayer Boss Approach Alert**
+- **Slayer Tracker - Revenant/Zombie**
+- **Slayer Tracker - Sven/Wolf**
+- **Slayer Tracker - Tarantula/Spider**
+- **Sound Indicator for Fishing** neu
+- **Special Zealot Alert**
+- **Speed Percentage**
+- **Spooky Event Candy/Points Counter**
+- **Stop Bonzo's Staff Sounds** patcher technically
+- **Stop Dropping/Selling Rare Items** skytils?
+- **Stop Rat Pet Sounds** patcher technically
+- **Summoning Eye Alert**
+- **Ticker/Charges Display**
+- **Trevor The Trapper Features**
+- **Use New Chroma Effect** - lol
+- **Zealout Counter - Count Since Last Eye**
+- **Zealout Counter - Show Zealots Per Eye**
+- **Zealout Counter - Total Eye Count**
+- **Zealout Counter - Total Zealot Count**
+- **Zealout Counter Explosive Bow Support** - some zealot counter mod idk who still does zealots nowadays
+
+First thoughts: a lot of features have been disabled wow. a lot of the remaining features i dont know of any alternatives, but most of them are also useless. many hud things can be replaced with apec/sbhud
