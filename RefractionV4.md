@@ -7,7 +7,7 @@
 - [**Scrollable tooltips**](https://sk1er.club/mods/text_overflow_scroll)
 - [**AutoGG**](https://sk1er.club/mods/autogg)
 - [**Levelhead**](https://sk1er.club/mods/level_head)
-- [**ToggleChat**](https://github.com/boomboompower/ToggleChat/releases/latest)
+- [**ToggleChat**](https://github.com/boomboompower/ToggleChat/releases/)
 - [**OofMod**](https://sk1er.club/mods/refractionoof)
 - [**TimeChanger**](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 - [**CustomCrosshair**](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
