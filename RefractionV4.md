@@ -10,7 +10,7 @@
 - [**ToggleChat**](https://github.com/boomboompower/ToggleChat/releases/latest)
 - [**OofMod**](https://sk1er.club/mods/refractionoof)
 - [**TimeChanger**](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
-- [**CustomCrosshair**](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3302478)
+- [**CustomCrosshair**](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 - [**ctjs** (If you do not use any CT modules, delete this instead)](https://github.com/ChatTriggers/ChatTriggers/releases/latest)
 
 # Replace
