@@ -23,7 +23,7 @@
 -   **Fullbright** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 -   **Ghost Liquid Fix** - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
 -   **Hit Color** - [Aycy's Damage Tint](https://www.youtube.com/watch?v=ZK1C8iThJAA)
--   **Hitboxes - F3 + B** / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) / [Aycy's Hitbox Colors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+-   **Hitboxes** - [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) / [Aycy's Hitbox Colors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 -   **Inventory Blur** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 -   **Ingame Server Switcher** - [Canalex's InGameServerSwitcher](https://www.youtube.com/watch?v=04EangMQd7I) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (currently logs you out)
 -   **Item Counter** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
