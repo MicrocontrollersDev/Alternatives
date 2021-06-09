@@ -18,20 +18,20 @@ Reasoning: SBA has not recieved a new update in over a year and is locked behind
 - **Defence Number**
 - **Defence Percentage**
 - **Defence Symbol**
-- **Disable Boss Messages**
+- **Disable Boss Messages** skytils?
 - **Disable Enderman Teleportation**
 - **Disable Location Not Perfect Warnings**
 - **Disable Magical Mushroom Soup Messages** skytils?
 - **Disable Mort Messages** skytils?
 - **Disable Night Vision Potion Blinking** skytils?
-- **Disable Teleport Pad Messages**
+- **Disable Teleport Pad Messages** skytils?
 - **Discord Rich Presence** hycord
 - **Dolphin Pet Tracker**
 - **Don't Reset Cursor Between Inventories** neu?
 - **Dragon Tracker**
 - **Drill Fuel Bar** neu
 - **Drill Fuel Number** neu?
-- **Dungeon Death Counter**
+- **Dungeon Death Counter** dsm?
 - **Dungeon Map Display** neu
 - **Dungeons Collected Essences Display**
 - **Dungeons Secret Dsiplay** dungeonguide?
@@ -53,7 +53,7 @@ Reasoning: SBA has not recieved a new update in over a year and is locked behind
 - **Hide Skeleton's Helmet Bones**
 - **Hide Sven Pup Nametags**
 - **Hide Vanilla Health Bar**
-- **Item Drop Confirmation**
+- **Item Drop Confirmation** neu?
 - **Item Pickup Log**
 - **Legendary Sea Creature Warning**
 - **Magma Boss Timer**
@@ -65,7 +65,7 @@ Reasoning: SBA has not recieved a new update in over a year and is locked behind
 - **Potion and Powerup Timers**
 - **Power Orb Display**
 - **Reforge Filter**
-- **Replace Roman Numerals on Items**
+- **Replace Roman Numerals on Items** patcher
 - **Rock Pet Tracker**
 - **Show backpack Preview** neu?
 - **Show Bait List While Holding a Rod**
