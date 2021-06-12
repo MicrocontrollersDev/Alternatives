@@ -6,29 +6,10 @@ This list is in no way even closed to finished and should not be shared; this is
 
 Reasoning: SBA has not recieved a new major update in over a year (estimate) and is locked behind a paywall, only given to donators. It has come to the point where SBA 1.5 has very few important features that haven't been replaced/outshined by other mods, and the same is mostly true with the 1.6 betas. The mod has begun to feel like a cash grab in which no development is made but people only buy for its well known name. Therefore, I plan to make an alternatives list to help prevent people for paying for something that doesn't recieve updates. This will be split into two sections, one for 1.6 features, and one for 1.5 features (for those who want to completely remove SBA - note: many of these features simply won't have alternatives).
 
-- **"Minion Cannot Reach" Warning**
-- **Allow Locking Slots** neu
-- **Birch Park Rainmaker Timer**
-- **Change Enderchest Color in the End**
-- **Change Zealot Color**
-- **Color Bow Green When Using Toxic Arrow Poison**
-- **Combat Timer Display**
+## 1.6
 - **Compact Tab List** hytils
-- **Dark Auction Timer**
-- **Defence Number**
-- **Defence Percentage**
-- **Defence Symbol**
 - **Disable Boss Messages** skytils?
-- **Disable Enderman Teleportation**
-- **Disable Location Not Perfect Warnings**
-- **Disable Magical Mushroom Soup Messages** skytils?
 - **Disable Mort Messages** skytils?
-- **Disable Night Vision Potion Blinking** skytils?
-- **Disable Teleport Pad Messages** skytils?
-- **Discord Rich Presence** hycord
-- **Dolphin Pet Tracker**
-- **Don't Reset Cursor Between Inventories** neu?
-- **Dragon Tracker**
 - **Drill Fuel Bar** neu
 - **Drill Fuel Number** neu?
 - **Dungeon Death Counter** dsm?
@@ -36,13 +17,45 @@ Reasoning: SBA has not recieved a new major update in over a year (estimate) and
 - **Dungeons Collected Essences Display**
 - **Dungeons Secret Dsiplay** dungeonguide?
 - **Dungeons Teammate Name Overlay**
+- **Glowing Dropped Items** hypixel please update
+- **Glowing Dungeon Teammates** hypixel please update
+- **Parse Enchant Tooltips** neu?
+- **Show Base Stat Boost for Dungeon Items**
+- **Show Critical Dungeon Teammates** dsm?
+- **Show Dungeon Healing Circle Wall**
+- **Show Dungeon Milestone**
+- **Show Experimentation Table Tooltips** neu
+- **Show Floor Obtained Dungeon Items**
+- **Stop Bonzo's Staff Sounds** patcher technically
+- **Stop Rat Pet Sounds** patcher technically
+- **Trevor The Trapper Features**
+
+## 1.5
+- **"Minion Cannot Reach" Warning**
+- **Allow Locking Slots** neu
+- **Birch Park Rainmaker Timer**
+- **Change Enderchest Color in the End**
+- **Change Zealot Color**
+- **Color Bow Green When Using Toxic Arrow Poison**
+- **Combat Timer Display**
+- **Dark Auction Timer**
+- **Defence Number**
+- **Defence Percentage**
+- **Defence Symbol**
+- **Disable Enderman Teleportation**
+- **Disable Location Not Perfect Warnings**
+- **Disable Magical Mushroom Soup Messages** skytils?
+- **Disable Night Vision Potion Blinking** skytils?
+- **Disable Teleport Pad Messages** skytils?
+- **Discord Rich Presence** hycord
+- **Dolphin Pet Tracker**
+- **Don't Reset Cursor Between Inventories** neu?
+- **Dragon Tracker**
 - **Endstone Protector Display**
 - **Fancy Warp Menu**
 - **Fishing Particle Overlay** neu
 - **Full Inventory Warning**
 - **Full Minion Warning**
-- **Glowing Dropped Items** hypixel please update
-- **Glowing Dungeon Teammates** hypixel please update
 - **Health Bar**
 - **Health Change Number**
 - **Health Number**
@@ -61,21 +74,14 @@ Reasoning: SBA has not recieved a new major update in over a year (estimate) and
 - **Mana Bar**
 - **Mana Number**
 - **No Arrows Left Alert**
-- **Parse Enchant Tooltips** neu?
 - **Potion and Powerup Timers**
 - **Power Orb Display**
 - **Reforge Filter**
 - **Replace Roman Numerals on Items** patcher
 - **Rock Pet Tracker**
-- **Show backpack Preview** neu?
+- **Show Backpack Preview** neu?
 - **Show Bait List While Holding a Rod**
-- **Show Base Stat Boost for Dungeon Items**
 - **Show Broken Dragon Fragments**
-- **Show Critical Dungeon Teammates** dsm?
-- **Show Dungeon Healing Circle Wall**
-- **Show Dungeon Milestone**
-- **Show Experimentation Table Tooltips** neu
-- **Show Floor Obtained Dungeon Items**
 - **Show Item Anvil Uses** useless now
 - **Show Item Cooldowns**
 - **Show Reforge Overlay**
@@ -96,17 +102,12 @@ Reasoning: SBA has not recieved a new major update in over a year (estimate) and
 - **Special Zealot Alert**
 - **Speed Percentage**
 - **Spooky Event Candy/Points Counter**
-- **Stop Bonzo's Staff Sounds** patcher technically
 - **Stop Dropping/Selling Rare Items** skytils?
-- **Stop Rat Pet Sounds** patcher technically
 - **Summoning Eye Alert**
 - **Ticker/Charges Display**
-- **Trevor The Trapper Features**
 - **Use New Chroma Effect** - lol
 - **Zealout Counter - Count Since Last Eye**
 - **Zealout Counter - Show Zealots Per Eye**
 - **Zealout Counter - Total Eye Count**
 - **Zealout Counter - Total Zealot Count**
 - **Zealout Counter Explosive Bow Support** - some zealot counter mod idk who still does zealots nowadays
-
-First thoughts: a lot of features have been disabled wow. a lot of the remaining features i dont know of any alternatives, but most of them are also useless. many hud things can be replaced with apec/sbhud
