@@ -18,7 +18,7 @@ Reasoning: SBA has not recieved a new major update in over a year (estimate) and
 - **Dungeons Secret Dsiplay** dungeonguide?
 - **Dungeons Teammate Name Overlay**
 - **Glowing Dropped Items** hypixel please update
-- **Glowing Dungeon Teammates** hypixel please update
+- **Glowing Dungeon Teammates** dungeon utilities / hypixel please update
 - **Parse Enchant Tooltips** neu?
 - **Show Base Stat Boost for Dungeon Items**
 - **Show Critical Dungeon Teammates** dsm?
