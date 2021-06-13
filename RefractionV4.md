@@ -11,7 +11,7 @@
 - [**OofMod**](https://sk1er.club/mods/refractionoof)
 - [**TimeChanger**](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 - [**CustomCrosshair**](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
-- [**ctjs** (If you do not use any CT modules, delete this instead)](https://github.com/ChatTriggers/ChatTriggers/releases/latest)
+- [**ctjs**](https://github.com/ChatTriggers/ChatTriggers/releases/latest) (If you do not use any CT modules, delete this instead)
 
 # Replace
 - [**Canalex's Keystrokes with Sk1er's**](https://sk1er.club/mods/keystrokesmod)
