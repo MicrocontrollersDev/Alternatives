@@ -35,7 +35,7 @@
 
 - **Right Click to Add Party** - None
 - **Sneak to Open Inventory While Fighting Dragon** - None
-- **Lobby Player Count** - None (TAB)
+- **Lobby Player Count** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Show Obtained Date** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
 *Global Config*
