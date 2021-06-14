@@ -23,7 +23,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 - [Feel65](https://github.com/Feel65)
 - [Koxx12](https://github.com/koxx12-dev)
 - [Lily](https://github.com/My-Name-Is-Jeff)
-- [LizzyMaybeDev](https://github.com/LizzyMaybeDev)
+- [Lizzy](https://github.com/LizzyMaybeDev)
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
 - [nacrt](https://github.com/nacrt)
 - [Proudmuslim](https://github.com/proudmuslim-dev)
