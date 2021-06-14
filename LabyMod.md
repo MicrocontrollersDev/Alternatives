@@ -23,11 +23,11 @@
 - **Hide Backside of Entitities** - None ([Sk1er Patcher](https://sk1er.club/mods/patcher) will most likely help performance more than this does)
 
 # Minecraft Chat
-- **Autotext** (**!!! Bannable on Hypixel !!!**) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Autotext** (**!!! Bannable on Hypixel !!!**) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) / [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Name History** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Chat Icons** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Chat Filter** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Shortcuts** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Chat Icons** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
+- **Chat Filter** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
+- **Shortcuts** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Player Menu** - None
 - **Disable Chat Background** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 - **Advanced Chat Settings** - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
