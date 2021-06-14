@@ -154,7 +154,7 @@ _Miscellaneous_
 - [Coolbird1234](https://twitter.com/dankbird1234)
 - [Karmette](https://github.com/karmette)
 - [LlamaLad7](https://github.com/LlamaLad7)
-- [Luna](https://github.com/lunanotdev)
+- [Lizzy](https://github.com/LizzyMaybeDev)
 - [SirNapkin1334](https://github.com/sirnapkin1334)
 - [Solonovamax](https://github.com/solonovamax)
 - [USB](https://github.com/U5B)
