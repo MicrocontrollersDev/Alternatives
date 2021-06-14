@@ -100,7 +100,7 @@ _Entity Options_
 # Credits
 - [asbyth](https://github.com/asbyth)
 - [Karmette](https://github.com/karmette)
-- [Luna](https://github.com/lunanotdev)
+- [Lizzy](https://github.com/LizzyMaybeDev)
 - [SirNapkin1334](https://github.com/sirnapkin1334)
 - [Solonovamax](https://github.com/solonovamax)
 - [Wyvest](https://github.com/wyvest)
