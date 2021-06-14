@@ -151,11 +151,12 @@ _Miscellaneous_
 
 # Credits/Contributors
 - [Asbyth](https://github.com/asbyth)
-- [Solonovamax](https://github.com/solonovamax)
-- [SirNapkin1334](https://github.com/sirnapkin1334)
-- [Zoudy](https://github.com/zoudywastaken)
-- [Luna](https://github.com/lunanotdev)
-- [USB](https://github.com/U5B)
+- [Coolbird1234](https://twitter.com/dankbird1234)
 - [Karmette](https://github.com/karmette)
+- [LlamaLad7](https://github.com/LlamaLad7)
+- [Luna](https://github.com/lunanotdev)
+- [SirNapkin1334](https://github.com/sirnapkin1334)
+- [Solonovamax](https://github.com/solonovamax)
+- [USB](https://github.com/U5B)
 - [Wyvest](https://github.com/wyvest)
-- Coolbird1234
+- [Zoudy](https://github.com/zoudywastaken)
