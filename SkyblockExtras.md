@@ -29,5 +29,5 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 - [Proudmuslim](https://github.com/proudmuslim-dev)
 - [stef-the](https://github.com/stef-the)
 - [Sychic](https://github.com/Sychic)
-- [Yan](https://github.com/AayanTDE)
+- [Yan](https://github.com/yanNotDev)
 - [Zordlan](https://github.com/Zordlan)
