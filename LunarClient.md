@@ -1,4 +1,4 @@
-## List of Lunar Client Features - Alternatives:
+## Lunar Client Alternatives
 
 # Mods
 
