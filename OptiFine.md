@@ -1,3 +1,5 @@
+# OptiFine Alternatives
+
 OptiFine no longer provides a good performance enhancement on the latest versions of Minecraft. For this reason, it is recommended that you ditch OptiFine and use the better alternatives.
 
 This list is purely for OptiFine alternatives. If you would like to see more performance mods and general quality of life mods, please click [this link](https://github.com/MicrocontrollersDev/MigratingToLatest/blob/main/README.md#mods).
