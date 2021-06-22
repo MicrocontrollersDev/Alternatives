@@ -1,4 +1,6 @@
-# Update
+# Fixing Refraction's Mod Folder v4
+
+## Update
 - [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5.jar)
 - [**Patcher**](https://sk1er.club/mods/patcher)
 - [**SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
@@ -13,13 +15,13 @@
 - [**CustomCrosshair**](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 - [**ctjs**](https://github.com/ChatTriggers/ChatTriggers/releases/latest) (If you do not use any CT modules, delete this instead)
 
-# Replace
+## Replace
 - [**Canalex's Keystrokes with Sk1er's**](https://sk1er.club/mods/keystrokesmod)
   - Old and no longer maintained. Sk1er's will continue to receive updates once ModCore 2 is released.
 - [**spiderfrog's old animations with Sk1er's**](https://sk1er.club/beta)
   - Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes.
 
-# Remove
+## Remove
 - **ModCore Container**
   - Modcore Container was a mod meant to give players ModCore before it was packaged in mods that needed it. It is now useless and could cause issues when ModCore 2 comes out.
 - **Player API**
@@ -31,6 +33,6 @@
 - [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md)
   - LabyMod causes many issues with other mods, and has many alternatives that can be used without messing up other mods.
 
-# Credits
+# Contributors
 - [JackedUp21](https://github.com/JackedUp21)
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
