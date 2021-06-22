@@ -74,7 +74,8 @@
 -   **SkyBlock Addons** - [Biscuit's SBA](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
 -   **NotEnoughUpdates** - [Moulberry's NEU](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 
-# Credits
+# Contributors
+
 - [asbyth](https://github.com/asbyth)
 - [Lizzy](https://github.com/LizzyMaybeDev)
 - [SirNapkin1334](https://github.com/sirnapkin1334)
