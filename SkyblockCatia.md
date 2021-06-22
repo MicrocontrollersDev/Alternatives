@@ -2,9 +2,7 @@
 
 *WIP*
 
-## Skyblock features:
-
-*QOL*
+## QOL
 
 - **Jungle Axe Cooldown** - [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
 - **Grappling Hook Cooldown** - [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
@@ -18,7 +16,7 @@
 - **Display Max Used of Item Ability** - None
 - **Shortcut Button in Inventory** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 
-*Rendering*
+## Rendering
 
 - **Fancy Color for Supporters** - Irrelevant
 - **Show Item Rarity** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
@@ -31,14 +29,14 @@
 - **Disable Night Vision** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Display Realtime Ping** - None
 
-*Miscellaneuous*
+## Miscellaneuous
 
 - **Right Click to Add Party** - None
 - **Sneak to Open Inventory While Fighting Dragon** - None
 - **Lobby Player Count** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Show Obtained Date** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
-*Global Config*
+## Global Config
 
 - **Enable Confirm to Disconnect** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Enable Skin Rendering Fix** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates) via custom models
@@ -51,10 +49,10 @@
 - **Enable Chat in Container Screen** - None
 - **Disable Error Log** - None
 
-*Toast Config*
+## Toast Config
 - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
-## Credits
+# Contributors
 
 - [8KCoffeeWizard](https://github.com/8KCoffeeWizard)
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
