@@ -153,7 +153,7 @@ Skytils lol
 - Hide Block Destroy Particles - Patcher
 - Hide Staff Falling Blocks - Skytils
 
-# Credits
+# Contributors
 
 - [Abd](https://github.com/BrahR)
 - [Angry_Pineapple](https://github.com/Angry-Pineapple3121)
