@@ -1,6 +1,7 @@
 ## List of Lunar Client Features - Alternatives:
 
 # Mods
+
 - **1.7 Visuals** - [Sk1er's Old Animations (Beta](https://sk1er.club/beta) - Only currently available in Sk1er's Discord) / [Aycy's Damage Tint](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/)
 - **FPS** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Rocco's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **CPS** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Rocco's 5Zig Reborn](https://5zigreborn.eu/) / [Senoe's CPS](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
@@ -52,7 +53,9 @@
 - **Menu Blur** [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 
 # Settings
-_HUD Options_
+
+## HUD Options
+
 - **Shift Effects in Inventory** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Achievements** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show HUD in Friend Menu** - Irrelevant ([Sk1er's ModCore](https://sk1er.club/modcore) for Friends Menu)
@@ -62,34 +65,41 @@ _HUD Options_
 - **Disable Friend Menu** - Irrelevant ([Sk1er's ModCore](https://sk1er.club/modcore) for Friends Menu)
 - **Use Minecraft GUI Scale** - Irrelevant
 
-_Cosmetic Options_
+## Cosmetic Options
+
 - **Cosmetics** - [Sk1er's ModCore](https://sk1er.club/modcore) (Capes Violate EULA and are therefore not included)
 - **Show Nametag Icon** - Irrelevant
 - **Third Person Nametag** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Tab Icon** - [Sk1er's ModCore](https://sk1er.club/modcore)
 
-_Misc Options_
+## Misc Options
+
 - **Borderless Fullscreen** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Disable Weather** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Scroll to Zoom** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
-_Texture Pack Options_
+## Texture Pack Options
+
 - **Transparent Background** - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - **Red String** - Texture Pack
 
 # Performance
-_General_
+
+## General
+
 - **Hide Enderportals** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Full Bright** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Enchantment Glint** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Lazy Chunk Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) (singleplayer only)
 
-_Entity Options_
+## Entity Options
+
 - **Shadow** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Entities** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Tile Entities** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 # Other
+
 - **Vanilla Bug Fixes** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Custom Main Menu** - [Lumien231's Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806) & [Lumien231's ResourceLoader](https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/all?filter-game-version=2020709689%3A5806)
 - **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/)
@@ -98,6 +108,7 @@ _Entity Options_
 - **Save Controls Between Versions** - [leduyquang753's Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/)
 
 # Credits
+
 - [asbyth](https://github.com/asbyth)
 - [Karmette](https://github.com/karmette)
 - [Lizzy](https://github.com/LizzyMaybeDev)
