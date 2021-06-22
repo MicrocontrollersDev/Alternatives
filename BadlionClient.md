@@ -1,4 +1,4 @@
-# List of Badlion Client Features - Alternatives:
+# Badlion Client Alternatives:
 
 ## To see a list of reasons why you shouldn't use Badlion Client, check out [Wyvest's list here! (WIP)](https://github.com/wyvest/why-badlion-is-bad/blob/main/README.md)
 
