@@ -1,28 +1,34 @@
 ## List of LabyMod Features - Alternatives:
+
 **LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics, and just low FPS. Therefore, it is advised that you avoid using it at all costs.**
 
 # Information
+
 - **Ping in Tablist** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Permission Changes** - Irrelevant
 - **LabyMod User Indicator** - [Sk1er's Modcore](https://sk1er.club/mods/modcore) (uses ModCore indicator instead)
 - **Out of Memory Warning** - None (Check F3)
 
 # Animations
+
 - **1.7 Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (follow the steps, currently missing item switch animation)
 
 # Bugfixes
+
 - **Lava Optimization** - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
 - **Optimize Soup & Potion Refill** (**!!! Bannable on Hypixel !!!**) - None
 - **Synchronised Crosshair** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Particle Optimization** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 # Performance
+
 - **Chunk Caching** - None, servers must have support for it anyway.
 - **Fast World Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Entities Behind Blocks** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Backside of Entitities** - None ([Sk1er Patcher](https://sk1er.club/mods/patcher) will most likely help performance more than this does)
 
 # Minecraft Chat
+
 - **Autotext** (**!!! Bannable on Hypixel !!!**) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) / [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Name History** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Chat Icons** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
@@ -35,10 +41,12 @@
 - **Secondary Chat** - [5Zig's Reborn](https://5zigreborn.eu/)
 
 # PvP
+
 - **Speed FOV** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Swap Bow** - None
 
 # Menu GUI
+
 - **Menu Background** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Server Information at Direct Connect** - None
 - **Confirm Disconnect** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -52,6 +60,7 @@
 - **Custom Inventory Scale** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 # Additional
+
 - **Show My Name** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Bossbar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
 - **Show Saturation** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
@@ -61,7 +70,8 @@
 
 # Ingame GUI 
 
-_Information_
+# Information
+
 - **FPS Counter** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Coordinates** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **F Direction** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
@@ -81,18 +91,22 @@ _Information_
 - **Range** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Speed** - [squeek502's Squeedometer](https://www.curseforge.com/minecraft/mc-mods/squeedometer/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 
-_Items_
+# Items
+
 - **Armor Status** - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 
-_External Services_
+# External Services
+
 - **YouTube Subscriber** - None
 
-_Miscellaneous_
+# Miscellaneous
+
 - **AFK Time** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Click Test** -  [Aycy's MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - **Lava Challenge Time** - none
 
 # Addons
+
 - **Anti Clear Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **AntiRage** - None
 - **AutoGG** - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
@@ -149,7 +163,8 @@ _Miscellaneous_
 - **Glint Colorizer** - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - **Focus Movement Fix** - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
 
-# Credits/Contributors
+# Contributors
+
 - [Asbyth](https://github.com/asbyth)
 - [Coolbird1234](https://twitter.com/dankbird1234)
 - [Karmette](https://github.com/karmette)
