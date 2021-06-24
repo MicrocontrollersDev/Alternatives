@@ -60,7 +60,7 @@ DSM i guess idk my video didnt show me anything
 
 - Pet Colors - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - Show Active Pet - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- Show EXP-Shared Pets - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)?
+- Show EXP-Shared Pets - ?
 - AutoPet Enabled Colors - ?
 
 ### Pet Display
