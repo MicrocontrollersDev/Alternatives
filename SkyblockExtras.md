@@ -2,24 +2,26 @@
 
 SkyblockExtras is a mod that has many incompatibilities, performance issues, general issues, among other things. For this reason, it is not recommended to use the mod, and instead use other mods that provide similar features.
 
+List is a WIP. Anything with just a ?, I either do not know of an alternative or I do not know what the feature even is. Anything with a ? after mod is things I think offer an alternative but I'm not sure of.
+
 ## General
 
 ### Miscellaneous
 
-- Timestamps - Patcher
+- Timestamps - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Show Milestones - ?
 - Show Auction Data - NEU?
-- Century Cake Timer - DSM
-- Larger Heads - Skytils
-- Big Items - Skytils
+- Century Cake Timer - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- Larger Heads - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Big Items - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Scale with Rarity - ?
-- Dark Auction Warning - NEU/SBA
-- Golem Warning - SBA/Skytils?
+- Dark Auction Warning - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
+- Golem Warning - SBA?/Skytils?
 - Jerry Warning - Skytils?
 
 ### Experimentation
 
-- Experimentation Helper - NEU/DSM
+- Experimentation Helper - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - yes
 
 ### Dwarven Mines
@@ -27,28 +29,28 @@ SkyblockExtras is a mod that has many incompatibilities, performance issues, gen
 - Show Mine Map - ?
 - Notify Events - ?
 - Raffle Timer Warning - ?
-- Puzzler Solver - NEU/Skytils/SBA
+- Puzzler Solver - NEU/ [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Puzzler Timer - ?
-- Mine Waypoints - NEU
+- Mine Waypoints - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Notify Ability Cooldown - ?
-- Show Fuel Display - NEU/SBA
+- Show Fuel Display - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
 - Show Compact Features - ?
-- Show Forge Timer - NEU
-- Show Commissions Tracker - NEU
+- Show Forge Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
+- Show Commissions Tracker - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Format Commisions - ?
 - Use Commision Icons - ?
-- Show Mining Tracker - NEU
+- Show Mining Tracker - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Show Star Cult Timer - ?
 - Show Events Display - ?
-- Show Titanium Warning - NEU
+- Show Titanium Warning - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Show Golden Goblin Warning - ?
 - Show Skymall Warning - ?
 
 ### Spider's Den
 
-- Waypoints - Skytils
-- Show Arachne HP - Skytils
-- Show Arachne Counter - Skytils
+- Waypoints - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Show Arachne HP - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Show Arachne Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ## Trackers
 
@@ -56,7 +58,7 @@ DSM i guess idk my video didnt show me anything
 
 ## Pets
 
-- Pet Colors - DSM
+- Pet Colors - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - Show Active Pet - ?
 - Show EXP-Shared Pets - ?
 - AutoPet Enabled Colors - ?
@@ -65,49 +67,49 @@ DSM i guess idk my video didnt show me anything
 
 - Use Icon Display - ?
 - Change Revolution per Min - ?
-- Show Pet EXP - NEU
+- Show Pet EXP - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Use Total Pet EXP - ?
 - Show Percentage Needed - ?
 
 ### General
 
-- Allow Favoriting Pets
-- Hide Pet Nametags - Skyblock?
-- Gude AutoPet Messages - Skytils
+- Allow Favoriting Pets - ?
+- Hide Pet Nametags - Hypixel?
+- Gude AutoPet Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Hide Pet Candies - ?
 
 ## Dungeon
 
 ### General
 
-- Show Dungeon Counter - DSM
+- Show Dungeon Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - Show Drag Counter - ?
 - Show Door Opener - ?
-- Show Dungeon Map - NEU/SBA
-- Remove Armor Stands - Patcher
-- Show Crypts Counter - Skytils
+- Show Dungeon Map - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
+- Remove Armor Stands - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- Show Crypts Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ### Display
 
-- Show Run Overview - Skytils
-- Show Score Approximation - Skytils
+- Show Run Overview - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Show Score Approximation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Show Custom Splits - ?
 
 ### Party Finder
 
-- Show Player Info - Cowlection
-- Show Party Finder Menu - Cowlectoin
-- Cata Level Lower Bound - Cowlection?
-- Class Level Lower Bound - Cowlection?
+- Show Player Info - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
+- Show Party Finder Menu - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
+- Cata Level Lower Bound - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)?
+- Class Level Lower Bound - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)?
 - Draw Player Count - Cowlection?
 
 ### Miscellaneous
 
-- Fix Spirit Boots - NEU/SBA/DSM
-- Copy Fails - Skytils
+- Fix Spirit Boots - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- Copy Fails - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Show Armor Color - ?
 - Show Item Quality - ?
-- Show Spirit Names - Skytils
+- Show Spirit Names - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ### Solvers
 
@@ -117,43 +119,43 @@ Skytils lol
 
 ### General
 
-- Customize Custom Commands - Skytils
-- Search Bar - NEU
-- Middle Click SB Menu - Skytils
+- Customize Custom Commands - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Search Bar - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
+- Middle Click SB Menu - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Hide Item Durability - ?
-- Better Crop Hitboxes - Patcher lol
-- Show Soul Eater Data - Skytils/DSM
+- Better Crop Hitboxes - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- Show Soul Eater Data - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - Show Cultivating Count - ?
-- Left Click Zapper Undo - Skytils/NEU?
+- Left Click Zapper Undo - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / NEU?
 
 ### Visual
 
-- Color Enchants - NEU
-- Show Ender Chest Previews - NEU
-- Show Custom Ender Chest Names - NEU
+- Color Enchants - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
+- Show Ender Chest Previews - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
+- Show Custom Ender Chest Names - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Show Block Zapper Destroyed Blocks - NEU?
 - Hub Colors - ?
-- Prettify Damage Markings - NEU/Skytils
-- Show Custom Dyed Armor - NEU/Skytils
-- Show Custom Skull Textures - NEU
+- Prettify Damage Markings - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Show Custom Dyed Armor - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Show Custom Skull Textures - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Show Enchant Glow - Skytils
 - Remove Enchant Glow - Skytils
 - Hide Fire Display - ?
-- Show Builder's Wand Overlay - NEU
+- Show Builder's Wand Overlay - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Hide WitherBorn Shadows - Minecraft (Patcher gonna fix huge shadows in 1.6)
 - Hide Displayed Armor - ???
 
 ### Chat
 
-- Use Chat Filters - Hypixel
+- Use Chat Filters - Hypixel?
 - Hide Coop Chat - ToggleChat?
-- Hide Dicer Messages - Skytils
+- Hide Dicer Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ### Performance
 
 - Hide Non Crits - ?
-- Hide Block Destroy Particles - Patcher
-- Hide Staff Falling Blocks - Skytils
+- Hide Block Destroy Particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- Hide Staff Falling Blocks - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 # Contributors
 
