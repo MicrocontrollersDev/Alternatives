@@ -26,10 +26,10 @@ List is a WIP. Anything with just a ?, I either do not know of an alternative or
 
 ### Dwarven Mines
 
-- Show Mine Map - ?
+- Show Mine Map - SBH?
 - Notify Events - ?
 - Raffle Timer Warning - ?
-- Puzzler Solver - NEU/ [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Puzzler Solver - NEU / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Puzzler Timer - ?
 - Mine Waypoints - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Notify Ability Cooldown - ?
