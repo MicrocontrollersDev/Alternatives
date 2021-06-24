@@ -18,7 +18,7 @@
 - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **PotionCounter** - [Senoe PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
 - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [Rocco's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Freelook** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
+- **Freelook** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - **Motion Blur** - [Moulberry Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) (Must join Sk1er Discord for link to work) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - **Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Scrollable Tooltips** - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
