@@ -138,8 +138,8 @@ Skytils lol
 - Prettify Damage Markings - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Show Custom Dyed Armor - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Show Custom Skull Textures - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
-- Show Enchant Glow - Skytils
-- Remove Enchant Glow - Skytils
+- Show Enchant Glow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Remove Enchant Glow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Hide Fire Display - ?
 - Show Builder's Wand Overlay - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Hide WitherBorn Shadows - Minecraft (Patcher gonna fix huge shadows in 1.6)
