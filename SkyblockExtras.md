@@ -59,23 +59,23 @@ DSM i guess idk my video didnt show me anything
 ## Pets
 
 - Pet Colors - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- Show Active Pet - ?
-- Show EXP-Shared Pets - ?
+- Show Active Pet - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
+- Show EXP-Shared Pets - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)?
 - AutoPet Enabled Colors - ?
 
 ### Pet Display
 
-- Use Icon Display - ?
+- Use Icon Display -[Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Change Revolution per Min - ?
 - Show Pet EXP - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
-- Use Total Pet EXP - ?
+- Use Total Pet EXP - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - Show Percentage Needed - ?
 
 ### General
 
 - Allow Favoriting Pets - ?
 - Hide Pet Nametags - Hypixel?
-- Gude AutoPet Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Hide AutoPet Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Hide Pet Candies - ?
 
 ## Dungeon
