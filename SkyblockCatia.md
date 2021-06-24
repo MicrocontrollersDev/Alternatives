@@ -1,6 +1,6 @@
 # SkyblockCatia Alternatives
 
-*WIP*
+SkyblockCatia is a mod which has a bunch of features that are better incorporated in other mods or are useless, and also does not receieve many updates, with many incompatibilities with other mods. Therefore, it is recommended that you do not use it if the features you use can be replaced.
 
 ## QOL
 
