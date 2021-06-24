@@ -37,7 +37,7 @@
 -   **Nick Hider** - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
 -   **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/tag/1.2)
 -   **Particle Mod** - [Dewgs's ParticleMod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s) / [Aycy's OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw)
--   **Perspective Mod** - [DJtheRedstoner Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
+-   **Perspective Mod** - [DJtheRedstoner Perspective Mod](https://inv.wtf/djperspective)
 -   **Ping HUD** - [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 -   **Potion Status** - [Powns's PotionHud](https://download.powns.dev/potionhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
 -   **Reach Display** - [Dewgs's ReachDisplay](https://www.youtube.com/watch?v=myQKoGnCjxY) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
