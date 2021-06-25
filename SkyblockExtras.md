@@ -4,6 +4,8 @@ SkyblockExtras is a mod that has many incompatibilities, performance issues, gen
 
 List is a WIP. Anything with just a ?, I either do not know of an alternative or I do not know what the feature even is. Anything with a ? after mod is things I think offer an alternative but I'm not sure of.
 
+Since I also do not have a full list of features, this is going off of a relatively old YouTube video. There is nothing I can do about this.
+
 ## General
 
 ### Miscellaneous
@@ -16,24 +18,23 @@ List is a WIP. Anything with just a ?, I either do not know of an alternative or
 - Big Items - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Scale with Rarity - ?
 - Dark Auction Warning - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
-- Golem Warning - SBA?/Skytils?
+- Golem Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Jerry Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ### Experimentation
 
 - Experimentation Helper - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- yes
 
 ### Dwarven Mines
 
 - Show Mine Map - SBH?
 - Notify Events - ?
-- Raffle Timer Warning - ?
-- Puzzler Solver - NEU / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Raffle Timer Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Puzzler Solver - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Puzzler Timer - ?
 - Mine Waypoints - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - Notify Ability Cooldown - ?
-- Show Fuel Display - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
+- Show Fuel Display - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - Show Compact Features - ?
 - Show Forge Timer - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - Show Commissions Tracker - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
@@ -85,7 +86,7 @@ DSM i guess idk my video didnt show me anything
 - Show Dungeon Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - Show Drag Counter - ?
 - Show Door Opener - ?
-- Show Dungeon Map - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
+- Show Dungeon Map - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - Remove Armor Stands - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Show Crypts Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
@@ -113,7 +114,7 @@ DSM i guess idk my video didnt show me anything
 
 ### Solvers
 
-Skytils lol
+- All solvers - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ## Quality of Life
 
@@ -148,7 +149,7 @@ Skytils lol
 ### Chat
 
 - Use Chat Filters - Hypixel?
-- Hide Coop Chat - ToggleChat?
+- Hide Coop Chat -[boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases)
 - Hide Dicer Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ### Performance
