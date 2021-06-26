@@ -1,6 +1,6 @@
 # Alternatives
 
-## Descritpion
+## Description
 
 This repo contains many alternatives to poorly made clients, mods, and modpacks.  
 Anybody may use this repo for their own work as long as credit is properly given in the form of my name and a link to this repo.
