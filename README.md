@@ -12,4 +12,4 @@ Anybody may use this repo for their own work as long as credit is properly given
 - If you are going to update/add a mod, make sure that you change/add it on every list where applicable
 - I reserve the right to cherrypick changes and add them myself (with due credit to you)
 - Add your name to credits in alphabetical order, even for the tiniest of change
-  - Preferabbly link to your GitHub account, though you may link to something else if you wish
+  - Preferably link to your GitHub account, though you may link to something else if you wish
