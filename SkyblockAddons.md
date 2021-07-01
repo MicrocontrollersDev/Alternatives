@@ -1,4 +1,6 @@
-# WARNING
+# Apparently SBA 1.6 is releasing in July so I'm glad I didn't spend to much time on this lol. This will be deleted when 1.6 releases.
+
+## WARNING
 
 This list is in no way even closed to finished and should not be shared; this is still being created and will not be organized for a while. It also may be removed at any time due to the sheer amount of features in SBA that do not/will not have an alternative in the near future, or be shortened to only 1.6 beta specific features
 
