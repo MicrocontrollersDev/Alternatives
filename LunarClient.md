@@ -20,7 +20,7 @@
 - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [Rocco's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Freelook** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - **Motion Blur** - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) (Must join Sk1er Discord for link to work) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
-- **Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher), [Wyvest's Wyvtilities (for Chat Name Highlight)](https://github.com/wyvest/Wyvtilities/releases/tag/v0.4.0)
 - **Scrollable Tooltips** - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 - **UHC Overlay** - None (Resourcepacks work instead)
 - **Particle Multiplier** - [Dewgs's Particle Mod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s) & [Aycy's On Hit Particles](https://youtu.be/0PPR_t-qyfw)  (for sharp/crit) / [Javlin's Sharpness Particles](https://www.youtube.com/watch?v=UPqOL3WWhaw)
