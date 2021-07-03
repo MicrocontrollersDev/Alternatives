@@ -64,6 +64,7 @@
     -   **Chat Messages Notifications** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
     -   **Chat Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
     -   **Chat size** - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
+    -   **Emphasize username in chat" - [Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest)
 -   **Cosmetics** - [Sk1er's ModCore](https://sk1er.club/modcore) (Capes violate EULA and are therefore not included)
 -   **Sprays**
 -   **Replay Mod** - [Replay Mod](https://www.replaymod.com/download/)
