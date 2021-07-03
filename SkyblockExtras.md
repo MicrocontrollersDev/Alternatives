@@ -4,7 +4,7 @@ SkyblockExtras is a mod that has many incompatibilities, performance issues, gen
 
 List is a WIP. Anything with just a ?, I either do not know of an alternative or I do not know what the feature even is. Anything with a ? after mod is things I think offer an alternative but I'm not sure of.
 
-Since I also do not have a full list of features, this is going off of a relatively old YouTube video. There is nothing I can do about this.
+Since I also do not have a full list of features, this is going off of a relatively old YouTube video. There is nothing I can do about this until a list of features is released (why doesn't the paid mod already provide this... if I'm paying for something, I'd like to know what I'm paying for).
 
 ## General
 
