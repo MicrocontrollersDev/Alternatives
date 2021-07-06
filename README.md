@@ -2,7 +2,7 @@
 
 ## Discord Server
 
-[Join my Discord for news regarding the development of this repository!](https://discord.gg/eXkMKCqtfQ
+[Join my Discord for news regarding the development of this repository!](https://discord.gg/eXkMKCqtfQ)
 
 ## Description
 
