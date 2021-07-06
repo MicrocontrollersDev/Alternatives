@@ -1,5 +1,9 @@
 # Alternatives
 
+## Discord Server
+
+[Join my Discord for news regarding the development of this repository!](https://discord.gg/eXkMKCqtfQ
+
 ## Description
 
 This repo contains many alternatives to poorly made clients, mods, and modpacks.  
