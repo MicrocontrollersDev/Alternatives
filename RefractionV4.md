@@ -32,6 +32,8 @@
   - Skypixel is old, not maintained, and has many features that are either useless, or simply do not work anymore.
 - [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md)
   - LabyMod causes many issues with other mods, and has many alternatives that can be used without messing up other mods.
+- [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockExtras.md) (if you bought it)
+  - SBE breaks EULA, breaks some licenses, leads to poor FPS, and has much better free alternatives for all of its important features. 
 
 # Contributors
 - [JackedUp21](https://github.com/JackedUp21)
