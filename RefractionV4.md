@@ -19,7 +19,7 @@
 - [**Canalex's Keystrokes with Sk1er's**](https://sk1er.club/mods/keystrokesmod)
   - Old and no longer maintained. Sk1er's will continue to receive updates once ModCore 2 is released.
 - [**spiderfrog's old animations with Sk1er's**](https://sk1er.club/beta)
-  - Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes.
+  - Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes. Sk1er's is more accurate to 1.7 and has better compatibility and no bloat.
 
 ## Remove
 - **ModCore Container**
