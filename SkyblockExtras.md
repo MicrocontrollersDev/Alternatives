@@ -17,7 +17,7 @@ Since I also do not have a full list of features, this is going off of a relativ
 - Larger Heads - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Big Items - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Scale with Rarity - ?
-- Dark Auction Warning - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
+- Dark Auction Warning - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - Golem Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Jerry Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
@@ -106,7 +106,7 @@ DSM i guess idk my video didnt show me anything
 
 ### Miscellaneous
 
-- Fix Spirit Boots - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- Fix Spirit Boots - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - Copy Fails - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Show Armor Color - ?
 - Show Item Quality - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)

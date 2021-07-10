@@ -4,8 +4,8 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 
 ## QOL
 
-- **Jungle Axe Cooldown** - [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
-- **Grappling Hook Cooldown** - [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
+- **Jungle Axe Cooldown** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Grappling Hook Cooldown** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Zealot Respawn Cooldown** - None
 - **Placed Summoning Eye Tracker** - None
 - **Leave Party when Last Eye Placed** - None
@@ -21,11 +21,11 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - **Fancy Color for Supporters** - Irrelevant
 - **Show Item Rarity** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Item Rarity Opacity** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Make Special Zealot Held Gold Block** - [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
+- **Make Special Zealot Held Gold Block** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Hitbox Render Mode** - None
 - **Glowing Dragon Armor** - None
 - **Disable Block Particles** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Fix Skyblock Enchant Tag** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
+- **Fix Skyblock Enchant Tag** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Disable Night Vision** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Display Realtime Ping** - None
 

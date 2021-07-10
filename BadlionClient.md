@@ -72,7 +72,7 @@
 -   **TeamSpeak Mod** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 -   **MumbleLink** - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154/files/all?filter-game-version=2020709689%3A5806)
 -   **Timers** - [LlamaLad's BLCTimers](https://github.com/LlamaLad7/blctimers/releases/latest)
--   **SkyBlock Addons** - [Biscuit's SBA](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
+-   **SkyBlock Addons** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 -   **NotEnoughUpdates** - [Moulberry's NEU](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 
 # Contributors
