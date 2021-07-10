@@ -1,6 +1,7 @@
 ## Lunar Client Alternatives
-
-# Mods
+</details>
+<details>
+  <summary>Mods</summary>
 
 - **1.7 Visuals** - [Sk1er's Old Animations (Beta](https://sk1er.club/beta) - Only currently available in Sk1er's Discord) / [Aycy's Damage Tint](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/)
 - **FPS** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
@@ -54,7 +55,9 @@
 
 # Settings
 
-## HUD Options
+</details>
+<details>
+  <summary>HUD Options</summary>
 
 - **Shift Effects in Inventory** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Achievements** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -64,50 +67,59 @@
 - **Show HUD in F3** - Irrelevant 
 - **Disable Friend Menu** - Irrelevant ([Sk1er's ModCore](https://sk1er.club/modcore) for Friends Menu)
 - **Use Minecraft GUI Scale** - Irrelevant
-
-## Cosmetic Options
+</details>
+<details>
+  <summary>Cosmetic Options</summary>
 
 - **Cosmetics** - [Sk1er's ModCore](https://sk1er.club/modcore) (Capes Violate EULA and are therefore not included)
 - **Show Nametag Icon** - Irrelevant
 - **Third Person Nametag** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Tab Icon** - [Sk1er's ModCore](https://sk1er.club/modcore)
-
-## Misc Options
+</details>
+<details>
+  <summary>Misc Options</summary>
 
 - **Borderless Fullscreen** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Disable Weather** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Scroll to Zoom** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-
-## Texture Pack Options
+</details>
+<details>
+  <summary>Texture Pack Options</summary>
 
 - **Transparent Background** - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - **Red String** - Texture Pack
+</details>
 
 # Performance
-
-## General
-
+<details>
+  <summary>General</summary>
+  
 - **Hide Enderportals** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Full Bright** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Enchantment Glint** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Lazy Chunk Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-
-## Entity Options
+</details>
+<details>
+  <summary>Entity options</summary>
 
 - **Shadow** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Entities** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Tile Entities** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+</details>
 
-# Other
-
+## Other
+<details>
+  <summary>Other</summary>
+  
 - **Vanilla Bug Fixes** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Custom Main Menu** - [Lumien231's Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
 - **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/)
 - **In Game Account Switcher** - [The_Fireplace's InGameAccountSwitcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher/files/all?filter-game-version=2020709689%3A5806)
 - **In Game Server Switcher** - [Canalex's InGameServerSwitcher](https://www.youtube.com/watch?v=04EangMQd7I) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Save Controls Between Versions** - [leduyquang753's Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/)
-
-# Credits
+</details> 
+<details> 
+  <summary>Credits</summary>
 
 - [asbyth](https://github.com/asbyth)
 - [Karmette](https://github.com/karmette)
@@ -116,3 +128,4 @@
 - [Solonovamax](https://github.com/solonovamax)
 - [Wyvest](https://github.com/wyvest)
 - [Zoudy](https://github.com/zoudywastaken)
+</details>
