@@ -55,7 +55,10 @@ Since I also do not have a full list of features, this is going off of a relativ
 
 ## Trackers
 
-DSM i guess idk my video didnt show me anything
+I am unsure of exactly what trackers SBE provides, but here are mods that may replace them:
+- [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 
 ## Pets
 
