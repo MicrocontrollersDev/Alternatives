@@ -27,14 +27,14 @@ Since I also do not have a full list of features, this is going off of a relativ
 
 ### Dwarven Mines
 
-- Show Mine Map - SBH?
+- Show Mine Map - [ThatGravyBoat's SkyblockHUD](discord.gg/moulberry)
 - Notify Events - ?
 - Raffle Timer Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Puzzler Solver - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Puzzler Timer - ?
 - Mine Waypoints - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - Notify Ability Cooldown - ?
-- Show Fuel Display - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- Show Fuel Display - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - Show Compact Features - ?
 - Show Forge Timer - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - Show Commissions Tracker - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
@@ -59,6 +59,7 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 
 ## Pets
 
@@ -146,12 +147,12 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 - Remove Enchant Glow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Hide Fire Display - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Show Builder's Wand Overlay - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- Hide WitherBorn Shadows - Minecraft (Patcher gonna fix huge shadows in 1.6)
+- Hide WitherBorn Shadows - Minecraft (Patcher will fix huge shadows in 1.6)
 - Hide Displayed Armor - ???
 
 ### Chat
 
-- Use Chat Filters - Hypixel?
+- Use Chat Filters - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Hide Coop Chat -[boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases)
 - Hide Dicer Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
