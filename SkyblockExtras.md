@@ -33,7 +33,7 @@ Since I also do not have a full list of features, this is going off of a relativ
 - Puzzler Solver - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Puzzler Timer - ?
 - Mine Waypoints - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- Notify Ability Cooldown - ?
+- Notify Ability Cooldown - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) (/trackcooldown)
 - Show Fuel Display - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - Show Compact Features - ?
 - Show Forge Timer - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
@@ -88,7 +88,7 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 ### General
 
 - Show Dungeon Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- Show Drag Counter - ?
+- Show Drag Counter - SBA?
 - Show Door Opener - ?
 - Show Dungeon Map - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - Remove Armor Stands - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -138,7 +138,7 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 - Color Enchants - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - Show Ender Chest Previews - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - Show Custom Ender Chest Names - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- Show Block Zapper Destroyed Blocks - NEU?
+- Show Block Zapper Destroyed Blocks - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - Hub Colors - ?
 - Prettify Damage Markings - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Show Custom Dyed Armor - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
