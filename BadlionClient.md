@@ -2,7 +2,7 @@
 
 ## To see a list of reasons why you shouldn't use Badlion Client, check out [Wyvest's list here! (WIP)](https://github.com/wyvest/why-badlion-is-bad/blob/main/README.md)
 
--   **1.7 Animations** - [Sk1er's Old Animations (Beta](https://sk1er.club/beta) - Available in Sk1er Discord for now, currently missing item switch)
+-   **1.7 Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
 -   **Armor Status** - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 -   **AutoGG** - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
 -   **Autotext** (!!! Bannable on Hypixel !!!) - [MacroKey's Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
@@ -59,13 +59,13 @@
     -   **24 Hour Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **Fancy Fonts** - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
     -   **Filter DMs**
-    -   **Vanilla Background**
+    -   **Vanilla Background** - Irrelevant
     -   **Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **Chat Messages Notifications** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
     -   **Chat Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
     -   **Chat size** - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
     -   **Emphasize username in chat** - [Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest)
--   **Cosmetics** - [Sk1er's ModCore](https://sk1er.club/modcore) (Capes violate EULA and are therefore not included)
+-   **Cosmetics** - Sk1er's Essential
 -   **Sprays**
 -   **Replay Mod** - [Replay Mod](https://www.replaymod.com/download/)
 -   **Schematica Mod** - [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147/files/all?filter-game-version=2020709689%3A5806)

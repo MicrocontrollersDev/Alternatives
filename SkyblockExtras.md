@@ -147,7 +147,7 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 - Remove Enchant Glow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Hide Fire Display - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - Show Builder's Wand Overlay - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- Hide WitherBorn Shadows - [Sk1er's Patcher Beta](https://sk1er.club/beta) (fixes huge shadows, makes them small)
+- Hide WitherBorn Shadows - [Sk1er's Patcher Beta](https://sk1er.club/beta) (doesn't remove shadows, fixes the bug instead)
 - Hide Displayed Armor - ???
 
 ### Chat

@@ -8,13 +8,13 @@
 
 - **Ping in Tablist** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Permission Changes** - Irrelevant
-- **LabyMod User Indicator** - [Sk1er's Modcore](https://sk1er.club/mods/modcore) (uses ModCore indicator instead)
+- **LabyMod User Indicator** - Sk1er's Essential
 - **Out of Memory Warning** - None (Check F3)
 </details>
 <details>
   <summary>Animations</summary>
 
-- **1.7 Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (follow the steps, currently missing item switch animation)
+- **1.7 Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
 </details>
 <details>
   <summary>BugFixes</summary>
@@ -31,7 +31,7 @@
 - **Chunk Caching** - None, servers must have support for it anyway.
 - **Fast World Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Entities Behind Blocks** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Hide Backside of Entitities** - None ([Sk1er Patcher](https://sk1er.club/mods/patcher) will most likely help performance more than this does)
+- **Hide Backside of Entitities** - [Sk1er's Patcher Beta](https://sk1er.club/beta)
 </details>
 <details>
   <summary>Chat</summary>
@@ -60,8 +60,8 @@
 - **Server Information at Direct Connect** - None
 - **Confirm Disconnect** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Quickplay** - None
-- **Public Server List** - none
-- **Multiplayer Menu Ingame** - [Canalex's InGameServerSwitcher](https://www.youtube.com/watch?v=04EangMQd7I) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Public Server List** - Sk1er's Essential
+- **Multiplayer Menu Ingame** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Borderless Window** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Improved Skin Customization** - None ([Sk1er's Patcher](https://sk1er.club/mods/patcher) does add 1.9+ skin transparency however)
 - **Better Shader Selection** - None
@@ -179,7 +179,7 @@
 - **Focus Movement Fix** - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
 </details>
 <details>
-  <summary>Contributers</summary>
+  <summary>Contributors</summary>
 
 - [Asbyth](https://github.com/asbyth)
 - [Coolbird1234](https://twitter.com/dankbird1234)
