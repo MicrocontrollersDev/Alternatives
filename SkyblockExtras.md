@@ -2,9 +2,7 @@
 
 SkyblockExtras is a mod that has many incompatibilities, performance issues, general issues, among other things. For this reason, it is not recommended to use the mod, and instead use other mods that provide similar features.
 
-List is a WIP. Anything with just a ?, I either do not know of an alternative or I do not know what the feature even is. Anything with a ? after mod is things I think offer an alternative but I'm not sure of.
-
-Since I also do not have a full list of features, this is going off of a relatively old YouTube video. There is nothing I can do about this until a list of features is released (why doesn't the paid mod already provide this... if I'm paying for something, I'd like to know what I'm paying for).
+List is a WIP. I have not got around to checking most features and their alternatives. If you know of any or would like to confirm any of mine, feel free to make a PR, issue, or ping me on my discord server.
 
 ## General
 
@@ -12,11 +10,16 @@ Since I also do not have a full list of features, this is going off of a relativ
 
 - **Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Milestones** - ?
-- **Show Auction Data** - NEU?
+- **Show Auction Data** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Century Cake Timer** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - **Larger Heads** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Big Items** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Scale with Rarity** - ?
+
+### Notifications
+
+- **Announce Rare Drops** - ?
+- **Copy Rare Drops** - ?
 - **Dark Auction Warning** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Golem Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Jerry Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
@@ -25,14 +28,22 @@ Since I also do not have a full list of features, this is going off of a relativ
 
 - **Experimentation Helper** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 
+### Rarity Colors
+
+- **Render Item Rarities** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+
 ### Dwarven Mines
 
 - **Show Mine Map** - [ThatGravyBoat's SkyblockHUD](discord.gg/moulberry)
 - **Notify Events** - ?
+- **Mute Wind Changes** - ?
 - **Raffle Timer Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Gourmand Time Warning** - ?
 - **Puzzler Solver** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Puzzler Timer** - ?
 - **Mine Waypoints** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Show Area Waypoints** - ?
+- **Show Target Waypoints** - ?
 - **Notify Ability Cooldown** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) (/trackcooldown)
 - **Show Fuel Display** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Compact Features** - ?
@@ -47,19 +58,134 @@ Since I also do not have a full list of features, this is going off of a relativ
 - **Show Golden Goblin Warning** - ?
 - **Show Skymall Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
+### Crystal Hollows
+
+- **Show Hollows Map** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Show Blocks Walked** - ?
+- **Show Gemstone Buffs** - ?
+- **Show pickonimbus Durability**
+- **Show Crystall Hollow Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Auto Add Mining Waypoints** - ?
+- **Add Parsed Crystall Hollows Waypoints** - ?
+- **Ignore Waypoint Parse Messages** - ?
+- **Save Waypoints across Instances** - ?
+- **Show Breadcrumbs in Hollows** - ?
+- **Use Footstep Particles** - ?
+- **Show Mining Pass Duration** - ?
+- **Show Automaton Parts** - ?
+- **Treasure Chest Helper** - ?
+- **Metal Detector Locator** - ?
+- **Show Metal Detector Waypoint** - ?
+- **Auto Renew Mining Pass** - ?
+
 ### Spider's Den
 
-- **Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Show Spider's Den Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Arachne HP** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Arachne Counter** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
+### Farming Island
+
+- **Treasure Hunter Solver** - SBA?
+
+### End Island
+
+- **Show Soul Flow Display** - ?
+- **Show Excess Mana** - ?
+- **Merge Excess Mana** - ?
+- **Show Active Items** - ?
+- **Hide Zero Damange Nametags** - ?
+- **Show Voidgloom Info** - ?
+- **Highlight Skull Textures** - ?
+- **Highlight Beacon Blocks - ?
+- **Show Beacon Warning** - Skytils?
+- **Show only for Own Boss** - ?
+- **Pick Block Mark Boss** - ?
+- **Highlight Endermen Stages** - ?
+- **Hide Beam Attack** - ?
+- **Hide Enderman Hurt Effects** - ?
+- **Stop Enderman Teleportation** - SBA?
+- **Mute Enderman Sounds** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Mute Player Sounds** - ?
+
 ## Trackers
 
-I am unsure of exactly what trackers SBE provides, but here are mods that may replace them:
-- [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+### General
+
+- **Start Session** - ?
+- **Stop Session** - ?
+
+### Slayer
+
+- **Show Slayer Counter** - ?
+- **Auto Select Slayer** - ?
+- **Reset Counter on Restart** - ?
+- **Show Miniboss Spawn** - ?
+- **Lock Slayer Type** - ?
+- **Maddox Dial** - ?
+- **Innactive Quest Warning** - ?
+- **Boss Soon Warning** - SBA?
+- **Show Boss Slain Time** - ?
+
+
+### Fishing
+
+- **Show Fishing Counter** - ?
+- **Show General Counter** - ?
+- **Toggle Winter Counter** - ?
+- **Toggle Shark Counter** - ?
+- **Toggle Spooky Counter** - ?
+- **Toggle Mining Fishing Counter** - ?
+- **Auto Select Counter** - ?
+
+### Fishing Statistics
+
+- **Show General Stats** - ?
+- **Show Winter Stats** - ?
+- **Show Shark Stats** - ?
+- **Show Spooky Stats** - ?
+- **Show Mining Fishing Stats** - ?
+
+### Fishing QOL
+
+- **Hide Fishing Rods** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) & [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Show Expertise Kills** - ?
+
+### Fishing Utilities
+
+- **Show Dolphin Pet Display** - Skytils?
+- **Spider's Den Rain Timer** - SBA?
+- **Fishing Timer** - ?
+
+### Skills
+
+- **Revert EXP Display** - ?
+- **Show Custom Skill Display** - SBA?
+- **Show Skill Trackers** - DSM?
+- **Show EXP Rate** - ?
+- **Show Time Change** - ?
+- **Show Actions Needed** - ?
+- **Show Time Needed** - ?
+- **Show Total Information** - ?
+
+### Mythos
+
+- **Show Mythos Counter** - ?
+- **Shows Rare Mythos Drops** - ?
+- **Announce Mythos Loot** - ?
+- **Ping Nearby Particles** - ?
+- **Show Red Footsteps** - Resoucepack I guess
+- **Show Red Gaias** - ?
+- **Show Diana Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Show Refresh Duration** - ?
+
+### Miscellaneous
+
+- **Show Golem Counter** - ?
+- **Show Dragon Counter** - ?
+- **Show Farming Counter** - ?
+- **Show Ghost Counter** - ?
+- **Show Legion Counter** - ?
 
 ## Pets
 
@@ -70,11 +196,7 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 
 ### Pet Display
 
-- **Use Icon Display** -[Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- **Change Revolution per Min** - ?
-- **Show Pet EXP** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- **Use Total Pet EXP** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- **Show Percentage Needed** - ?
+- **Pet Display** -[Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 
 ### General
 
@@ -82,13 +204,16 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 - **Hide Pet Nametags** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / Hypixel
 - **Hide AutoPet Messages** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide Pet Candies** - ?
+- **Mute Rat Pet** - ?
 
 ## Dungeon
 
 ### General
 
 - **Show Dungeon Counter** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Show Drag Counter** - SBA?
+- **Edit Dungeon Floor** - ?
+- **Show Dungeon Profit** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Show Fag Counter** - SBA?
 - **Show Door Opener** - ?
 - **Show Dungeon Map** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Remove Armor Stands** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -96,6 +221,7 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 
 ### Display
 
+- **Nearby Tank Warning** - ?
 - **Show Run Overview** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Score Approximation** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Custom Splits** - ?
@@ -132,10 +258,18 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 - **Show Soul Eater Data** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - **Show Cultivating Count** - ?
 - **Left Click Zapper Undo** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / NEU?
+- **Track Ability Messages** - ?
+- **Show Wither Shield Duration** - ?
+- **Show EXP in Minions** - ?
 
 ### Visual
 
 - **Color Enchants** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Show Selected Arrow** - ?
+- **Freeze Previews** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Show Storage Previews** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Cache Backpack Data** - ?
+- **Show Custom Backpack Name** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show Ender Chest Previews** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show Custom Ender Chest Names** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show Block Zapper Destroyed Blocks** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
@@ -146,13 +280,22 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 - **Show Enchant Glow** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Remove Enchant Glow** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide Fire Display** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Hide Lightning** - ?
 - **Show Builder's Wand Overlay** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- **Hide WitherBorn Shadows** - [Sk1er's Patcher Beta](https://sk1er.club/beta) (doesn't remove shadows, fixes the bug instead)
-- **Hide Displayed Armor** - ???
+- **Hide WitherBorn Shadows** - [Sk1er's Patcher Beta](https://sk1er.club/beta) (doesn't remove shadows, fixes the bug instead) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) (for bossbar)
+- **Hide Displayed Armor** - ?
+- **Show Damage Vignette** - ?
+- **Modify Visual Words** - ?
+
+### Bazaar
+
+- **Sort Sack Prices** - ?
+- **Highlight Insta-Sell Items** - ?
 
 ### Chat
 
 - **Use Chat Filters - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Hide Sea Creature Messages** - ?
 - **Hide Coop Chat** -[boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases)
 - **Hide Dicer Messages** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
@@ -161,6 +304,21 @@ I am unsure of exactly what trackers SBE provides, but here are mods that may re
 - **Hide Non Crits** - ?
 - **Hide Block Destroy Particles** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Staff Falling Blocks** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Hide Hurt Effects** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+
+### Misc
+
+- **Show Damage Calculations** - ?
+- **Compact Damage Text** - ?
+
+### Use At Your Own Risk
+
+- **Hypixel Language** - ?
+- **Allow Repart Command** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Prevent Orb Placement** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Auto Reparty** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Auto Join Party** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Party Rejoin Filter** - ?
 
 # Contributors
 
