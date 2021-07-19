@@ -332,6 +332,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - [Koxx12](https://github.com/koxx12-dev)
 - [Lily](https://github.com/My-Name-Is-Jeff)
 - [Lizzy](https://github.com/LizzyMaybeDev)
+- [Lucasyh](https://github.com/Lucasyh)
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
 - [nacrt](https://github.com/nacrt)
 - [Proudmuslim](https://github.com/proudmuslim-dev)
