@@ -51,12 +51,12 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Show Target Waypoints** - ?
 - **Notify Ability Cooldown** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) (/trackcooldown)
 - **Show Fuel Display** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
-- **Show Compact Features** - ?
+- **Show Compact Features** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Forge Timer** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show Commissions Tracker** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show Mining Tracker** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show Star Cult Timer** - ?
-- **Show Events Display** - ?
+- **Show Events Display** - SkyblockHUD?
 - **Show Titanium Warning** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show Golden Goblin Warning** - ?
 - **Show Skymall Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
@@ -66,13 +66,13 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Show Hollows Map** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
 - **Show Blocks Walked** - ?
 - **Show Gemstone Buffs** - ?
-- **Show pickonimbus Durability** - ?
-- **Show Crystall Hollow Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Auto Add Mining Waypoints** - ?
+- **Show Pickonimbus Durability** - ?
+- **Show Crystall Hollow Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / SkyblockHUD?
+- **Auto Add Mining Waypoints** - [ThatGravyBoat's SkyblockHUD](discord.gg/moulberry)
 - **Add Parsed Crystall Hollows Waypoints** - ?
 - **Ignore Waypoint Parse Messages** - ?
 - **Save Waypoints across Instances** - ?
-- **Show Breadcrumbs in Hollows** - ?
+- **Show Breadcrumbs in Hollows** - [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
 - **Use Footstep Particles** - ?
 - **Show Mining Pass Duration** - ?
 - **Show Automaton Parts** - ?
@@ -94,7 +94,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### End Island
 
 - **Show Soul Flow Display** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Show Excess Mana** - SBA?
+- **Show Excess Mana** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Merge Excess Mana** - ?
 - **Show Active Items** - ?
 - **Hide Zero Damange Nametags** - ?
@@ -108,7 +108,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Hide Enderman Hurt Effects** - ?
 - **Stop Enderman Teleportation** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Mute Enderman Sounds** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Mute Player Sounds** - ?
+- **Mute Player Sounds** - Patcher?
 
 ## Trackers
 
@@ -158,14 +158,14 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ### Skills
 
-- **Revert EXP Display** - ?
-- **Show Custom Skill Display** - SBA?
+- **Revert EXP Display** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Show Custom Skill Display** - ?
 - **Show Skill Trackers** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - **Show EXP Rate** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - **Show Time Change** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Show Actions Needed** - ?
+- **Show Actions Needed** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Time Needed** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Show Total Information** - ?
+- **Show Total Information** - DSM?
 
 ### Mythos
 
@@ -195,15 +195,15 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ### Pet Display
 
-- **Pet Display** -[Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Pet Display** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 
 ### General
 
 - **Allow Favoriting Pets** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Hide Pet Nametags** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / Hypixel
+- **Hide Pet Nametags** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide AutoPet Messages** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide Pet Candies** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Mute Rat Pet** - ?
+- **Mute Rat Pet** - Patcher?
 
 ## Dungeon
 
@@ -255,15 +255,15 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Hide Item Durability** - ?
 - **Better Crop Hitboxes** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Soul Eater Data** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Show Cultivating Count** - ?
-- **Left Click Zapper Undo** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / NEU?
+- **Show Cultivating Count** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Left Click Zapper Undo** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Track Ability Messages** - ?
 - **Show Wither Shield Duration** - ?
 - **Show EXP in Minions** - ?
 
 ### Visual
 
-- **Color Enchants** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Color Enchants** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Selected Arrow** - ?
 - **Freeze Previews** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Storage Previews** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
@@ -293,7 +293,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ### Chat
 
-- **Use Chat Filters - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Use Chat Filters** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide Sea Creature Messages** - ?
 - **Hide Coop Chat** -[boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases)
 - **Hide Dicer Messages** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
@@ -334,6 +334,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
 - [nacrt](https://github.com/nacrt)
 - [Proudmuslim](https://github.com/proudmuslim-dev)
+- [RayDeeUx](https://github.com/RayDeeUx)
 - [stef-the](https://github.com/stef-the)
 - [Sychic](https://github.com/Sychic)
 - [Wyvest](https://github.com/Wyvest)
