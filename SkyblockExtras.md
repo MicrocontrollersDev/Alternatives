@@ -4,11 +4,6 @@ SkyblockExtras is a mod that has many incompatibilities, performance issues, gen
 
 List is a WIP. I have not got around to checking most features and their alternatives. If you know of any or would like to confirm any of mine, feel free to make a PR, issue, or ping me on my discord server.
 
-# To Be Sorted
-
-- **Hide Mage Beams From Other Players**
-- **Worm Notifier Warning**
-
 ## General
 
 ### Miscellaneous
@@ -80,6 +75,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Metal Detector Locator** - ?
 - **Show Metal Detector Waypoint** - ?
 - **Auto Renew Mining Pass** - ?
+- **Worm Notifier Warning** - ?
 
 ### Spider's Den
 
@@ -240,6 +236,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Show Armor Color** - ?
 - **Show Item Quality** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 - **Show Spirit Names** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Hide Mage Beams From Other Players** - ?
 
 ### Solvers
 
