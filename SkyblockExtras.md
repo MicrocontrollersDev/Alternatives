@@ -295,7 +295,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 - **Use Chat Filters** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide Sea Creature Messages** - ?
-- **Hide Coop Chat** -[boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases)
+- **Hide Coop Chat** -[Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases)
 - **Hide Dicer Messages** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ### Performance
