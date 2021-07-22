@@ -59,7 +59,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### Crystal Hollows
 
 - **Show Hollows Map** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
-- **Show Blocks Walked** - ?
+- **Show Blocks Walked** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Gemstone Buffs** - ?
 - **Show Pickonimbus Durability** - ?
 - **Show Crystall Hollow Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / SkyblockHUD?
