@@ -7,7 +7,7 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - **Jungle Axe Cooldown** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Grappling Hook Cooldown** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Zealot Respawn Cooldown** - None
-- **Placed Summoning Eye Tracker** - None
+- **Placed Summoning Eye Tracker** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Leave Party when Last Eye Placed** - None
 - **Lobby Player Viewer** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - **Auction Bid Confirm Value** - None
