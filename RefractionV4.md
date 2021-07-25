@@ -6,7 +6,7 @@
 - [**Patcher**](https://sk1er.club/mods/patcher)
 - [**SkyblockAddons**](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - [**BlockOverlay**](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
-- [**PerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
+- [**PerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/tag/v4.3)
 - [**Scrollable tooltips**](https://sk1er.club/mods/text_overflow_scroll)
 - [**AutoGG**](https://sk1er.club/mods/autogg)
 - [**Levelhead**](https://sk1er.club/mods/level_head)

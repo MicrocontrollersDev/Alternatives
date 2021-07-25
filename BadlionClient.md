@@ -36,7 +36,7 @@
 -   **Motion Blur** - [Moulberry Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) (Must join Sk1er Discord for link to work) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 -   **Nick Hider** - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
 -   **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/tag/1.2)
--   **Particle Mod** - [Dewgs's ParticleMod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s) / [Aycy's OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw)
+-   **Particle Mod** - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
 -   **Perspective Mod** - [DJtheRedstoner Perspective Mod](https://inv.wtf/djperspective)
 -   **Ping HUD** - [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 -   **Potion Status** - [Powns's PotionHud](https://download.powns.dev/potionhud189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)

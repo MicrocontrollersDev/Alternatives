@@ -23,7 +23,7 @@
 - **Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher), [Wyvest's Wyvtilities (for Chat Name Highlight)](https://github.com/wyvest/Wyvtilities/releases/latest)
 - **Scrollable Tooltips** - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 - **UHC Overlay** - None (Resourcepacks work instead)
-- **Particle Multiplier** - [Dewgs's Particle Mod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s) & [Aycy's On Hit Particles](https://youtu.be/0PPR_t-qyfw)  (for sharp/crit) / [Javlin's Sharpness Particles](https://www.youtube.com/watch?v=UPqOL3WWhaw)
+- **Particle Multiplier** - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
 - **Cooldowns** - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
 - **WorldEdit CUI** - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
 - **Clock** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
