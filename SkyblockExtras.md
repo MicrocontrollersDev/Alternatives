@@ -206,7 +206,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### General
 
 - **Show Dungeon Counter** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Edit Dungeon Floor** - ?
+- **Edit Dungeon Floor** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - **Show Dungeon Profit** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Frag Counter** - SBA?
 - **Show Door Opener** - ?
