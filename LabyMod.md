@@ -8,7 +8,7 @@
 
 - **Ping in Tablist** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Permission Changes** - Irrelevant
-- **LabyMod User Indicator** - Sk1er's Essential
+- **LabyMod User Indicator** - Sk1er's Essential (indicates Essential instead)
 - **Out of Memory Warning** - None (Check F3)
 
 ### Animations
@@ -19,9 +19,9 @@
 
 - **Lava Optimization** - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
 - **Optimize Soup & Potion Refill** (**!!! Bannable on Hypixel !!!**) - None
-- **Synchronised Crosshair** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Synchronised Crosshair** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Blockhit** - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
 - **Particle Optimization** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **MouseBindFix** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Performance
 
@@ -29,6 +29,7 @@
 - **Fast World Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Entities Behind Blocks** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Backside of Entitities** - [Sk1er's Patcher Beta](https://sk1er.club/beta)
+- **Markers** - None
 
 ### Minecraft Chat
 
@@ -39,8 +40,8 @@
 - **Shortcuts** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Player Menu** - None
 - **Disable Chat Background** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-- **Advanced Chat Settings** - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 - **Adjustable Chat** - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+- **Advanced Chat Settings** - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 - **Secondary Chat** - [5Zig's Reborn](https://5zigreborn.eu/)
 
 ### PvP
@@ -70,7 +71,11 @@
 - **Sign Search** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Left Hand** - None
 - **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/)
-</details>
+- **Custom Name Tags** - None
+
+### Cosmetics
+
+- **Cosmetics** - Sk1er's Essential
 
 ## Ingame GUI 
 
@@ -97,18 +102,21 @@
 
 ### Items
 
-
 - **Armor Status** - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 
 ## External Services
   
 - **YouTube Subscriber** - None
+- **Voice Chat** - None
 
 ## Miscellaneous
 
 - **AFK Time** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Click Test** -  None
 - **Lava Challenge Time** - none
+- **ToggleSneak Info** - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
+- **Laby's MiniMap** (!!! Bannable on Hypixel !!!) - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/latest)
+- **DirectionHUD** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 
 ## Addons
 
@@ -120,6 +128,7 @@
 - **BetterHat** - None
 - **Better Perspective** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - **BetterScreenshot** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **ChatCopper** - Hychat
 - **ChatLog** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/)
 - **ChatTime** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **ChatTranslator** - None
@@ -136,10 +145,12 @@
 - **DamageIndicator** (**!!! Bannable on Hypixel !!!**) - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
 - **Direct Connect History** - None
 - **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) (doesn't require bspkrs core) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **EmoteChat** - None
 - **FastJoin** - None
 - **Friend Tags** - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases)
-- **FriendViewer** - [Sk1er's ModCore](https://sk1er.club/modcore)
+- **FriendViewer** - Sk1er's Essential
 - **FullBright** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Glint Colorizer** - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - **GUI Blur Mod** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 - **HDSkins** - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/all?filter-game-version=2020709689%3A5806)
 - **HeadOwner** - None
@@ -154,14 +165,19 @@
 - **MiniMap** (**!!! Bannable on Hypixel !!!**) - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
 - **More Particles** - [Dewgs's ParticleMod](https://www.mediafire.com/file/z42f9gzegatz9cq/%255B1.8.9%255DParticleMod-1.02.jar/file) / [Aycy's OnHitParticles](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - **Motion Blur** - [Moulberry's Motionblur (BETA)](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) (Must join Sk1er Discord for link to work) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
+- **NoBob** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **OptiFine** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Rainbow GUI** - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
 - **ResourcePack 24** - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds the ability to make folders and a better GUI)
 - **Send To Server** - None
+- **Settings Profile Mod** - [leduyquang753's Controls Saved](https://drive.google.com/uc?authuser=0&id=1di1XQ_JNcVOt2RyCyZncsua7Vi5ar_fo&export=download)
 - **ShinyPots** - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
+- **SkyblockAddons** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **SoundPlayer** - None
 - **Spotify** - [DecobrDev's MediaMod](https://www.curseforge.com/minecraft/mc-mods/mediamod/files/all?filter-game-version=2020709689%3A5806)
-- **Toggle Sneak** (Sneak & Sprint) - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
+- **Toggle Sneak** (Sneak & Sprint) - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - **ToggleTab** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Transulcent Skins** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Twitter** - None
 - **WorldEditCUI** - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
 - **VoiceChat** - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
