@@ -36,13 +36,13 @@
 - **Autotext** (**!!! Bannable on Hypixel !!!**) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) / [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Name History** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Chat Icons** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
-- **Chat Filter** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
+- **Chat Filter** - https://github.com/TymanWasTaken/Hychat / [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Shortcuts** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Player Menu** - None
-- **Disable Chat Background** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-- **Adjustable Chat** - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-- **Advanced Chat Settings** - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-- **Secondary Chat** - [5Zig's Reborn](https://5zigreborn.eu/)
+- **Disable Chat Background** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / https://github.com/TymanWasTaken/Hychat / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+- **Adjustable Chat** - https://github.com/TymanWasTaken/Hychat / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+- **Advanced Chat Settings** - https://github.com/TymanWasTaken/Hychat / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+- **Secondary Chat** - https://github.com/TymanWasTaken/Hychat / [5Zig's Reborn](https://5zigreborn.eu/)
 
 ### PvP
 
@@ -128,7 +128,7 @@
 - **BetterHat** - None
 - **Better Perspective** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - **BetterScreenshot** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **ChatCopper** - Hychat
+- **ChatCopper** - [Moulberry's and Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
 - **ChatLog** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/)
 - **ChatTime** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **ChatTranslator** - None
