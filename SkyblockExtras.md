@@ -90,12 +90,12 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### End Island
 
 - **Show Soul Flow Display** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Show Excess Mana** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Merge Excess Mana** - ?
+- **Show Excess Mana** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Merge Excess Mana** - SBA?
 - **Show Active Items** - ?
-- **Hide Zero Damange Nametags** - ?
+- **Hide Zero Damage Nametags** - ?
 - **Show Voidgloom Info** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Highlight Skull Textures** - ?
+- **Highlight Skull Textures** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Highlight Beacon Blocks** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Beacon Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show only for Own Boss** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
@@ -185,7 +185,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 ## Pets
 
 - **Pet Colors** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Show Active Pet** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Show Active Pet** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show EXP-Shared Pets** - ?
 - **AutoPet Enabled Colors** - ?
 
@@ -199,7 +199,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Hide Pet Nametags** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide AutoPet Messages** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide Pet Candies** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Mute Rat Pet** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / Patcher?
+- **Mute Rat Pet** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 
 ## Dungeon
 
@@ -216,7 +216,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ### Display
 
-- **Nearby Tank Warning** - ?
+- **Nearby Tank Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Run Overview** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Score Approximation** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Custom Splits** - ?
@@ -263,7 +263,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Show Selected Arrow** - SBA?
 - **Freeze Previews** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Storage Previews** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- **Cache Backpack Data** - NEU?
+- **Cache Backpack Data** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show Custom Backpack Name** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show Ender Chest Previews** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show Custom Ender Chest Names** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
@@ -304,7 +304,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### Misc
 
 - **Show Damage Calculations** - ?
-- **Compact Damage Text** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / Skytils?
+- **Compact Damage Text** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ### Use At Your Own Risk
 
