@@ -9,7 +9,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### Miscellaneous
 
 - **Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Show Milestones** - ?
+- **Show Milestones** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Auction Data** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Century Cake Timer** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 - **Larger Heads** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
