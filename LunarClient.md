@@ -26,23 +26,22 @@
 - **Day Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Crosshair** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **DirectionHUD** - [Bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) (doesn't require bspkrs core) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
+- **DirectionHUD** - [ReflxctionDev's Bspkrs DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **Potion Counter** - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
 - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Motion Blur** - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - **Chat**
-  - **Unlimited Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - **Stack Spam Messages** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - **Hide Ban Wave Messages**
-  - **Chat Height Fix** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+  - **Unlimited Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+  - **Stack Spam Messages** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat
+  - **Chat Height Fix** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Highlighted Name** - [Wyvest's Wyvtilities (for Chat Name Highlight)](https://github.com/wyvest/Wyvtilities/releases/latest)
-  - **Background Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - **Hide Incoming Messages**
+  - **Background Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+  - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+  - **Hide Incoming Messages** - None
   - **Stop Servers from Closing Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - **Chat Filter**
+  - **Chat Filter** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
 - **Nametags**
   - **Nametag Text Shadow** -  [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - **Third Person Nametag** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
