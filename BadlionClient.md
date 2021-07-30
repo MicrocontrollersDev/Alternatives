@@ -1,7 +1,5 @@
 # Badlion Client Alternatives
 
-## To see a list of reasons why you shouldn't use Badlion Client, check out [Wyvest's list here! (WIP)](https://github.com/wyvest/why-badlion-is-bad/blob/main/README.md)
-
 -   **1.7 Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
 -   **Armor Status** - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 -   **AutoGG** - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
