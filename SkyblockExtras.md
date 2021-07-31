@@ -2,7 +2,7 @@
 
 SkyblockExtras is a mod that has many incompatibilities, performance issues, general issues, among other things. For this reason, it is not recommended to use the mod, and instead use other mods that provide similar features.
 
-List is a WIP. I have not got around to checking most features and their alternatives. If you know of any or would like to confirm any of mine, feel free to make a PR, issue, or ping me on my discord server.
+List is a WIP. I have not got around to checking most features and their alternatives. If you know of any or would like to confirm any of mine, feel free to make a PR, issue, or ping me on [my discord server](https://discord.gg/eXkMKCqtfQ).
 
 ## General
 
