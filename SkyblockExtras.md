@@ -11,7 +11,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Milestones** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Auction Data** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Century Cake Timer** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Century Cake Timer** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Larger Heads** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Big Items** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Scale with Rarity** - ?
@@ -21,12 +21,12 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Announce Rare Drops** - Skytils?
 - **Copy Rare Drops** - ?
 - **Dark Auction Warning** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Golem Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Golem Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Jerry Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ### Experimentation
 
-- **Experimentation Helper** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Experimentation Helper** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Danker's DSM](https://discord.gg/QsEkNQS)
 
 ### Rarity Colors
 
@@ -62,7 +62,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Show Blocks Walked** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Gemstone Buffs** - ?
 - **Show Pickonimbus Durability** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Show Crystal Hollows Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / SkyblockHUD?
+- **Show Crystal Hollows Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Danker's DSM](https://discord.gg/QsEkNQS) / SkyblockHUD?
 - **Auto Add Mining Waypoints** - [ThatGravyBoat's SkyblockHUD](discord.gg/moulberry)
 - **Add Parsed Crystall Hollows Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Ignore Waypoint Parse Messages** - ?
@@ -110,28 +110,28 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ### General
 
-- **Start Session** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Stop Session** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Start Session** - [Danker's DSM](https://discord.gg/QsEkNQS)
+- **Stop Session** - [Danker's DSM](https://discord.gg/QsEkNQS)
 
 ### Slayer
 
-- **Show Slayer Counter** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Show Slayer Counter** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Show Miniboss Spawn** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Lock Slayer Type** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Maddox Dial** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Lock Slayer Type** - [Danker's DSM](https://discord.gg/QsEkNQS)
+- **Maddox Dial** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Inactive Quest Warning** - ?
 - **Boss Soon Warning** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Boss Slain Time** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 
 ### Fishing
 
-- **Show Fishing Counter** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Show Fishing Counter** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Show General Counter** - ?
-- **Toggle Winter Counter** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Toggle Shark Counter** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Toggle Spooky Counter** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Toggle Winter Counter** - [Danker's DSM](https://discord.gg/QsEkNQS)
+- **Toggle Shark Counter** - [Danker's DSM](https://discord.gg/QsEkNQS)
+- **Toggle Spooky Counter** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Toggle Mining Fishing Counter** - ?
-- **Auto Select Counter** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Auto Select Counter** - [Danker's DSM](https://discord.gg/QsEkNQS)
 
 ### Fishing Statistics
 
@@ -144,23 +144,23 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### Fishing QOL
 
 - **Hide Fishing Rods** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) & [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Show Expertise Kills** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Show Expertise Kills** - [Danker's DSM](https://discord.gg/QsEkNQS)
 
 ### Fishing Utilities
 
 - **Show Dolphin Pet Display** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Spider's Den Rain Timer** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Fishing Timer** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Fishing Timer** - [Danker's DSM](https://discord.gg/QsEkNQS)
 
 ### Skills
 
 - **Revert EXP Display** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Custom Skill Display** - SkyblockAddons?
-- **Show Skill Trackers** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Show EXP Rate** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Show Time Change** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Show Skill Trackers** - [Danker's DSM](https://discord.gg/QsEkNQS)
+- **Show EXP Rate** - [Danker's DSM](https://discord.gg/QsEkNQS)
+- **Show Time Change** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Show Actions Needed** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Show Time Needed** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Show Time Needed** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Show Total Information** - DSM?
 
 ### Mythos
@@ -184,7 +184,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ## Pets
 
-- **Pet Colors** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Pet Colors** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Show Active Pet** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Show EXP-Shared Pets** - ?
 - **AutoPet Enabled Colors** - ?
@@ -198,15 +198,15 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Allow Favoriting Pets** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide Pet Nametags** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide AutoPet Messages** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Hide Pet Candies** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Hide Pet Candies** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Mute Rat Pet** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 
 ## Dungeon
 
 ### General
 
-- **Show Dungeon Counter** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-- **Edit Dungeon Floor** - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Show Dungeon Counter** - [Danker's DSM](https://discord.gg/QsEkNQS)
+- **Edit Dungeon Floor** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Show Dungeon Profit** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Frag Counter** - SBA?
 - **Show Door Opener** - ?
@@ -231,7 +231,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ### Miscellaneous
 
-- **Fix Spirit Boots** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Fix Spirit Boots** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Copy Fails** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Armor Color** - ?
 - **Show Item Quality** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
@@ -307,9 +307,9 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ### Use At Your Own Risk
 
-- **Allow Reparty Command** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+- **Allow Reparty Command** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest) / [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Prevent Orb Placement** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
-- **Auto Reparty** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- **Auto Reparty** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Auto Join Party** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Party Rejoin Filter** - ?
 
