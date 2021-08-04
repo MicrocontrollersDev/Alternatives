@@ -331,6 +331,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - [Proudmuslim](https://github.com/proudmuslim-dev)
 - [RayDeeUx](https://github.com/RayDeeUx)
 - [stef-the](https://github.com/stef-the)
+- [Stekerser](https://github.com/Stekerser)
 - [Sychic](https://github.com/Sychic)
 - [Wyvest](https://github.com/Wyvest)
 - [Yan](https://github.com/yanNotDev)
