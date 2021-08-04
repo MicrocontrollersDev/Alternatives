@@ -276,7 +276,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Hide Fire Display** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Hide Lightning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Show Builder's Wand Overlay** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- **Hide WitherBorn Shadows** - [Sk1er's Patcher Beta](https://sk1er.club/beta) (properly scales shadows) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) (for bossbar)
+- **Hide WitherBorn Shadows** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (properly scales shadows) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) (for bossbar)
 - **Hide Displayed Armor** - ?
 - **Show Damage Vignette** - ?
 - **Modify Visual Words** - ?
