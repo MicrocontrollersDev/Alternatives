@@ -12,7 +12,7 @@
   - NotEnoughUpdates - [Moulberry's NEU](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
   - Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
   - Cowlection - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
-- **Toggle Sneak/Sprint** - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/tag/v1.2.1)
+- **Toggle Sneak/Sprint** - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - **Hypixel Mods**
   - **Auto Friend** -  [2Pi's AutoFriend](https://2pi.pw/mods/autofriend)
   - **Auto TIP** - [Semx11's AutoTip](https://autotip.pro/download)

@@ -47,17 +47,17 @@
 -   **ShinyPots** - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 -   **Stopwatch** - [Wyvest's TimerHUD](https://github.com/wyvest/timerhud-forge/releases/latest)
 -   **Time Changer** - [Shatterpoint's Revamped TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
--   **Toggle Sneak** - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
--   **Toggle Sprint** - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
+-   **Toggle Sneak** - [Lily's ToggleSneak](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
+-   **Toggle Sprint** - [Lily's ToggleSneak](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 -   **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 -   **Zoom** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (tweaks Optifine's)
--   **Emotes** (No alternatives)
+-   **Emotes** - None
 -   **New Chat**
     -   **Compact Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **24 Hour Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **Fancy Fonts** - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
-    -   **Filter DMs**
+    -   **Filter DMs** - None
     -   **Vanilla Background** - Irrelevant
     -   **Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **Chat Messages Notifications** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
@@ -65,7 +65,7 @@
     -   **Chat size** - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
     -   **Emphasize username in chat** - [Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest)
 -   **Cosmetics** - [Sk1er's Essential](https://essential.gg)
--   **Sprays** (No alternatives)
+-   **Sprays** - None
 -   **Replay Mod** - [Replay Mod](https://www.replaymod.com/download/)
 -   **Schematica Mod** - [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147/files/all?filter-game-version=2020709689%3A5806)
 -   **TeamSpeak Mod** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)

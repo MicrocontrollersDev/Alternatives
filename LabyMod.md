@@ -82,8 +82,8 @@
 ### Information
 
 - **FPS Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
-- **Coordinates** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **F Direction** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Coordinates** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **F Direction** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Clock** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev5Zig's Reborn](https://5zigreborn.eu/)
 - **Date** - [RoccoDev5Zig's Reborn](https://5zigreborn.eu/)
 - **Biome** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
@@ -92,9 +92,9 @@
 - **Memory** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Online Players** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Server Address** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Server Address** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Server Support** - Irrelevant
-- **Potion Effects** - [Powns's PotionHud](https://download.powns.dev/potionhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's PotionHud](https://download.powns.dev/potionhud189) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **Combo** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Range** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
@@ -102,7 +102,7 @@
 
 ### Items
 
-- **Armor Status** - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Armor Status** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 
 ## External Services
   
