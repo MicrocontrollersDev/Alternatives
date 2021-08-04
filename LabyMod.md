@@ -163,7 +163,7 @@
 - **Keystrokes** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Minigames** - None
 - **MiniMap** (**!!! Bannable on Hypixel !!!**) - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
-- **More Particles** - [Dewgs's ParticleMod](https://www.mediafire.com/file/z42f9gzegatz9cq/%255B1.8.9%255DParticleMod-1.02.jar/file) / [Aycy's OnHitParticles](https://www.youtube.com/watch?v=OQZFWrrEcYM) / [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
+- **More Particles** - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
 - **Motion Blur** - [Moulberry's Motionblur (BETA)](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) (Must join Sk1er Discord for link to work) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - **NoBob** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **OptiFine** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
