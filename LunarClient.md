@@ -10,7 +10,7 @@
 - **Skyblock** - 
   - SkyblockAddons - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
   - NotEnoughUpdates - [Moulberry's NEU](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-  - Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
+  - Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
   - Cowlection - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 - **Toggle Sneak/Sprint** - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - **Hypixel Mods**
