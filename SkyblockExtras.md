@@ -19,7 +19,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### Notifications
 
 - **Announce Rare Drops** - Skytils?
-- **Copy Rare Drops** - ?
+- **Copy Rare Drops** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Dark Auction Warning** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Golem Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases) / [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Jerry Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
