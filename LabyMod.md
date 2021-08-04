@@ -8,7 +8,7 @@
 
 - **Ping in Tablist** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Permission Changes** - Irrelevant
-- **LabyMod User Indicator** - Sk1er's Essential (indicates Essential instead)
+- **LabyMod User Indicator** - [Sk1er's Essential](https://essential.gg) (indicates Essential instead)
 - **Out of Memory Warning** - None (Check F3)
 
 ### Animations
@@ -55,7 +55,7 @@
 - **Server Information at Direct Connect** - None
 - **Confirm Disconnect** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Quickplay** - None
-- **Public Server List** - Sk1er's Essential
+- **Public Server List** - [Sk1er's Essential](https://essential.gg)
 - **Multiplayer Menu Ingame** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Borderless Window** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Improved Skin Customization** - None ([Sk1er's Patcher](https://sk1er.club/mods/patcher) does add 1.9+ skin transparency however)
@@ -70,12 +70,12 @@
 - **Show Saturation** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Sign Search** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Left Hand** - None
-- **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/)
+- **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Custom Name Tags** - None
 
 ### Cosmetics
 
-- **Cosmetics** - Sk1er's Essential
+- **Cosmetics** - [Sk1er's Essential](https://essential.gg)
 
 ## Ingame GUI 
 
@@ -136,7 +136,7 @@
 - **ConnectionHistory** - None
 - **Controller** - None
 - **Custom Block Overlay** - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
-- **Custom Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
+- **Custom Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Custom Hitboxes** - [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - **CustomFilterSounds** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **CustomFont** - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
@@ -148,7 +148,7 @@
 - **EmoteChat** - None
 - **FastJoin** - None
 - **Friend Tags** - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases)
-- **FriendViewer** - Sk1er's Essential
+- **FriendViewer** - [Sk1er's Essential](https://essential.gg)
 - **FullBright** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Glint Colorizer** - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - **GUI Blur Mod** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
@@ -174,19 +174,21 @@
 - **ShinyPots** - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - **SkyblockAddons** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **SoundPlayer** - None
-- **Spotify** - [DecobrDev's MediaMod](https://www.curseforge.com/minecraft/mc-mods/mediamod/files/all?filter-game-version=2020709689%3A5806)
+- **Spotify** - [DecobrDev's MediaMod](https://www.curseforge.com/minecraft/mc-mods/mediamod/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **TeamSpeak** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Toggle Sneak** (Sneak & Sprint) - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - **ToggleTab** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Transulcent Skins** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Twitter** - None
 - **WorldEditCUI** - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
-- **VoiceChat** - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
+- **VoiceChat** - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 - **Glint Colorizer** - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - **Focus Movement Fix** - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
 
 ## Contributors
 
 - [Asbyth](https://github.com/asbyth)
+- [BobIsMyManager](https://github.com/BobIsMyManager)
 - [Coolbird1234](https://twitter.com/dankbird1234)
 - [Karmette](https://github.com/karmette)
 - [LlamaLad7](https://github.com/LlamaLad7)
