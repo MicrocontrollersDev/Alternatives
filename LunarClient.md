@@ -5,7 +5,7 @@
 - **1.7 Visuals** - 
   - **Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
   - **Hit Armor Color** - [Aycy's Damage Tint](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/)
-- **FPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+- **FPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **CPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Skyblock** - 
   - SkyblockAddons - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
@@ -20,32 +20,32 @@
   - **Anti GG** - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
   - **Auto Who** - No longer works on Hypixel
   - **Level Head** - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
-- **Armor Status** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Armor Status** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Key Strokes** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
-- **Coordinates** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Coordinates** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Day Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Crosshair** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **DirectionHUD** - [ReflxctionDev's Bspkrs DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **Potion Counter** - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
-- **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Motion Blur** - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - **Chat**
   - **Unlimited Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
-  - **Stack Spam Messages** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat
+  - **Stack Spam Messages** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Chat Height Fix** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Highlighted Name** - [Wyvest's Wyvtilities (for Chat Name Highlight)](https://github.com/wyvest/Wyvtilities/releases/latest)
   - **Background Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Hide Incoming Messages** - None
   - **Stop Servers from Closing Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - **Chat Filter** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+  - **Chat Filter** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Nametags**
   - **Nametag Text Shadow** -  [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - **Third Person Nametag** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - **Show Nametag Icon** - Sk1er's Essential
+  - **Show Nametag Icon** - [Sk1er's Essential](https://essential.gg)
   - **Nametag Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Scrollable Tooltips** - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 - **UHC Overlay** - None (Resourcepacks work instead)
@@ -60,15 +60,15 @@
 - **Reach Display** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Replay Mod** - [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download/download_new.php?version=1.8.9-2.5.2)
 - **Time Changer** [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
-- **Server Address** -  [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Saturation** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Server Address** -  [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Saturation** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Item Physics** - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 - **Item Tracker** - None
 - **Shiny Pots** - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 - **Block Outline** - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 - **Screenshot Uploader** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **FOV Mod** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- **Auto Text Hot Key** (!!! Bannable on Hypixel !!!) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
+- **Auto Text Hot Key** (!!! Bannable on Hypixel !!!) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Mumble Link** - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
 - **2D Items** - None
 - **Boss Bar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
@@ -91,8 +91,8 @@
 
 #### Cosmetic Options
 
-- **Cosmetics** - Sk1er's Essential
-- **Show Tab Icon** - Sk1er's Essential
+- **Cosmetics** - [Sk1er's Essential](https://essential.gg)
+- **Show Tab Icon** - [Sk1er's Essential](https://essential.gg)
 
 #### Misc Options
 
@@ -127,14 +127,15 @@
   
 - **Vanilla Bug Fixes** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Custom Main Menu** - [Lumien231's Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
-- **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/)
-- **In Game Account Switcher** - Sk1er's Essential
+- **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **In Game Account Switcher** - [Sk1er's Essential](https://essential.gg)
 - **In Game Server Switcher** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Save Controls Between Versions** - [leduyquang753's Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/)
 
 ## Contributors
 
 - [asbyth](https://github.com/asbyth)
+- [BobIsMymanager](https://github.com/BobisMymanager)
 - [Karmette](https://github.com/karmette)
 - [Lizzy](https://github.com/LizzyMaybeDev)
 - [SirNapkin1334](https://github.com/sirnapkin1334)
