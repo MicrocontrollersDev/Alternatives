@@ -60,7 +60,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 - **Show Hollows Map** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
 - **Show Blocks Walked** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Show Gemstone Buffs** - ?
+- **Show Gemstone Buffs** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Show Pickonimbus Durability** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Show Crystal Hollows Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Danker's DSM](https://discord.gg/QsEkNQS) / SkyblockHUD?
 - **Auto Add Mining Waypoints** - [ThatGravyBoat's SkyblockHUD](discord.gg/moulberry)
@@ -161,7 +161,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Show Time Change** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Show Actions Needed** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Time Needed** - [Danker's DSM](https://discord.gg/QsEkNQS)
-- **Show Total Information** - DSM?
+- **Show Total Information** - [Danker's DSM](https://discord.gg/QsEkNQS)
 
 ### Mythos
 
@@ -179,7 +179,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Show Golem Counter** - ?
 - **Show Dragon Counter** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Farming Counter** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- **Show Ghost Counter** - ?
+- **Show Ghost Counter** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Show Legion Counter** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ## Pets
@@ -208,7 +208,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Show Dungeon Counter** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Edit Dungeon Floor** - [Danker's DSM](https://discord.gg/QsEkNQS)
 - **Show Dungeon Profit** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Show Frag Counter** - SBA?
+- **Show Frag Counter** - SBH? / SBA?
 - **Show Door Opener** - ?
 - **Show Dungeon Map** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Remove Armor Stands** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -225,9 +225,9 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 - **Show Player Info** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 - **Show Party Finder Menu** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
-- **Cata Level Lower Bound** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)?
-- **Class Level Lower Bound** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)?
-- **Draw Player Count** - Cowlection?
+- **Cata Level Lower Bound** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
+- **Class Level Lower Bound** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
+- **Draw Player Count** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)?
 
 ### Miscellaneous
 
