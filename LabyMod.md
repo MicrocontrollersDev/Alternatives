@@ -185,7 +185,7 @@
 - **Glint Colorizer** - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - **Focus Movement Fix** - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
 
-## Contributors
+# Contributors
 
 - [Asbyth](https://github.com/asbyth)
 - [BobIsMyManager](https://github.com/BobIsMyManager)
@@ -193,7 +193,7 @@
 - [Karmette](https://github.com/karmette)
 - [LlamaLad7](https://github.com/LlamaLad7)
 - [Lizzy](https://github.com/LizzyMaybeDev)
-- [SirNapkin1334](https://github.com/sirnapkin1334)
+- [Moiré](https://github.com/moire9)
 - [Solonovamax](https://github.com/solonovamax)
 - [USB](https://github.com/U5B)
 - [Wyvest](https://github.com/wyvest)

@@ -132,7 +132,7 @@
 - **In Game Server Switcher** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Save Controls Between Versions** - [leduyquang753's Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/)
 
-## Contributors
+# Contributors
 
 - [asbyth](https://github.com/asbyth)
 - [BobIsMymanager](https://github.com/BobisMymanager)
