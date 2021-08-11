@@ -11,7 +11,10 @@
 - [**AutoGG**](https://sk1er.club/mods/autogg)
 - [**Levelhead**](https://sk1er.club/mods/level_head)
 - [**ToggleChat**](https://github.com/boomboompower/ToggleChat/releases/)
+- [**Quickplay**](https://github.com/QuickplayMod/quickplay/releases/latest)
+- [**Nick Hider**](https://sk1er.club/mods/nick_hider)
 - [**OofMod**](https://sk1er.club/mods/refractionoof)
+- [**Resource Pack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - [**TimeChanger**](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 - [**CustomCrosshair**](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 - [**ChatTriggers (ctjs)**](https://github.com/ChatTriggers/ChatTriggers/releases/latest) (If you do not use any CT modules, delete this instead)
@@ -24,6 +27,8 @@
   - Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes. Sk1er's is more accurate to 1.7 with better compatibility and no bloat.
 - [**Powns's ToggleSneak with Lily's SimpleToggleSprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
   - Powns's ToggleSneak is no longer maintained and has some small issues that Lily's fixes.
+- [**Skywars Stats mod with Hystats**](https://q.gs/EyqG5)
+  - Both made by KAD7, Hystats now supports multiple gamemodes and has much more to offer compared to the discontinued Skywars Stats mod
 
 ## Remove
 
