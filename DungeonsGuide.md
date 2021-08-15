@@ -1,6 +1,6 @@
 # Dungeons Guide
 
-It causes some problems apparently.
+DungeonsGuide currently spams logs, breaks some other mods such as scrollable tooltips, and may cause other issues such as turning some GUIs black. You can use these alternatives until these issues are fixed.
 
 ## Solvers
 

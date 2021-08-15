@@ -210,7 +210,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Show Dungeon Profit** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Show Frag Counter** - SBH? / SBA?
 - **Show Door Opener** - ?
-- **Show Dungeon Map** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Show Dungeon Map** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Remove Armor Stands** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Crypts Counter** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
