@@ -1,4 +1,4 @@
-# Dungeons Guide
+# Dungeons Guide Alternatives
 
 DungeonsGuide currently spams logs, breaks some other mods such as scrollable tooltips, and may cause other issues such as turning some GUIs black. You can use these alternatives until these issues are fixed.
 
@@ -30,11 +30,11 @@ DungeonsGuide currently spams logs, breaks some other mods such as scrollable to
 ### Blood Room
 
 - **Score Warning on Watcher Portal** - ?
-- **Watcher Spawn Alert** - [Danker's DSM](https://discord.gg/dsm)
+- **Watcher Spawn Alert** - ?
 
 ### Teammates
 
-- **Low Health Warning** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Danker's DSM](https://discord.gg/dsm)
+- **Low Health Warning** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Communicate With Other's Dungeons Guide** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (other Skytils players instead)
 - **See Players Through Walls** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 
@@ -57,7 +57,7 @@ DungeonsGuide currently spams logs, breaks some other mods such as scrollable to
 - **Dungeon Item Stats** - Cowlection?
 - **View Ability Cooldwons** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Decrease Explotion Sound Effect** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Spirit Boots Fixer** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Danker's DSM](https://discord.gg/dsm)
+- **Spirit Boots Fixer** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 
 ### Chat
 
