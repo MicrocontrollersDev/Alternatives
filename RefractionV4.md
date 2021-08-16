@@ -38,7 +38,7 @@
   - Player API is no longer used in any mods.
 - **AutoWho**
   - Hypixel removed AutoWho's core functionality a few years ago.
-- **Skypixel**
+- [**Skypixel**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/Skypixel.md)
   - Skypixel is old, not maintained, and has many features that are either useless, or simply do not work anymore. It will cause issues on Skyblock.
 - [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md)
   - LabyMod causes many issues with other mods, and has many alternatives that can be used without messing up other mods.
