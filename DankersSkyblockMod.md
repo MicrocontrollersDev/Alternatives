@@ -9,17 +9,17 @@ DSM very rarely gets any updates and most of its features are replace in differe
 - **Wolf (Sven Packmaster)** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Enderman (Voidgloom Seraph)** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 
-- **Fishing**
-- **Fishing Winter**
-- **Fishing Festival**
-- **Fishing Spooky**
+- **Fishing** - ?
+- **Fishing Winter** - ?
+- **Fishing Festival** - ?
+- **Fishing Spooky** - ?
 
-- **Mythological**
-- **Ghost**
+- **Mythological** - ?
+- **Ghost** - ?
 
-- **Catacombs Dungeon**
+- **Catacombs Dungeon** - ?
 
-- **Skill XP/Hour
+- **Skill XP/Hour - ?
 
 ## Dungeon Puzzle Solvers
 
@@ -49,7 +49,7 @@ DSM very rarely gets any updates and most of its features are replace in differe
 - **Spirit Bear Spawn Alerts** - ?
 - **All Message Toggles** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Color Pet Backgrounds** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Expertise Kills in Lore** - ?
+- **Expertise Kills in Lore** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Guild Party Notifications** - ?
 - **Golem Spawn Alert and Timer** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **RNGesus Alert** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
