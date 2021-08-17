@@ -6,7 +6,7 @@ This mod is basically a ripoff of other mods. Use the original mods instead.
 
 ### Rendering
 
-- **Remove Wither Cloak Creepers** - ?
+- **Remove Wither Cloak Creepers** - bannable
 - **Overlay Mobs in Range of Hyperion** - ?
 
 ### Sounds
@@ -28,7 +28,7 @@ This mod is basically a ripoff of other mods. Use the original mods instead.
 
 ### QOL
 
-- **Automatically Join Skyblock** - ?
+- **Automatically Join Skyblock** - bannable
 
 ### Rendering
 
@@ -53,16 +53,16 @@ This mod is basically a ripoff of other mods. Use the original mods instead.
 
 ### Dungeons
 
-- **Stop Opening Chests** - ?
+- **Stop Opening Chests** - bannable
 - **Clean Ending of Dungeons** - ?
 - **Bonzo Mask Alert** - ?
 - **Hide Guided Sheeps** - ?
-- **Watcher Ready Reminder** - ?
+- **Watcher Ready Reminder** - skytils?
 
 ### QOL
 
 - **Remove Guardians in Creeper Solver** - ?
-- **Dungeon Floor Lock** - ?
+- **Dungeon Floor Lock** - bannable
 
 ### Rendering
 
@@ -77,7 +77,7 @@ This mod is basically a ripoff of other mods. Use the original mods instead.
 
 - **Slayer Info** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) & [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Remove Sven Pups** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Maddox Clickable Message** - ?
+- **Maddox Clickable Message** - bannable?
 - **Reminder to Start New Slayer** - ?
 
 ### Fishing
@@ -147,3 +147,6 @@ This mod is basically a ripoff of other mods. Use the original mods instead.
 - **All Spam Hiders** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 # Contributors
+
+
+fel69
