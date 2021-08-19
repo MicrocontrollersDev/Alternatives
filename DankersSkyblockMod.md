@@ -71,3 +71,5 @@ DSM very rarely gets any updates and most of its features are replace in differe
 - **Alert When Reaching End of Farm** - ?
 - **Applied Gemstones in Lore** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Auto Accept Reparty** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+
+# Contributors

@@ -126,7 +126,7 @@
 - **AutoReconnect** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Batty's Coordinates** - [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) 
 - **BetterHat** - None
-- **Better Perspective** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
+- **Better Perspective** (!!! Bannable on Hypixel !!!) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - **BetterScreenshot** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **ChatCopper** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
 - **ChatLog** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/)

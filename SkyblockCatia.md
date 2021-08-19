@@ -50,6 +50,7 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - **Disable Error Log** - None
 
 ## Toast Config
+
 - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 # Contributors

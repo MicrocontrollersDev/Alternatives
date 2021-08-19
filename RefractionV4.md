@@ -6,7 +6,6 @@
 - [**Patcher**](https://sk1er.club/mods/patcher)
 - [**SkyblockAddons**](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - [**BlockOverlay**](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
-- [**PerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/tag/v4.3)
 - [**Scrollable tooltips**](https://sk1er.club/mods/text_overflow_scroll)
 - [**AutoGG**](https://sk1er.club/mods/autogg)
 - [**Levelhead**](https://sk1er.club/mods/level_head)
@@ -38,6 +37,8 @@
   - Player API is no longer used in any mods.
 - **AutoWho**
   - Hypixel removed AutoWho's core functionality a few years ago.
+- **PerspectiveMod**
+  - PerspectiveMod is now bannable on Hypixel and you can no longer log in with it.
 - [**Skypixel**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/Skypixel.md)
   - Skypixel is old, not maintained, and has many features that are either useless, or simply do not work anymore. It will cause issues on Skyblock.
 - [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md)

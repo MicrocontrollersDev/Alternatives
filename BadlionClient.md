@@ -36,7 +36,7 @@
 -   **Nick Hider** - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
 -   **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/tag/1.2)
 -   **Particle Mod** - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
--   **Perspective Mod** - [DJtheRedstoner Perspective Mod](https://inv.wtf/djperspective)
+-   **Perspective Mod** (!!! Bannable on Hypixel !!!) - [DJtheRedstoner Perspective Mod](https://inv.wtf/djperspective)
 -   **Ping HUD** - [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 -   **Potion Status** - [Powns's PotionHud](https://download.powns.dev/potionhud189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 -   **Reach Display** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
