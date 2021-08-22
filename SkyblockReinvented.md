@@ -11,7 +11,7 @@ This mod is basically a ripoff of other mods. Use the original mods instead.
 
 ### Sounds
 
-- **Remove Creeper Sounds from Veil**
+- **Remove Creeper Sounds from Veil** - ?
 
 ## General
 

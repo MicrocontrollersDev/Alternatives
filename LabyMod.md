@@ -154,7 +154,7 @@
 - **GUI Blur Mod** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 - **HDSkins** - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/all?filter-game-version=2020709689%3A5806)
 - **HeadOwner** - None
-- **Hotbar** - [FacUtils's Black Bar](https://canary.discord.com/channels/411619823445999637/411620457754787841/794326180819107880) (requires [Sk1er's Discord](https://discord.gg/sk1er) - *Thanks [Luna!](https://github.com/LunaNotdev)*)
+- **Hotbar** - [FacUtils's Black Bar](https://canary.discord.com/channels/411619823445999637/411620457754787841/794326180819107880) (requires [Sk1er's Discord](https://discord.gg/sk1er) - *Thanks [Lizzy!](https://github.com/LizzyMaybeDev)*
 - **Hypixel Quick Play** - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 - **I Love Music** - None
 - **Instagram** - None

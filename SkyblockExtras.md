@@ -70,10 +70,10 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Show Breadcrumbs in Hollows** - [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
 - **Use Footstep Particles** - ?
 - **Show Mining Pass Duration** - ?
-- **Show Automaton Parts** - ?
+- **Show Automaton Parts** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Treasure Chest Helper** - ?
-- **Metal Detector Locator** - ?
-- **Show Metal Detector Waypoint** - ?
+- **Metal Detector Locator** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Show Metal Detector Waypoint** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Auto Renew Mining Pass** - ?
 - **Worm Notifier Warning** - ?
 
@@ -139,7 +139,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### Fishing QOL
 
 - **Hide Fishing Rods** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) & [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Show Expertise Kills** - ?
+- **Show Expertise Kills** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 
 ### Fishing Utilities
 
@@ -150,7 +150,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### Skills
 
 - **Revert EXP Display** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Show Custom Skill Display** - SkyblockAddons?
+- **Show Custom Skill Display** - SBA?
 - **Show Skill Trackers** - ?
 - **Show EXP Rate** - ?
 - **Show Time Change** - ?
