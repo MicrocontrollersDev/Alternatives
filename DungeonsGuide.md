@@ -1,6 +1,6 @@
 # Dungeons Guide Alternatives
 
-DungeonsGuide currently spams logs, breaks some other mods such as scrollable tooltips, and may cause other issues such as turning some GUIs black. You can use these alternatives until these issues are fixed.
+DungeonsGuide currently spams logs, breaks some other mods such as Scrollable Tooltips and parts of NEU, crashes depending on the state of your discord due to its RPC, and may cause other issues such as turning some GUIs black. You can use these alternatives until these issues are fixed.
 
 ## Solvers
 
