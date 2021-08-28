@@ -72,7 +72,7 @@
 - **Mumble Link** - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
 - **2D Items** - ?
 - **Boss Bar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
-- **Freelook** (!!! Bannable on Hypixel !!!) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
+- **Freelook** (*!!! Bannable on Hypixel !!!*) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - **Team View** - ?
 - **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 - **Menu Blur** [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)

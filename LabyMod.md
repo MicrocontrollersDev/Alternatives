@@ -25,7 +25,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 
 ### Performance
 
-- **Chunk Caching** - ?, servers must have support for it anyway.
+- **Chunk Caching** - Irrelevant, servers must have support for it anyway.
 - **Fast World Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Entities Behind Blocks** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Backside of Entitities** - [Sk1er's Patcher Beta](https://sk1er.club/beta)
@@ -88,7 +88,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **Date** - [RoccoDev5Zig's Reborn](https://5zigreborn.eu/)
 - **Biome** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Entity Count** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Chunk Caching Info** - ?, servers must have support for Chunk Caching anyways
+- **Chunk Caching Info** - Irrelevant, servers must have support for Chunk Caching anyways
 - **Memory** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Online Players** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
@@ -126,7 +126,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **AutoReconnect** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Batty's Coordinates** - [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) 
 - **BetterHat** - ?
-- **Better Perspective** (!!! Bannable on Hypixel !!!) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
+- **Better Perspective** (*!!! Bannable on Hypixel !!!*) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - **BetterScreenshot** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **ChatCopper** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
 - **ChatLog** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/)
@@ -142,7 +142,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **CustomFont** - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
 - **Custom Main Menu** - [Lumien231's CustomMainMenu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
 - **CustomTime** - [Shatterpoint's TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases)
-- **DamageIndicator** (**!!! Bannable on Hypixel !!!**) - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
+- **DamageIndicator** (*!!! Bannable on Hypixel !!!*) - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
 - **Direct Connect History** - ?
 - **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) (doesn't require bspkrs core) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **EmoteChat** - ?
@@ -162,7 +162,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **Item Physics** - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
 - **Keystrokes** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Minigames** - ?
-- **MiniMap** (**!!! Bannable on Hypixel !!!**) - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
+- **MiniMap** (*!!! Bannable on Hypixel !!!*) - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
 - **More Particles** - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
 - **Motion Blur** - [Moulberry's Motionblur (BETA)](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) (Must join Sk1er Discord for link to work) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - **NoBob** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
