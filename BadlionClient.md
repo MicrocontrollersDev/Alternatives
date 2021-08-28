@@ -25,7 +25,7 @@
 -   **Hitboxes** - [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) / [Aycy's Hitbox Colors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 -   **Inventory Blur** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 -   **Ingame Server Switcher** - [Canalex's InGameServerSwitcher](https://www.youtube.com/watch?v=04EangMQd7I) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (currently logs you out)
--   **Item Counter** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+-   **Item Counter** - [DoKM's Item Counter](https://hypixel.net/threads/1-8-9-item-counter-mod.3683685/) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 -   **Item-Info** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 -   **Item Physics** - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 -   **JustEnoughItems** - [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?filter-game-version=2020709689%3A5806)
@@ -51,13 +51,13 @@
 -   **Toggle Sprint** - [Lily's ToggleSneak](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 -   **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 -   **Zoom** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (tweaks Optifine's)
--   **Emotes** - None
+-   **Emotes** - ?
 -   **New Chat**
     -   **Compact Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **24 Hour Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **Fancy Fonts** - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
-    -   **Filter DMs** - None
+    -   **Filter DMs** - ?
     -   **Vanilla Background** - Irrelevant
     -   **Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **Chat Messages Notifications** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
@@ -65,7 +65,7 @@
     -   **Chat size** - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
     -   **Emphasize username in chat** - [Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest)
 -   **Cosmetics** - [Sk1er's Essential](https://essential.gg)
--   **Sprays** - None
+-   **Sprays** - ?
 -   **Replay Mod** - [Replay Mod](https://www.replaymod.com/download/)
 -   **Schematica Mod** - [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147/files/all?filter-game-version=2020709689%3A5806)
 -   **TeamSpeak Mod** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)

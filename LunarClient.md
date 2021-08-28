@@ -8,10 +8,10 @@
 - **FPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **CPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Skyblock**
-  - SkyblockAddons - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-  - NotEnoughUpdates - [Moulberry's NEU](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-  - Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-  - Cowlection - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
+  - **SkyblockAddons** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+  - **NotEnoughUpdates** - [Moulberry's NEU](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+  - **Skytils** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+  - **Cowlection** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 - **Toggle Sneak/Sprint** - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - **Hypixel Mods**
   - **Auto Friend** -  [2Pi's AutoFriend](https://2pi.pw/mods/autofriend)
@@ -39,7 +39,7 @@
   - **Highlighted Name** - [Wyvest's Wyvtilities (for Chat Name Highlight)](https://github.com/wyvest/Wyvtilities/releases/latest)
   - **Background Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
-  - **Hide Incoming Messages** - None
+  - **Hide Incoming Messages** - ?
   - **Stop Servers from Closing Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - **Chat Filter** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Nametags**
@@ -48,7 +48,7 @@
   - **Show Nametag Icon** - [Sk1er's Essential](https://essential.gg)
   - **Nametag Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Scrollable Tooltips** - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
-- **UHC Overlay** - None (Resourcepacks work instead)
+- **UHC Overlay** - ? (Resourcepacks work instead)
 - **Particle Multiplier** - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
 - **Nick Hider** - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
 - **Cooldowns** - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
@@ -63,17 +63,17 @@
 - **Server Address** -  [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Saturation** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Item Physics** - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
-- **Item Tracker** - None
+- **Item Tracker** - ?
 - **Shiny Pots** - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 - **Block Outline** - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 - **Screenshot Uploader** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **FOV Mod** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - **Auto Text Hot Key** (!!! Bannable on Hypixel !!!) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Mumble Link** - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
-- **2D Items** - None
+- **2D Items** - ?
 - **Boss Bar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
 - **Freelook** (!!! Bannable on Hypixel !!!) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
-- **Team View** - None
+- **Team View** - ?
 - **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 - **Menu Blur** [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 - **Hitbox** - [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
@@ -99,7 +99,7 @@
 - **Smart Disconnect** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Borderless Fullscreen** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Disable Weather** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
-- **Modern Keybind Handling* - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Modern Keybind Handling** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 #### Texture Pack Options
 

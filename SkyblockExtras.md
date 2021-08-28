@@ -34,7 +34,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ### Dwarven Mines
 
-- **Show Mine Map** - [ThatGravyBoat's SkyblockHUD](discord.gg/moulberry)
+- **Show Mine Map** - [ThatGravyBoat's SkyblockHUD](https://discord.gg/moulberry)
 - **Notify Events** - [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
 - **Mute Wind Changes** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Raffle Timer Warning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -164,7 +164,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Shows Rare Mythos Drops** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Announce Mythos Loot** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Ping Nearby Particles** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Show Red Footsteps** - Resoucepack I guess
+- **Show Red Footsteps** - ?
 - **Show Red Gaias** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (shows when you can hit)
 - **Show Diana Waypoints** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Show Refresh Duration** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -201,10 +201,10 @@ List is a WIP. I have not got around to checking most features and their alterna
 ### General
 
 - **Show Dungeon Counter** - ?
-- **Show Dungeon Profit** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+- **Show Dungeon Profit** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 - **Show Frag Counter** - SkyblockHud? / SBA?
 - **Show Door Opener** - ?
-- **Show Dungeon Map** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Show Dungeon Map** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 - **Remove Armor Stands** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Crypts Counter** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
@@ -217,24 +217,24 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ### Party Finder
 
-- **Show Player Info** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
-- **Show Party Finder Menu** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
-- **Cata Level Lower Bound** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
-- **Class Level Lower Bound** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
-- **Draw Player Count** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)?
+- **Show Player Info** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+- **Show Party Finder Menu** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+- **Cata Level Lower Bound** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+- **Class Level Lower Bound** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+- **Draw Player Count** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 
 ### Miscellaneous
 
 - **Fix Spirit Boots** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Copy Fails** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Show Armor Color** - ?
-- **Show Item Quality** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
+- **Show Item Quality** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 - **Show Spirit Names** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Hide Mage Beams From Other Players** - ?
 
 ### Solvers
 
-- **All solvers** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+- **All solvers** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 
 ## Quality of Life
 
@@ -271,7 +271,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - **Hide Lightning** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Show Builder's Wand Overlay** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
 - **Hide WitherBorn Shadows** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (properly scales shadows) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (for bossbar)
-- **Hide Displayed Armor** - ?
+- **Hide Displayed Armor** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Show Damage Vignette** - ?
 - **Modify Visual Words** - ?
 
@@ -301,10 +301,10 @@ List is a WIP. I have not got around to checking most features and their alterna
 
 ### Use At Your Own Risk
 
-- **Allow Reparty Command** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
+- **Allow Reparty Command** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
 - **Prevent Orb Placement** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Auto Reparty** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Auto Join Party** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+- **Auto Reparty** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+- **Auto Join Party** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 - **Party Rejoin Filter** - ?
 
 # Contributors

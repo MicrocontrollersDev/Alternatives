@@ -44,7 +44,7 @@ This mod is basically a ripoff of other mods. Use the original mods instead.
 
 ### General
 
-- **Shorten/Renove Teleport Pad Names** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Shorten/Remove Teleport Pad Names** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 
 ### Misc
 
