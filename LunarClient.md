@@ -77,7 +77,7 @@
 - **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 - **Menu Blur** [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 - **Hitbox** - [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
-
+- **TNT Timer Mod** - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
 ## Settings
 
 ### General
@@ -100,6 +100,8 @@
 - **Borderless Fullscreen** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Disable Weather** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Modern Keybind Handling** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Minimal View Bobbing** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Unfocused FPS Limiter** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 #### Texture Pack Options
 
@@ -114,6 +116,7 @@
 - **Full Bright** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Enchantment Glint** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Lazy Chunk Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Disable block breaking particles** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 #### Entity Options
 
@@ -122,6 +125,8 @@
 - **Tile Entities** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Ground Arrows** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Stuck Arrows** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Hide grass/foliage** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Hide placed skulls** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ## Other
   
