@@ -78,6 +78,7 @@
 - **Menu Blur** [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 - **Hitbox** - [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - **TNT Timer Mod** - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
+
 ## Settings
 
 ### General
