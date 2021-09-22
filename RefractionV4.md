@@ -16,35 +16,36 @@
 - [**Resource Pack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - [**TimeChanger**](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 - [**CustomCrosshair**](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
-- [**ChatTriggers (ctjs)**](https://github.com/ChatTriggers/ChatTriggers/releases/latest) (If you do not use any CT modules, delete this instead)
 
 ## Replace
 
 - [**Canalex's Keystrokes with Sk1er's**](https://sk1er.club/mods/keystrokesmod)
-  - Old and no longer maintained. Sk1er's will continue to receive updates once Essential is fully released.
+  - Canalex's keystrokes are old and no longer maintained. Sk1er's will continue to receive updates.
 - [**spiderfrog's old animations with Sk1er's**](https://sk1er.club/beta)
   - Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes. Sk1er's is more accurate to 1.7 with better compatibility and no bloat.
 - [**Powns's ToggleSneak with Lily's SimpleToggleSprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
   - Powns's ToggleSneak is no longer maintained and has some small issues that Lily's fixes.
 - [**Skywars Stats mod with Hystats**](https://q.gs/EyqG5)
-  - Both made by KAD7, Hystats now supports multiple gamemodes and has much more to offer compared to the discontinued Skywars Stats mod
+  - Both made by KAD7, Hystats now supports multiple gamemodes and has much more to offer compared to the discontinued Skywars Stats mod.
 
 ## Remove
 
 - **ModCore Container**
-  - Modcore Container was a mod meant to give players ModCore before it was packaged in mods that needed it, therefore making ModCore Container no longer in use.
+  - ModCore Container was a mod meant to give players ModCore before it was packaged in mods that needed it, therefore making ModCore Container no longer in use. ModCore has also now been superseded by Essential.
 - **Player API**
   - Player API is no longer used in any mods.
 - **AutoWho**
   - Hypixel removed AutoWho's core functionality a few years ago.
 - **PerspectiveMod**
-  - PerspectiveMod is now bannable on Hypixel and you can no longer log in with it.
+  - PerspectiveMod is now bannable on Hypixel.
+- **ChatTriggers (ctjs)**
+  - ChatTriggers may cause many performance issues depending on your modules and most of the modules you can get are readily available in other mods. Many people also do not know how to use ChatTriggers and never import any modules, leading to an increased startup time for no reason.
 - [**Skypixel**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/Skypixel.md)
-  - Skypixel is old, not maintained, and has many features that are either useless, or simply do not work anymore. It will cause issues on Skyblock.
+  - Skypixel is old, unmaintained, and has many features that are either useless or simply do not work anymore. It will cause issues on Skyblock.
 - [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md)
-  - LabyMod causes many issues with other mods, and has many alternatives that can be used without messing up other mods.
+  - LabyMod causes many issues with other mods, has performance issues, and has many alternatives that can be used without messing up other mods.
 - [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockExtras.md) (if you bought it)
-  - SBE breaks EULA, breaks some licenses, leads to poor FPS, and has much better free alternatives for all of its important features. 
+  - SBE breaks EULA, breaks some other mod licenses, leads to performance issues, and has much better free alternatives for all of its important features.
 
 # Contributors
 
