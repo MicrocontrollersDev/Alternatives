@@ -4,7 +4,7 @@
 
 - **1.7 Visuals**
   - **Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
-  - **Hit Armor Color** - [Aycy's Damage Tint](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/)
+  - **Hit Armor Color** - [Qalcyo's Damage Tint](https://github.com/Qalcyo/DamageTint/releases/latest)
 - **FPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **CPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Skyblock**
@@ -24,7 +24,7 @@
 - **Key Strokes** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Coordinates** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Day Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Crosshair** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Crosshair** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 - **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **DirectionHUD** - [ReflxctionDev's Bspkrs DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
@@ -36,7 +36,7 @@
   - **Unlimited Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Stack Spam Messages** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Chat Height Fix** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
-  - **Highlighted Name** - [Wyvest's Wyvtilities (for Chat Name Highlight)](https://github.com/wyvest/Wyvtilities/releases/latest)
+  - **Highlighted Name** - [Qalcyo's Wyvtils (for Chat Name Highlight)](https://github.com/Qalcyo/Wyvtils/releases/latest)
   - **Background Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Hide Incoming Messages** - ?
@@ -76,7 +76,7 @@
 - **Team View** - ?
 - **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 - **Menu Blur** [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
-- **Hitbox** - [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+- **Hitbox** - [Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - **TNT Timer Mod** - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
 
 ## Settings
