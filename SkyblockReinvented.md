@@ -1,6 +1,6 @@
 # SkyblockReinvented Alternatives
 
-This mod is basically a ripoff of other mods. Use the original mods instead.
+This mod is takes much of its code from other mods. It is recommended to use other mods instead.
 
 ## Items
 

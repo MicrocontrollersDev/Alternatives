@@ -17,3 +17,41 @@ Anybody may use this repo for their own work as long as credit is properly given
 - I reserve the right to cherrypick changes and add them myself (with due credit to you)
 - Add your name to credits in alphabetical order, even for the tiniest of change
   - Preferably link to your GitHub account, though you may link to something else if you wish
+
+# Thank You
+
+Thank you to the following people who contributed to this repo and its predecessors:
+
+- [8KCoffeeWizard](https://github.com/8KCoffeeWizard)
+- [Abd](https://github.com/BrahR)
+- [Angry_Pineapple](https://github.com/Angry-Pineapple3121)
+- [asbyth](https://github.com/asbyth)
+- [AzuredBlue](https://github.com/AzuredBlue)
+- [BobIsMyManager](https://github.com/BobIsMyManager)
+- [bumble](https://github.com/itsbumble)
+- [Coolbird1234](https://twitter.com/dankbird1234)
+- [Digux](https://github.com/Diguhxe)
+- [DJtheRedstoner](https://github.com/DJtheRedstoner)
+- [Feel65](https://github.com/Feel65)
+- [JackedUp21](https://github.com/JackedUp21)
+- [jani270](https://github.com/jani270)
+- [JitterDev](https://github.com/JitterDev)
+- [Karmette](https://github.com/karmette)
+- [Koxx12](https://github.com/koxx12-dev)
+- [Lily](https://github.com/My-Name-Is-Jeff)
+- [Lisena](https://github.com/lisenaaaa)
+- [Lizzy](https://github.com/LizzyMaybeDev)
+- [LlamaLad7](https://github.com/LlamaLad7)
+- [Lucasyh](https://github.com/Lucasyh)
+- [MisterCheezeCake](https://github.com/MisterCheezeCake)
+- [Moiré](https://github.com/moire9)
+- [nacrt](https://github.com/nacrt)
+- [Proudmuslim](https://github.com/proudmuslim-dev)
+- [RayDeeUx](https://github.com/RayDeeUx)
+- [Solonovamax](https://github.com/solonovamax)
+- [stef-the](https://github.com/stef-the)
+- [Stekerser](https://github.com/Stekerser)
+- [Sychic](https://github.com/Sychic)
+- [usb](https://github.com/U5B)
+- [Wyvest](https://github.com/wyvest)
+- [Yan](https://github.com/yanNotDev)

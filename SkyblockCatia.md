@@ -56,5 +56,5 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 # Contributors
 
 - [8KCoffeeWizard](https://github.com/8KCoffeeWizard)
+- [Lisena](https://github.com/lisenaaaa)
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
-- [Zordlan](https://github.com/Zordlan)

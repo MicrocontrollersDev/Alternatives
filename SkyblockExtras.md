@@ -318,6 +318,7 @@ List is a WIP. I have not got around to checking most features and their alterna
 - [jani270](https://github.com/jani270)
 - [Koxx12](https://github.com/koxx12-dev)
 - [Lily](https://github.com/My-Name-Is-Jeff)
+- [Lisena](https://github.com/lisenaaaa)
 - [Lizzy](https://github.com/LizzyMaybeDev)
 - [Lucasyh](https://github.com/Lucasyh)
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
@@ -329,4 +330,3 @@ List is a WIP. I have not got around to checking most features and their alterna
 - [Sychic](https://github.com/Sychic)
 - [Wyvest](https://github.com/Wyvest)
 - [Yan](https://github.com/yanNotDev)
-- [Zordlan](https://github.com/Zordlan)

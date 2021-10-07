@@ -142,9 +142,9 @@
 
 - [asbyth](https://github.com/asbyth)
 - [BobIsMymanager](https://github.com/BobisMymanager)
+- [Digux](https://github.com/Diguhxe)
 - [Karmette](https://github.com/karmette)
 - [Lizzy](https://github.com/LizzyMaybeDev)
-- [SirNapkin1334](https://github.com/sirnapkin1334)
+- [Moiré](https://github.com/moire9)
 - [Solonovamax](https://github.com/solonovamax)
 - [Wyvest](https://github.com/wyvest)
-- [Zoudy](https://github.com/zoudywastaken)

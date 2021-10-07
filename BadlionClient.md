@@ -78,8 +78,8 @@
 
 - [asbyth](https://github.com/asbyth)
 - [BobIsMyManager](https://github.com/BobIsMyManager)
+- [Digux](https://github.com/Diguhxe)
 - [Lizzy](https://github.com/LizzyMaybeDev)
 - [Moiré](https://github.com/moire9)
 - [Solonovamax](https://github.com/solonovamax)
 - [Wyvest](https://github.com/wyvest)
-- [Zoudy](https://github.com/zoudywastaken)
