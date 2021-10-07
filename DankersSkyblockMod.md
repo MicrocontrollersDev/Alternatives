@@ -1,6 +1,6 @@
 # Danker's Skyblock Mod Alternatives
 
-DSM very rarely gets any updates and most of its features are replace in different mods. It is also very outdated in a few aspects.
+DSM very rarely gets any updates and most of its features are replaced in different mods. It is also very outdated in a few aspects.
 
 ## Trackers
 
