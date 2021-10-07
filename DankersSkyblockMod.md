@@ -73,3 +73,5 @@ DSM very rarely gets any updates and most of its features are replaced in differ
 - **Auto Accept Reparty** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 # Contributors
+
+- [Wyvest](https::/github.com/Wyvest)
