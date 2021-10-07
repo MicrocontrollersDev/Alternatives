@@ -28,7 +28,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **Chunk Caching** - Irrelevant, servers must have support for it anyway.
 - **Fast World Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Entities Behind Blocks** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Hide Backside of Entitities** - [Sk1er's Patcher Beta](https://sk1er.club/beta)
+- **Hide Backside of Entitities** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Markers** - ?
 
 ### Minecraft Chat
@@ -91,7 +91,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **Chunk Caching Info** - Irrelevant, servers must have support for Chunk Caching anyways
 - **Memory** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Online Players** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Online Players** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Server Address** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Server Support** - Irrelevant
 - **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's PotionHud](https://download.powns.dev/potionhud189) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
@@ -136,12 +136,12 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **ConnectionHistory** - ?
 - **Controller** - ?
 - **Custom Block Overlay** - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
-- **Custom Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Custom Hitboxes** - [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+- **Custom Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
+- **Custom Hitboxes** - [Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - **CustomFilterSounds** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **CustomFont** - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
 - **Custom Main Menu** - [Lumien231's CustomMainMenu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
-- **CustomTime** - [Shatterpoint's TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases)
+- **CustomTime** - [Lily's SimpleTimeChanger](https://github.com/My-Name-Is-Jeff/SimpleTimeChanger/releases/latest) / [Shatterpoint's TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases)
 - **DamageIndicator** (*!!! Bannable on Hypixel !!!*) - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
 - **Direct Connect History** - ?
 - **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) (doesn't require bspkrs core) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
@@ -154,7 +154,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **GUI Blur Mod** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 - **HDSkins** - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/all?filter-game-version=2020709689%3A5806)
 - **HeadOwner** - ?
-- **Hotbar** - [FacUtils's Black Bar](https://canary.discord.com/channels/411619823445999637/411620457754787841/794326180819107880) (requires [Sk1er's Discord](https://discord.gg/sk1er) - *Thanks [Lizzy!](https://github.com/LizzyMaybeDev)*
+- **Hotbar** - [Qalcyo's REDACTION](https://github.com/Qalcyo/REDACTION/releases/latest)
 - **Hypixel Quick Play** - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 - **I Love Music** - ?
 - **Instagram** - ?
@@ -163,8 +163,8 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **Keystrokes** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Minigames** - ?
 - **MiniMap** (*!!! Bannable on Hypixel !!!*) - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
-- **More Particles** - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
-- **Motion Blur** - [Moulberry's Motionblur (BETA)](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) (Must join Sk1er Discord for link to work) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
+- **More Particles** - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO) / [aycy's OnHit](https://www.mediafire.com/file/nm8dqke0zejssd6/On_Hit_Particles_2.2.jar/file)
+- **Motion Blur** - [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - **NoBob** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **OptiFine** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Rainbow GUI** - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
@@ -174,14 +174,14 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **ShinyPots** - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - **SkyblockAddons** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **SoundPlayer** - ?
-- **Spotify** - [DecobrDev's MediaMod](https://www.curseforge.com/minecraft/mc-mods/mediamod/files/all?filter-game-version=2020709689%3A5806) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Spotify** - [MediaMod](https://github.com/MediaModMC/MediaMod/releases/latest) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **TeamSpeak** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Toggle Sneak** (Sneak & Sprint) - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - **ToggleTab** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Transulcent Skins** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Twitter** - ?
 - **WorldEditCUI** - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
-- **VoiceChat** - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
+- **VoiceChat** - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/tag/1.2.0-pre10.2)
 - **Glint Colorizer** - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - **Focus Movement Fix** - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
 
