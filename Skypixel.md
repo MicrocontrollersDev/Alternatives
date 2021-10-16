@@ -4,7 +4,7 @@ Skypixel is no longer maintained and has some features that now break the game.
 
 ## Features
 
-- **Custom Enchant Menu** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Custom Enchant Menu** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 - **Show Anvil Uses** - Useless on Skyblock now
 - **Show Item Tier** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Cancel Item Damage** - ?

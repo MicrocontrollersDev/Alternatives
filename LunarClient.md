@@ -8,7 +8,7 @@
 - **FPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **CPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Skyblock**
-  - **SkyblockAddons** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+  - **SkyblockAddons** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
   - **NotEnoughUpdates** - [Moulberry's NEU](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
   - **Skytils** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
   - **Cowlection** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)

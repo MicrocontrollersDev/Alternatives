@@ -4,10 +4,10 @@ DSM very rarely gets any updates and most of its features are replaced in differ
 
 ## Trackers
 
-- **Zombie (Revenant Horror)** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Spider (Tarantula Broodfather)** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Wolf (Sven Packmaster)** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Enderman (Voidgloom Seraph)** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Zombie (Revenant Horror)** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Spider (Tarantula Broodfather)** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Wolf (Sven Packmaster)** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Enderman (Voidgloom Seraph)** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 
 - **Fishing** - ?
 - **Fishing Winter** - ?
@@ -43,17 +43,17 @@ DSM very rarely gets any updates and most of its features are replaced in differ
 - **Auto-Swap to Pick Block** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Coordinate/Angle Display** - F3
 - **Click On-Screen to Open Maddox** - Skytils?
-- **Cake Timer** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Cake Timer** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 - **Display Progress to Skill Level 50** - NEU?
 - **Count Total 20% Drops** - ?
 - **Spirit Bear Spawn Alerts** - ?
 - **All Message Toggles** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Color Pet Backgrounds** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Expertise Kills in Lore** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Expertise Kills in Lore** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Guild Party Notifications** - ?
 - **Golem Spawn Alert and Timer** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **RNGesus Alert** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Low Health Notifications** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+- **Low Health Notifications** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 - **Find Correct Livid** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Display Dungeon Timer** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Stop Salvaging Starred Items** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)

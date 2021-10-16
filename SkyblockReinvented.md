@@ -104,8 +104,8 @@ This mod is takes much of its code from other mods. It is recommended to use oth
 
 ### Alerts
 
-- **Boost Ready Alert** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
-- **Boost Expired Alert** - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- **Boost Ready Alert** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+- **Boost Expired Alert** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 - **Remove Mining Speed Boost Ready** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Remove Mining Speed Boost Used** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Remove Mining Speed Boost Expired** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
