@@ -33,16 +33,16 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 
 ### Minecraft Chat
 
-- **Autotext** (**!!! Bannable on Hypixel !!!**) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) / [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
+- **Autotext** (**!!! Bannable on Hypixel !!!**) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 - **Name History** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Chat Icons** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
-- **Chat Filter** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat) / [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
-- **Shortcuts** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
+- **Chat Icons** - ?
+- **Chat Filter** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+- **Shortcuts** - ?
 - **Player Menu** - ?
 - **Disable Chat Background** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 - **Adjustable Chat** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 - **Advanced Chat Settings** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-- **Secondary Chat** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat) / [5Zig's Reborn](https://5zigreborn.eu/)
+- **Secondary Chat** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
 
 ### PvP
 
@@ -53,7 +53,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
   
 - **Menu Background** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Server Information at Direct Connect** - ?
-- **Confirm Disconnect** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Confirm Disconnect** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Quickplay** - ?
 - **Public Server List** - [Sk1er's Essential](https://essential.gg)
 - **Multiplayer Menu Ingame** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -67,10 +67,10 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 
 - **Show My Name** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Bossbar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
-- **Show Saturation** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Show Saturation** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Sign Search** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Left Hand** - ?
-- **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 - **Custom Name Tags** - ?
 
 ### Cosmetics
@@ -81,28 +81,28 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 
 ### Information
 
-- **FPS Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
-- **Coordinates** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **F Direction** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Clock** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev5Zig's Reborn](https://5zigreborn.eu/)
-- **Date** - [RoccoDev5Zig's Reborn](https://5zigreborn.eu/)
-- **Biome** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Entity Count** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **FPS Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+- **Coordinates** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
+- **F Direction** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
+- **Clock** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Date** - ?
+- **Biome** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Entity Count** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Chunk Caching Info** - Irrelevant, servers must have support for Chunk Caching anyways
-- **Memory** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Online Players** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Server Address** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Memory** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Online Players** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Server Address** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Server Support** - Irrelevant
-- **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's PotionHud](https://download.powns.dev/potionhud189) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's PotionHud](https://download.powns.dev/potionhud189)
 - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **Combo** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Range** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Speed** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Range** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Speed** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 
 ### Items
 
-- **Armor Status** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **Armor Status** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's ArmorHud](https://download.powns.dev/armorhud189)
 
 ## External Services
   
@@ -111,7 +111,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 
 ## Miscellaneous
 
-- **AFK Time** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **AFK Time** - ?
 - **Click Test** -  ?
 - **Lava Challenge Time** - ?
 - **ToggleSneak Info** - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
@@ -123,7 +123,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **Anti Clear Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **AntiRage** - ?
 - **AutoGG** - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
-- **AutoReconnect** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+- **AutoReconnect** - ?
 - **Batty's Coordinates** - [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) 
 - **BetterHat** - ?
 - **Better Perspective** (*!!! Bannable on Hypixel !!!*) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
@@ -174,8 +174,8 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **ShinyPots** - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - **SkyblockAddons** - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **SoundPlayer** - ?
-- **Spotify** - [MediaMod](https://github.com/MediaModMC/MediaMod/releases/latest) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **TeamSpeak** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
+- **Spotify** - [MediaMod](https://github.com/MediaModMC/MediaMod/releases/latest)
+- **TeamSpeak** - ?
 - **Toggle Sneak** (Sneak & Sprint) - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - **ToggleTab** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Transulcent Skins** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
