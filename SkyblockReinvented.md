@@ -1,6 +1,6 @@
 # SkyblockReinvented Alternatives
 
-This mod is takes much of its code from other mods. It is recommended to use other mods instead.
+This mod takes much of its code from other mods. It is recommended to use other mods instead.
 
 ## Items
 
@@ -134,7 +134,7 @@ This mod is takes much of its code from other mods. It is recommended to use oth
 
 ### Rendering
 
-- **Hub Overlay**
+- **Hub Overlay** - ?
 - **Hide villagers in Hub** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Overlay Uncollected Jacob’s Contests** - ?
 
