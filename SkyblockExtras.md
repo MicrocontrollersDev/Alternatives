@@ -71,7 +71,7 @@ List is a constant WIP. I do not own the mod and this list is based off of an ol
 - **Use Footstep Particles** - ?
 - **Show Mining Pass Duration** - ?
 - **Show Automaton Parts** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-- **Treasure Chest Helper** - ?
+- **Treasure Chest Helper** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Metal Detector Locator** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 - **Show Metal Detector Waypoint** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 - **Auto Renew Mining Pass** - ?
@@ -139,24 +139,24 @@ List is a constant WIP. I do not own the mod and this list is based off of an ol
 ### Fishing QOL
 
 - **Hide Fishing Rods** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) & [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Show Expertise Kills** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+- **Show Expertise Kills** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 
 ### Fishing Utilities
 
 - **Show Dolphin Pet Display** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Spider's Den Rain Timer** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Fishing Timer** - ?
+- **Fishing Timer** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 
 ### Skills
 
 - **Revert EXP Display** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Show Custom Skill Display** - SBA?
-- **Show Skill Trackers** - ?
-- **Show EXP Rate** - ?
+- **Show Custom Skill Display** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+- **Show Skill Trackers** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+- **Show EXP Rate** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 - **Show Time Change** - ?
 - **Show Actions Needed** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Show Time Needed** - ?
-- **Show Total Information** - ?
+- **Show Total Information** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 
 ### Mythos
 
