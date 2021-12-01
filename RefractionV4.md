@@ -25,7 +25,7 @@
   - Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes. Sk1er's is more accurate to 1.7 with better compatibility and no bloat.
 - [**Powns's ToggleSneak with Lily's SimpleToggleSprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
   - Powns's ToggleSneak is no longer maintained and has some small issues that Lily's fixes.
-- [**Skywars Stats mod with Hystats**](https://www.mediafire.com/file/lkq447zc0yolem5/HyStats-v3.0_%25281.8.9%2529.jar/file)
+- [**Skywars Stats mod with HyStats**](https://www.mediafire.com/file/lkq447zc0yolem5/HyStats-v3.0_%25281.8.9%2529.jar/file)
   - Both made by KAD7, Hystats now supports multiple gamemodes and has much more to offer compared to the discontinued Skywars Stats mod.
 
 ## Remove

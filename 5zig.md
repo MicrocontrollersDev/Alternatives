@@ -48,7 +48,7 @@ TODO: make this actually good
 
 ### Hypixel.net
 
-- Stats - [Kad7's HyStats](https://www.mediafire.com/file/lkq447zc0yolem5/HyStats-v3.0_%25281.8.9%2529.jar/file)
+- Stats - [KAD7's HyStats](https://www.mediafire.com/file/lkq447zc0yolem5/HyStats-v3.0_%25281.8.9%2529.jar/file)
 - Guilds - ?
 - Friends - ?
 
