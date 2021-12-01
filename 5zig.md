@@ -10,12 +10,12 @@ TODO: make this actually good
 
 ### Hud Options
 
-- Vanilla Potion Indicator -
-- Show Potion Indicator -
-- Colored Armor Durability -
-- Show Saturation -
-- Show Food Heal Amount -
-- Show Hotbar Numbers -
+- Vanilla Potion Indicator - ?
+- Show Potion Indicator - ?
+- Colored Armor Durability - ?
+- Show Saturation - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- Show Food Heal Amount - ?
+- Show Hotbar Numbers - Resourcepack
 
 ## Noncategorized
 
@@ -32,45 +32,45 @@ TODO: make this actually good
 
 ## Customize Display
 
-- There are so many different (many useless) things that I really, really, hate this mod now.
+- See [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) for most of the features
 
 ## Server Options
 
 ### General
 
-- Notify on Chat-Mention -
-- Automatically Reconnect -
-- Use CMD-Key - ?????
-- Show Compass Target -
-- Show Large Killsreaks -
-- Show Mojang Satus -
+- Notify on Chat-Mention - [Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest)
+- Automatically Reconnect - ?
+- Use CMD-Key - ?
+- Show Compass Target - ?
+- Show Large Killsreaks - ?
+- Show Mojang Satus - [GamingGeek's MojangStatus](https://github.com/GamingGeek/MojangStatus/releases/latest)
 - Confirm Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Hypixel.net
 
-- Stats -
-- Guilds -
-- Friends -
+- Stats - [Kad7's HyStats](https://www.mediafire.com/file/lkq447zc0yolem5/HyStats-v3.0_%25281.8.9%2529.jar/file)
+- Guilds - ?
+- Friends - ?
 
 ### Highlight Words
 
-- Highlight Words -
+- Highlight Words - ?
 
 ### 2nd Chat
 
-- 2nd Chat -
+- 2nd Chat - ?
 
 ### Chat Messages Filter
 
-- Chat Messages Filter -
+- Chat Messages Filter - ?
 
 ### Text Shortcuts
 
-- Text Shortcuts -
+- Text Shortcuts - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 
 ### Text Macros
 
-- Text Macros (*!!! Bannable on Hypixel !!!*) - 
+- Text Macros (*!!! Bannable on Hypixel !!!*) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 
 ### Username History
 
@@ -82,7 +82,7 @@ TODO: make this actually good
 
 ## TeamSpeak
 
-- TeamSpeak - 
+- TeamSpeak - ?
 
 ## Discord Presence
 
