@@ -168,7 +168,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **NoBob** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **OptiFine** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Rainbow GUI** - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
-- **ResourcePack 24** - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds the ability to make folders and a better GUI)
+- **ResourcePack 24** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest) / [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds the ability to make folders and a better GUI)
 - **Send To Server** - ?
 - **Settings Profile Mod** - [leduyquang753's Controls Saved](https://drive.google.com/uc?authuser=0&id=1di1XQ_JNcVOt2RyCyZncsua7Vi5ar_fo&export=download)
 - **ShinyPots** - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
