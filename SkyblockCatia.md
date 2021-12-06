@@ -18,11 +18,11 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 
 ## Rendering
 
-- **Fancy Color for Supporters** - Irrelevant
+- **Fancy Color for Supporters** - Irrelevant ([W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest))
 - **Show Item Rarity** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Item Rarity Opacity** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Make Special Zealot Held Gold Block** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Hitbox Render Mode** - None
+- **Hitbox Render Mode** - Wyvtils ?
 - **Glowing Dragon Armor** - None
 - **Disable Block Particles** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Fix Skyblock Enchant Tag** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
