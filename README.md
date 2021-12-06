@@ -54,4 +54,4 @@ Thank you to the following people who contributed to this repo and its predecess
 - [Sychic](https://github.com/Sychic)
 - [usb](https://github.com/U5B)
 - [Wyvest](https://github.com/wyvest)
-- [Yan](https://github.com/yanNotDev)
+- [yan](https://github.com/yanNotDev)
