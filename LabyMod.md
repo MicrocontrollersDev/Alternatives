@@ -137,7 +137,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **Controller** - ?
 - **Custom Block Overlay** - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 - **Custom Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
-- **Custom Hitboxes** - [Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+- **Custom Hitboxes** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - **CustomFilterSounds** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **CustomFont** - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
 - **Custom Main Menu** - [Lumien231's CustomMainMenu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
@@ -154,7 +154,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **GUI Blur Mod** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 - **HDSkins** - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/all?filter-game-version=2020709689%3A5806)
 - **HeadOwner** - ?
-- **Hotbar** - [Qalcyo's REDACTION](https://github.com/Qalcyo/REDACTION/releases/latest)
+- **Hotbar** - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
 - **Hypixel Quick Play** - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 - **I Love Music** - ?
 - **Instagram** - ?
