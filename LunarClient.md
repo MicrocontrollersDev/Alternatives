@@ -4,7 +4,7 @@
 
 - **1.7 Visuals**
   - **Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
-  - **Hit Armor Color** - [Qalcyo's Damage Tint](https://github.com/Qalcyo/DamageTint/releases/latest)
+  - **Hit Armor Color** - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
 - **FPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **CPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Skyblock**
@@ -36,7 +36,7 @@
   - **Unlimited Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Stack Spam Messages** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Chat Height Fix** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
-  - **Highlighted Name** - [Qalcyo's Wyvtils (for Chat Name Highlight)](https://github.com/Qalcyo/Wyvtils/releases/latest)
+  - **Highlighted Name** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
   - **Background Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
   - **Hide Incoming Messages** - ?
@@ -71,12 +71,12 @@
 - **Auto Text Hot Key** (!!! Bannable on Hypixel !!!) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 - **Mumble Link** - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
 - **2D Items** - ?
-- **Boss Bar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
+- **Boss Bar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer) / [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
 - **Freelook** (*!!! Bannable on Hypixel !!!*) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - **Team View** - ?
 - **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 - **Menu Blur** [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
-- **Hitbox** - [Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+- **Hitbox** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - **TNT Timer Mod** - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
 
 ## Settings
@@ -106,7 +106,7 @@
 
 #### Texture Pack Options
 
-- **Transparent Background** - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+- **Transparent Background** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest) / [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - **Red String** - Texture Pack
 
 ### Performance
@@ -133,7 +133,7 @@
   
 - **Vanilla Bug Fixes** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Custom Main Menu** - [Lumien231's Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
-- **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
+- **Discord Rich Presence** - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 - **In Game Account Switcher** - [Sk1er's Essential](https://essential.gg)
 - **In Game Server Switcher** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Save Controls Between Versions** - [leduyquang753's Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/)
