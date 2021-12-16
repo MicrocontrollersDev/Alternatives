@@ -69,7 +69,7 @@
 -   **Sprays** - ?
 -   **Replay Mod** - [Replay Mod](https://www.replaymod.com/download/)
 -   **Schematica Mod** - [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147/files/all?filter-game-version=2020709689%3A5806)
--   **TeamSpeak Mod** - ?
+-   **TeamSpeak Mod** - [5Zig Reborn](https://5zigreborn.eu/)
 -   **MumbleLink** - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154/files/all?filter-game-version=2020709689%3A5806)
 -   **Timers** - [LlamaLad's BLCTimers](https://github.com/LlamaLad7/blctimers/releases/latest)
 -   **SkyBlock Addons** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
@@ -84,3 +84,4 @@
 - [Moiré](https://github.com/moire9)
 - [Solonovamax](https://github.com/solonovamax)
 - [Wyvest](https://github.com/wyvest)
+- [Zetvue](https://github.com/zetvue)
