@@ -63,7 +63,7 @@
     -   **Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     -   **Chat Messages Notifications** - ?
     -   **Chat Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-    -   **Chat Size** - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+    -   **Chat Size** - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
     -   **Emphasize Username in Chat** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
 -   **Cosmetics** - [Sk1er's Essential](https://essential.gg)
 -   **Sprays** - ?

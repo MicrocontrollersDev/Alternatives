@@ -36,13 +36,13 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **Autotext** (**!!! Bannable on Hypixel !!!**) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 - **Name History** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Chat Icons** - ?
-- **Chat Filter** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+- **Chat Filter** - ?
 - **Shortcuts** - ?
 - **Player Menu** - ?
-- **Disable Chat Background** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-- **Adjustable Chat** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-- **Advanced Chat Settings** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-- **Secondary Chat** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+- **Disable Chat Background** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+- **Adjustable Chat** - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+- **Advanced Chat Settings** - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+- **Secondary Chat** - ?
 
 ### PvP
 
@@ -128,7 +128,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **BetterHat** - ?
 - **Better Perspective** (*!!! Bannable on Hypixel !!!*) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - **BetterScreenshot** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **ChatCopper** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+- **ChatCopper** - ?
 - **ChatLog** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/)
 - **ChatTime** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **ChatTranslator** - ?
@@ -144,7 +144,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **CustomTime** - [Lily's SimpleTimeChanger](https://github.com/My-Name-Is-Jeff/SimpleTimeChanger/releases/latest) / [Shatterpoint's TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases)
 - **DamageIndicator** (*!!! Bannable on Hypixel !!!*) - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
 - **Direct Connect History** - ?
-- **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) (doesn't require bspkrs core) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **EmoteChat** - ?
 - **FastJoin** - ?
 - **Friend Tags** - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases)

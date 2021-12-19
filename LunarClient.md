@@ -14,12 +14,17 @@
   - **Cowlection** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 - **Toggle Sneak/Sprint** - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - **Hypixel Mods**
+  - **Remove Guild on Tab** - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
+  - **Remove Guild MOTD** - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
+  - **Remove Lobby Join Messages** - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
+  - **Short Chat Channel Messages** - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
   - **Auto Friend** -  [2Pi's AutoFriend](https://2pi.pw/mods/autofriend)
   - **Auto TIP** - [Semx11's AutoTip](https://autotip.pro/download)
   - **Auto GG** - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
   - **Anti GG** - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
   - **Auto Who** - No longer works on Hypixel
   - **Level Head** - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
+  - **Hypixel Autocomplete** - [Sk1er's Hypixel Autocomplete](https://sk1er.club/mods/hypixel_auto_complete)
 - **Armor Status** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Key Strokes** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Coordinates** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
@@ -33,15 +38,15 @@
 - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Motion Blur** - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - **Chat**
-  - **Unlimited Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
-  - **Stack Spam Messages** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
-  - **Chat Height Fix** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+  - **Unlimited Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+  - **Stack Spam Messages** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+  - **Chat Height Fix** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - **Highlighted Name** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
-  - **Background Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
-  - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+  - **Background Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+  - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - **Hide Incoming Messages** - ?
   - **Stop Servers from Closing Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - **Chat Filter** - [Moulberry & Tyman's Hychat](https://github.com/TymanWasTaken/Hychat)
+  - **Chat Filter** - ?
 - **Nametags**
   - **Nametag Text Shadow** -  [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - **Third Person Nametag** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
