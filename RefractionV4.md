@@ -52,3 +52,4 @@
 - [JackedUp21](https://github.com/JackedUp21)
 - [JitterDev](https://github.com/JitterDev)
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
+- [Wyvest](https://github.com/wyvest)

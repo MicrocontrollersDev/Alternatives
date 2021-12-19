@@ -92,3 +92,7 @@ TODO: make this actually good
 
 - Friends and Chat System - [Essential](https://essential.gg)
 - Cosmetics - [Essential](https://essential.gg)
+
+# Contributors
+
+- [Zetvue](https://zetvue.carrd.co)
