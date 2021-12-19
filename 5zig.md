@@ -38,7 +38,7 @@ TODO: make this actually good
 
 ### General
 
-- Notify on Chat-Mention - [Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest)
+- Notify on Chat-Mention - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
 - Automatically Reconnect - ?
 - Use CMD-Key - ?
 - Show Compass Target - ?
