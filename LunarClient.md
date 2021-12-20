@@ -5,6 +5,7 @@
 - **1.7 Visuals**
   - **Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
   - **Hit Armor Color** - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
+  - **Reduced Hurt Animation** - [W-OVERFLOW's BetterHurtCam](https://github.com/W-OVERFLOW/BetterHurtCam/releases/latest)
 - **FPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **CPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Skyblock**
