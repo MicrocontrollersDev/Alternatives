@@ -34,7 +34,7 @@
 - **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **DirectionHUD** - [ReflxctionDev's Bspkrs DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
-- **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
+- **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs) / [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
 - **Potion Counter** - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
 - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 - **Motion Blur** - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
