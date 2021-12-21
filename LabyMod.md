@@ -198,3 +198,4 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - [Solonovamax](https://github.com/solonovamax)
 - [usb](https://github.com/U5B)
 - [Wyvest](https://github.com/wyvest)
+- [Zetvue](https://zetvue.carrd.co)
