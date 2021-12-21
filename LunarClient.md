@@ -81,9 +81,10 @@
 - **Freelook** (*!!! Bannable on Hypixel !!!*) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - **Team View** - ?
 - **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
-- **Menu Blur** [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
+- **Menu Blur** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 - **Hitbox** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - **TNT Timer Mod** - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
+- **Quickplay** - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)
 
 ## Settings
 
