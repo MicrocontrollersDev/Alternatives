@@ -43,7 +43,7 @@
 -   **Reach Display** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 -   **ResourcePack 24** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest) / [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds the ability to make folders and a better GUI)
 -   **Saturation** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
--   **Scoreboard** - [Canelex & Powns's Sidebarmod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
+-   **Scoreboard** - [Canelex & Powns's Sidebarmod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs) / [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
 -   **Server Address HUD** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
 -   **ShinyPots** - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 -   **Stopwatch** - [W-OVERFLOW's TimerHUD](https://github.com/W-OVERFLOW/TimerHUD/releases/latest)
