@@ -180,7 +180,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **ToggleTab** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Transulcent Skins** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Twitter** - ?
-- **WorldEditCUI** - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
+- **WorldEditCUI** - [Mumfrey's WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI/releases/latest) / [Mikroskeem's Updated WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI/releases/latest) (1.14+ Fabric)
 - **VoiceChat** - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/tag/1.2.0-pre10.2)
 - **Glint Colorizer** - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - **Focus Movement Fix** - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
