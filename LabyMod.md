@@ -52,9 +52,9 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 ### Menu GUI
   
 - **Menu Background** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Server Information at Direct Connect** - ?
+- **Server Information at Direct Connect** - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
 - **Confirm Disconnect** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Quickplay** - ?
+- **Quickplay** - [Buggyfroggy's Quickplay](https://github.com/QuickplayMod/quickplay/releases/latest)
 - **Public Server List** - [Sk1er's Essential](https://essential.gg)
 - **Multiplayer Menu Ingame** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Borderless Window** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
