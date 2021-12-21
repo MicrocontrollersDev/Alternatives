@@ -107,7 +107,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 ## External Services
   
 - **YouTube Subscriber** - ?
-- **Voice Chat** - ?
+- **Voice Chat** - [zsawyer's MumbleLink](https://github.com/zsawyer/MumbleLink)
 
 ## Miscellaneous
 
