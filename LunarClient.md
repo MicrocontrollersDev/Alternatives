@@ -172,6 +172,7 @@
 - [Karmette](https://github.com/karmette)
 - [Lizzy](https://github.com/LizzyMaybeDev)
 - [Moiré](https://github.com/moire9)
+- [oyMarcel](https://github.com/oyMarcel)
 - [Solonovamax](https://github.com/solonovamax)
 - [Wyvest](https://github.com/wyvest)
 - [Zetvue](https://zetvue.carrd.co)
