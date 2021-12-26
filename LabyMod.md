@@ -1,3 +1,5 @@
+[<< Back](https://github.com/MicrocontrollersDev/Alternatives/blob/main/README.md)
+
 # LabyMod Alternatives
 
 LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics, and just low FPS. Therefore, it is advised that you avoid using it if possible.

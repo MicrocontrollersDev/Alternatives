@@ -1,3 +1,5 @@
+[<< Back](https://github.com/MicrocontrollersDev/Alternatives/blob/main/README.md)
+
 # Lunar Client Alternatives
 
 ## Mods
@@ -113,7 +115,6 @@
 - **Shift Effects in Inventory** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Achievements** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Crosshair in Third Person** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Show Menu Blur** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 
 #### Cosmetic Options
 

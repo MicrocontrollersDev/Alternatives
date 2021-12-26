@@ -1,3 +1,5 @@
+[<< Back](https://github.com/MicrocontrollersDev/Alternatives/blob/main/README.md)
+
 # Badlion Client Alternatives
 
 -   **1.7 Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
