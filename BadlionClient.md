@@ -1,4 +1,4 @@
-[<< Back](https://github.com/MicrocontrollersDev/Alternatives/blob/main/README.md)
+[<< Back](README.md)
 
 # Badlion Client Alternatives
 

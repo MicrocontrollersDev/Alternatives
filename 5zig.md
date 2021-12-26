@@ -1,6 +1,6 @@
-[<< Back](https://github.com/MicrocontrollersDev/Alternatives/blob/main/README.md)
+[<< Back](README.md)
 
-# 5zig Alternatives
+# 5Zig Alternatives
 
 WIP
 

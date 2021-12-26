@@ -1,5 +1,3 @@
-[<< Back](https://github.com/MicrocontrollersDev/Alternatives/blob/main/README.md)
-
 # Alternatives
 
 ## Description
@@ -11,22 +9,22 @@ Anybody may use this repo for their own work as long as credit is properly given
 
 ### Clients
 
-- [Badlion Client](https://github.com/MicrocontrollersDev/Alternatives/blob/main/BadlionClient.md)
-- [Lunar Client](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LunarClient.md)
+- [Badlion Client](BadlionClient.md)
+- [Lunar Client](LunarClient.md)
 
 ### Mods
 
-- [5Zig (Reborn)](https://github.com/MicrocontrollersDev/Alternatives/blob/main/5Zig.md)
-- [LabyMod](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md)
-- [Danker's SkyblockMod](https://github.com/MicrocontrollersDev/Alternatives/blob/main/DankersSkyblockMod.md)
-- [SkyblockCatia](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockCatia.md)
-- [SkyblockExtras](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockExtras.md)
-- [SkyblockReinvented](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockReinvented.md)
-- [Skypixel](https://github.com/MicrocontrollersDev/Alternatives/blob/main/Skypixel.md)
+- [5Zig (Reborn)](5Zig.md)
+- [LabyMod](LabyMod.md)
+- [Danker's SkyblockMod](DankersSkyblockMod.md)
+- [SkyblockCatia](SkyblockCatia.md)
+- [SkyblockExtras](SkyblockExtras.md)
+- [SkyblockReinvented](SkyblockReinvented.md)
+- [Skypixel](Skypixel.md)
 
 ### Modpacks
 
-- [Refraction V4](https://github.com/MicrocontrollersDev/Alternatives/blob/main/RefractionV4.md)
+- [Refraction V4](RefractionV4.md)
 
 ## Discord Server
 
