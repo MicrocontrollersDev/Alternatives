@@ -1,13 +1,34 @@
 # Alternatives
 
-## Discord Server
-
-[Join my Discord for news regarding the development of this repository!](https://inv.wtf/micro)
-
 ## Description
 
 This repo contains many alternatives to poorly made clients, mods, and modpacks.  
 Anybody may use this repo for their own work as long as credit is properly given in the form of my name and a link to this repo.
+
+## Directory
+
+### Clients
+
+- [Badlion Client](https://github.com/MicrocontrollersDev/Alternatives/blob/main/BadlionClient.md)
+- [Lunar Client](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LunarClient.md)
+
+### Mods
+
+- [5Zig (Reborn)](https://github.com/MicrocontrollersDev/Alternatives/blob/main/5Zig.md)
+- [LabyMod](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md)
+- [Danker's SkyblockMod](https://github.com/MicrocontrollersDev/Alternatives/blob/main/DankersSkyblockMod.md)
+- [SkyblockCatia](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockCatia.md)
+- [SkyblockExtras](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockExtras.md)
+- [SkyblockReinvented](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockReinvented.md)
+- [Skypixel](https://github.com/MicrocontrollersDev/Alternatives/blob/main/Skypixel.md)
+
+### Modpacks
+
+- [Refraction V4](https://github.com/MicrocontrollersDev/Alternatives/blob/main/RefractionV4.md)
+
+## Discord Server
+
+[Join my Discord for news regarding the development of this repository!](https://inv.wtf/micro)
 
 ## For Contributors:
 
