@@ -125,7 +125,7 @@
 
 - **Smart Disconnect** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Borderless Fullscreen** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Disable Weather** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
+- **Disable Weather** - [W-OVERFLOW's WeatherChanger](https://github.com/W-OVERFLOW/WeatherChanger/releases/latest)
 - **Modern Keybind Handling** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Minimal View Bobbing** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Unfocused FPS Limiter** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
