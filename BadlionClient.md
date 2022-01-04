@@ -26,7 +26,7 @@
 -   **Hit Color** - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
 -   **Hitboxes** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) / [Aycy's Hitbox Colors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 -   **Inventory Blur** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
--	**HyStats** - [KAD7's HyStats](https://www.mediafire.com/file/lkq447zc0yolem5/HyStats-v3.0_%25281.8.9%2529.jar/file)
+-	**HyStats** - [KAD7's HyStats](https://download2270.mediafire.com/0r5h180odzzg/yx8m6ztaduf5bx8/HyStats-v4.0_%281.8.9%29.jar)
 -   **Ingame Server Switcher** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 -   **Item Counter** - [DoKM's Item Counter](https://hypixel.net/threads/1-8-9-item-counter-mod.3683685/) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 -   **Item-Info** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
