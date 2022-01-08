@@ -1,3 +1,5 @@
+[<< Back](README.md)
+
 # Lunar Client Alternatives
 
 ## Mods
@@ -113,7 +115,6 @@
 - **Shift Effects in Inventory** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Achievements** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Crosshair in Third Person** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Show Menu Blur** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 
 #### Cosmetic Options
 
@@ -124,7 +125,7 @@
 
 - **Smart Disconnect** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Borderless Fullscreen** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Disable Weather** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
+- **Disable Weather** - [W-OVERFLOW's WeatherChanger](https://github.com/W-OVERFLOW/WeatherChanger/releases/latest)
 - **Modern Keybind Handling** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Minimal View Bobbing** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Unfocused FPS Limiter** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -171,6 +172,7 @@
 - [Karmette](https://github.com/karmette)
 - [Lizzy](https://github.com/LizzyMaybeDev)
 - [Moiré](https://github.com/moire9)
+- [oyMarcel](https://github.com/oyMarcel)
 - [Solonovamax](https://github.com/solonovamax)
 - [Wyvest](https://github.com/wyvest)
 - [Zetvue](https://zetvue.carrd.co)

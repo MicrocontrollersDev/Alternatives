@@ -1,13 +1,34 @@
 # Alternatives
 
-## Discord Server
-
-[Join my Discord for news regarding the development of this repository!](https://inv.wtf/micro)
-
 ## Description
 
 This repo contains many alternatives to poorly made clients, mods, and modpacks.  
 Anybody may use this repo for their own work as long as credit is properly given in the form of my name and a link to this repo.
+
+## Directory
+
+### Clients
+
+- [Badlion Client](BadlionClient.md)
+- [Lunar Client](LunarClient.md)
+
+### Mods
+
+- [5Zig (Reborn)](5Zig.md)
+- [LabyMod](LabyMod.md)
+- [Danker's SkyblockMod](DankersSkyblockMod.md)
+- [SkyblockCatia](SkyblockCatia.md)
+- [SkyblockExtras](SkyblockExtras.md)
+- [SkyblockReinvented](SkyblockReinvented.md)
+- [Skypixel](Skypixel.md)
+
+### Modpacks
+
+- [Refraction V4](RefractionV4.md)
+
+## Discord Server
+
+[Join my Discord for news regarding the development of this repository!](https://inv.wtf/micro)
 
 ## For Contributors:
 

@@ -1,3 +1,5 @@
+[<< Back](README.md)
+
 # SkyblockReinvented Alternatives
 
 This mod takes much of its code from other mods. It is recommended to use other mods instead.
