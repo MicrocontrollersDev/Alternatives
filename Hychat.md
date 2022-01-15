@@ -5,11 +5,11 @@
 ## Tweaks
 
 - Compact Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- Consecutive Compact Char - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- Consecutive Compact Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Compact Chat Count - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Fix Centered Text - Irrelevent (?)
-- Smart Dividers - [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting)
-- Connect Dividers - [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting)
+- Smart Dividers - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn)
+- Connect Dividers - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn)
 - Stack Empty Lines - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Filter Bad Words - [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting)
 - Replace Homoglyphs - [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting)
