@@ -10,7 +10,7 @@
 -   **BlockOverlay** - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 -   **Bossbar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer) / [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
 -   **CPS Counter/Keystrokes** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
--   **Clear Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+-   **Clear Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
 -   **Clan Wars** - Irrelevant
 -   **Clear Water** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 -   **Combo Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
@@ -21,7 +21,7 @@
 -   **Enchant Glint** - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 -   **FOV Changer** - [Sk1er's Patcher (/fov)](https://sk1er.club/mods/patcher)
 -   **FPS Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
--   **Fullbright** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+-   **Fullbright** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 -   **Ghost Liquid Fix** - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
 -   **Hit Color** - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
 -   **Hitboxes** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) / [Aycy's Hitbox Colors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
