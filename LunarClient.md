@@ -177,3 +177,4 @@
 - [Solonovamax](https://github.com/solonovamax)
 - [Wyvest](https://github.com/wyvest)
 - [Zetvue](https://zetvue.carrd.co)
+- [GhoulBoi69](https://github.com/GhoulBoii)
