@@ -74,7 +74,7 @@
   - **Cowlection** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
 - **Visual Mods**
-  
+
   - **2D Items** - ?
   - **3D Skin Layers** - [tr9zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (Only for 1.16.5+, downgrade versions are being worked on)
   - **UHC Overlay** - ? (Resourcepacks work instead)
