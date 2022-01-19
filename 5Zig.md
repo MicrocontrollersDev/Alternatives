@@ -97,5 +97,5 @@ TODO: make this actually good
 
 # Contributors
 
-- [Zetvue](https://zetvue.carrd.co)
 - [GhoulBoi69](https://github.com/GhoulBoii)
+- [Zetvue](https://zetvue.carrd.co)

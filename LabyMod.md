@@ -193,6 +193,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - [BobIsMyManager](https://github.com/BobIsMyManager)
 - [Coolbird1234](https://twitter.com/dankbird1234)
 - [Digux](https://github.com/Diguhxe)
+- [GhoulBoi69](https://github.com/GhoulBoii)
 - [Karmette](https://github.com/karmette)
 - [LlamaLad7](https://github.com/LlamaLad7)
 - [Lizzy](https://github.com/LizzyMaybeDev)
@@ -201,4 +202,3 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - [usb](https://github.com/U5B)
 - [Wyvest](https://github.com/wyvest)
 - [Zetvue](https://zetvue.carrd.co)
-- [GhoulBoi69](https://github.com/GhoulBoii)
