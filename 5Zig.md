@@ -15,7 +15,7 @@ TODO: make this actually good
 - Vanilla Potion Indicator - ?
 - Show Potion Indicator - ?
 - Colored Armor Durability - ?
-- Show Saturation - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- Show Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Show Food Heal Amount - ?
 - Show Hotbar Numbers - Resourcepack
 
@@ -34,7 +34,7 @@ TODO: make this actually good
 
 ## Customize Display
 
-- See [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) for most of the features
+- See [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) for most of the features
 
 ## Server Options
 
