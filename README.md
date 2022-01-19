@@ -54,6 +54,7 @@ Thank you to the following people who contributed to this repo and its predecess
 - [Digux](https://github.com/Diguhxe)
 - [DJtheRedstoner](https://github.com/DJtheRedstoner)
 - [Feel65](https://github.com/Feel65)
+- [GhoulBoi69](https://github.com/GhoulBoii)
 - [JackedUp21](https://github.com/JackedUp21)
 - [jani270](https://github.com/jani270)
 - [JitterDev](https://github.com/JitterDev)
