@@ -69,7 +69,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 
 - **Show My Name** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Bossbar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
-- **Show Saturation** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Show Saturation** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - **Sign Search** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Left Hand** - ?
 - **Discord Rich Presence** - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
@@ -83,28 +83,28 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 
 ### Information
 
-- **FPS Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
-- **Coordinates** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
-- **F Direction** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
-- **Clock** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **FPS Counter** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+- **Coordinates** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
+- **F Direction** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
+- **Clock** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - **Date** - ?
-- **Biome** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Entity Count** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Biome** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- **Entity Count** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - **Chunk Caching Info** - Irrelevant, servers must have support for Chunk Caching anyways
-- **Memory** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Online Players** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Server Address** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Memory** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- **Online Players** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- **Server Address** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - **Server Support** - Irrelevant
-- **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's PotionHud](https://download.powns.dev/potionhud189)
+- **Potion Effects** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's PotionHud](https://download.powns.dev/potionhud189)
 - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
-- **Combo** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Range** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-- **Speed** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **Combo** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- **Range** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- **Speed** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 
 ### Items
 
-- **Armor Status** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Powns's ArmorHud](https://download.powns.dev/armorhud189)
+- **Armor Status** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's ArmorHud](https://download.powns.dev/armorhud189)
 
 ## External Services
   
@@ -118,7 +118,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **Lava Challenge Time** - ?
 - **ToggleSneak Info** - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - **Laby's MiniMap** (!!! Bannable on Hypixel !!!) - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/latest)
-- **DirectionHUD** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **DirectionHUD** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 
 ## Addons
 
@@ -146,7 +146,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **CustomTime** - [Lily's SimpleTimeChanger](https://github.com/My-Name-Is-Jeff/SimpleTimeChanger/releases/latest) / [Shatterpoint's TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases)
 - **DamageIndicator** (*!!! Bannable on Hypixel !!!*) - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
 - **Direct Connect History** - ?
-- **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+- **DirectionHUD** - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - **EmoteChat** - ?
 - **FastJoin** - ?
 - **Friend Tags** - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases)
@@ -193,6 +193,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - [BobIsMyManager](https://github.com/BobIsMyManager)
 - [Coolbird1234](https://twitter.com/dankbird1234)
 - [Digux](https://github.com/Diguhxe)
+- [GhoulBoi69](https://github.com/GhoulBoii)
 - [Karmette](https://github.com/karmette)
 - [LlamaLad7](https://github.com/LlamaLad7)
 - [Lizzy](https://github.com/LizzyMaybeDev)

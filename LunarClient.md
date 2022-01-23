@@ -21,6 +21,7 @@
   - **Stop Servers from Closing Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - **Unlimited Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+  - **Chat Animation** - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
 
 - **Hypixel Mods**
 
@@ -38,25 +39,25 @@
 
 - **HUD Mods**
 
-  - **Armor Status** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-  - **Clock** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-  - **Combo Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-  - **Coordinates** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-  - **CPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
-  - **Day Counter** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+  - **Armor Status** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+  - **Clock** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+  - **Combo Counter** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+  - **Coordinates** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+  - **CPS** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+  - **Day Counter** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - **DirectionHUD** - [ReflxctionDev's Bspkrs DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
-  - **FPS** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+  - **FPS** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
   - **Item Tracker** - ?
   - **Key Strokes** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
-  - **Memory Usage** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+  - **Memory Usage** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
-  - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-  - **Potion Effects** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+  - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+  - **Potion Effects** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - **Potion Counter** - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
   - **Stopwatch** - [W-OVERFLOW's TimerHUD](https://github.com/w-overflow/timerhud-forge/releases/latest)
-  - **Server Address** -  [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-  - **Saturation** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
-  - **Reach Display** - [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+  - **Server Address** -  [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+  - **Saturation** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+  - **Reach Display** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - **Team View** - Irrelevant
   
 - **Nametags**
@@ -169,6 +170,7 @@
 - [asbyth](https://github.com/asbyth)
 - [BobIsMymanager](https://github.com/BobisMymanager)
 - [Digux](https://github.com/Diguhxe)
+- [GhoulBoi69](https://github.com/GhoulBoii)
 - [Karmette](https://github.com/karmette)
 - [Lizzy](https://github.com/LizzyMaybeDev)
 - [Moiré](https://github.com/moire9)
