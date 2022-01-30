@@ -8,14 +8,14 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 
 - **Jungle Axe Cooldown** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Grappling Hook Cooldown** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-- **Zealot Respawn Cooldown** - None
+- **Zealot Respawn Cooldown** - ?
 - **Placed Summoning Eye Tracker** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Leave Party when Last Eye Placed** - None
+- **Leave Party when Last Eye Placed** - ?
 - **Lobby Player Viewer** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
-- **Auction Bid Confirm Value** - None
+- **Auction Bid Confirm Value** - ?
 - **Bazaar on Item Tooltip** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 - **Sneak to Trade Other Player Island** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
-- **Display Max Used of Item Ability** - None
+- **Display Max Used of Item Ability** - ?
 - **Shortcut Button in Inventory** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 
 ## Rendering
@@ -25,16 +25,16 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - **Item Rarity Opacity** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Make Special Zealot Held Gold Block** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Hitbox Render Mode** - Wyvtils ?
-- **Glowing Dragon Armor** - None
+- **Glowing Dragon Armor** - ?
 - **Disable Block Particles** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Fix Skyblock Enchant Tag** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Disable Night Vision** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Display Realtime Ping** - None
+- **Display Realtime Ping** - ?
 
 ## Miscellaneuous
 
-- **Right Click to Add Party** - None
-- **Sneak to Open Inventory While Fighting Dragon** - None
+- **Right Click to Add Party** - ?
+- **Sneak to Open Inventory While Fighting Dragon** - ?
 - **Lobby Player Count** - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - **Show Obtained Date** - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
@@ -44,12 +44,12 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - **Enable Skin Rendering Fix** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates) via custom models
 - **Disable Hurt Camera Effect** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Enable Shortcut Game Button** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
-- **Enable 1.15 Armor Enchanted Glint** - None
+- **Enable 1.15 Armor Enchanted Glint** - ?
 - **Enable Enchanted Glint for Skulls** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- **Enable Overwrite Sign Editing** - None
-- **Enable Sign Selection List** - None
-- **Enable Chat in Container Screen** - None
-- **Disable Error Log** - None
+- **Enable Overwrite Sign Editing** - ?
+- **Enable Sign Selection List** - ?
+- **Enable Chat in Container Screen** - ?
+- **Disable Error Log** - ?
 
 ## Toast Config
 
