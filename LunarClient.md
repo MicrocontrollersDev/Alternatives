@@ -80,7 +80,7 @@
   - **UHC Overlay** - ? (Resourcepacks work instead)
   - **FOV Mod** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
   - **Menu Blur** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
-  - **Custom Crosshair** - [W-OVERFLOW's CrosshairV2](discord.gg/woverflow)
+  - **Custom Crosshair** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
   - **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
   - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs) 
   - **Motion Blur** - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
