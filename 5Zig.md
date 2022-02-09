@@ -21,8 +21,8 @@ TODO: make this actually good
 
 ## Noncategorized
 
-- Show More Chat Symbols -
-- Show Last Server -
+- Show More Chat Symbols - ?
+- Show Last Server - ?
 - Show Custom Item Models - OptiFine Setting
 - Static FOV - Minecraft Setting
 - Time in Chat Messages - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -30,7 +30,7 @@ TODO: make this actually good
 - Transparent Pause Menu - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Show Own Nametag - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Ping on Tablist - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- Ping on Server List -
+- Ping on Server List - ?
 
 ## Customize Display
 
@@ -80,7 +80,7 @@ TODO: make this actually good
 
 ### Join Auto-Text
 
-- Join Auto-Text (*!!! Bannable on Hypixel !!!*) -
+- Join Auto-Text (*!!! Bannable on Hypixel !!!*) - ?
 
 ## TeamSpeak
 
