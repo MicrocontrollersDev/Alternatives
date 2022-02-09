@@ -60,7 +60,7 @@ TODO: make this actually good
 
 ### 2nd Chat
 
-- 2nd Chat - [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting/releases/latest)
+- 2nd Chat - [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting/releases/latest) (Chat Tabs)
 
 ### Chat Messages Filter
 
