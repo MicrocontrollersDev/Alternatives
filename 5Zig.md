@@ -30,7 +30,7 @@ TODO: make this actually good
 - Transparent Pause Menu - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Show Own Nametag - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Ping on Tablist - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- Ping on Server List - Minecraft Feature
+- Ping on Server List - ?
 
 ## Customize Display
 
@@ -60,7 +60,7 @@ TODO: make this actually good
 
 ### 2nd Chat
 
-- 2nd Chat - [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting/releases/latest) (Chat Tabs)
+- 2nd Chat - ?
 
 ### Chat Messages Filter
 
