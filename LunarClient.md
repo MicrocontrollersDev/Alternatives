@@ -14,7 +14,7 @@
 
   - **Chat Filter** - ?
   - **Chat Height Fix** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - **Highlighted Name** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
+  - **Highlighted Name** - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
   - **Background Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - **Hide Incoming Messages** - ?
   - **Stack Spam Messages** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -80,19 +80,19 @@
   - **UHC Overlay** - ? (Resourcepacks work instead)
   - **FOV Mod** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
   - **Menu Blur** - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
-  - **Custom Crosshair** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
+  - **Custom Crosshair** - [W-OVERFLOW's CrosshairV2](discord.gg/woverflow)
   - **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
-  - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs) / [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
+  - **Scoreboard** - [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs) 
   - **Motion Blur** - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
   - **Shiny Pots** - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
   - **Scrollable Tooltips** - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
-  - **Particle Multiplier** - [Aycy's OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw)
+  - **Particle Multiplier** - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
   - **Cooldowns** - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
   - **Time Changer** [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
   - **Block Outline** - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
-  - **Item Physics** - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806) / [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
+  - **Item Physics** - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
   - **TNT Timer Mod** - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
-  - **Hitbox** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+  - **Hitbox** - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 
 - **Other Mods**
 
@@ -103,7 +103,7 @@
   - **Screenshot Uploader** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - **Auto Text Hot Key** (*!!! Bannable on Hypixel !!!*) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
   - **Mumble Link** - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
-  - **Boss Bar** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
+  - **Boss Bar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
   - **Freelook** (*!!! Bannable on Hypixel !!!*) - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
   - **Quickplay** - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)
 
@@ -133,7 +133,7 @@
 
 #### Texture Pack Options
 
-- **Transparent Background** - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest) / [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+- **Transparent Background** - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - **Red String** - Texture Pack
 
 ### Performance
