@@ -1,6 +1,6 @@
 # Alternatives
 
-This repo contains many alternatives to poorly made clients, mods, and modpacks.  
+This repo contains many alternatives to poorly made or out of date clients, mods, and modpacks.  
 
 ## Directory
 
@@ -18,6 +18,7 @@ This repo contains many alternatives to poorly made clients, mods, and modpacks.
 - [SkyblockExtras](SkyblockExtras.md)
 - [SkyblockReinvented](SkyblockReinvented.md)
 - [Skypixel](Skypixel.md)
+- [Wyvtils](Wyvtils.md)
 
 ### Modpacks
 
