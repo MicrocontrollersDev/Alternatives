@@ -22,7 +22,7 @@ TODO: make this actually good
 ## Noncategorized
 
 - Show More Chat Symbols - ?
-- Show Last Server - ?
+- Show Last Server - [W-OVERFLOW's Redaction](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
 - Show Custom Item Models - OptiFine Setting
 - Static FOV - Minecraft Setting
 - Time in Chat Messages - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -40,7 +40,7 @@ TODO: make this actually good
 
 ### General
 
-- Notify on Chat-Mention - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest)
+- Notify on Chat-Mention - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
 - Automatically Reconnect - ?
 - Use CMD-Key - ?
 - Show Compass Target - ?

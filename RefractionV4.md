@@ -15,7 +15,7 @@
 - [**Quickplay**](https://github.com/QuickplayMod/quickplay/releases/latest)
 - [**Nick Hider**](https://sk1er.club/mods/nick_hider)
 - [**OofMod**](https://sk1er.club/mods/refractionoof)
-- [**Resource Pack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM) (or replace with [Wyvtils](https://github.com/W-OVERFLOW/Wyvtils/releases/latest))
+- [**Resource Pack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - [**TimeChanger**](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 - [**CustomCrosshair**](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 
