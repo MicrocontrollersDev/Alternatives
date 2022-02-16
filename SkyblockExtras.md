@@ -206,7 +206,7 @@ List is a constant WIP. I do not own the mod and this list is based off of an ol
 - **Show Dungeon Profit** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 - **Show Frag Counter** - SkyblockHud? / SBA?
 - **Show Door Opener** - ?
-- **Show Dungeon Map** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+- **Show Dungeon Map** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Remove Armor Stands** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Show Crypts Counter** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
