@@ -7,7 +7,7 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 ### Clients
 
 - [Badlion Client](BadlionClient.md)
-- [Feather Client](FeatherClient.md)
+- [Feather "Client"](FeatherClient.md)
 - [Lunar Client](LunarClient.md)
 
 ### Mods
