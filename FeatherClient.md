@@ -1,5 +1,5 @@
 [<< Back](README.md)
 
-# Feather Client Alternatives
+# Feather "Client" Alternatives
 
 WIP - check back soon
