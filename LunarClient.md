@@ -176,5 +176,5 @@
 - [Moiré](https://github.com/moire9)
 - [oyMarcel](https://github.com/oyMarcel)
 - [Solonovamax](https://github.com/solonovamax)
-- [Wyvest](https://github.com/wyvest)
+- [Wyvest](https://github.com/Wyvest)
 - [Zetvue](https://zetvue.carrd.co)

@@ -10,3 +10,5 @@ DungeonUtilities was an amazing mod for Dungeon solvers and map display, among o
 - **Riddle Solver** - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - **Better Glowing Effect** - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - **Loot Tracker** - ?
+
+# Contributors

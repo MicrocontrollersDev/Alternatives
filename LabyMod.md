@@ -200,5 +200,5 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - [Moiré](https://github.com/moire9)
 - [Solonovamax](https://github.com/solonovamax)
 - [usb](https://github.com/U5B)
-- [Wyvest](https://github.com/wyvest)
+- [Wyvest](https://github.com/Wyvest)
 - [Zetvue](https://zetvue.carrd.co)

@@ -16,3 +16,7 @@
 - Sidebar Customization - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) / [Canelex & Powns' Sidebar Mod Revamp](https://mediafire.com/file/gkzsovw2gjjuw3d/%255B1.8.9%255D_Sidebar_Mod_Revamp.jar/file)
 - Hitbox Customization - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
 - Pack GUI Modifier - [aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+
+# Contributors
+
+- [Wyvest](https://github.com/Wyvest)
