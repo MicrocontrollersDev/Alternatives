@@ -7,7 +7,7 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 ### Clients
 
 - [Badlion Client](BadlionClient.md)
-- [Feather Client](FeatherClient.md)
+- [Feather "Client"](FeatherClient.md)
 - [Lunar Client](LunarClient.md)
 
 ### Mods
@@ -55,6 +55,7 @@ Thank you to the following people who contributed to this repo and its predecess
 - [Digux](https://github.com/Diguhxe)
 - [DJtheRedstoner](https://github.com/DJtheRedstoner)
 - [Feel65](https://github.com/Feel65)
+- [Geek](https://github.com/GamingGeek)
 - [GhoulBoi69](https://github.com/GhoulBoii)
 - [JackedUp21](https://github.com/JackedUp21)
 - [jani270](https://github.com/jani270)
@@ -75,7 +76,8 @@ Thank you to the following people who contributed to this repo and its predecess
 - [stef-the](https://github.com/stef-the)
 - [Stekerser](https://github.com/Stekerser)
 - [Sychic](https://github.com/Sychic)
+- [Systemless](https://github.com/SystemlessDev)
 - [usb](https://github.com/U5B)
-- [Wyvest](https://github.com/wyvest)
+- [Wyvest](https://github.com/Wyvest)
 - [yan](https://github.com/yanNotDev)
 - [Zetvue](https://zetvue.carrd.co)
