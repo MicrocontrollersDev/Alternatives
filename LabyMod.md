@@ -68,7 +68,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 ### Additional
 
 - **Show My Name** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **Show Bossbar** - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD) / [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
+- **Show Bossbar** - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) / [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
 - **Show Saturation** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - **Sign Search** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Left Hand** - ?
@@ -97,7 +97,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **Server Address** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - **Server Support** - Irrelevant
 - **Potion Effects** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's PotionHud](https://download.powns.dev/potionhud189)
-- **Scoreboard** - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD) / [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
+- **Scoreboard** - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) / [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **Combo** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - **Range** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - **Speed** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
