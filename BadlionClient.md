@@ -8,7 +8,7 @@
 -   **Autotext** (*!!! Bannable on Hypixel !!!*) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 -   **AutoTip** - [Semx11's AutoTip](https://autotip.pro)
 -   **BlockOverlay** - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
--   **Bossbar** - [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
+-   **Bossbar** - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD) / [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
 -   **CPS Counter/Keystrokes** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 -   **Clear Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
 -   **Clan Wars** - Irrelevant
@@ -45,7 +45,7 @@
 -   **Reach Display** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 -   **ResourcePack 24** - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds the ability to make folders and a better GUI)
 -   **Saturation** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
--   **Scoreboard** - [Canelex & Powns's Sidebarmod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
+-   **Scoreboard** - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD) / [Canelex & Powns's Sidebarmod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 -   **Server Address HUD** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 -   **ShinyPots** - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 -   **Stopwatch** - [W-OVERFLOW's TimerHUD](https://github.com/W-OVERFLOW/TimerHUD/releases/latest)
