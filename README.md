@@ -44,6 +44,7 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 
 Thank you to the following people who contributed to this repo and its predecessors:
 
+- [o9o](https://www.youtube.com/channel/UC_lbg2qjUsZwro5khBW9PHw)
 - [8KCoffeeWizard](https://github.com/8KCoffeeWizard)
 - [Abd](https://github.com/BrahR)
 - [Angry_Pineapple](https://github.com/Angry-Pineapple3121)
