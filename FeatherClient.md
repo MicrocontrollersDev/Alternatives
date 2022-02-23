@@ -30,7 +30,7 @@ WIP - check back soon
 	- Anti Lobby Join - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
 	- LevelHead - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
 - Item Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-- Item Info - ?
+- Item Info - [Sk1er's Patcher](https://www.sk1er.club/mods/patcher)
 - Item Physic - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 - Keystrokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
