@@ -50,7 +50,7 @@
   - **Item Tracker** - ?
   - **Key Strokes** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
   - **Memory Usage** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-  - **Pack Display** - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
+  - **Pack Display** - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
   - **Ping** - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - **Potion Effects** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - **Potion Counter** - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
@@ -88,7 +88,7 @@
   - **Scrollable Tooltips** - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
   - **Particle Multiplier** - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
   - **Cooldowns** - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
-  - **Time Changer** [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
+  - **Time Changer** - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
   - **Block Outline** - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
   - **Item Physics** - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
   - **TNT Timer Mod** - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
