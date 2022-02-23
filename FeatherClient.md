@@ -9,7 +9,12 @@ Too lazy to download mods yourself? Check out these projects:
 - [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/) - Skyclient allows for a great modpack for both Skyblock and PvP, allowing you to add extra mods and external mods, as well as provide an in-game updater for those included.
 - [tmodinstaller](https://github.com/Tricked-dev/tmodinstaller) - tmodinstaller makes it easy to download specific mods in a single installer, as well as managing updates.
 
-## Feather Mods (Currently 1.8 Only)
+For manual mod installation, please click on the version you would like to download the mods for. (1.17 will not be supported in this list)
+
+<details>
+    <summary>1.8.9</summary>
+
+## Feather Mods
 
 - Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
 - Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -115,19 +120,37 @@ Too lazy to download mods yourself? Check out these projects:
 
 - Use Culling - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Cull Nametags - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+	
+</details>
+
+<details>
+    <summary>1.12.2</summary>
+
+Please check back soon!
+
+</details>
+
+<details>
+    <summary>1.18.2</summary>
+
+Please check back soon!
+
+</details>
 
 ## External Mods
 
+This section is unfinished.
+TODO: Move to respective version summaries.
+
 ### Multiversion
 
-- [Replay Mod](https://www.replaymod.com)
-- [OptiFine](https://optifine.net)
-- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-- [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
-- [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink)
-- [HD Skins](https://www.hdskins.de/)
-- [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer)
-- [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+- [Replay Mod](https://www.replaymod.com) (all)
+- [OptiFine](https://optifine.net) (all)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (all)
+- [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/) (1.8, 1.12)
+- [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink) (1.12, 1.17*)
+- [HD Skins](https://www.hdskins.de/) (all)
+- [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer) (1.8, 1.12, 1.18) - Switch to RPM for 1.8
 
 ### 1.8.9
 
@@ -145,7 +168,9 @@ Too lazy to download mods yourself? Check out these projects:
 
 ### 1.12
 
-### 1.17/1.18
+- No Unique
+
+### 1.18
 
 - OptiFabric
 - [Iris](https://irisshaders.github.io/)
@@ -171,6 +196,7 @@ Too lazy to download mods yourself? Check out these projects:
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Starlight](https://www.modrinth.com/mod/starlight)
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
+- [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 
 # Contributors
 
