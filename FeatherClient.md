@@ -29,9 +29,9 @@ WIP - check back soon
 	- Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 	- Anti Lobby Join - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
 	- LevelHead - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
-- Item Counter - ?
+- Item Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Item Info - ?
-- Item Physic - ?
+- Item Physic - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 - Keystrokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
 - Oof Mod - [**Powns & Refraction's OofMod**](https://sk1er.club/mods/refractionoof)
@@ -41,7 +41,7 @@ WIP - check back soon
 - Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-- Saturation - ?
+- Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Scoreboard - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
 - Screenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
