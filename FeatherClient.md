@@ -50,7 +50,7 @@ WIP - check back soon
 - Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 - Toggle Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
-- Voice - ?
+- Voice - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 - Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 - Weather Changer - ?
 - Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) & [Sk1er Patcher](https://sk1er.club/mods/patcher)
@@ -94,7 +94,7 @@ WIP - check back soon
 
 - Toggle Chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Unlimited Scrollbar - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Background Color
+- Background Color - ?
 - Text Shadow - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ### Stack Messages
@@ -124,7 +124,7 @@ WIP - check back soon
 - [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer)
 - [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 
-### 1.8
+### 1.8.9
 
 - [Patcher](https://sk1er.club/mods/patcher)
 - [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
@@ -171,5 +171,6 @@ WIP - check back soon
 
 - [o9o](https://www.youtube.com/channel/UC_lbg2qjUsZwro5khBW9PHw)
 - [Geek](https://github.com/GamingGeek)
+- [RayDeeUx](https://github.com/RayDeeUx)
 - [Systemless](https://github.com/SystemlessDev)
 - [Zetvue](https://zetvue.carrd.co)
