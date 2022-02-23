@@ -60,15 +60,15 @@ WIP - check back soon
 ### Rendering Settings
 
 - Use Fast Rendering - OptiFine?
-- Use Direct Memory Access - ?
+- Use Direct Memory Access - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Use Fast Font Rendering - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Use Static Particle Color - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Lazy Chunk Loading - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ### Light Settings
 
-- Use Fast Block Lighting - ?
-- Use Fast Entity Lighting = ?
+- Use Fast Block Lighting - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Use Fast Entity Lighting = [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ### Advanced Settings
 
@@ -104,8 +104,8 @@ WIP - check back soon
 
 ### Mentions
 
-- Highlight - ?
-- Color - ?
+- Highlight - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
+- Color - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
 - Bold - ?
 - Own Messages - ?
 
