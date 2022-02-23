@@ -4,6 +4,11 @@
 
 WIP - check back soon
 
+Too lazy to download mods yourself? Check out these projects:
+
+- [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/) - Skyclient allows for a great modpack for both Skyblock and PvP, allowing you to add extra mods and external mods, as well as provide an in-game updater for those included.
+- [tmodinstaller](https://github.com/Tricked-dev/tmodinstaller) - tmodinstaller makes it easy to download specific mods in a single installer, as well as managing updates.
+
 ## Feather Mods (Currently 1.8 Only)
 
 - Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
@@ -173,4 +178,6 @@ WIP - check back soon
 - [Geek](https://github.com/GamingGeek)
 - [RayDeeUx](https://github.com/RayDeeUx)
 - [Systemless](https://github.com/SystemlessDev)
+- [Tricked](https://github.com/Tricked-dev)
+- [Wyvest](https://github.com/Wyvest)
 - [Zetvue](https://zetvue.carrd.co)
