@@ -150,4 +150,6 @@ WIP - check back soon
 # Contributors
 
 - [Geek](https://github.com/GamingGeek)
+- [Microcontrollers](https://github.com/MicrocontrollersDev)
 - [Systemless](https://github.com/SystemlessDev)
+- [Zetvue](https://zetvue.carrd.co)
