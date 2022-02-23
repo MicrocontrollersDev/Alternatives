@@ -50,7 +50,7 @@ WIP - check back soon
 - Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 - Toggle Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
-- Voice - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
+- Voice - ?
 - Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 - Weather Changer - ?
 - Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) & [Sk1er Patcher](https://sk1er.club/mods/patcher)
@@ -115,13 +115,13 @@ WIP - check back soon
 
 ### Multiversion
 
-- Replay Mod
-- OptiFine - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
-- Xaero's Minimap
-- Quickplay
-- MumbleLink
-- HD Skins
-- ResourcePack Organizer
+- [Replay Mod](https://www.replaymod.com)
+- [OptiFine](https://optifine.net)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
+- [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink)
+- [HD Skins](https://www.hdskins.de/)
+- [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer)
 - [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 
 ### 1.8
@@ -145,23 +145,23 @@ WIP - check back soon
 - OptiFabric
 - [Iris](https://irisshaders.github.io/)
 - [ModMenu](https://modrinth.com/mod/modmenu)
-- RoughlyEnoughItems
-- MaLiLib
-- Durability101
-- MouseTweaks
-- ClientTweaks
-- WTHIT
-- Multiconnect
-- Origins
+- [RoughlyEnoughItems](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
+- [Durability101](https://www.curseforge.com/minecraft/mc-mods/durability101)
+- [MouseTweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+- [ClientTweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric)
+- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)
+- [Multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect)
+- [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)
 - [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 - [Continuity](https://modrinth.com/mod/continuity)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn)
-- Illuminations
-- Effective
+- [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
+- [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
 - [Indium](https://modrinth.com/mod/indium)
-- Balm
-- Architectury
-- Cloth Config
+- [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
+- [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
+- [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Starlight](https://www.modrinth.com/mod/starlight)
