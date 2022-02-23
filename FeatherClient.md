@@ -62,24 +62,6 @@ Too lazy to download mods yourself? Check out these projects:
 
 ## General
 
-### Rendering Settings
-
-- Use Fast Rendering - OptiFine?
-- Use Direct Memory Access - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Use Fast Font Rendering - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Use Static Particle Color - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Lazy Chunk Loading - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-
-### Light Settings
-
-- Use Fast Block Lighting - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Use Fast Entity Lighting = [Sk1er Patcher](https://sk1er.club/mods/patcher)
-
-### Advanced Settings
-
-- Use Culling - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Cull Nametags - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-
 ### Blur Settings
 
 - Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
@@ -115,6 +97,24 @@ Too lazy to download mods yourself? Check out these projects:
 - Own Messages - ?
 
 ## Performance
+
+### Rendering Settings
+
+- Use Fast Rendering - OptiFine?
+- Use Direct Memory Access - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Use Fast Font Rendering - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Use Static Particle Color - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Lazy Chunk Loading - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+### Light Settings
+
+- Use Fast Block Lighting - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Use Fast Entity Lighting = [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+### Advanced Settings
+
+- Use Culling - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Cull Nametags - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ## External Mods
 
