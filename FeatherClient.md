@@ -14,6 +14,8 @@ For manual mod installation, please click on the version you would like to downl
 <details>
     <summary>1.8.9</summary>
 
+Please download and install [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) to continue.
+
 ## Feather Mods
 
 - Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
@@ -127,6 +129,8 @@ For manual mod installation, please click on the version you would like to downl
     <summary>1.12.2</summary>
 
 Please check back soon!
+	
+Please download and install [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) to continue.
 
 </details>
 
@@ -134,6 +138,8 @@ Please check back soon!
     <summary>1.18.2</summary>
 
 Please check back soon!
+
+Please download and install [Fabric](https://fabricmc.net/use/installer/) and [Fabric API](https://modrinth.com/mod/fabric-api) to continue.
 
 </details>
 
@@ -202,6 +208,7 @@ TODO: Move to respective version summaries.
 
 - [o9o](https://www.youtube.com/channel/UC_lbg2qjUsZwro5khBW9PHw)
 - [Geek](https://github.com/GamingGeek)
+- [Narwhalism](https://www.twitch.tv/narwhalswim)
 - [RayDeeUx](https://github.com/RayDeeUx)
 - [Systemless](https://github.com/SystemlessDev)
 - [Tricked](https://github.com/Tricked-dev)
