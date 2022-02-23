@@ -4,6 +4,16 @@
 
 WIP - check back soon
 
+List of general TODOs:
+- Move external mods into respective version categories
+- Figure out what to do about unrecommended mods (ie OptiFabric, DSM)
+- Make SkyClient and tmodinstaller messages nicer and maybe move to bottom.
+- Reorganize Feather Mods in their official categories? (probably fine and better to keep it how it is tho tbh)
+- Forge/Fabric install guides? Maybe link to Lizzy's for Forge and MigratingToLatest for Fabric
+- Figure out what to do about Feather missing mods for some versions (i.e., no Patcher 1.12)
+	- patcher in specific is solved by Patcher being included in the general settings anyways, need to find out if anything else has the same issue)
+- Make a final decision on 1.17. I don't see any reason to support it here, who is still playing 1.17?
+
 Too lazy to download mods yourself? Check out these projects:
 
 - [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/) - Skyclient allows for a great modpack for both Skyblock and PvP, allowing you to add extra mods and external mods, as well as provide an in-game updater for those included.
@@ -144,9 +154,6 @@ Please download and install [Fabric](https://fabricmc.net/use/installer/) and [F
 </details>
 
 ## External Mods
-
-This section is unfinished.
-TODO: Move to respective version summaries.
 
 ### Multiversion
 
