@@ -4,7 +4,7 @@
 
 WIP - check back soon
 
-## Built-in Mods (Currently 1.8 Only)
+## Feather Mods (Currently 1.8 Only)
 
 - Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
 - Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -57,6 +57,24 @@ WIP - check back soon
 
 ## General
 
+### Rendering Settings
+
+- Use Fast Rendering - OptiFine?
+- Use Direct Memory Access - ?
+- Use Fast Font Rendering - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Use Static Particle Color - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Lazy Chunk Loading - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+### Light Settings
+
+- Use Fast Block Lighting - ?
+- Use Fast Entity Lighting = ?
+
+### Advanced Settings
+
+- Use Culling - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Cull Nametags - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
 ### Blur Settings
 
 - Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
@@ -90,6 +108,8 @@ WIP - check back soon
 - Color - ?
 - Bold - ?
 - Own Messages - ?
+
+## Performance
 
 ## External Mods
 
