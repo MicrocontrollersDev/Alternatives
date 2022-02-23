@@ -149,7 +149,7 @@ WIP - check back soon
 
 # Contributors
 
+- [o9o](https://www.youtube.com/channel/UC_lbg2qjUsZwro5khBW9PHw)
 - [Geek](https://github.com/GamingGeek)
-- [Microcontrollers](https://github.com/MicrocontrollersDev)
 - [Systemless](https://github.com/SystemlessDev)
 - [Zetvue](https://zetvue.carrd.co)
