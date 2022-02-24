@@ -28,54 +28,59 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 
 ## Feather Mods
 
+### Visuals
 - Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
-- Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-- Auto Text - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 - Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
-- Boss Bar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
-- CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
-- Combo Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-- Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
-- Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-- Discord - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 - FOV Changer - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Glint - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest) & [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - Hitbox - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
-- Hypixel
-	- AutoFriend - [2Pi's AutoFriend](https://2pi.pw/mods/autofriend)
-	- Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
-	- Auto GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
-	- Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
-	- Anti Lobby Join - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
-	- LevelHead - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
+- Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
+- Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
+- Particles - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
+- Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
+- Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
+- Weather Changer - ?
+- Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) & [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+### HUD
+- Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Boss Bar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
+- CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Combo Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Item Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Item Info - [Sk1er's Patcher](https://www.sk1er.club/mods/patcher)
-- Item Physic - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
-- Keystrokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
-- Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
-- Oof Mod - [**Powns & Refraction's OofMod**](https://sk1er.club/mods/refractionoof)
 - Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
-- Particles - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
-- Perspective - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Scoreboard - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
+- Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+
+### Hypixel
+- AutoFriend - [2Pi's AutoFriend](https://2pi.pw/mods/autofriend)
+- Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
+- Auto GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
+- Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
+- LevelHead - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
+
+
+### Other
+- Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
+- Discord - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
+- Oof Mod - [**Powns & Refraction's OofMod**](https://sk1er.club/mods/refractionoof)
+- Perspective - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - Screenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 - Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Snaplook - [W-OVERFLOW's BehindYouV3](https://github.com/W-OVERFLOW/BehindYouV3/releases/latest)
-- Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-- Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 - Toggle Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - Voice - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-- Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
-- Weather Changer - ?
-- Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) & [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ## General
 
@@ -117,7 +122,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 
 ### Rendering Settings
 
-- Use Fast Rendering - OptiFine?
+- Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - Use Direct Memory Access - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Use Fast Font Rendering - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Use Static Particle Color - [Sk1er Patcher](https://sk1er.club/mods/patcher)
