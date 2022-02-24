@@ -8,7 +8,6 @@ List of general TODOs:
 - Move external mods into respective version categories
 - Figure out what to do about unrecommended mods (ie OptiFabric, DSM)
 - Make SkyClient and tmodinstaller messages nicer and maybe move to bottom.
-- Reorganize Feather Mods in their official categories? (probably fine and better to keep it how it is tho tbh)
 - Forge/Fabric install guides? Maybe link to Lizzy's for Forge and MigratingToLatest for Fabric
 - Figure out what to do about Feather missing mods for some versions (i.e., no Patcher 1.12)
 	- patcher in specific is solved by Patcher being included in the general settings anyways, need to find out if anything else has the same issue)
@@ -69,8 +68,8 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 - Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 - LevelHead - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
 
-
 ### Other
+
 - Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 - Discord - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 - Oof Mod - [**Powns & Refraction's OofMod**](https://sk1er.club/mods/refractionoof)
