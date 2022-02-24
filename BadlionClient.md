@@ -12,7 +12,7 @@
 -   **CPS Counter/Keystrokes** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 -   **Clear Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
 -   **Clan Wars** - Irrelevant
--   **Clear Water** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
+-   **Clear Water** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 -   **Combo Counter** - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 -   **Coordinates** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 -   **Crosshair Mod** - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
@@ -53,7 +53,7 @@
 -   **Toggle Sneak** - [Lily's ToggleSneak](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 -   **Toggle Sprint** - [Lily's ToggleSneak](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 -   **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
--   **Zoom** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (tweaks Optifine's)
+-   **Zoom** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (tweaks Optifine's)
 -   **Emotes** - ?
 -   **New Chat**
     -   **Compact Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)

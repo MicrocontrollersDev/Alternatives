@@ -30,7 +30,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 ### Visuals
 - Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
 - Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
-- Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
+- Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 - Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 - FOV Changer - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Glint - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest) & [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
@@ -41,7 +41,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 - Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 - Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 - Weather Changer - ?
-- Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) & [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
 - Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -121,7 +121,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 
 ### Rendering Settings
 
-- Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
+- Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 - Use Direct Memory Access - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Use Fast Font Rendering - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Use Static Particle Color - [Sk1er Patcher](https://sk1er.club/mods/patcher)

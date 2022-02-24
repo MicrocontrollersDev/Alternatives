@@ -21,7 +21,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 
 - **Lava Optimization** - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
 - **Optimize Soup & Potion Refill** (**!!! Bannable on Hypixel !!!**) - ?
-- **Synchronised Crosshair** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- **Synchronised Crosshair** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Blockhit** - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
 - **Particle Optimization** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
@@ -48,7 +48,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 
 ### PvP
 
-- **Speed FOV** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
+- **Speed FOV** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 - **Swap Bow** - ?
 
 ### Menu GUI
@@ -168,7 +168,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - **More Particles** - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO) / [aycy's OnHit](https://www.mediafire.com/file/nm8dqke0zejssd6/On_Hit_Particles_2.2.jar/file)
 - **Motion Blur** - [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - **NoBob** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- **OptiFine** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
+- **OptiFine** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 - **Rainbow GUI** - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
 - **ResourcePack 24** - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds the ability to make folders and a better GUI)
 - **Send To Server** - ?
