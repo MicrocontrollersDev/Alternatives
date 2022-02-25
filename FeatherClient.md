@@ -83,7 +83,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 
 - Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 - Discord - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-- Oof Mod - [**Powns & Refraction's OofMod**](https://sk1er.club/mods/refractionoof)
+- Oof Mod - [Powns & Refraction & Deftu's OofMod](https://github.com/Deftu/OofMod/releases/latest)
 - Perspective - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - Screenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
