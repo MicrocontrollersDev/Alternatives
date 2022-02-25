@@ -2,9 +2,12 @@
 
 # Feather "Client" Alternatives
 
-WIP - check back soon
+WIP - Feather "Client" is a forge/fabric mod marketing itself as a client, claiming immense FPS boosts and wide mod support. However, Feather, on numerous occasions, has been caught illegally stealing code and breaking other mod's licenses. Feather is also currently in a paid beta testing period, in a sense putting numerous free mods behind a paywall. It is also unsupported by many mod authors and it is advised against supporting.
 
-List of general TODOs:
+<details>
+    <summary>List of general TODOs</summary>
+<br>
+
 - Move external mods into respective version categories
 - Figure out what to do about unrecommended mods (ie OptiFabric, DSM)
 - Make SkyClient and tmodinstaller messages nicer and maybe move to bottom.
@@ -13,15 +16,23 @@ List of general TODOs:
 	- patcher in specific is solved by Patcher being included in the general settings anyways, need to find out if anything else has the same issue)
 - Make a final decision on 1.17. I don't see any reason to support it here, who is still playing 1.17?
 
-Too lazy to download mods yourself? Check out these projects:
+</details>
+
+<details>
+    <summary>Too lazy to download mods yourself? Check out these projects:</summary>
+<br>
 
 - [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/) - Skyclient allows for a great modpack for both Skyblock and PvP, allowing you to add extra mods and external mods, as well as provide an in-game updater for those included.
 - [tmodinstaller](https://github.com/Tricked-dev/tmodinstaller) - tmodinstaller makes it easy to download specific mods in a single installer, as well as managing updates.
+- PolyMC (still in dev)
 
-For manual mod installation, please click on the version you would like to download the mods for. (1.17 will not be supported in this list)
+</details>
+
+## For manual mod installation, please click on the version you would like to download the mods for. (1.17 will not be supported in this list)
 
 <details>
     <summary>1.8.9</summary>
+<br>
 
 Please download and install [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) to continue.
 
@@ -141,6 +152,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 
 <details>
     <summary>1.12.2</summary>
+<br>
 
 Please check back soon!
 	
@@ -150,6 +162,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 
 <details>
     <summary>1.18.2</summary>
+<br>
 
 Please check back soon!
 
