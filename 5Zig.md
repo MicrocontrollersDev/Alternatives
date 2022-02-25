@@ -80,7 +80,7 @@ TODO: make this actually good
 
 ### Join Auto-Text
 
-- Join Auto-Text (*!!! Bannable on Hypixel !!!*) - ?
+- Join Auto-Text **(BANNABLE ON HYPIXEL)** - ?
 
 ## TeamSpeak
 
