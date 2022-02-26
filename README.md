@@ -44,6 +44,7 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 
 Thank you to the following people who contributed to this repo and its predecessors:
 
+- [o9o](https://www.youtube.com/channel/UC_lbg2qjUsZwro5khBW9PHw)
 - [8KCoffeeWizard](https://github.com/8KCoffeeWizard)
 - [Abd](https://github.com/BrahR)
 - [Angry_Pineapple](https://github.com/Angry-Pineapple3121)
@@ -70,6 +71,7 @@ Thank you to the following people who contributed to this repo and its predecess
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
 - [Moiré](https://github.com/moire9)
 - [nacrt](https://github.com/nacrt)
+- [Narwhalism](https://www.twitch.tv/narwhalswim)
 - [Proudmuslim](https://github.com/proudmuslim-dev)
 - [RayDeeUx](https://github.com/RayDeeUx)
 - [Solonovamax](https://github.com/solonovamax)
@@ -77,6 +79,7 @@ Thank you to the following people who contributed to this repo and its predecess
 - [Stekerser](https://github.com/Stekerser)
 - [Sychic](https://github.com/Sychic)
 - [Systemless](https://github.com/SystemlessDev)
+- [Tricked](https://github.com/Tricked-dev)
 - [usb](https://github.com/U5B)
 - [Wyvest](https://github.com/Wyvest)
 - [yan](https://github.com/yanNotDev)
