@@ -71,9 +71,9 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - Show Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) / [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
 - Show Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Sign Search - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- Left Hand - ?
+- Left Hand - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Discord Rich Presence - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-- Custom Name Tags - ?
+- Custom Name Tags - ? ([W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) for highlighting names)
 
 ### Cosmetics
 
