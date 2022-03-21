@@ -21,7 +21,7 @@ DSM very rarely gets any updates and most of its features are replaced in differ
 
 - Catacombs Dungeon - ?
 
-- Skill XP/Hour - ?
+- Skill XP/Hour - [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases)
 
 ## Dungeon Puzzle Solvers
 
@@ -48,7 +48,7 @@ DSM very rarely gets any updates and most of its features are replaced in differ
 - Cake Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 - Display Progress to Skill Level 50 - NEU?
 - Count Total 20% Drops - ?
-- Spirit Bear Spawn Alerts - ?
+- Spirit Bear Spawn Alerts - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) {using custom alerts feature}
 - All Message Toggles - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - Color Pet Backgrounds - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - Expertise Kills in Lore - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
@@ -77,3 +77,4 @@ DSM very rarely gets any updates and most of its features are replaced in differ
 # Contributors
 
 - [Wyvest](https::/github.com/Wyvest)
+- [Rayless](https://github.com/UnderscoreRayless)
