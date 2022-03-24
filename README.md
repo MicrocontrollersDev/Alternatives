@@ -4,6 +4,8 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 
 ## Directory
 
+## 1.8.9
+
 ### Clients
 
 - [Badlion Client](BadlionClient.md)
@@ -26,6 +28,14 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 ### Modpacks
 
 - [Refraction V4](RefractionV4.md)
+
+## Latest
+
+### Clients
+- [Lunar Client](LV/LVLunarClient.md)
+
+### Mods
+- [Optifine](LV/LVOptifine.md)
 
 ## Discord Server
 
