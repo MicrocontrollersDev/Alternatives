@@ -54,7 +54,7 @@
   - Nametag Text Shadow -  None
   - Third Person Nametag - None
   - Show Nametag Icon - [Sk1er's Essential](https://essential.gg) (shows Essential indicator instead)
-  - Nametag Opacity - None
+  - Nametag Opacity - Minecraft setting.
 
 - Visual Mods
 
