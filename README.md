@@ -32,9 +32,11 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 ## Latest
 
 ### Clients
+
 - [Lunar Client](LV/LVLunarClient.md)
 
 ### Mods
+
 - [Optifine](LV/LVOptifine.md)
 
 ## Discord Server
