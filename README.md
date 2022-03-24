@@ -37,7 +37,7 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 
 ### Mods
 
-- [Optifine](LV/LVOptifine.md)
+- [Optifine](LV/LVOptiFine.md)
 
 ## Discord Server
 
