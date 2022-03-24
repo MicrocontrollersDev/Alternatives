@@ -10,7 +10,7 @@ WIP - Feather "Client" is a forge/fabric mod marketing itself as a client, claim
 
 - Move external mods into respective version categories
 - Figure out what to do about unrecommended mods (ie OptiFabric, DSM)
-- Make SkyClient and tmodinstaller messages nicer and maybe move to bottom.
+- Make SkyClient and Argon messages nicer and maybe move to bottom.
 - Forge/Fabric install guides? Maybe link to Lizzy's for Forge and MigratingToLatest for Fabric
 - Figure out what to do about Feather missing mods for some versions (i.e., no Patcher 1.12)
 	- patcher in specific is solved by Patcher being included in the general settings anyways, need to find out if anything else has the same issue)
@@ -23,7 +23,7 @@ WIP - Feather "Client" is a forge/fabric mod marketing itself as a client, claim
 <br>
 
 - [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/) - Skyclient allows for a great modpack for both Skyblock and PvP, allowing you to add extra mods and external mods, as well as provide an in-game updater for those included.
-- [tmodinstaller](https://github.com/Tricked-dev/tmodinstaller) - tmodinstaller makes it easy to download specific mods in a single installer, as well as managing updates.
+- [Argon](https://github.com/Tricked-dev/argoninstaller) - Argon makes it easy to download specific mods in a single installer, as well as managing updates.
 - PolyMC (still in dev)
 
 </details>
