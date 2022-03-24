@@ -108,7 +108,7 @@
 
 - Smart Disconnect - None
 - Borderless Fullscreen - [comp500's Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
-- Disable Weather - [W-OVERFLOW's WeatherChanger](https://github.com/W-OVERFLOW/WeatherChanger/releases/latest)
+- Disable Weather - None
 - Modern Keybind Handling - None
 - Minimal View Bobbing - None
 - Unfocused FPS Limiter - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
