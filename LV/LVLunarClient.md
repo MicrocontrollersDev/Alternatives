@@ -83,7 +83,7 @@
   - WorldEdit CUI - None
   - Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download)
   - Screenshot Uploader - [isXander's Shotify](https://modrinth.com/mod/shotify)
-  - Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - None
+  - Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [GGCrosby's Simple Macros](https://www.curseforge.com/minecraft/mc-mods/fabric-simple-macros)
   - Mumble Link - None (We recommend you use [kpids and apehum's Plasmo Voice](https://modrinth.com/mod/plasmo-voice) instead.)
   - Boss Bar - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils-1.18/releases/tag/v2.1.0)
   - Freelook **(BANNABLE ON HYPIXEL)** - [socolio's Better Third Person](https://modrinth.com/mod/better-third-person)
