@@ -45,6 +45,7 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 
 ## For Contributors:
 
+- Please make all your changes in a feature branch instead of main/master
 - Follow the style that everything else is using in that specific list
 - Make sure that the option that lets me make changes to your pull request is enabled
 - If you are going to update/add a mod, make sure that you change/add it on every list where applicable
