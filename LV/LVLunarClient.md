@@ -75,6 +75,7 @@
   - Item Physics - [Draylar1's Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items)
   - TNT Timer Mod - [shateq's TNTTime](https://modrinth.com/mod/tnttime/versions)
   - Hitbox - None
+  - 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 
 - Other Mods
 
