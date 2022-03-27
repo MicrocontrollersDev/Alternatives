@@ -67,14 +67,14 @@
   - Scoreboard - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils-1.18/releases/tag/v2.1.0)
   - Motion Blur - None
   - Shiny Pots - None
-  - Scrollable Tooltips - None
+  - Scrollable Tooltips - Partially [Kyrptonaught's ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
   - Particle Multiplier - None
   - Cooldowns - None
-  - Time Changer - [Motschen's Timechanger](https://www.curseforge.com/minecraft/mc-mods/time-changer) (Only works on Single Player)
+  - Time Changer - [Motschen's Timechanger](https://www.curseforge.com/minecraft/mc-mods/time-changer) (Only works on Multiplayer)
   - Block Outline - [LordDeatHunter's Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)
   - Item Physics - [Draylar1's Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items)
   - TNT Timer Mod - [shateq's TNTTime](https://modrinth.com/mod/tnttime/versions)
-  - Hitbox - None
+  - Hitbox - [splzh's Clear Hitboxes](https://modrinth.com/mod/clearhitboxes/versions)
   - 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 
 - Other Mods
@@ -109,7 +109,7 @@
 
 - Smart Disconnect - None
 - Borderless Fullscreen - [comp500's Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
-- Disable Weather - [W-OVERFLOW's WeatherChanger](https://github.com/W-OVERFLOW/WeatherChanger/releases/latest)
+- Disable Weather - None
 - Modern Keybind Handling - Fixed in Vanilla.
 - Minimal View Bobbing - [InboundBark's No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod)
 - Unfocused FPS Limiter - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
