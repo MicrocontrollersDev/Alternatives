@@ -51,7 +51,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 - Particles - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
 - Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 - Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
-- Weather Changer - [W-OVERFLOW's Weather Changer](https://github.com/W-OVERFLOW/WeatherChanger/releases)
+- Weather Changer - [W-OVERFLOW's Weather Changer](https://github.com/W-OVERFLOW/WeatherChanger/releases/latest)
 - Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
