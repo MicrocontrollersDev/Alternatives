@@ -1,7 +1,7 @@
 [<< Back](README.md)
 
 # NOTE: This is exclusively for Fabric.
-If you'd like a hassle-free modpack that has some of the mods in this list, consider checking out [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized).
+If you'd like a hassle-free modpack that has some of the mods in this list, consider checking out [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
 
 # Lunar Client Alternatives
 
