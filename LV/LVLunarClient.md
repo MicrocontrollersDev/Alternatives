@@ -152,4 +152,5 @@ If you'd like a hassle-free modpack that has some of the mods in this list, cons
 # Contributors
 
 - [Zetvue](https://zetvue.carrd.co)
+- [Microcontrollers](https://github.com/MicrocontrollersDev)
 - [Tricked](https://github.com/Tricked-dev)
