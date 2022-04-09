@@ -28,7 +28,7 @@ WIP - Feather "Client" is a forge/fabric mod marketing itself as a client, claim
 
 </details>
 
-## For manual mod installation, please click on the version you would like to download the mods for. (1.17 will not be supported in this list)
+## For manual mod installation, please click on the version you would like to download the mods for.
 
 <details>
     <summary>1.8.9</summary>
