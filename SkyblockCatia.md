@@ -33,7 +33,7 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 
 ## Miscellaneuous
 
-- Right Click to Add Party - ?
+- Right Click to Add Party - [Am4nso's MiddleClickParty](https://hypixel.net/threads/forge-1-8-9-middleclickparty-invite-players-to-your-party-by-middle-clicking.3349916/)
 - Sneak to Open Inventory While Fighting Dragon - ?
 - Lobby Player Count - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - Show Obtained Date - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
@@ -48,7 +48,7 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - Enable Enchanted Glint for Skulls - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - Enable Overwrite Sign Editing - ?
 - Enable Sign Selection List - ?
-- Enable Chat in Container Screen - ?
+- Enable Chat in Container Screen - [SirDesco's Synthesis](https://github.com/SynthesisMod/Synthesis) 
 - Disable Error Log - ?
 
 ## Toast Config
@@ -61,3 +61,4 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - [Lisena](https://github.com/lisenaaaa)
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
 - [Wyvest](https://github.com/Wyvest)
+- [Rayless](https://github.com/UnderscoreRayless)
