@@ -65,7 +65,7 @@ If you'd like a hassle-free modpack that has some of the mods in this list, cons
   - Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
   - Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
   - Waypoints - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (BANNABLE ON HYPIXEL!)
-  - Scoreboard - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils-1.18/releases/tag/v2.1.0)
+  - Scoreboard - None
   - Motion Blur - None
   - Shiny Pots - None
   - Scrollable Tooltips - Partially [Kyrptonaught's ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
@@ -86,8 +86,8 @@ If you'd like a hassle-free modpack that has some of the mods in this list, cons
   - Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download)
   - Screenshot Uploader - [isXander's Shotify](https://modrinth.com/mod/shotify)
   - Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [GGCrosby's Simple Macros](https://www.curseforge.com/minecraft/mc-mods/fabric-simple-macros)
-  - Mumble Link - None (We recommend you use [kpids and apehum's Plasmo Voice](https://modrinth.com/mod/plasmo-voice) instead.)
-  - Boss Bar - [W-OVERFLOW's Wyvtils](https://github.com/W-OVERFLOW/Wyvtils-1.18/releases/tag/v2.1.0)
+  - Mumble Link - None (We recommend you use [kpids and apehum's Plasmo Voice](https://modrinth.com/mod/plasmo-voice)/[henkelmax's Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) instead.)
+  - Boss Bar - None
   - Freelook **(BANNABLE ON HYPIXEL)** - [socolio's Better Third Person](https://modrinth.com/mod/better-third-person)
   - Quickplay - None
 
