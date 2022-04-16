@@ -29,7 +29,7 @@ DSM very rarely gets any updates and most of its features are replaced in differ
 
 ## Experimentation Table Solvers
 
-- All Experimentation Table Solvers - [Moulberry's NotEnoughUpdates](https://discord.gg/moulberry)
+- All Experimentation Table Solvers - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 
 ## Custom Music
 
