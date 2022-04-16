@@ -84,7 +84,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 - Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 - Discord - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 - Oof Mod - [Powns & Refraction & Deftu's OofMod](https://github.com/Deftu/OofMod/releases/latest)
-- Perspective - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
+- Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 - Screenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 - Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -141,7 +141,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 ### Light Settings
 
 - Use Fast Block Lighting - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Use Fast Entity Lighting = [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Use Fast Entity Lighting - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ### Advanced Settings
 
@@ -153,10 +153,118 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 <details>
     <summary>1.12.2</summary>
 <br>
-
-Please check back soon!
 	
 Please download and install [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) to continue.
+
+### Visuals
+- Animations - ?
+- Block Overlay - ?
+- Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+- Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files)
+- FOV Changer - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Glint - ?
+- Hitbox - ?
+- Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
+- Nick Hider - ?
+- Particles - ?
+- Time Changer - ?
+- Waypoints - ?
+- Weather Changer - ?
+- Zoom - [sp614x's OptiFine](https://optifine.net) / [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+### HUD
+- Armor Status - ?
+- Boss Bar - ?
+- CPS - ?
+- Combo Display - ?
+- Coordinates - ?
+- Direction - ?
+- FPS - ?
+- Item Counter - ?
+- Item Info - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Pack Display - ?
+- Ping - ?
+- Potion Effects - ?
+- Reach Display - ?
+- Saturation - ?
+- Scoreboard - ?
+- Time - ?
+
+### Hypixel
+- AutoFriend - ?
+- Auto Tip - ?
+- Auto GG - ?
+- Anti GG - ?
+- LevelHead - ?
+
+### Other
+
+- Auto Text **(BANNABLE ON HYPIXEL)** - ?
+- Discord - ?
+- Oof Mod - ?
+- Perspective - ?
+- Screenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Scrollable Tooltips - [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
+- Server Address - ?
+- Snaplook - ?
+- Toggle Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
+- Voice - ?
+
+## General
+
+### Blur Settings
+
+- Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
+- Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
+
+### Sound
+
+- Portal Sounds - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+### Keybinds
+
+- Custom Dropstack - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+## Chat Options
+
+### Chat Settings
+
+- Toggle Chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Unlimited Scrollbar - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Background Color - ?
+- Text Shadow - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+### Stack Messages
+
+- Stack Messages - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Consecutive Messages Only - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+### Mentions
+
+- Highlight - ?
+- Color - ?
+- Bold - ?
+- Own Messages - ?
+
+## Performance
+
+### Rendering Settings
+
+- Use Fast Rendering - [sp614x's OptiFine](https://optifine.net)
+- Use Direct Memory Access - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Use Fast Font Rendering - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Use Static Particle Color - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Lazy Chunk Loading - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+### Light Settings
+
+- Use Fast Block Lighting - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Use Fast Entity Lighting - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+### Advanced Settings
+
+- Use Culling - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Cull Nametags - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 </details>
 
@@ -164,9 +272,117 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
     <summary>1.18.2</summary>
 <br>
 
-Please check back soon!
-
 Please download and install [Fabric](https://fabricmc.net/use/installer/) and [Fabric API](https://modrinth.com/mod/fabric-api) to continue.
+
+### Visuals
+- Animations - ?
+- Block Overlay - [LordDeatHunter's Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)
+- Clear Water - Vanilla Tweaks
+- Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files)
+- FOV Changer - ?
+- Glint - ?
+- Hitbox - ?
+- Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
+- Nick Hider - ?
+- Particles - ?
+- Time Changer - ?
+- Waypoints - ?
+- Weather Changer - ?
+- Zoom - [isXander's Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
+
+### HUD
+- Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Boss Bar - ?
+- CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Combo Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Item Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Item Info - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Pack Display - ?
+- Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Scoreboard - ?
+- Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+
+### Hypixel
+- AutoFriend - ?
+- Auto Tip - ?
+- Auto GG - ?
+- Anti GG - ?
+- LevelHead - ?
+
+### Other
+
+- Auto Text **(BANNABLE ON HYPIXEL)** - ?
+- Discord - ?
+- Oof Mod - ?
+- Perspective - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
+- Screenshot - [isXander's Shotify](https://modrinth.com/mod/shotify)
+- Scrollable Tooltips - ?
+- Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Snaplook - ?
+- Toggle Sprint - Vanilla
+- Voice - ?
+
+## General
+
+### Blur Settings
+
+- Inventory - [Motschen's Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
+- Menu - [Motschen's Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
+
+### Sound
+
+- Portal Sounds - ?
+
+### Keybinds
+
+- Custom Dropstack - ?
+
+## Chat Options
+
+### Chat Settings
+
+- Toggle Chat - ?
+- Unlimited Scrollbar - ?
+- Background Color - ?
+- Text Shadow - ?
+
+### Stack Messages
+
+- Stack Messages - ?
+- Consecutive Messages Only - ?
+
+### Mentions
+
+- Highlight - ?
+- Color - ?
+- Bold - ?
+- Own Messages - ?
+
+## Performance
+
+### Rendering Settings
+
+- Use Fast Rendering - [Sodium](https://modrinth.com/mod/sodium)
+- Use Direct Memory Access - [Sodium](https://modrinth.com/mod/sodium)
+- Use Fast Font Rendering - [Sodium](https://modrinth.com/mod/sodium)
+- Use Static Particle Color - ?
+- Lazy Chunk Loading - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
+
+### Light Settings
+
+- Use Fast Block Lighting - [Sodium](https://modrinth.com/mod/sodium)
+- Use Fast Entity Lighting - [Sodium](https://modrinth.com/mod/sodium)
+
+### Advanced Settings
+
+- Use Culling - [tr7zw's Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+- Cull Nametags - [tr7zw's Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 
 </details>
 
