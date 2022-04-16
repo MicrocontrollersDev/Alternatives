@@ -87,6 +87,7 @@ Thank you to the following people who contributed to this repo and its predecess
 - [Narwhalism](https://www.twitch.tv/narwhalswim)
 - [Proudmuslim](https://github.com/proudmuslim-dev)
 - [RayDeeUx](https://github.com/RayDeeUx)
+- [Rayless](https://github.com/UnderscoreRayless)
 - [Solonovamax](https://github.com/solonovamax)
 - [stef-the](https://github.com/stef-the)
 - [Stekerser](https://github.com/Stekerser)
