@@ -9,7 +9,7 @@
 - Compact Chat Count - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Fix Centered Text - ?
 - Smart Dividers - ?
-- Connect Dividers - ?
+- Connect Dividers - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn)
 - Stack Empty Lines - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Filter Bad Words - ?
 - Replace Homoglyphs - ?

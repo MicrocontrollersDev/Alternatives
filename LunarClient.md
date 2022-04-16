@@ -30,10 +30,10 @@
   - Auto GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
   - Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
   - Auto Who - No longer works on Hypixel
-  - Remove Guild MOTD - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
-  - Remove Guild on Tab - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
-  - Remove Lobby Join Messages - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
-  - Short Chat Channel Messages - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/latest)
+  - Remove Guild MOTD - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
+  - Remove Guild on Tab - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
+  - Remove Lobby Join Messages - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
+  - Short Chat Channel Messages - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
   - Level Head - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
   - Hypixel Autocomplete - [Sk1er's Hypixel Autocomplete](https://sk1er.club/mods/hypixel_auto_complete)
 

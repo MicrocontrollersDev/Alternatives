@@ -5,7 +5,7 @@
 ## General
 
 - Reverse Inventory Scrolling - None (although I don't know anyone who actually uses this feature)
-- Hide Locraw Messages - [W-OVERFLOW's Hytilities Reborn](https://github.com/W-OVERFLOW/Hytilities-Reborn)
+- Hide Locraw Messages - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn)
 - Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
 
 ## Everything else
