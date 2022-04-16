@@ -68,7 +68,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 ### Additional
 
 - Show My Name - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- Show Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) / [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
+- Show Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) 
 - Show Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Sign Search - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Left Hand - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -97,7 +97,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Server Support - Irrelevant
 - Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's PotionHud](https://download.powns.dev/potionhud189)
-- Scoreboard - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) / [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
+- Scoreboard - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
 - Combo - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Range - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Speed - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -139,7 +139,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - Controller - ?
 - Custom Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 - Custom Crosshair Mod - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
-- Custom Hitboxes - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+- Custom Hitboxes - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) 
 - CustomFilterSounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - CustomFont - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
 - Custom Main Menu - [Lumien231's CustomMainMenu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
@@ -165,7 +165,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - Keystrokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - Minigames - ?
 - MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
-- More Particles - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO) / [aycy's OnHit](https://www.mediafire.com/file/nm8dqke0zejssd6/On_Hit_Particles_2.2.jar/file)
+- More Particles - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
 - Motion Blur - [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - NoBob - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - OptiFine - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
