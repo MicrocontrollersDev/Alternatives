@@ -192,7 +192,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 
 ### Hypixel
 - AutoFriend - ?
-- Auto Tip - ?
+- Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
 - Auto GG - ?
 - Anti GG - ?
 - LevelHead - ?
