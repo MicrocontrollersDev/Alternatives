@@ -285,7 +285,7 @@ Please download and install [Fabric](https://fabricmc.net/use/installer/) and [F
 - Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
 - Nick Hider - ?
 - Particles - ?
-- Time Changer - ?
+- Time Changer - [Motschen's Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
 - Waypoints - ?
 - Weather Changer - ?
 - Zoom - [isXander's Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
