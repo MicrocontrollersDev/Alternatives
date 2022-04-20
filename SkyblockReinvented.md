@@ -57,9 +57,9 @@ This mod takes much of its code from other mods. It is recommended to use other 
 
 - Stop Opening Chests - ?
 - Clean Ending of Dungeons - ?
-- Bonzo Mask Alert - ?
+- Bonzo Mask Alert - [Sychic and Lily's Skytils](https://github.com/Skytils/SkytilsMod) (custom alerts)
 - Hide Guided Sheeps - ?
-- Watcher Ready Reminder - ?
+- Watcher Ready Reminder - [Sychic and Lily's Skytils](https://github.com/Skytils/SkytilsMod) (custom alerts)
 
 ### QOL
 
@@ -149,3 +149,4 @@ This mod takes much of its code from other mods. It is recommended to use other 
 - All Spam Hiders - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 # Contributors
+[Rayless](https://github.com/UnderscoreRayless)
