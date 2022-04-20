@@ -39,7 +39,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - Name History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Chat Icons - ?
 - Chat Filter - ?
-- Shortcuts - ?
+- Shortcuts - [W-OVERFLOW'S Chatting](https://github.com/W-OVERFLOW/Chatting)
 - Player Menu - ?
 - Disable Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 - Adjustable Chat - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
@@ -176,7 +176,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - ShinyPots - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - SkyblockAddons - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - SoundPlayer - ?
-- Spotify - [MediaMod](https://github.com/MediaModMC/MediaMod/releases/latest)
+- Spotify - [Cbyrneee's MediaMod](https://github.com/MediaModMC/MediaMod/releases/latest) / [ThatGravyBoat's Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify) 
 - TeamSpeak - ?
 - Toggle Sneak (Sneak & Sprint) - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 - ToggleTab - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -198,6 +198,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - [LlamaLad7](https://github.com/LlamaLad7)
 - [Lizzy](https://github.com/LizzyMaybeDev)
 - [Moiré](https://github.com/moire9)
+- [Rayless](https://github.com/UnderscoreRayless)
 - [Solonovamax](https://github.com/solonovamax)
 - [usb](https://github.com/U5B)
 - [Wyvest](https://github.com/Wyvest)
