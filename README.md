@@ -93,8 +93,10 @@ Thank you to the following people who contributed to this repo and its predecess
 - [Stekerser](https://github.com/Stekerser)
 - [Sychic](https://github.com/Sychic)
 - [Systemless](https://github.com/SystemlessDev)
+- [ToggledX](https://twitter.com/ignToggleW)
 - [Tricked](https://github.com/Tricked-dev)
 - [usb](https://github.com/U5B)
 - [Wyvest](https://github.com/Wyvest)
 - [yan](https://github.com/yanNotDev)
 - [Zetvue](https://zetvue.carrd.co)
+- 
