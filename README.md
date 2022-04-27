@@ -99,4 +99,3 @@ Thank you to the following people who contributed to this repo and its predecess
 - [Wyvest](https://github.com/Wyvest)
 - [yan](https://github.com/yanNotDev)
 - [Zetvue](https://zetvue.carrd.co)
-- 
