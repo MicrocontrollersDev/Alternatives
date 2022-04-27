@@ -147,7 +147,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - DamageIndicator **(BANNABLE ON HYPIXEL)** - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
 - Direct Connect History - ?
 - DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-- EmoteChat - ?
+- EmoteChat - [Kokeria's chat emotes](https://www.curseforge.com/minecraft/mc-mods/chatemotes) (doesn't work exactly like laby's but the emotes are the same)
 - FastJoin - ?
 - Friend Tags - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases)
 - FriendViewer - [Sk1er's Essential](https://essential.gg)
@@ -203,3 +203,4 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 - [usb](https://github.com/U5B)
 - [Wyvest](https://github.com/Wyvest)
 - [Zetvue](https://zetvue.carrd.co)
+- [ToggledX](https://twitter.com/ignToggleW)
