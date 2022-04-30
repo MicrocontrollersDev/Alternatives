@@ -450,6 +450,7 @@ Please download and install [Fabric](https://fabricmc.net/use/installer/) and [F
 - [Geek](https://github.com/GamingGeek)
 - [Narwhalism](https://www.twitch.tv/narwhalswim)
 - [RayDeeUx](https://github.com/RayDeeUx)
+- [Rayless](https://github.com/UnderscoreRayless)
 - [Systemless](https://github.com/SystemlessDev)
 - [Tricked](https://github.com/Tricked-dev)
 - [Wyvest](https://github.com/Wyvest)
