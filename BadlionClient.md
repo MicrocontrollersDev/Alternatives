@@ -2,6 +2,8 @@
 
 # Badlion Client Alternatives
 
+## 1.7
+
 -   1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
 -   Armor Status - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 -   AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
