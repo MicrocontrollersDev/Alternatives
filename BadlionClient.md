@@ -2,21 +2,50 @@
 
 # Badlion Client Alternatives
 
-## 1.7
+## Mods
 
--   1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
--   Armor Status - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
--   AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
--   Autotext **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
--   AutoTip - [Semx11's AutoTip](https://autotip.pro)
--   BlockOverlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
--   Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) / [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
--   CPS Counter/Keystrokes - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
--   Clear Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
+- 1.7 Visuals
+
+  - Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
+  - Hit Color - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
+
+- Chat
+  
+  - Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
+  - Clear Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806) 
+  -   Compact Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+  -   Text Shadow - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+  -   24 Hour Timestamps - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+  -   Fancy Fonts - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
+  -   Filter DMs - ?
+  -   Vanilla Background - Irrelevant
+  -   Timestamps - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+  -   Chat Messages Notifications - ?
+  -   Chat Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+  -   Chat Size - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
+  -   Emphasize Username in Chat - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+
+- Hypixel Mods
+
+  - AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)  
+  - AutoTip - [Semx11's AutoTip](https://autotip.pro)
+  - Levelhead - [Sk1er's Levelhead](https://sk1er.club/mods/level_head)
+
+- HUD Mods
+
+  - Armor Status - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+  -  Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) 
+  - CPS Counter - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+  - Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+-   Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
+
+
+- Keystrokes - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) 
+
 -   Clan Wars - Irrelevant
 -   Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
--   Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
--   Coordinates - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+
+-   Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 -   Crosshair Mod - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 -   Direction Mod - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 -   Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
@@ -35,7 +64,7 @@
 -   Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 -   JustEnoughItems - [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?filter-game-version=2020709689%3A5806)
 -   Keystrokes Mod - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
--   Levelhead - [Sk1er's Levelhead](https://sk1er.club/mods/level_head)
+
 -   MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/latest)
 -   Motion Blur - [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 -   Nick Hider - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
@@ -58,17 +87,7 @@
 -   Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (tweaks Optifine's)
 -   Emotes - ?
 -   New Chat
-    -   Compact Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-    -   Text Shadow - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-    -   24 Hour Timestamps - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-    -   Fancy Fonts - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
-    -   Filter DMs - ?
-    -   Vanilla Background - Irrelevant
-    -   Timestamps - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-    -   Chat Messages Notifications - ?
-    -   Chat Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-    -   Chat Size - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
-    -   Emphasize Username in Chat - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+
 -   Cosmetics - [Sk1er's Essential](https://essential.gg)
 -   Sprays - ?
 -   Replay Mod - [Replay Mod](https://www.replaymod.com/download/)
