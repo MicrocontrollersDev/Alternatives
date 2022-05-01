@@ -6,8 +6,6 @@ WIP
 
 Please use the latest version of 5zig reborn when contributing to the features list.
 
-TODO: make this actually good
-
 ## Display Options
 
 - Hud Options
