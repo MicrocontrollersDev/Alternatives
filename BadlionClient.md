@@ -12,7 +12,7 @@
 - Chat Mods
   
   - Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
-  - Clear Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806) 
+  - Clear Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files) 
   - Compact Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - Text Shadow - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - 24 Hour Timestamps - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -21,7 +21,7 @@
   - Vanilla Background - Irrelevant
   - Timestamps - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - Chat Messages Notifications - ?
-  - Chat Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+  - Chat Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files)
   - Chat Size - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
   - Emphasize Username in Chat - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
   - New Chat - ?
