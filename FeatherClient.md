@@ -405,7 +405,7 @@ Please download and install [Fabric](https://fabricmc.net/use/installer/) and [F
 - [NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 - [ChatTriggers](https://github.com/ChatTriggers/ChatTriggers/releases/latest)
 - [Apec](https://github.com/BananaFructa/Apec/releases/latest)
-- Danker's Skyblock Mod
+- [Danker's Skyblock Mod](https://github.com/MicrocontrollersDev/Alternatives/blob/main/DankersSkyblockMod.md)
 - [Dungeon Rooms Mod](https://github.com/Quantizr/DungeonRoomsMod/releases/latest)
 - [Dungeons Guide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 - [Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
@@ -450,6 +450,7 @@ Please download and install [Fabric](https://fabricmc.net/use/installer/) and [F
 - [Geek](https://github.com/GamingGeek)
 - [Narwhalism](https://www.twitch.tv/narwhalswim)
 - [RayDeeUx](https://github.com/RayDeeUx)
+- [Rayless](https://github.com/UnderscoreRayless)
 - [Systemless](https://github.com/SystemlessDev)
 - [Tricked](https://github.com/Tricked-dev)
 - [Wyvest](https://github.com/Wyvest)
