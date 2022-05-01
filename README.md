@@ -15,7 +15,7 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 ### Mods
 
 - [5Zig (Reborn)](5Zig.md)
-- [Danker's SkyblockMod](DankersSkyblockMod.md)
+- [Danker's Skyblock Mod](DankersSkyblockMod.md)
 - [DungeonUtilities](DungeonUtilities.md)
 - [Hychat](Hychat.md)
 - [LabyMod](LabyMod.md)
