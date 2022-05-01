@@ -86,7 +86,7 @@ If you'd like a hassle-free modpack that has some of the mods in this list, cons
   - Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download)
   - Screenshot Uploader - [isXander's Shotify](https://modrinth.com/mod/shotify)
   - Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [GGCrosby's Simple Macros](https://www.curseforge.com/minecraft/mc-mods/fabric-simple-macros)
-  - Mumble Link - None (We recommend you use [kpids and apehum's Plasmo Voice](https://modrinth.com/mod/plasmo-voice)/[henkelmax's Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) instead.)
+  - Mumble Link - None 
   - Boss Bar - None
   - Freelook **(BANNABLE ON HYPIXEL)** - [socolio's Better Third Person](https://modrinth.com/mod/better-third-person)
   - Quickplay - None
