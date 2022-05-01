@@ -202,7 +202,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 - Auto Text **(BANNABLE ON HYPIXEL)** - ?
 - Discord - ?
 - Oof Mod - ?
-- Perspective - ?
+- Perspective - [Cynosphere's Persective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux/files/all)
 - Screenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Scrollable Tooltips - [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
 - Server Address - ?
