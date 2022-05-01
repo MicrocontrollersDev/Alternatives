@@ -8,7 +8,7 @@ Please use the latest version of 5zig reborn when contributing to the features l
 
 ## Display Options
 
-- Hud Options
+- HUD Options
 
   - Vanilla Potion Indicator - ?
   - Show Potion Indicator - ?
