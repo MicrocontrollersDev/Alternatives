@@ -7,10 +7,9 @@
 - 1.7 Visuals
 
   - Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
-  - Hit Armor Color - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
-  - Reduced Hurt Animation - [W-OVERFLOW's BetterHurtCam](https://github.com/W-OVERFLOW/BetterHurtCam/releases/latest)
+  - Hit Color - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
 
-- Chat
+- Chat Mods
 
   - Chat Filter - ?
   - Chat Height Fix - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -93,6 +92,7 @@
   - Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
   - TNT Timer Mod - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
   - Hitbox - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+  - Reduced Hurt Animation - [W-OVERFLOW's BetterHurtCam](https://github.com/W-OVERFLOW/BetterHurtCam/releases/latest)
 
 - Other Mods
 
