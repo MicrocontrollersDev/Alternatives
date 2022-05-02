@@ -4,12 +4,12 @@
 
 ## Mods
 
-- 1.7 Visuals
+### 1.7 Visuals
 
   - Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
   - Hit Color - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
 
-- Chat Mods
+### Chat Mods
 
   - Chat Filter - ?
   - Chat Height Fix - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -22,7 +22,7 @@
   - Unlimited Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - Chat Animation - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 
-- Hypixel Mods
+### Hypixel Mods
 
   - Auto Friend -  [2Pi's AutoFriend](https://2pi.pw/mods/autofriend)
   - Auto TIP - [Semx11's AutoTip](https://autotip.pro/download)
@@ -36,7 +36,7 @@
   - Level Head - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
   - Hypixel Autocomplete - [Sk1er's Hypixel Autocomplete](https://sk1er.club/mods/hypixel_auto_complete)
 
-- HUD Mods
+### HUD Mods
 
   - Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -59,21 +59,21 @@
   - Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - Team View - Irrelevant
   
-- Nametags
+### Nametags
 
   - Nametag Text Shadow -  [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - Third Person Nametag - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - Show Nametag Icon - [Sk1er's Essential](https://essential.gg)
   - Nametag Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
-- Skyblock
+### Skyblock
 
   - SkyblockAddons - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
   - NotEnoughUpdates - [Moulberry's NEU](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
   - Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
   - Cowlection - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
-- Visual Mods
+### Visual Mods
 
   - 2D Items - ?
   - UHC Overlay - ? (Resourcepacks work instead)
@@ -94,7 +94,7 @@
   - Hitbox - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) / [Aycy's HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
   - Reduced Hurt Animation - [W-OVERFLOW's BetterHurtCam](https://github.com/W-OVERFLOW/BetterHurtCam/releases/latest)
 
-- Other Mods
+### Other Mods
 
   - Toggle Sneak/Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
   - Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
