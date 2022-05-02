@@ -38,4 +38,5 @@
 
 # Contributors
 
+- [GhoulBoi69](https://github.com/GhoulBoii)
 - [Zetvue](https://zetvue.carrd.co)
