@@ -2,7 +2,7 @@
 
 # 5Zig Alternatives
 
-WIP
+COOL WHIP
 
 Please use the latest version of 5zig reborn when contributing to the features list.
 
