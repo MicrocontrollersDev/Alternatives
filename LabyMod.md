@@ -6,18 +6,18 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
 
 ## Features
 
-- Information
+### Information
 
   - Ping in Tablist - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - Permission Changes - Irrelevant
   - LabyMod User Indicator - [Sk1er's Essential](https://essential.gg) (indicates Essential instead)
   - Out of Memory Warning - ? (Check F3)
 
-- Animations
+### Animations
 
   - 1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
 
-- Bugfixes
+### Bugfixes
 
   - Lava Optimization - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
   - Optimize Soup & Potion Refill (!!! Bannable on Hypixel !!!) - ?
@@ -25,7 +25,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
   - Blockhit - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
   - Particle Optimization - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   
-- Performance
+### Performance
 
   - Chunk Caching - Irrelevant, servers must have support for it anyway.
   - Fast World Loading - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -33,7 +33,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
   - Hide Backside of Entitities - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - Markers - ?
 
-- Minecraft Chat
+### Minecraft Chat
 
   - Autotext (!!! Bannable on Hypixel !!!) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
   - Name History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -46,12 +46,12 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
   - Advanced Chat Settings - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
   - Secondary Chat - ?
 
-- PvP
+### PvP
 
   - Speed FOV - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
   - Swap Bow - ?
 
-- Menu GUI
+### Menu GUI
   
   - Menu Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - Server Information at Direct Connect - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
@@ -75,13 +75,13 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
   - Discord Rich Presence - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
   - Custom Name Tags - ? ([W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) for highlighting names)
 
-- Cosmetics
+### Cosmetics
 
   - Cosmetics - [Sk1er's Essential](https://essential.gg)
 
 ## Ingame GUI 
 
-- Information
+### Information
 
   - FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
   - Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
@@ -102,16 +102,16 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
   - Range - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - Speed - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 
-- Items
+### Items
 
   - Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's ArmorHud](https://download.powns.dev/armorhud189)
 
-- External Services
+### External Services
   
   - YouTube Subscriber - ?
   - Voice Chat - [zsawyer's MumbleLink](https://github.com/zsawyer/MumbleLink)
 
-- Miscellaneous
+### Miscellaneous
 
   - AFK Time - ?
   - Click Test -  ?
@@ -120,7 +120,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
   - Laby's MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/latest)
   - DirectionHUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 
-- Addons
+### Addons
 
   - Anti Clear Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - AntiRage - ?
