@@ -150,4 +150,4 @@ This mod takes much of its code from other mods. It is recommended to use other 
 
 # Contributors
 
-[Rayless](https://github.com/UnderscoreRayless)
+- [Rayless](https://github.com/UnderscoreRayless)
