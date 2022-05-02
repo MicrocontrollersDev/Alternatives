@@ -4,43 +4,39 @@
 
 DSM very rarely gets any updates and most of its features are replaced in different mods. It is also very outdated in a few aspects.
 
-## Trackers
+### Trackers
 
 - Zombie (Revenant Horror) - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - Spider (Tarantula Broodfather) - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - Wolf (Sven Packmaster) - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - Enderman (Voidgloom Seraph) - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-
 - Fishing - ?
 - Fishing Winter - ?
 - Fishing Festival - ?
 - Fishing Spooky - ?
-
 - Mythological - ?
 - Ghost - ?
-
 - Catacombs Dungeon - ?
-
 - Skill XP/Hour - ?
 
-## Dungeon Puzzle Solvers
+### Dungeon Puzzle Solvers
 
 - All Dungeon Solvers - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
-## Experimentation Table Solvers
+### Experimentation Table Solvers
 
 - All Experimentation Table Solvers - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 
-## Custom Music
+### Custom Music
 
 - All Islands - ?
 
-## Crystal Hollows Waypoints
+### Crystal Hollows Waypoints
 
 - Crystal Hollows Waypoints - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - Auto Waypoints - Skytils?
 
-## Remaining Features
+### Remaining Features
 
 - Auto-Swap to Pick Block - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - Coordinate/Angle Display - F3
@@ -77,3 +73,4 @@ DSM very rarely gets any updates and most of its features are replaced in differ
 # Contributors
 
 - [Wyvest](https::/github.com/Wyvest)
+- [Zetvue](https://zetvue.carrd.co)
