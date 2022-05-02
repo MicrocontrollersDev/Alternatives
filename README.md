@@ -2,7 +2,7 @@
 
 This repo contains many alternatives to poorly made or out of date clients, mods, and modpacks.  
 
-## Directory
+# Directory
 
 ## 1.8.9
 
@@ -39,11 +39,11 @@ This repo contains many alternatives to poorly made or out of date clients, mods
 
 - [OptiFine](LV/LVOptiFine.md)
 
-## Discord Server
+# Discord Server
 
 [Join my Discord for news regarding the development of this repository!](https://inv.wtf/micro)
 
-## For Contributors:
+# For Contributors:
 
 - Please make all your changes in a feature branch instead of main/master
 - Follow the style that everything else is using in that specific list
