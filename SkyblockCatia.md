@@ -4,7 +4,7 @@
 
 SkyblockCatia is a mod which has a bunch of features that are better incorporated in other mods or are useless, and also does not receieve many updates, with many incompatibilities with other mods. Therefore, it is recommended that you do not use it if the features you use can be replaced.
 
-## QOL
+### QOL
 
 - Jungle Axe Cooldown - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 - Grappling Hook Cooldown - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
@@ -18,7 +18,7 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - Display Max Used of Item Ability - ?
 - Shortcut Button in Inventory - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 
-## Rendering
+### Rendering
 
 - Fancy Color for Supporters - Irrelevant ([W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) allows you to change the color of your name as well)
 - Show Item Rarity - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -31,14 +31,14 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - Disable Night Vision - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 - Display Realtime Ping - ?
 
-## Miscellaneuous
+### Miscellaneuous
 
 - Right Click to Add Party - [Am4nso's MiddleClickParty](https://hypixel.net/threads/forge-1-8-9-middleclickparty-invite-players-to-your-party-by-middle-clicking.3349916/)
 - Sneak to Open Inventory While Fighting Dragon - ?
 - Lobby Player Count - [Rocco's 5Zig Reborn](https://5zigreborn.eu/)
 - Show Obtained Date - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
-## Global Config
+### Global Config
 
 - Enable Confirm to Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - Enable Skin Rendering Fix - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates) via custom models
@@ -51,7 +51,7 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - Enable Chat in Container Screen - [SirDesco's Synthesis](https://github.com/SynthesisMod/Synthesis) 
 - Disable Error Log - ?
 
-## Toast Config
+### Toast Config
 
 - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
