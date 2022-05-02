@@ -4,12 +4,12 @@
 
 ## Mods
 
-- 1.7 Visuals
+### 1.7 Visuals
 
   - Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (currently missing item switch animation)
   - Hit Color  - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
 
-- Chat Mods
+### Chat Mods
   
   - Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
   - Clear Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806) 
@@ -26,14 +26,14 @@
   - Emphasize Username in Chat - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
   - New Chat - ?
 
-- Hypixel Mods
+### Hypixel Mods
 
   - AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)  
   - AutoTip - [Semx11's AutoTip](https://autotip.pro)
   - Levelhead - [Sk1er's Levelhead](https://sk1er.club/mods/level_head)
   -	HyStats - [KAD7's HyStats](https://download2270.mediafire.com/0r5h180odzzg/yx8m6ztaduf5bx8/HyStats-v4.0_%281.8.9%29.jar)
 
-- HUD Mods
+### HUD Mods
 
   - Armor Status - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) 
@@ -59,14 +59,14 @@
   - Stopwatch - [W-OVERFLOW's TimerHUD](https://github.com/W-OVERFLOW/TimerHUD/releases/latest)
   - Timers - [LlamaLad's BLCTimers](https://github.com/LlamaLad7/blctimers/releases/latest)
 
-- Skyblock
+### Skyblock
 
   - SkyblockAddons - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
   - NotEnoughUpdates - [Moulberry's NEU](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
   - Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
   - Cowlection - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
-- Visual Mods
+### Visual Mods
 
   - Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
   - Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
@@ -83,7 +83,7 @@
   - ShinyPots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
   - Time Changer - [Lily's SimpleTimeChanger](https://github.com/My-Name-Is-Jeff/SimpleTimeChanger/releases/latest) / [Shatterpoint's Revamped TimeChanger]  (https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 
-- Other
+### Other
   - Clan Wars - Irrelevant
   - Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
   - Ghost Liquid Fix - Irrelevant
