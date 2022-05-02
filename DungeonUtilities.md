@@ -12,3 +12,5 @@ DungeonUtilities was an amazing mod for Dungeon solvers and map display, among o
 - Loot Tracker - ?
 
 # Contributors
+
+- [Zetvue](https://zetvue.carrd.co)
