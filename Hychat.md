@@ -2,7 +2,7 @@
 
 # Hychat Alternatives
 
-- Tweaks
+### Tweaks
 
   - Compact Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - Consecutive Compact Char - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -14,24 +14,24 @@
   - Filter Bad Words - ?
   - Replace Homoglyphs - ?
 
-- Alignment
+### Alignment
 
   - Align Right - ?
   - Alight Top - ?
 
-- Appearance
+### Appearance
 
   - Text Shadow - ?
   - Tab Text Shadow - ?
 
-- Screenshot and Copying
+### Screenshot and Copying
 
   - Copy Message - [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting)
   - Take Screenshot of Message - [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting)
   - Take Screenshot of Entire Chatbox - [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting)
   - Copy Formatting of Message- [W-OVERFLOW's Chatting](https://github.com/W-OVERFLOW/Chatting)
 
-- Visual
+### Visual
 
   - Change Colors - ?
   - Change Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
