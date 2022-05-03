@@ -62,3 +62,4 @@ SkyblockCatia is a mod which has a bunch of features that are better incorporate
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
 - [Rayless](https://github.com/UnderscoreRayless)
 - [Wyvest](https://github.com/Wyvest)
+- [Zetvue](https://zetvue.carrd.co)
