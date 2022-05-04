@@ -39,7 +39,7 @@ DSM very rarely gets any updates and most of its features are replaced in differ
 ### Remaining Features
 
 - Auto-Swap to Pick Block - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-- Coordinate/Angle Display - F3
+- Coordinate/Angle Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 - Click On-Screen to Open Maddox - Skytils?
 - Cake Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 - Display Progress to Skill Level 50 - NEU?
