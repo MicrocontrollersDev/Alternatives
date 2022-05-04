@@ -72,5 +72,5 @@ DSM very rarely gets any updates and most of its features are replaced in differ
 
 # Contributors
 
-- [Wyvest](https::/github.com/Wyvest)
+- [Wyvest](https://github.com/Wyvest)
 - [Zetvue](https://zetvue.carrd.co)
