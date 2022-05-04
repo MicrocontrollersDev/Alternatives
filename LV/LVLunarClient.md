@@ -7,13 +7,13 @@ If you'd like a hassle-free modpack that has some of the mods in this list, cons
 
 ## Mods
 
-- 1.7 Visuals
+### 1.7 Visuals
 
   - Animations - Irrelevant
   - Hit Armor Color - None
   - Reduced Hurt Animation - None
 
-- Chat
+### Chat
 
   - Chat Filter - None
   - Chat Height Fix - Fixed in Vanilla
@@ -27,7 +27,7 @@ If you'd like a hassle-free modpack that has some of the mods in this list, cons
   - Unlimited Chat - [JackFred2's More Chat History](https://modrinth.com/mod/morechathistory/versions)
   - Chat Animation - None
 
-- HUD Mods
+### HUD Mods
 
   - Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -50,14 +50,14 @@ If you'd like a hassle-free modpack that has some of the mods in this list, cons
   - Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
   - Team View - Irrelevant
   
-- Nametags
+### Nametags
 
   - Nametag Text Shadow -  None
   - Third Person Nametag - None
   - Show Nametag Icon - [Sk1er's Essential](https://essential.gg) (shows Essential indicator instead)
   - Nametag Opacity - Minecraft setting.
 
-- Visual Mods
+### Visual Mods
 
   - 2D Items - None
   - UHC Overlay - None (Resourcepacks work instead)
@@ -78,7 +78,7 @@ If you'd like a hassle-free modpack that has some of the mods in this list, cons
   - Hitbox - [splzh's Clear Hitboxes](https://modrinth.com/mod/clearhitboxes/versions)
   - 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 
-- Other Mods
+### Other Mods
 
   - Toggle Sneak/Sprint - Vanilla
   - Nick Hider - None
