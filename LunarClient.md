@@ -106,6 +106,7 @@
   - Boss Bar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) / [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
   - Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
   - Quickplay - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)
+- 3D Skin Layers - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers/version/1.2.0-forge-1.8)
 
 ## Settings
 
