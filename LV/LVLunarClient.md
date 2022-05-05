@@ -90,7 +90,7 @@ If you'd like a hassle-free modpack that has some of the mods in this list, cons
   - Boss Bar - None
   - Freelook **(BANNABLE ON HYPIXEL)** - [socolio's Better Third Person](https://modrinth.com/mod/better-third-person)
   - Quickplay - None
-- 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files)
+- 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/all?filter-game-version=1738749986%3A73250)
 
 ## Settings
 
