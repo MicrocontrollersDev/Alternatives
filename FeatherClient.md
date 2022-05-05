@@ -157,7 +157,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 Please download and install [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) to continue.
 
 ### Visuals
-- Animations - ?
+- Animations - Irrelevant
 - Block Overlay - ?
 - Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 - Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files)
@@ -275,7 +275,7 @@ Please download and install [Forge](https://files.minecraftforge.net/net/minecra
 Please download and install [Fabric](https://fabricmc.net/use/installer/) and [Fabric API](https://modrinth.com/mod/fabric-api) to continue.
 
 ### Visuals
-- Animations - ?
+- Animations - Irrelevant
 - Block Overlay - [LordDeatHunter's Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)
 - Clear Water - Vanilla Tweaks
 - Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files)
