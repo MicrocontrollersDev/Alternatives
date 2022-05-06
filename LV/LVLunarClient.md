@@ -137,7 +137,7 @@ If you'd like a hassle-free modpack that has some of the mods in this list, cons
 
 #### Entity Options
 
-- Shadow - Vanilla (Accessible in Sodium's modified Video Settings menu)
+- Shadow - Vanilla (Accessible in [Sodium's](https://modrinth.com/mod/sodium) modified Video Settings menu)
 - Entities - None
 - Tile Entities - None
 - Show Ground Arrows - None
