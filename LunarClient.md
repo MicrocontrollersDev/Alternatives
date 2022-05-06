@@ -85,7 +85,7 @@
   - Motion Blur - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
   - Shiny Pots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
   - Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
-  - Particle Multiplier - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
+  - Particle Mod - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189)
   - Cooldowns - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
   - Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
   - Block Outline - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
