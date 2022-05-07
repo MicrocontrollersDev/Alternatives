@@ -17,15 +17,15 @@ theme:
   palette:
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    primary: indigo
-    accent: light blue
+    primary: purple
+    accent: indigo
     toggle:
       icon: material/toggle-switch-off-outline
       name: Switch to dark mode
   - media: "(prefers-color-scheme: dark)"
     scheme: slate
-    primary: indigo
-    accent: light blue
+    primary: purple
+    accent: indigo
     toggle:
       icon: material/toggle-switch
       name: Switch to light mode
@@ -42,6 +42,11 @@ extra:
 nav:
   - "Home": "index.md"
   - "Contributors": "contributors.md"
+  - "Latest":
+      - "OptiFine": "latest/optifine.md"
+      - "Lunar Client": "latest/lunar_client.md"
+  - "1.12.2":
+      - "Feather Client": "1.12.2/feather_client.md"
   - "1.8.9":
       - "HyChat": "1.8.9/hychat.md"
       - "5zig": "1.8.9/5zig.md"
@@ -57,12 +62,11 @@ nav:
       - "Dungeon Utilities": "1.8.9/dungeon_utilities.md"
       - "Skyblock Reinvented": "1.8.9/skyblock_reinvented.md"
       - "Skypixel": "1.8.9/skypixel.md"
-  - "Latest":
-      - "OptiFine": "latest/optifine.md"
-      - "Lunar Client": "latest/lunar_client.md"
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - footnotes
   - toc:
       permalink: true
