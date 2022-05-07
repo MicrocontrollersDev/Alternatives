@@ -64,7 +64,6 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
   - Better Shader Selection - ?
   - Live Serverlist - ?
   - Custom Inventory Scale - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-
 - Additional
 
   - Show My Name - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
