@@ -1,4 +1,4 @@
-# HyCHat Alternatives
+# HyChat Alternatives
 
 ### Tweaks
 
