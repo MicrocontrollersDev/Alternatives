@@ -1,5 +1,3 @@
-[<< Back](README.md)
-
 # Badlion Client Alternatives
 
 ## Mods
