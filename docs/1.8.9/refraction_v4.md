@@ -1,6 +1,4 @@
-[<< Back](README.md)
-
-# Fixing Refraction's Mod Folder v4
+# Refraction Mod Folder v4
 
 ## Update
 
