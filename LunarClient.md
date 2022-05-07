@@ -107,6 +107,7 @@
   - Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
   - Quickplay - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)
   - 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/all?filter-game-version=2020709689%3A5806)
+- Better Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (/patcher sounds)
 
 ## Settings
 
