@@ -21,6 +21,7 @@ WIP - Feather "Client" is a forge/fabric mod marketing itself as a client, claim
 <details>
     <summary>Too lazy to download mods yourself? Check out these projects:</summary>
 <br>
+
 ## [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/)
 SkyClient allows for a great modpack for both Skyblock and PvP, allowing you to add extra mods and external mods, as well as provide an in-game updater for those included.
 
