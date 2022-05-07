@@ -41,6 +41,7 @@ extra:
 
 nav:
   - "Home": "index.md"
+  - "Contributors": "contributors.md"
   - "1.8.9":
       - "HyChat": "1.8.9/hychat.md"
       - "5zig": "1.8.9/5zig.md"
