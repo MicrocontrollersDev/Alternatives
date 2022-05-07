@@ -65,10 +65,10 @@ that you avoid using it if possible.
 * Live Serverlist - ?
 * Custom Inventory Scale - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
-* Additional
+#### Additional
 
 * Show My Name - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Show Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) 
+* Show Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
 * Show Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Sign Search - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Left Hand - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
