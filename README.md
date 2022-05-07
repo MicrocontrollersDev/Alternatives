@@ -1,6 +1,10 @@
+<div align="center">
+
 # Alternatives
 
 This repo contains many alternatives to poorly made or out of date clients, mods, and modpacks.  
+
+</div>
 
 # Directory
 
