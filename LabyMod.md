@@ -64,15 +64,16 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
   - Better Shader Selection - ?
   - Live Serverlist - ?
   - Custom Inventory Scale - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- Additional
 
-  - Show My Name - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - Show Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) 
-  - Show Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-  - Sign Search - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - Left Hand - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-  - Discord Rich Presence - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-  - Custom Name Tags - ? ([W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) for highlighting names)
+#### Additional
+
+- Show My Name - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- Show Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) 
+- Show Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+- Sign Search - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- Left Hand - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- Discord Rich Presence - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
+- Custom Name Tags - ? ([W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) for highlighting names)
 
 ### Cosmetics
 
