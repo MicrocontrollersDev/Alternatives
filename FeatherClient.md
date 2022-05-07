@@ -22,10 +22,14 @@ WIP - Feather "Client" is a forge/fabric mod marketing itself as a client, claim
     <summary>Too lazy to download mods yourself? Check out these projects:</summary>
 <br>
 
-- [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/) - Skyclient allows for a great modpack for both Skyblock and PvP, allowing you to add extra mods and external mods, as well as provide an in-game updater for those included.
-- [Argon](https://github.com/Tricked-dev/argoninstaller) - Argon makes it easy to download specific mods in a single installer, as well as managing updates.
-- PolyMC (still in dev)
+## [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/)
+SkyClient allows for a great modpack for both Skyblock and PvP, allowing you to add extra mods and external mods, as well as provide an in-game updater for those included.
 
+## [Argon](https://github.com/Tricked-dev/argoninstaller) 
+Argon makes it easy to download specific mods in a single installer, as well as managing updates.
+
+## [PolyMC](https://polymc.org)
+PolyMC is a MultiMC fork with a wide array of useful features such as separated instances, an in-launcher mod downloader for both CurseForge and Modrinth, and one-click install to install mod loaders and modpacks!
 </details>
 
 ## For manual mod installation, please click on the version you would like to download the mods for.
