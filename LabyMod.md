@@ -127,7 +127,7 @@ LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics
   - AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
   - AutoReconnect - ?
   - Batty's Coordinates - [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) 
-  - BetterHat - ?
+  - BetterHat - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/all?filter-game-version=2020709689%3A5806)
   - Better Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
   - BetterScreenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
   - ChatCopper - ?
