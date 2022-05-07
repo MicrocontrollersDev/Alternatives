@@ -15,4 +15,6 @@ The main Markdown documents for the repo are gone to shift to the MkDocs Website
 
 Please be patient while we try and get the site up and running! 
 
+In the meantime, go to the docs folder and find which document you want!
+
 </div>
