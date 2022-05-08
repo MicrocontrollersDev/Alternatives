@@ -44,25 +44,31 @@ nav:
   - "Home": "index.md"
   - "Contributors": "contributors.md"
   - "Latest":
-      - "OptiFine": "latest/optifine.md"
-      - "Lunar Client": "latest/lunar_client.md"
+      - "Mods":
+          - "OptiFine": "latest/optifine.md"
+      - "Clients":
+          - "Lunar Client": "latest/lunar_client.md"
   - "1.12.2":
-      - "Feather Client": "1.12.2/feather_client.md"
+      - "Clients":
+          - "Feather Client": "1.12.2/feather_client.md"
   - "1.8.9":
-      - "HyChat": "1.8.9/hychat.md"
-      - "5zig": "1.8.9/5zig.md"
-      - "Refraction v4": "1.8.9/refraction_v4.md"
-      - "Badlion Client": "1.8.9/badlion_client.md"
-      - "Feather Client": "1.8.9/feather_client.md"
-      - "LabyMod": "1.8.9/labymod.md"
-      - "Lunar Client": "1.8.9/lunar_client.md"
-      - "Wyvtils": "1.8.9/wyvtils.md"
-      - "Danker's Skyblock Mod": "1.8.9/dsm.md"
-      - "SkyblockCatia": "1.8.9/skyblockcatia.md"
-      - "SkyblockExtras": "1.8.9/skyblockextras.md"
-      - "Dungeon Utilities": "1.8.9/dungeon_utilities.md"
-      - "Skyblock Reinvented": "1.8.9/skyblock_reinvented.md"
-      - "Skypixel": "1.8.9/skypixel.md"
+      - "Mods":
+          - "5zig": "1.8.9/5zig.md"
+          - "Danker's Skyblock Mod": "1.8.9/dsm.md"
+          - "Dungeon Utilities": "1.8.9/dungeon_utilities.md"
+          - "HyChat": "1.8.9/hychat.md"
+          - "Skyblock Reinvented": "1.8.9/skyblock_reinvented.md"
+          - "SkyblockCatia": "1.8.9/skyblockcatia.md"
+          - "SkyblockExtras": "1.8.9/skyblockextras.md"
+          - "Skypixel": "1.8.9/skypixel.md"
+          - "Wyvtils": "1.8.9/wyvtils.md"
+      - "Clients":
+          - "Badlion Client": "1.8.9/badlion_client.md"
+          - "Feather Client": "1.8.9/feather_client.md"
+          - "LabyMod": "1.8.9/labymod.md"
+          - "Lunar Client": "1.8.9/lunar_client.md"
+      - "Modpacks":
+          - "Refraction v4": "1.8.9/refraction_v4.md"
 
 markdown_extensions:
   - admonition
