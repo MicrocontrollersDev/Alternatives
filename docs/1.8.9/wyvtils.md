@@ -4,6 +4,7 @@
 The mod is no longer supported by its developer, Wyvest.
 
 </div>
+
 ### General
 
 * Reverse Inventory Scrolling - None (although I don't know anyone who actually uses this feature)
