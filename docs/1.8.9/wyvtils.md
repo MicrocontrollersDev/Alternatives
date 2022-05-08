@@ -1,9 +1,5 @@
-<div align="center">
-
 # Wyvtils Alternatives
 The mod is no longer supported by its developer, Wyvest.
-
-</div>
 
 ### General
 
