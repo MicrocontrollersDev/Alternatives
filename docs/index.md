@@ -1,4 +1,8 @@
+<div align="center">
+
 # Welcome!
+
+</div>
 
 You can find links to every alternatives
 page in the navbar at the top of this page.
