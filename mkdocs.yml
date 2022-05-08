@@ -47,6 +47,7 @@ nav:
       - "Mods":
           - "OptiFine": "latest/optifine.md"
       - "Clients":
+          - "Feather Client": "latest/featuer_client.md"
           - "Lunar Client": "latest/lunar_client.md"
   - "1.12.2":
       - "Clients":
