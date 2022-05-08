@@ -16,3 +16,4 @@ lol
 
 * add redaction for particle mod
 * add hytils reborn for uhc overlay
+* replace autofriend with hytils (they added that fsr?)
