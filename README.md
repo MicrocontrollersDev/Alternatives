@@ -17,4 +17,6 @@ The website will now be the primary
 way this will be used. To access it,
 click [here](https://microcontrollersdev.github.io/Alternatives/).
 
+## Copyright
+
 © MicrocontrollersDev. All Rights Reserved.
