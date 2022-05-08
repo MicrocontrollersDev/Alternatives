@@ -34,6 +34,14 @@
 * Level Head - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
 * Hypixel Autocomplete - [Sk1er's Hypixel Autocomplete](https://sk1er.club/mods/hypixel_auto_complete)
 
+#### Bedwars
+
+* Stats - [KAD7's HyStats](https://www.mediafire.com/file/so4sw1wn8aso68i/HyStats-v4.1_1.8.9.jar/file)
+* Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm/version/3.2)
+* Resource Counter - None
+* Colored Beds - None
+* Hardcore Hearts - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+
 ### HUD Mods
 
 * Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -78,6 +86,7 @@
 * FOV Mod - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
+* Chunk Borders - Minecraft feature.
 * Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 * Scoreboard - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest) / [Canelex & Powns's Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs) 
 * Motion Blur - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
