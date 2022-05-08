@@ -154,6 +154,7 @@ mod authors and it is advised against supporting them.
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 
 !!! note "Too lazy to download mods yourself?"
+
     ## [Argon](https://github.com/Tricked-dev/argoninstaller)
     Argon makes it easy to download specific
     mods in a single installer, as well as
