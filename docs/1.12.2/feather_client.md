@@ -120,6 +120,7 @@ mod authors and it is advised against supporting them.
 - Cull Nametags - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 !!! note "Too lazy to download mods yourself?"
+
     ## [Argon](https://github.com/Tricked-dev/argoninstaller)
     Argon makes it easy to download specific
     mods in a single installer, as well as
