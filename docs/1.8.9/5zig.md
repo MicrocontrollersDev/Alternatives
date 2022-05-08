@@ -1,9 +1,5 @@
-<div align="center">
-
 # 5zig Alternatives
 This list is based off of the latest version of 5zig Reborn.
-
-</div>
 
 ## Display Options
 
