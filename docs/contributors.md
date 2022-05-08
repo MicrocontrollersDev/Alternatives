@@ -1,5 +1,8 @@
-Massive thanks to the following
-people who helped make this:
+<div align="center">
+
+# Massive thanks to the following people who helped make this:
+
+</div>
 
 - [o9o](https://www.youtube.com/channel/UC_lbg2qjUsZwro5khBW9PHw)
 - [8KCoffeeWizard](https://github.com/8KCoffeeWizard)
