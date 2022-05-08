@@ -17,4 +17,6 @@ Please be patient while we try and get the site up and running!
 
 In the meantime, go to the docs folder and find which document you want!
 
+The website may also be broken, so please wait while we try and fix this!
+
 </div>
