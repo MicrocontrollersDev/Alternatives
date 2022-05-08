@@ -1,7 +1,7 @@
 <div align="center">
 
 # `Alternatives`
-[Click here!](https://microcontrollersdev.github.io/)
+[Click here!](https://microcontrollersdev.github.io/Alternatives)
 
 
 Repo which contains many
