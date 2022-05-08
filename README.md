@@ -1,6 +1,6 @@
 <div align="center">
 
-# [`Alternatives`](https://microcontrollersdev.github.io/Alternatives/)
+# [[`Alternatives`](https://microcontrollersdev.github.io/Alternatives/)]
 Repo which contains many
 alternatives to poorly made
 or out-of-date clients, mods,
