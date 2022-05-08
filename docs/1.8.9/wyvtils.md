@@ -20,7 +20,11 @@ The mod is no longer supported by its developer, Wyvest.
 * Hitbox Customization - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
 * Pack GUI Modifier - [aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 
+<div align="center">
+
 # Contributors
+
+</div>
 
 * [Microcontrollers](https://github.com/microcontrollersdev)
 * [Wyvest](https://github.com/Wyvest)
