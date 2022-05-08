@@ -1,8 +1,11 @@
+<div align="center">
+
 # Skypixel Alternatives
 Skypixel is no longer maintained
 and has some features that now break
 the game.
 
+</div>
 ## Features
 
 * Custom Enchant Menu - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
