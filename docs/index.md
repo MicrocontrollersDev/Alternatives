@@ -1,4 +1,3 @@
-<div align="center">
 
 # Welcome!
 
@@ -6,8 +5,6 @@ You can find links to every alternatives
 page in the navbar at the top of this page.
 Click on one to select the alternatives list
 you're looking for.
-
-</div>
 
 ## For potential contributors
 
