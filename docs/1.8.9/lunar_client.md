@@ -40,7 +40,7 @@
 * Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm/version/3.2)
 * Resource Counter - None
 * Colored Beds - None
-* Hardcore Hearts - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Hardcore Hearts - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
 
 ### HUD Mods
 
