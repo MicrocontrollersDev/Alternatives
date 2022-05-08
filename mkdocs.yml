@@ -32,6 +32,7 @@ theme:
 
 repo_name: Alternatives
 repo_url: https://github.com/MicrocontrollersDev/Alternatives
+edit_uri: ../Alternatives/edit/main/docs/
 extra:
   social:
     - icon: fontawesome/brands/github
