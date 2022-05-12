@@ -80,6 +80,7 @@
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner Perspective Mod](https://inv.wtf/djperspective)
 * ShinyPots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 * Time Changer - [Lily's SimpleTimeChanger](https://github.com/My-Name-Is-Jeff/SimpleTimeChanger/releases/latest) / [Shatterpoint's Revamped TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
+* Weather Changer - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest)
 
 ### Other
 * Clan Wars - Irrelevant
