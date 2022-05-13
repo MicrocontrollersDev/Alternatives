@@ -168,6 +168,7 @@ mod authors and it is advised against supporting them.
 * [Narwhalism](https://www.twitch.tv/narwhalswim)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
+* [Salmon](https://github.com/Scherso)
 * [Systemless](https://github.com/SystemlessDev)
 * [Tricked](https://github.com/Tricked-dev)
 * [Wyvest](https://github.com/Wyvest)
