@@ -88,6 +88,7 @@
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 * Chunk Borders - ?
 * Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
+* Weather Changer - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest)
 * Scoreboard - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
 * Motion Blur - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 * Shiny Pots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
@@ -135,7 +136,7 @@
 
 * Smart Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Borderless Fullscreen - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Disable Weather - [W-OVERFLOW's WeatherChanger](https://github.com/W-OVERFLOW/WeatherChanger/releases/latest)
+* Disable Weather - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest)
 * Modern Keybind Handling - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Minimal View Bobbing - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Unfocused FPS Limiter - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
