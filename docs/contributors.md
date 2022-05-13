@@ -32,6 +32,7 @@
 - [Proudmuslim](https://github.com/proudmuslim-dev)
 - [RayDeeUx](https://github.com/RayDeeUx)
 - [Rayless](https://github.com/UnderscoreRayless)
+- [Salmon](https://github.com/Scherso)
 - [Solonovamax](https://github.com/solonovamax)
 - [stef-the](https://github.com/stef-the)
 - [Stekerser](https://github.com/Stekerser)
