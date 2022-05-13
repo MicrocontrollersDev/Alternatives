@@ -119,7 +119,9 @@ mod authors and it is advised against supporting them.
 - Use Culling - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Cull Nametags - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
-!!! note "Too lazy to download mods yourself?"
+# Too lazy to download mods yourself?
+
+!!! note "Check out these projects:"
 
     ## [Argon](https://github.com/Tricked-dev/argoninstaller)
     Argon makes it easy to download specific

@@ -141,7 +141,9 @@ mod authors and it is advised against supporting them.
 * [HD Skins](https://www.hdskins.de/)
 <!-- * [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer) (1.8, 1.12, 1.18) - Switch to RPM for 1.8 -->
 
-!!! note "Too lazy to download mods yourself?"
+# Too lazy to download mods yourself?
+
+!!! note "Check out these projects:"
 
     ## [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/)
     SkyClient allows for a great modpack for
