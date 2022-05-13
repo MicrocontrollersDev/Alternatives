@@ -153,7 +153,9 @@ mod authors and it is advised against supporting them.
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 
-!!! note "Too lazy to download mods yourself?"
+# Too lazy to download mods yourself?
+
+!!! note "Check out these projects:"
 
     ## [Argon](https://github.com/Tricked-dev/argoninstaller)
     Argon makes it easy to download specific
