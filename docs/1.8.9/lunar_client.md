@@ -22,7 +22,7 @@
 
 ### Hypixel Mods
 
-* Auto Friend -  [2Pi's AutoFriend](https://2pi.pw/mods/autofriend)
+* Auto Friend - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
 * Auto TIP - [Semx11's AutoTip](https://autotip.pro/download)
 * Auto GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 * Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
@@ -82,7 +82,7 @@
 ### Visual Mods
 
 * 2D Items - ?
-* UHC Overlay - ? (Resourcepacks work instead)
+* UHC Overlay - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest) (Resource packs also work)
 * FOV Mod - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
