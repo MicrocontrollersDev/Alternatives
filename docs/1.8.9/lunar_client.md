@@ -38,7 +38,7 @@
 
 * Stats - [KAD7's HyStats](https://www.mediafire.com/file/so4sw1wn8aso68i/HyStats-v4.1_1.8.9.jar/file)
 * Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm/version/3.2)
-* Resource Counter - None
+* Resource Counter - [Sk1er's Bedwars Resource Display](https://sk1er.club/mods/sk1er-bedwars_resource_display)
 * Colored Beds - None
 * Hardcore Hearts - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
 
