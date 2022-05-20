@@ -140,6 +140,8 @@
 * Modern Keybind Handling - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Minimal View Bobbing - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Unfocused FPS Limiter - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Drop Stack from Hotbar - [Holyantimony's DropstackKeybind](https://www.curseforge.com/minecraft/mc-mods/dropstackkeybind/files/all)
+
 
 #### Texture Pack Options
 
