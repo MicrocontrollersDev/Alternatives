@@ -18,3 +18,7 @@ lol
 * add hytils reborn for uhc overlay ✅
 * replace autofriend with hytils (they added that fsr?)✅
 * add hytils for bedwars resource display 🟡
+
+## All
+the bannable on hypixel message is inconsistent across/within lists
+decide on a design
