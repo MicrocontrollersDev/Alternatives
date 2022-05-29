@@ -81,7 +81,7 @@
 
 ### Visual Mods
 
-* 2D Items - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* 2D Items - [W-OVERFLOW's Overflow Animations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/tag/v1.1.0) **(REQUIRES [SK1ER'S OLD ANIMATIONS MOD](https://sk1er.club/beta))**
 * UHC Overlay - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest) (Resource packs also work)
 * FOV Mod - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
