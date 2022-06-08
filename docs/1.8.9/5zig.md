@@ -1,4 +1,5 @@
 # 5zig Alternatives
+Both the original 5zig and 5zig Reborn are no longer maintained.
 This list is based off of the latest version of 5zig Reborn.
 
 ## Display Options
