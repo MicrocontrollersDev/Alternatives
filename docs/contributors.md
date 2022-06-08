@@ -8,7 +8,7 @@
 - [AzuredBlue](https://github.com/AzuredBlue)
 - [BobIsMyManager](https://github.com/BobIsMyManager)
 - [bumble](https://github.com/itsbumble)
-- [Coolbird1234](https://twitter.com/dankbird1234)
+- [Coolbird1234](https://www.youtube.com/c/Bird69)
 - [Deftu](https://github.com/deftu)
 - [Digux](https://github.com/Diguhxe)
 - [DJtheRedstoner](https://github.com/DJtheRedstoner)
