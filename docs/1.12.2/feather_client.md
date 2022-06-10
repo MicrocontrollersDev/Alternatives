@@ -104,15 +104,15 @@ mod authors and it is advised against supporting them.
 ### Rendering Settings
 
 * Use Fast Rendering - [sp614x's OptiFine](https://optifine.net)
-* Use Direct Memory Access - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Use Direct Memory Access - ?
 * Use Fast Font Rendering - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Use Static Particle Color - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Lazy Chunk Loading - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ### Light Settings
 
-* Use Fast Block Lighting - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-* Use Fast Entity Lighting - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Use Fast Block Lighting - ?
+* Use Fast Entity Lighting - ?
 
 ### Advanced Settings
 
