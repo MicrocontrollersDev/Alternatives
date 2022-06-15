@@ -12,7 +12,7 @@ to use those other mods instead.
 
 ### Sounds
 
-* Remove Creeper Sounds from Veil - ?
+* Remove Creeper Sounds from Veil - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ## General
 
@@ -33,11 +33,11 @@ to use those other mods instead.
 
 ### Rendering
 
-* Stop Rendering Players with Customizable Whitelist - ?
+* Stop Rendering Players with Customizable Whitelist - ? ([W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn) has a similar feature that consequently removes players, but does not have a whitelist)
 * Stop Rendering Player Armor - ?
-* Create Hitboxes Around your Arrows - F3 + B
-* Show Hitboxes of Special Zealots - F3 + B
-* Show Hitboxes of Drags & Golems - F3 + B
+* Create Hitboxes Around your Arrows - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
+* Show Hitboxes of Special Zealots - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
+* Show Hitboxes of Drags & Golems - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
 * Hide Other People's Arrows - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Stop Power Orb Nametags / Particles from Rendering - ?
 
@@ -149,4 +149,5 @@ to use those other mods instead.
 
 # Contributors
 
+* [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
