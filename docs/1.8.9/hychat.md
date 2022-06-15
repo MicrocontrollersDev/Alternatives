@@ -38,5 +38,6 @@ The mod is no longer supported by its developer, Moulberry.
 # Contributors
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
+* [Moisty](https://github.com/Mqisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Zetvue](https://zetvue.carrd.co)
