@@ -78,7 +78,7 @@ to use those other mods instead.
 
 * Slayer Info - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) & [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Sven Pups - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* Maddox Clickable Message - ?
+* Maddox Clickable Message - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Reminder to Start New Slayer - ?
 
 ### Fishing
