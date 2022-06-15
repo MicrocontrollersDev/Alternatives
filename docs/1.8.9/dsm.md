@@ -11,14 +11,14 @@ few aspects.
 * Spider (Tarantula Broodfather) - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 * Wolf (Sven Packmaster) - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 * Enderman (Voidgloom Seraph) - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* Fishing - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Fishing - ?
 * Fishing Winter - ?
 * Fishing Festival - ?
 * Fishing Spooky - ?
 * Mythological - ?
 * Ghost - ?
 * Catacombs Dungeon - ?
-* Skill XP/Hour - ?
+* Skill XP/Hour - NEU?
 
 ### Dungeon Puzzle Solvers
 
@@ -41,7 +41,7 @@ few aspects.
 
 * Auto-Swap to Pick Block - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Coordinate/Angle Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Click On-Screen to Open Maddox - Skytils?
+* Click On-Screen to Open Maddox - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Cake Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Display Progress to Skill Level 50 - NEU?
 * Count Total 20% Drops - ?
