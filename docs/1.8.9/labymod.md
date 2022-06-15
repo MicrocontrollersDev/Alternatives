@@ -10,8 +10,8 @@ that you avoid using it if possible.
 
 * Ping in Tablist - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Permission Changes - Irrelevant
-* LabyMod User Indicator - [Sk1er's Essential](https://essential.gg) (indicates Essential instead)
-* Out of Memory Warning - ? (Check F3)
+* LabyMod User Indicator - [Sk1er's Essential](https://essential.gg) (indicates Essential users instead)
+* Out of Memory Warning - ? (Check F3 / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) for current memory usage)
 
 ### Animations
 
@@ -198,6 +198,7 @@ that you avoid using it if possible.
 * [LlamaLad7](https://github.com/LlamaLad7)
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
+* [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
 * [Solonovamax](https://github.com/solonovamax)
 * [ToggledX](https://twitter.com/ignToggleW)

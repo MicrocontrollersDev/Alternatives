@@ -1,4 +1,5 @@
 # HyChat Alternatives
+The mod is no longer supported by its developer, Moulberry.
 
 ### Tweaks
 
@@ -19,8 +20,8 @@
 
 ### Appearance
 
-*Text Shadow - ?
-*Tab Text Shadow - ?
+* Text Shadow - ?
+* Tab Text Shadow - ?
 
 ### Screenshot and Copying
 
@@ -37,4 +38,5 @@
 # Contributors
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
+* [RayDeeUx](https://github.com/RayDeeUx)
 * [Zetvue](https://zetvue.carrd.co)

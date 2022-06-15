@@ -6,7 +6,7 @@
 * [Patcher](https://sk1er.club/mods/patcher)
 * [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 * [BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
-* [Scrollable tooltips](https://sk1er.club/mods/text_overflow_scroll)
+* [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
 * [AutoGG](https://sk1er.club/mods/autogg)
 * [Levelhead](https://sk1er.club/mods/level_head)
 * [ToggleChat](https://github.com/boomboompower/ToggleChat/releases/)
@@ -25,8 +25,9 @@
     * Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes. Sk1er's is more accurate to 1.7 with better compatibility and no bloat.
 * [Powns's ToggleSneak with Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
     * Powns's ToggleSneak is no longer maintained and has some small issues that Lily's fixes.
-* [Skywars Stats mod with HyStats](https://download2270.mediafire.com/0r5h180odzzg/yx8m6ztaduf5bx8/HyStats-v4.0_%281.8.9%29.jar)
-    * Both made by KAD7, Hystats now supports multiple gamemodes and has much more to offer compared to the discontinued Skywars Stats mod.
+* Skywars Stats mod with **either** [HyStats](https://download2270.mediafire.com/0r5h180odzzg/yx8m6ztaduf5bx8/HyStats-v4.0_%281.8.9%29.jar) **OR** [SimpleStats](https://github.com/mew/simplestats)
+    * KAD7's more recent Hystats now supports multiple gamemodes and has much more to offer compared to the discontinued Skywars Stats mod.
+    * Nora/mew's SimpleStats mod accomplishes similar goals, but is open source.
 
 ## Remove
 
@@ -52,4 +53,5 @@
 * [JackedUp21](https://github.com/JackedUp21)
 * [JitterDev](https://github.com/JitterDev)
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
+* [RayDeeUx](https://github.com/RayDeeUx)
 * [Wyvest](https://github.com/wyvest)

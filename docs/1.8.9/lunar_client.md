@@ -23,7 +23,7 @@
 ### Hypixel Mods
 
 * Auto Friend - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
-* Auto TIP - [Semx11's AutoTip](https://autotip.pro/download)
+* Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
 * Auto GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 * Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 * Auto Who - No longer works on Hypixel
@@ -115,7 +115,7 @@
 * Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 * Quickplay - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)
 * 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/all?filter-game-version=2020709689%3A5806)
-* Better Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (/patcher sounds)
+* Better Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (`/patcher sounds`)
 
 ## Settings
 
@@ -146,7 +146,7 @@
 #### Texture Pack Options
 
 * Transparent Background - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
-* Red String - Texture Pack
+* Red String - ? (can be accomplished via a texture pack)
 
 ### Performance
 
@@ -187,6 +187,7 @@
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
 * [oyMarcel](https://github.com/oyMarcel)
+* [RayDeeUx](https://github.com/RayDeeUx)
 * [Salmon](https://github.com/Scherso)
 * [Solonovamax](https://github.com/solonovamax)
 * [Wyvest](https://github.com/Wyvest)

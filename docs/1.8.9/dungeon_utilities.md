@@ -1,8 +1,8 @@
 # DungeonUtilities Alternatives
 DungeonUtilities was an amazing
-mod for Dungeon solvers and map
+ChatTriggers module for Dungeon solvers and map
 display, among other things, but
-is now discontinued by it's
+is now discontinued by its
 creator and he recommends using alternatives.
 
 * Map - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -14,4 +14,5 @@ creator and he recommends using alternatives.
 
 # Contributors
 
+* [RayDeeUx](https://github.com/RayDeeUx)
 * [Zetvue](https://zetvue.carrd.co)

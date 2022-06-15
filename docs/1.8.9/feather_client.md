@@ -99,7 +99,7 @@ mod authors and it is advised against supporting them.
 * Highlight - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
 * Color - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
 * Bold - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
-* Own Messages - ?
+* Own Messages - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
 
 ## Performance
 
