@@ -4,7 +4,7 @@
 
 ### 1.7 Visuals
 
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
+* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
 * Hit Color - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
 
 ### Chat Mods

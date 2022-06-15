@@ -21,8 +21,8 @@
 
 * [Canalex's Keystrokes with Sk1er's](https://sk1er.club/mods/keystrokesmod)
     * Canalex's keystrokes are old and no longer maintained. Sk1er's will continue to receive updates.
-* [spiderfrog's old animations with Sk1er's](https://sk1er.club/beta)
-    * Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes. Sk1er's is more accurate to 1.7 with better compatibility and no bloat.
+* spiderfrog's old animations with **_both_** [Sk1er's](https://sk1er.club/beta) **_and_** [W-OVERFLOW's](https://github.com/W-OVERFLOW/OverflowAnimations/releases)
+    * Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes. Sk1er's is more accurate to 1.7 with better compatibility and no bloat, and W-OVERFLOW's is necessary to prevent false bans on servers such as Minemen.
 * [Powns's ToggleSneak with Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
     * Powns's ToggleSneak is no longer maintained and has some small issues that Lily's fixes.
 * Skywars Stats mod with **either** [HyStats](https://download2270.mediafire.com/0r5h180odzzg/yx8m6ztaduf5bx8/HyStats-v4.0_%281.8.9%29.jar) **OR** [SimpleStats](https://github.com/mew/simplestats)
