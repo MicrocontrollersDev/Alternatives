@@ -2,7 +2,7 @@
 SkyblockCatia is a mod which has
 a bunch of features that are better
 incorporated in other mods or are
-useless, and also does not receieve
+useless, and also does not receive
 many updates, with many incompatibilities
 with other mods. Therefore, it is
 recommended that you do not use it
@@ -35,7 +35,7 @@ if the features you use can be replaced.
 * Disable Night Vision - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Display Realtime Ping - ?
 
-### Miscellaneuous
+### Miscellaneous
 
 * Right Click to Add Party - [Am4nso's MiddleClickParty](https://hypixel.net/threads/forge-1-8-9-middleclickparty-invite-players-to-your-party-by-middle-clicking.3349916/)
 * Sneak to Open Inventory While Fighting Dragon - ?
