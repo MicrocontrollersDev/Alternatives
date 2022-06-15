@@ -27,6 +27,7 @@
 - [Lucasyh](https://github.com/Lucasyh)
 - [MisterCheezeCake](https://github.com/MisterCheezeCake)
 - [Moiré](https://github.com/moire9)
+- [Moisty](https://github.com/Mqisty)
 - [nacrt](https://github.com/nacrt)
 - [Narwhalism](https://www.twitch.tv/narwhalswim)
 - [Proudmuslim](https://github.com/proudmuslim-dev)
