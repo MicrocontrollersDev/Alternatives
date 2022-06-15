@@ -12,7 +12,7 @@ mod authors and it is advised against supporting them.
 ## Feather Mods
 
 ### Visuals
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta)
+* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
 * Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
