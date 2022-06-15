@@ -9,7 +9,7 @@
 
 ### Chat Mods
 
-* Chat Filter - ?
+* Chat Filter - Skytils?
 * Chat Height Fix - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Highlighted Name - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
 * Background Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
