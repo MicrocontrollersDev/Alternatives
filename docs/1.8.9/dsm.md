@@ -41,7 +41,7 @@ few aspects.
 
 * Auto-Swap to Pick Block - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Coordinate/Angle Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Click On-Screen to Open Maddox - ?
+* Click On-Screen to Open Maddox - Skytils?
 * Cake Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Display Progress to Skill Level 50 - NEU?
 * Count Total 20% Drops - ?
