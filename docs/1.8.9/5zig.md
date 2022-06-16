@@ -59,8 +59,8 @@ This list is based off of the latest version of 5zig Reborn.
 * Join Auto-Text **(BANNABLE ON HYPIXEL)** - ?
 * TeamSpeak - ?
 * Discord Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-* Friends and Chat System - [Essential](https://essential.gg)
-* Cosmetics - [Essential](https://essential.gg)
+* Friends and Chat System - [Essential](https://essential.gg/download)
+* Cosmetics - [Essential](https://essential.gg/download)
 
 # Contributors
 
