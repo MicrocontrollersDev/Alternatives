@@ -33,11 +33,11 @@ to use those other mods instead.
 
 ### Rendering
 
-* Stop Rendering Players with Customizable Whitelist - ? ([W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn) has a similar feature that consequently removes players, but does not have a whitelist)
+* Stop Rendering Players with Customizable Whitelist - ? ([W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest) has a similar feature that consequently removes players, but does not have a whitelist)
 * Stop Rendering Player Armor - ?
-* Create Hitboxes Around your Arrows - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
-* Show Hitboxes of Special Zealots - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
-* Show Hitboxes of Drags & Golems - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
+* Create Hitboxes Around your Arrows - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Show Hitboxes of Special Zealots - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTIO/releases/latest)
+* Show Hitboxes of Drags & Golems - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTIO/releases/latest)
 * Hide Other People's Arrows - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Stop Power Orb Nametags / Particles from Rendering - ?
 
@@ -56,9 +56,9 @@ to use those other mods instead.
 
 * Stop Opening Chests - ?
 * Clean Ending of Dungeons - ?
-* Bonzo Mask Alert - [Sychic and Lily's Skytils](https://github.com/Skytils/SkytilsMod) (custom alerts)
+* Bonzo Mask Alert - [Sychic and Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (custom alerts)
 * Hide Guided Sheeps - ?
-* Watcher Ready Reminder - [Sychic and Lily's Skytils](https://github.com/Skytils/SkytilsMod) (custom alerts)
+* Watcher Ready Reminder - [Sychic and Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (custom alerts)
 
 ### QOL
 
