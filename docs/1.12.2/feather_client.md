@@ -55,9 +55,9 @@ mod authors and it is advised against supporting them.
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
 * Discord - ?
 * Oof Mod - ?
-* Perspective - [Cynosphere's Persective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux/files/all)
-* Screenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-* Scrollable Tooltips - [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
+* Perspective - [Cynosphere's Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux/files/all)
+* Screenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
 * Server Address - ?
 * Snaplook - ?
 * Toggle Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
