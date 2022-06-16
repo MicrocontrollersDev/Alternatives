@@ -103,7 +103,7 @@ mod authors and it is advised against supporting them.
 
 ### Rendering Settings
 
-* Use Fast Rendering - [sp614x's OptiFine](https://optifine.net)
+* Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
 * Use Direct Memory Access - ?
 * Use Fast Font Rendering - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Use Static Particle Color - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -138,7 +138,7 @@ mod authors and it is advised against supporting them.
 ## External Mods
 
 * [Replay Mod](https://www.replaymod.com)
-* [OptiFine](https://optifine.net)
+* [OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/all?filter-game-version=2020709689%3A6756)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 * [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A6756)
