@@ -53,16 +53,17 @@ This list is based off of the latest version of 5zig Reborn.
 * Highlight Words - ?
 * 2nd Chat - ?
 * Chat Messages Filter - ?
-* Text Shortcuts - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
-* Text Macros (*!!! Bannable on Hypixel !!!*) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
+* Text Shortcuts - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Text Macros (*!!! Bannable on Hypixel !!!*) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) 
 * Username History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Join Auto-Text **(BANNABLE ON HYPIXEL)** - ?
 * TeamSpeak - ?
 * Discord Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-* Friends and Chat System - [Essential](https://essential.gg)
-* Cosmetics - [Essential](https://essential.gg)
+* Friends and Chat System - [Essential](https://essential.gg/download)
+* Cosmetics - [Essential](https://essential.gg/download)
 
 # Contributors
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
+* [Moisty](https://github.com/Mqisty)
 * [Zetvue](https://zetvue.carrd.co)

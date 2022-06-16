@@ -12,13 +12,13 @@ mod authors and it is advised against supporting them.
 ## Feather Mods
 
 ### Visuals
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
 * Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 * FOV Changer - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Glint - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest) & [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
-* Hitbox - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
+* Hitbox - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
 * Particles - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
@@ -37,7 +37,7 @@ mod authors and it is advised against supporting them.
 * FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Item Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Item Info - [Sk1er's Patcher](https://www.sk1er.club/mods/patcher)
-* Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
+* Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 * Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -96,10 +96,10 @@ mod authors and it is advised against supporting them.
 
 ### Mentions
 
-* Highlight - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
-* Color - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
-* Bold - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
-* Own Messages - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION)
+* Highlight - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Color - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Bold - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Own Messages - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
 
 ## Performance
 
@@ -132,7 +132,7 @@ mod authors and it is advised against supporting them.
 * [Dungeon Rooms Mod](https://github.com/Quantizr/DungeonRoomsMod/releases/latest)
 * [Dungeons Guide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 * [Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
-* [BazaarNotifier](https://github.com/symt/BazaarNotifier)
+* [BazaarNotifier](https://github.com/symt/BazaarNotifier/releases/latest)
 * [ResourcePack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 * [Replay Mod](https://www.replaymod.com)
 * [OptiFine](https://optifine.net)
@@ -167,6 +167,7 @@ mod authors and it is advised against supporting them.
 
 * [o9o](https://www.youtube.com/channel/UC_lbg2qjUsZwro5khBW9PHw)
 * [Geek](https://github.com/GamingGeek)
+* [Moisty](https://github.com/Mqisty)
 * [Narwhalism](https://www.twitch.tv/narwhalswim)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
