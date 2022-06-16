@@ -23,7 +23,7 @@ mod authors and it is advised against supporting them.
 * Time Changer - ?
 * Waypoints - ?
 * Weather Changer - ?
-* Zoom - [sp614x's OptiFine](https://optifine.net) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
 * Armor Status - ?
