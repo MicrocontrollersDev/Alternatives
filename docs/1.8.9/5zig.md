@@ -52,7 +52,7 @@ This list is based off of the latest version of 5zig Reborn.
 
 * Highlight Words - ?
 * 2nd Chat - ?
-* Chat Messages Filter - ?
+* Chat Messages Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Text Shortcuts - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Text Macros (*!!! Bannable on Hypixel !!!*) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) 
 * Username History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
