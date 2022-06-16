@@ -65,4 +65,5 @@ This list is based off of the latest version of 5zig Reborn.
 # Contributors
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
+* [Moisty](https://github.com/Mqisty)
 * [Zetvue](https://zetvue.carrd.co)
