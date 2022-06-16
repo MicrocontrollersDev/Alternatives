@@ -4,7 +4,7 @@
 
 ### 1.7 Visuals
 
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
 * Hit Color  - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
 
 ### Chat Mods
@@ -47,7 +47,7 @@
 * Item Info - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 * MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (*requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap*iles/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/latest)
-* Pack Display - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display*eleases/latest)
+* Pack Display - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 * Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Potion Status - [Powns' PotionHud](https://download.powns.dev/potionhud189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -72,7 +72,7 @@
 * Enchant Glint - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 * FOV - [Sk1er's Patcher (/patcher fov)](https://sk1er.club/mods/patcher)
 * Fullbright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Hitboxes - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* Hitboxes - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
 * Inventory Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 * Motion Blur - None
 * Nick Hider - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
@@ -107,6 +107,7 @@
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
+*[Moisty](https://github.com/Moisty)
 * [Salmon](https://github.com/Scherso)
 * [Solonovamax](https://github.com/solonovamax)
 * [Wyvest](https://github.com/Wyvest)
