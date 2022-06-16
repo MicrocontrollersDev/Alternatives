@@ -34,7 +34,7 @@ mod authors and it is advised against supporting them.
 * Direction - ?
 * FPS - ?
 * Item Counter - ?
-* Item Info - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Item Info - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Pack Display - ?
 * Ping - ?
 * Potion Effects - ?
@@ -48,7 +48,7 @@ mod authors and it is advised against supporting them.
 * Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
 * Auto GG - ?
 * Anti GG - ?
-* LevelHead - ?
+* LevelHead - [Sk1er's LevelHead](https://sk1er.club/mods/level_head)
 
 ### Other
 
