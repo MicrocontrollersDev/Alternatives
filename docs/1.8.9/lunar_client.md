@@ -4,7 +4,7 @@
 
 ### 1.7 Visuals
 
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
 * Hit Color - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
 
 ### Chat Mods
@@ -37,7 +37,7 @@
 #### Bedwars
 
 * Stats - [KAD7's HyStats](https://www.mediafire.com/file/so4sw1wn8aso68i/HyStats-v4.1_1.8.9.jar/file)
-* Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm/version/3.2)
+* Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm/versions)
 * Resource Counter - [Sk1er's Bedwars Resource Display](https://sk1er.club/mods/sk1er-bedwars_resource_display) (config may be confusing for most users, will soon be replaced by Hytils Reborn)
 * Colored Beds - None
 * Hardcore Hearts - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
@@ -81,7 +81,7 @@
 
 ### Visual Mods
 
-* 2D Items - [W-OVERFLOW's Overflow Animations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/tag/v1.1.0) **(REQUIRES [SK1ER'S OLD ANIMATIONS MOD](https://sk1er.club/beta))**
+* 2D Items - [W-OVERFLOW's Overflow Animations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) **(REQUIRES [SK1ER'S OLD ANIMATIONS MOD](https://sk1er.club/beta))**
 * UHC Overlay - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest) (Resource packs also work)
 * FOV Mod - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
