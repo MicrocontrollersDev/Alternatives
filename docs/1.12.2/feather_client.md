@@ -13,8 +13,8 @@ mod authors and it is advised against supporting them.
 * Animations - Irrelevant
 * Block Overlay - ?
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
-* Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files)
-* FOV Changer - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Custom Crosshair - [Sparkless' Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files)
+* FOV Changer - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint - ?
 * Hitbox - ?
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
@@ -23,7 +23,7 @@ mod authors and it is advised against supporting them.
 * Time Changer - ?
 * Waypoints - ?
 * Weather Changer - ?
-* Zoom - [sp614x's OptiFine](https://optifine.net) / [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Zoom - [sp614x's OptiFine](https://optifine.net) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
 * Armor Status - ?
@@ -55,7 +55,7 @@ mod authors and it is advised against supporting them.
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
 * Discord - ?
 * Oof Mod - ?
-* Perspective - [Cynosphere's Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux/files/all)
+* Perspective - [Cynosphere's Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux/files/all?filter-game-version=2020709689%3A6756)
 * Screenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
 * Server Address - ?
@@ -67,8 +67,8 @@ mod authors and it is advised against supporting them.
 
 ### Blur Settings
 
-* Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
-* Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
+* Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A6756)
+* Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A6756)
 
 ### Sound
 
@@ -139,11 +139,11 @@ mod authors and it is advised against supporting them.
 
 * [Replay Mod](https://www.replaymod.com)
 * [OptiFine](https://optifine.net)
-* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/all?filter-game-version=2020709689%3A6756)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
-* [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink)
+* [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A6756)
 * [HD Skins](https://www.hdskins.de/)
-* [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer)
+* [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer/files/all?filter-game-version=2020709689%3A6756)
 
 # Contributors
 
