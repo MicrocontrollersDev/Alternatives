@@ -76,21 +76,21 @@ mod authors and it is advised against supporting them.
 
 ### Keybinds
 
-* Custom Dropstack - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Custom Dropstack - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ## Chat Options
 
 ### Chat Settings
 
-* Toggle Chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-* Unlimited Scrollbar - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Toggle Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Unlimited Scrollbar - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Background Color - ?
-* Text Shadow - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Text Shadow - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Stack Messages
 
-* Stack Messages - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-* Consecutive Messages Only - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Stack Messages - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Consecutive Messages Only - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Mentions
 
@@ -105,9 +105,9 @@ mod authors and it is advised against supporting them.
 
 * Use Fast Rendering - [sp614x's OptiFine](https://optifine.net)
 * Use Direct Memory Access - ?
-* Use Fast Font Rendering - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-* Use Static Particle Color - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-* Lazy Chunk Loading - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Use Fast Font Rendering - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Use Static Particle Color - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Lazy Chunk Loading - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Light Settings
 
@@ -116,8 +116,8 @@ mod authors and it is advised against supporting them.
 
 ### Advanced Settings
 
-- Use Culling - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Cull Nametags - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Use Culling - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+- Cull Nametags - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 # Too lazy to download mods yourself?
 
