@@ -38,7 +38,7 @@ that you avoid using it if possible.
 * Autotext (!!! Bannable on Hypixel !!!) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 * Name History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Chat Icons - ?
-* Chat Filter - ?
+* Chat Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Shortcuts - [W-OVERFLOW'S Chatting](https://github.com/W-OVERFLOW/Chatting/releases/latest)
 * Player Menu - ?
 * Disable Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
