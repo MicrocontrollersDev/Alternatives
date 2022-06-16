@@ -10,7 +10,7 @@ List is a constant WIP. I do not own the
 mod and this list is based off of an older
 version of the mod. If you know of any
 features/alternatives or would like to
-confirm any of my gueses, feel free to
+confirm any of my guesses, feel free to
 make a pull request and ping me on
 [my discord server](https://inv.wtf/micro)
 if you would like any further clarification
