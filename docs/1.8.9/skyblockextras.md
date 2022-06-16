@@ -167,7 +167,7 @@ or a discussion.
 * Show EXP Rate - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Show Time Change - ?
 * Show Actions Needed - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* Show Time Needed - ?
+* Show Time Needed - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Show Total Information - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 
 ### Mythos
@@ -265,7 +265,7 @@ or a discussion.
 ### Visual
 
 * Color Enchants - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* Show Selected Arrow - SBA?
+* Show Selected Arrow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Freeze Previews - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 * Show Storage Previews - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Cache Backpack Data - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
@@ -334,6 +334,7 @@ or a discussion.
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Lucasyh](https://github.com/Lucasyh)
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
+* [Moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
 * [Proudmuslim](https://github.com/proudmuslim-dev)
 * [RayDeeUx](https://github.com/RayDeeUx)

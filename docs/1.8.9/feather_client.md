@@ -86,7 +86,7 @@ mod authors and it is advised against supporting them.
 
 * Toggle Chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Unlimited Scrollbar - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-* Background Color - ?
+* Background Color - [W-OVERFLOW'S Chatting](https://github.com/W-OVERFLOW/Chatting/releases/latest)
 * Text Shadow - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ### Stack Messages

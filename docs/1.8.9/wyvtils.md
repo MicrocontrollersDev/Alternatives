@@ -19,6 +19,6 @@ The mod is no longer supported by its developer, Wyvest.
 # Contributors
 
 * [Microcontrollers](https://github.com/microcontrollersdev)
-* [Moisty](https://github.com/Moisty)
+* [Moisty](https://github.com/Mqisty)
 * [Wyvest](https://github.com/Wyvest)
 * [Zetvue](https://zetvue.carrd.co)
