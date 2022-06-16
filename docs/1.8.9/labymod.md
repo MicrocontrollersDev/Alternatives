@@ -15,14 +15,14 @@ that you avoid using it if possible.
 
 ### Animations
 
-* 1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* 1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
 
 ### Bugfixes
 
 * Lava Optimization - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
 * Optimize Soup & Potion Refill (!!! Bannable on Hypixel !!!) - ?
 * Synchronised Crosshair - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Blockhit - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* Blockhit - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
 * Particle Optimization - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Performance
@@ -39,7 +39,7 @@ that you avoid using it if possible.
 * Name History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Chat Icons - ?
 * Chat Filter - ?
-* Shortcuts - [W-OVERFLOW'S Chatting](https://github.com/W-OVERFLOW/Chatting)
+* Shortcuts - [W-OVERFLOW'S Chatting](https://github.com/W-OVERFLOW/Chatting/releases/latest)
 * Player Menu - ?
 * Disable Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 * Adjustable Chat - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
@@ -109,7 +109,7 @@ that you avoid using it if possible.
 ### External Services
 
 * YouTube Subscriber - ?
-* Voice Chat - [zsawyer's MumbleLink](https://github.com/zsawyer/MumbleLink)
+* Voice Chat - [zsawyer's MumbleLink](https://github.com/zsawyer/MumbleLink/releases/latest)
 
 ### Miscellaneous
 
@@ -117,7 +117,7 @@ that you avoid using it if possible.
 * Click Test -  ?
 * Lava Challenge Time - ?
 * ToggleSneak Info - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
-* Laby's MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/latest)
+* Laby's MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/releases/latest)
 * DirectionHUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 
 ### Addons
@@ -131,7 +131,7 @@ that you avoid using it if possible.
 * Better Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 * BetterScreenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * ChatCopper - ?
-* ChatLog - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/)
+* ChatLog - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * ChatTime - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * ChatTranslator - ?
 * Color Correction - ?
@@ -143,13 +143,13 @@ that you avoid using it if possible.
 * CustomFilterSounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * CustomFont - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
 * Custom Main Menu - [Lumien231's CustomMainMenu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
-* CustomTime - [Lily's SimpleTimeChanger](https://github.com/My-Name-Is-Jeff/SimpleTimeChanger/releases/latest) / [Shatterpoint's TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases)
+* CustomTime - [Lily's SimpleTimeChanger](https://github.com/My-Name-Is-Jeff/SimpleTimeChanger/releases/latest) / [Shatterpoint's TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 * DamageIndicator **(BANNABLE ON HYPIXEL)** - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
 * Direct Connect History - ?
-* DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * EmoteChat - [Kokeria's ChatEmotes](https://www.curseforge.com/minecraft/mc-mods/chatemotes/files/all?filter-game-version=2020709689%3A5806) (doesn't work exactly like laby's but the emotes are the same)
 * FastJoin - ?
-* Friend Tags - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases)
+* Friend Tags - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases/latest)
 * FriendViewer - [Sk1er's Essential](https://essential.gg)
 * FullBright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint Colorizer - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
@@ -173,7 +173,7 @@ that you avoid using it if possible.
 * ResourcePack 24 - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds the ability to make folders and a better GUI)
 * Send To Server - ?
 * Settings Profile Mod - [leduyquang753's Controls Saved](https://drive.google.com/uc?authuser=0&id=1di1XQ_JNcVOt2RyCyZncsua7Vi5ar_fo&export=download)
-* ShinyPots - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
+* ShinyPots - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 * SkyblockAddons - [Biscuit's SBA](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 * SoundPlayer - ?
 * Spotify - [Cbyrneee's MediaMod](https://github.com/MediaModMC/MediaMod/releases/latest) / [ThatGravyBoat's Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify)  
@@ -183,7 +183,7 @@ that you avoid using it if possible.
 * Transulcent Skins - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Twitter - ?
 * WorldEditCUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
-* VoiceChat - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/tag/1.2.0-pre10.2)
+* VoiceChat - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Glint Colorizer - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 * Focus Movement Fix - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
 
@@ -198,6 +198,7 @@ that you avoid using it if possible.
 * [LlamaLad7](https://github.com/LlamaLad7)
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
+* [Moisty](https://github.com/Moisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
 * [Solonovamax](https://github.com/solonovamax)
