@@ -46,7 +46,7 @@ mod authors and it is advised against supporting them.
 * Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 
 ### Hypixel
-* AutoFriend - [2Pi's AutoFriend](https://2pi.pw/mods/autofriend)
+* Auto Friend - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
 * Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
 * Auto GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 * Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)

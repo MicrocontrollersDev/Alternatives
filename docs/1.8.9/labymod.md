@@ -20,7 +20,7 @@ that you avoid using it if possible.
 ### Bugfixes
 
 * Lava Optimization - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
-* Optimize Soup & Potion Refill (!!! Bannable on Hypixel !!!) - ?
+* Optimize Soup & Potion Refill **(BANNABLE ON HYPIXEL)** - ?
 * Synchronised Crosshair - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Blockhit - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
 * Particle Optimization - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -35,7 +35,7 @@ that you avoid using it if possible.
 
 ### Minecraft Chat
 
-* Autotext (!!! Bannable on Hypixel !!!) - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
+* Autotext **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 * Name History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Chat Icons - ?
 * Chat Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
