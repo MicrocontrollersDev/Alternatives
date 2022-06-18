@@ -38,7 +38,7 @@
 * AutoWho
     * Hypixel removed AutoWho's core functionality a few years ago.
 * PerspectiveMod
-    * PerspectiveMod is now bannable on Hypixel.
+    * PerspectiveMod is now **bannable** on Hypixel.
 * ChatTriggers (ctjs)
     * ChatTriggers may cause many performance issues depending on your modules and most of the modules you can get are readily available in other mods. Many people also do not know how to use ChatTriggers and never import any modules, leading to an increased startup time for no reason.
 * [Skypixel](https://github.com/MicrocontrollersDev/Alternatives/blob/main/Skypixel.md)
