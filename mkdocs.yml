@@ -41,8 +41,9 @@ extra:
       link: https://inv.wtf/micro
 
 nav:
-  - "Home": "index.md"
-  - "Contributors": "contributors.md"
+  - "Home":
+      - "Welcome": index.md"
+      - "Contributors": "contributors.md"
   - "Latest":
       - "Mods":
           - "OptiFine": "latest/optifine.md"
