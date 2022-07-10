@@ -42,7 +42,7 @@ extra:
 
 nav:
   - "Home":
-      - "Welcome": index.md"
+      - "Welcome": "index.md"
       - "Contributors": "contributors.md"
   - "Latest":
       - "Mods":
