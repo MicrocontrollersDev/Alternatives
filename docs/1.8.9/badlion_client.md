@@ -4,8 +4,8 @@
 
 ### 1.7 Visuals
 
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
-* Hit Color  - [W-OVERFLOW's Damage Tint](https://github.com/W-OVERFLOW/DamageTint/releases/latest)
+* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
+* Hit Color  - [Polyfrost's Damage Tint](https://github.com/Polyfrost/DamageTint/releases/latest)
 
 ### Chat Mods
   
@@ -21,7 +21,7 @@
 * Chat Messages Notifications - ?
 * Chat Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 * Chat Size - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
-* Emphasize Username in Chat - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Emphasize Username in Chat - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 * New Chat - ?
 
 ### Hypixel Mods
@@ -34,7 +34,7 @@
 ### HUD Mods
 
 * Armor Status - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
+* Bossbar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * CPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 * Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -52,9 +52,9 @@
 * Potion Status - [Powns' PotionHud](https://download.powns.dev/potionhud189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) 
-* Scoreboard - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
+* Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Server Address HUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Stopwatch - [W-OVERFLOW's TimerHUD](https://github.com/W-OVERFLOW/TimerHUD/releases/latest)
+* Stopwatch - [Polyfrost's TimerHUD](https://github.com/Polyfrost/TimerHUD/releases/latest)
 * Timers - [LlamaLad's BLCTimers](https://github.com/LlamaLad7/blctimers/releases/latest)
 
 ### Skyblock
@@ -72,7 +72,7 @@
 * Enchant Glint - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 * FOV - [Sk1er's Patcher (/patcher fov)](https://sk1er.club/mods/patcher)
 * Fullbright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Hitboxes - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* Hitboxes - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
 * Inventory Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 * Motion Blur - None
 * Nick Hider - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)

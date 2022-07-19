@@ -15,14 +15,14 @@ that you avoid using it if possible.
 
 ### Animations
 
-* 1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* 1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
 
 ### Bugfixes
 
 * Lava Optimization - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
 * Optimize Soup & Potion Refill **(BANNABLE ON HYPIXEL)** - ?
 * Synchronised Crosshair - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Blockhit - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* Blockhit - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
 * Particle Optimization - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Performance
@@ -39,7 +39,7 @@ that you avoid using it if possible.
 * Name History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Chat Icons - ?
 * Chat Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Shortcuts - [W-OVERFLOW'S Chatting](https://github.com/W-OVERFLOW/Chatting/releases/latest)
+* Shortcuts - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Player Menu - ?
 * Disable Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 * Adjustable Chat - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
@@ -54,7 +54,7 @@ that you avoid using it if possible.
 ### Menu GUI
 
 * Menu Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Server Information at Direct Connect - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Server Information at Direct Connect - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 * Confirm Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Quickplay - [Buggyfroggy's Quickplay](https://github.com/QuickplayMod/quickplay/releases/latest)
 * Public Server List - [Sk1er's Essential](https://essential.gg)
@@ -68,12 +68,12 @@ that you avoid using it if possible.
 #### Additional
 
 * Show My Name - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Show Bossbar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
+* Show Bossbar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Show Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Sign Search - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Left Hand - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Discord Rich Presence - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-* Custom Name Tags - ? ([W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) for highlighting names)
+* Custom Name Tags - ? ([Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) for highlighting names)
 
 ### Cosmetics
 
@@ -97,7 +97,7 @@ that you avoid using it if possible.
 * Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Server Support - Irrelevant
 * Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's PotionHud](https://download.powns.dev/potionhud189)
-* Scoreboard - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
+* Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Combo - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Range - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Speed - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -139,7 +139,7 @@ that you avoid using it if possible.
 * Controller - ?
 * Custom Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * Custom Crosshair Mod - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
-* Custom Hitboxes - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) 
+* Custom Hitboxes - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) 
 * CustomFilterSounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * CustomFont - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
 * Custom Main Menu - [Lumien231's CustomMainMenu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
@@ -156,12 +156,12 @@ that you avoid using it if possible.
 * GUI Blur Mod - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 * HDSkins - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/all?filter-game-version=2020709689%3A5806)
 * HeadOwner - ?
-* Hotbar - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Hotbar - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 * Hypixel Quick Play - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 * I Love Music - ?
 * Instagram - ?
 * Instant Tab Completion - ?
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
+* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 * Keystrokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 * Minigames - ?
 * MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)

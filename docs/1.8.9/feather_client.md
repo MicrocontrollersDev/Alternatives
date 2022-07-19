@@ -12,13 +12,13 @@ mod authors and it is advised against supporting them.
 ## Feather Mods
 
 ### Visuals
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [W-OVERFLOW's OverflowAnimations](https://github.com/W-OVERFLOW/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
 * Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 * FOV Changer - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Glint - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest) & [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
-* Hitbox - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Hitbox - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
 * Particles - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
@@ -29,7 +29,7 @@ mod authors and it is advised against supporting them.
 
 ### HUD
 * Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Boss Bar - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
+* Boss Bar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Combo Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -42,11 +42,11 @@ mod authors and it is advised against supporting them.
 * Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Scoreboard - [W-OVERFLOW's VanillaHUD](https://github.com/W-OVERFLOW/VanillaHUD/releases/latest)
+* Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 
 ### Hypixel
-* Auto Friend - [W-OVERFLOW's Hytils Reborn](https://github.com/W-OVERFLOW/Hytils-Reborn/releases/latest)
+* Auto Friend - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 * Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
 * Auto GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 * Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
@@ -61,7 +61,7 @@ mod authors and it is advised against supporting them.
 * Screenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 * Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Snaplook - [W-OVERFLOW's BehindYouV3](https://github.com/W-OVERFLOW/BehindYouV3/releases/latest)
+* Snaplook - [Polyfrost's BehindYouV3](https://github.com/Polyfrost/BehindYouV3/releases/latest)
 * Toggle Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 * Voice - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 
@@ -86,7 +86,7 @@ mod authors and it is advised against supporting them.
 
 * Toggle Chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 * Unlimited Scrollbar - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-* Background Color - [W-OVERFLOW'S Chatting](https://github.com/W-OVERFLOW/Chatting/releases/latest)
+* Background Color - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Text Shadow - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 ### Stack Messages
@@ -96,10 +96,10 @@ mod authors and it is advised against supporting them.
 
 ### Mentions
 
-* Highlight - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
-* Color - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
-* Bold - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
-* Own Messages - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Highlight - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Color - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Bold - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Own Messages - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 
 ## Performance
 

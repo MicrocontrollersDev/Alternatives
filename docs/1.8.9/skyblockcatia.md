@@ -24,11 +24,11 @@ if the features you use can be replaced.
 
 ### Rendering
 
-* Fancy Color for Supporters - Irrelevant ([W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest) allows you to change the color of your name as well)
+* Fancy Color for Supporters - Irrelevant ([Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) allows you to change the color of your name as well)
 * Show Item Rarity - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Item Rarity Opacity - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Make Special Zealot Held Gold Block - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* Hitbox Render Mode - ([W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)) ?
+* Hitbox Render Mode - ([Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)) ?
 * Glowing Dragon Armor - ?
 * Disable Block Particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Fix Skyblock Enchant Tag - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)

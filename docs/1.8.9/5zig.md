@@ -16,7 +16,7 @@ This list is based off of the latest version of 5zig Reborn.
 ### Noncategorized
 
 * Show More Chat Symbols - ?
-* Show Last Server - [W-OVERFLOW's Redaction](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Show Last Server - [Polyfrost's Redaction](https://github.com/Polyfrost/REDACTION/releases/latest)
 * Show Custom Item Models - OptiFine Setting
 * Static FOV - Minecraft Setting
 * Time in Chat Messages - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -34,7 +34,7 @@ This list is based off of the latest version of 5zig Reborn.
 
 ### General
 
-* Notify on Chat-Mention - [W-OVERFLOW's REDACTION](https://github.com/W-OVERFLOW/REDACTION/releases/latest)
+* Notify on Chat-Mention - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 * Automatically Reconnect - ?
 * Use CMD-Key - ?
 * Show Compass Target - ?

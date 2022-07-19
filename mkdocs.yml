@@ -67,6 +67,7 @@ nav:
       - "Clients":
           - "Badlion Client": "1.8.9/badlion_client.md"
           - "Feather Client": "1.8.9/feather_client.md"
+          - "Hyperium": "1.8.9/hyperium.md"
           - "LabyMod": "1.8.9/labymod.md"
           - "Lunar Client": "1.8.9/lunar_client.md"
       - "Modpacks":
