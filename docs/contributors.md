@@ -44,4 +44,4 @@
 - [usb](https://github.com/U5B)
 - [Wyvest](https://github.com/Wyvest)
 - [yan](https://github.com/yanNotDev)
-- [Zetvue](https://zetvue.carrd.co)
+- [Zetvue](https://zetvue.github.io)
