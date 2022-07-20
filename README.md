@@ -118,6 +118,6 @@ Thank you to the following people who contributed to this repo and its predecess
 - [usb](https://github.com/U5B)
 - [Wyvest](https://github.com/Wyvest)
 - [yan](https://github.com/yanNotDev)
-- [Zetvue](https://zetvue.carrd.co)
+- [Zetvue](https://zetvue.github.io)
 
 :copyright: MicrocontrollersDev. All Rights Reserved.
