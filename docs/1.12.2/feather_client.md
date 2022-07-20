@@ -4,8 +4,8 @@ WIP - Feather "Client" is a Forge/Fabric
 mod marketing itself as a client, claiming
 immense FPS boosts and wide mod support. However,
 Feather, on numerous occasions, has been caught illegally
-stealing code and breaking other mod's licenses. Feather is
-also currently in a paid beta testing period, in a sense putting
+stealing code and breaking other mod's licenses. Feather was
+also previously in a paid beta testing period, in a sense putting
 numerous free mods behind a paywall. It is also unsupported by many
 mod authors and it is advised against supporting them.
 
