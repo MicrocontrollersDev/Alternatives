@@ -15,14 +15,14 @@ that you avoid using it if possible.
 
 ### Animations
 
-* 1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
+* 1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) (yes, you need **_both_** Sk1er's OA and Polyfrost's OA.)
 
 ### Bugfixes
 
 * Lava Optimization - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
 * Optimize Soup & Potion Refill **(BANNABLE ON HYPIXEL)** - ?
 * Synchronised Crosshair - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Blockhit - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
+* Blockhit - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) (yes, you need **_both_** Sk1er's OA and Polyfrost's OA.)
 * Particle Optimization - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Performance
@@ -127,7 +127,7 @@ that you avoid using it if possible.
 * AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
 * AutoReconnect - ?
 * Batty's Coordinates - [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) 
-* BetterHat - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/all?filter-game-version=2020709689%3A5806)
+* BetterHat - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions)
 * Better Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 * BetterScreenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * ChatCopper - ?

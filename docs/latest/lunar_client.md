@@ -21,37 +21,37 @@ checking out
 
 * Chat Filter - None
 * Chat Height Fix - Fixed in Vanilla
-* Don't Clear Chat History - [emmaffle's DCCH](https://modrinth.com/mod/dcch/versions)
+* Don't Clear Chat History - [emmaffle's DCCH](https://modrinth.com/mod/dcch)
 * Highlighted Name - None
 * Background Opacity - Minecraft setting.
 * Hide Incoming Messages - None
-* Stack Spam Messages - [cyberne's CompactChat](https://modrinth.com/mod/compactchat/versions)
+* Stack Spam Messages - [cyberne's CompactChat](https://modrinth.com/mod/compactchat)
 * Stop Servers from Closing Chat - None
 * Text Shadow - None
-* Unlimited Chat - [JackFred2's More Chat History](https://modrinth.com/mod/morechathistory/versions)
+* Unlimited Chat - [JackFred2's More Chat History](https://modrinth.com/mod/morechathistory)
 * Chat Animation - None
 
 ### HUD Mods
 
-* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) 
-* Day Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* DirectionHUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud) 
+* Day Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* DirectionHUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Tracker - None
 * Key Strokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
-* Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Pack Display - None
-* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Potion Counter - None
-* Stopwatch - None
-* Server Address -  [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Server Address -  [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Team View - Irrelevant
 
 ### Nametags
@@ -78,8 +78,8 @@ checking out
 * Time Changer - [Motschen's Timechanger](https://www.curseforge.com/minecraft/mc-mods/time-changer) (Only works on Multiplayer)
 * Block Outline - [LordDeatHunter's Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)
 * Item Physics - [Draylar1's Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items)
-* TNT Timer Mod - [shateq's TNTTime](https://modrinth.com/mod/tnttime/versions)
-* Hitbox - [splzh's Clear Hitboxes](https://modrinth.com/mod/clearhitboxes/versions)
+* TNT Timer Mod - [shateq's TNTTime](https://modrinth.com/mod/tnttime)
+* Hitbox - [splzh's Clear Hitboxes](https://modrinth.com/mod/clearhitboxes)
 * 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 
 ### Other Mods
@@ -94,7 +94,6 @@ checking out
 * Boss Bar - None
 * Freelook **(BANNABLE ON HYPIXEL)** - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
 * Quickplay - None
-* 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 
 ## Settings
 
@@ -133,7 +132,7 @@ checking out
 * Full Bright - [Sjouwer's Gamma Utils](https://modrinth.com/mod/gamma-utils)
 * Show Enchantment Glint - None
 * Lazy Chunk Loading - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
-* Disable block breaking particles - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra/versions)
+* Disable block breaking particles - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
 
 #### Entity Options
 

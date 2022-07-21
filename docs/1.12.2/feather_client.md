@@ -72,7 +72,7 @@ mod authors and it is advised against supporting them.
 
 ### Sound
 
-* Portal Sounds - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Portal Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Keybinds
 

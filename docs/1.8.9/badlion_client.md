@@ -4,7 +4,7 @@
 
 ### 1.7 Visuals
 
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
+* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) (yes, you need **_both_** Sk1er's OA and Polyfrost's OA.)
 * Hit Color  - [Polyfrost's Damage Tint](https://github.com/Polyfrost/DamageTint/releases/latest)
 
 ### Chat Mods
@@ -22,14 +22,14 @@
 * Chat Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 * Chat Size - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
 * Emphasize Username in Chat - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
-* New Chat - ?
+* New Chat - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest) (adds search bar, ability to screenshot chatbox and chat messages, and ability to copy chat messages)
 
 ### Hypixel Mods
 
 * AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
 * AutoTip - [Semx11's AutoTip](https://autotip.pro)
 * Levelhead - [Sk1er's Levelhead](https://sk1er.club/mods/level_head)
-*	HyStats - [KAD7's HyStats](https://download2270.mediafire.com/0r5h180odzzg/yx8m6ztaduf5bx8/HyStats-v4.0_%281.8.9%29.jar)
+* HyStats - [KAD7's HyStats](https://download2270.mediafire.com/0r5h180odzzg/yx8m6ztaduf5bx8/HyStats-v4.0_%281.8.9%29.jar)
 
 ### HUD Mods
 
@@ -54,7 +54,7 @@
 * Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) 
 * Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Server Address HUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Stopwatch - [Polyfrost's TimerHUD](https://github.com/Polyfrost/TimerHUD/releases/latest)
+* Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Timers - [LlamaLad's BLCTimers](https://github.com/LlamaLad7/blctimers/releases/latest)
 
 ### Skyblock

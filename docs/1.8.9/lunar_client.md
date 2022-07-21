@@ -4,7 +4,7 @@
 
 ### 1.7 Visuals
 
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
+* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) (yes, you need **_both_** Sk1er's OA and Polyfrost's OA.)
 * Hit Color - [Polyfrost's Damage Tint](https://github.com/Polyfrost/DamageTint/releases/latest)
 
 ### Chat Mods
@@ -59,7 +59,7 @@
 * Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Potion Counter - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
-* Stopwatch - [Polyfrost's TimerHUD](https://github.com/Polyfrost/timerhud-forge/releases/latest)
+* Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Address -  [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -83,7 +83,7 @@
 
 * 2D Items - [Polyfrost's Overflow Animations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) **(REQUIRES [SK1ER'S OLD ANIMATIONS MOD](https://sk1er.club/beta))**
 * UHC Overlay - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (Resource packs also work)
-* FOV Mod - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* FOV Mod - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 * Chunk Borders - ?
@@ -93,7 +93,7 @@
 * Motion Blur - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 * Shiny Pots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
-* Particle Mod - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189)
+* Particle Mod - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced/versions) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189)
 * Cooldowns - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
 * Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 * Block Outline - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
@@ -114,7 +114,7 @@
 * Boss Bar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest) 
 * Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
 * Quickplay - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)
-* 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/all?filter-game-version=2020709689%3A5806)
+* 3D Skin Layers - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions)
 * Better Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (`/patcher sounds`)
 
 ## Settings

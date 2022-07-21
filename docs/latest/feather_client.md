@@ -10,6 +10,7 @@ numerous free mods behind a paywall. It is also unsupported by many
 mod authors and it is advised against supporting them.
 
 ### Visuals
+
 * Animations - Irrelevant
 * Block Overlay - [LordDeatHunter's Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)
 * Clear Water - Vanilla Tweaks
@@ -26,6 +27,7 @@ mod authors and it is advised against supporting them.
 * Zoom - [isXander's Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
 
 ### HUD
+
 * Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Boss Bar - ?
 * CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -34,7 +36,7 @@ mod authors and it is advised against supporting them.
 * Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Item Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Item Info - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+* Item Info - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Pack Display - ?
 * Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -44,6 +46,7 @@ mod authors and it is advised against supporting them.
 * Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 
 ### Hypixel
+
 * AutoFriend - ?
 * Auto Tip - ?
 * Auto GG - ?
@@ -116,8 +119,8 @@ mod authors and it is advised against supporting them.
 
 ### Advanced Settings
 
-* Use Culling - [tr7zw's Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
-* Cull Nametags - [tr7zw's Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+* Use Culling - [tr7zw's Entity Culling](https://modrinth.com/mod/entityculling)
+* Cull Nametags - [tr7zw's Entity Culling](https://modrinth.com/mod/entityculling)
 
 ## External Mods
 
