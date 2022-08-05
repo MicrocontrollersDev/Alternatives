@@ -44,15 +44,6 @@ nav:
   - "Home":
       - "Welcome": "index.md"
       - "Contributors": "contributors.md"
-  - "Latest":
-      - "Mods":
-          - "OptiFine": "latest/optifine.md"
-      - "Clients":
-          - "Feather Client": "latest/feather_client.md"
-          - "Lunar Client": "latest/lunar_client.md"
-  - "1.12.2":
-      - "Clients":
-          - "Feather Client": "1.12.2/feather_client.md"
   - "1.8.9":
       - "Mods":
           - "5zig": "1.8.9/5zig.md"
@@ -72,6 +63,15 @@ nav:
           - "Lunar Client": "1.8.9/lunar_client.md"
       - "Modpacks":
           - "Refraction v4": "1.8.9/refraction_v4.md"
+  - "1.12.2":
+      - "Clients":
+          - "Feather Client": "1.12.2/feather_client.md"
+  - "1.19.1":
+      - "Mods":
+          - "OptiFine": "latest/optifine.md"
+      - "Clients":
+          - "Feather Client": "latest/feather_client.md"
+          - "Lunar Client": "latest/lunar_client.md"
 
 markdown_extensions:
   - admonition
