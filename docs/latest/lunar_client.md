@@ -1,4 +1,7 @@
 # Lunar Client Alternatives
+
+Please note that this page may be outdated as some mods don't update.
+
 If you'd like a hassle-free
 modpack that has some of the
 mods in this list, consider

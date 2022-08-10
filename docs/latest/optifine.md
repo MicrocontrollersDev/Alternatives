@@ -6,4 +6,10 @@ For this reason, it is recommended
 that you ditch OptiFine and use the
 better alternatives.
 
-[Click me for the alternative list.](https://github.com/MicrocontrollersDev/MigratingToLatest/blob/main/README.md#optifine-replacements)
+[Click me for the alternative list.](https://lambdaurora.dev/optifine_alternatives/)
+
+If you'd like a hassle-free
+modpack that does its best to
+mimic OptiFine and add more features,
+consider checking out
+[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
