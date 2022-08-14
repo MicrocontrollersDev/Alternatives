@@ -7,7 +7,7 @@ The mod is no longer supported by its developer, Moulberry.
 * Consecutive Compact Char - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Compact Chat Count - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Fix Centered Text - ?
-* Smart Dividers - ?
+* Smart Dividers - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 * Connect Dividers - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 * Stack Empty Lines - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Filter Bad Words - ?
@@ -21,7 +21,7 @@ The mod is no longer supported by its developer, Moulberry.
 ### Appearance
 
 * Text Shadow - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
-* Tab Text Shadow - ?
+* Tab Text Shadow - Irrelevant ([Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest))
 
 ### Screenshot and Copying
 
@@ -32,7 +32,7 @@ The mod is no longer supported by its developer, Moulberry.
 
 ### Visual
 
-* Change Colors - ?
+* Change Colors - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Change Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 
 # Contributors
@@ -40,4 +40,5 @@ The mod is no longer supported by its developer, Moulberry.
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [Moisty](https://github.com/Mqisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
+* [Wyvest](https://github.com/Wyvest)
 * [Zetvue](https://zetvue.carrd.co)
