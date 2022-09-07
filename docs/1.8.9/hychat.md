@@ -38,7 +38,7 @@ The mod is no longer supported by its developer, Moulberry.
 # Contributors
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
-* [Moisty](https://github.com/Mqisty)
+* [moisty](https://github.com/Mqisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Wyvest](https://github.com/Wyvest)
 * [Zetvue](https://zetvue.carrd.co)

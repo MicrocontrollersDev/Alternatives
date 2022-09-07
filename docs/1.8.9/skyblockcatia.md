@@ -64,7 +64,7 @@ if the features you use can be replaced.
 * [8KCoffeeWizard](https://github.com/8KCoffeeWizard)
 * [Lisena](https://github.com/lisenaaaa)
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
-* [Moisty](https://github.com/Mqisty)
+* [moisty](https://github.com/Mqisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
 * [Wyvest](https://github.com/Wyvest)

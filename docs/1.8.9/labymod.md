@@ -198,7 +198,7 @@ that you avoid using it if possible.
 * [LlamaLad7](https://github.com/LlamaLad7)
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
-* [Moisty](https://github.com/Mqisty)
+* [moisty](https://github.com/Mqisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
 * [Solonovamax](https://github.com/solonovamax)

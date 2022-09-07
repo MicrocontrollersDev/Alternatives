@@ -186,7 +186,7 @@
 * [Karmette](https://github.com/karmette)
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
-* [Moisty](https://github.com/Mqisty)
+* [moisty](https://github.com/Mqisty)
 * [oyMarcel](https://github.com/oyMarcel)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Salmon](https://github.com/Scherso)

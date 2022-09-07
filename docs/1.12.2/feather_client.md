@@ -149,7 +149,7 @@ mod authors and it is advised against supporting them.
 
 * [o9o](https://www.youtube.com/channel/UC_lbg2qjUsZwro5khBW9PHw)
 * [Geek](https://github.com/GamingGeek)
-* [Moisty](https://github.com/Mqisty)
+* [moisty](https://github.com/Mqisty)
 * [Narwhalism](https://www.twitch.tv/narwhalswim)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)

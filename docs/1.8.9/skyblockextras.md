@@ -334,7 +334,7 @@ or a discussion.
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Lucasyh](https://github.com/Lucasyh)
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
-* [Moisty](https://github.com/Mqisty)
+* [moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
 * [Proudmuslim](https://github.com/proudmuslim-dev)
 * [RayDeeUx](https://github.com/RayDeeUx)

@@ -107,7 +107,7 @@
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
-* [Moisty](https://github.com/Mqisty)
+* [moisty](https://github.com/Mqisty)
 * [Salmon](https://github.com/Scherso)
 * [Solonovamax](https://github.com/solonovamax)
 * [Wyvest](https://github.com/Wyvest)
