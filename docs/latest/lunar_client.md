@@ -157,5 +157,6 @@ checking out
 
 # Contributors
 
+* [GhoulBoi69](https://github.com/GhoulBoii)
 * [Zetvue](https://zetvue.carrd.co)
 * [Tricked](https://github.com/Tricked-dev)
