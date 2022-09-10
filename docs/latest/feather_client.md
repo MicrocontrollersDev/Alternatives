@@ -124,7 +124,7 @@ mod authors and it is advised against supporting them.
 
 ## External Mods
 
-* [Replay Mod](https://www.replaymod.com)
+* [Replay Mod](https://modrinth.com/mod/replaymod/versions)
 * [OptiFine](https://optifine.net)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink)

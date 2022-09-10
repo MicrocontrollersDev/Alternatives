@@ -137,7 +137,7 @@ mod authors and it is advised against supporting them.
 
 ## External Mods
 
-* [Replay Mod](https://www.replaymod.com)
+* [Replay Mod](https://modrinth.com/mod/replaymod/versions)
 * [OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/all?filter-game-version=2020709689%3A6756)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
