@@ -90,7 +90,7 @@ checking out
 * Toggle Sneak/Sprint - Vanilla (Accessible in Controls and Accessibility Settings menus)
 * Nick Hider - None
 * WorldEdit CUI - None
-* Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download)
+* Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod/versions)
 * Screenshot Uploader - [isXander's Shotify](https://modrinth.com/mod/shotify)
 * Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [GGCrosby's Simple Macros](https://www.curseforge.com/minecraft/mc-mods/fabric-simple-macros)
 * Mumble Link - None

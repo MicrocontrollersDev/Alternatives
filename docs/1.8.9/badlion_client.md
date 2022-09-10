@@ -94,7 +94,7 @@
 * Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (tweaks   Optifine's)
 * Emotes - ?
 * Sprays - ?
-* Replay Mod - [Replay Mod](https://www.replaymod.com/download/)
+* Replay Mod - [Replay Mod](https://modrinth.com/mod/replaymod/versions)
 * Schematica Mod - [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147/files/all?filter-game-version=2020709689%3A5806)
 * TeamSpeak Mod - ?
 * MumbleLink - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154/files/all?filter-game-version=2020709689%3A5806)

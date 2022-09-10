@@ -137,7 +137,7 @@ mod authors and it is advised against supporting them.
 * [Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * [BazaarNotifier](https://github.com/symt/BazaarNotifier/releases/latest)
 * [ResourcePack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
-* [Replay Mod](https://www.replaymod.com)
+* [Replay Mod](https://modrinth.com/mod/replaymod/versions)
 * [OptiFine](https://optifine.net)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)

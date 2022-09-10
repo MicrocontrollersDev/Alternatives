@@ -100,14 +100,14 @@
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 * TNT Timer Mod - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
 * Hitbox - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
-* Reduced Hurt Animation - [Polyfrost's BetterHurtCam](https://github.com/Polyfrost/BetterHurtCam/releases/latest)
+* Reduced Hurt Animation - [Polyfrost's BetterHurtCam](https://github.com/Scherso/BetterHurtCam/releases/latest)
 
 ### Other Mods
 
 * Toggle Sneak/Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
 * WorldEdit CUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
-* Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download/download_new.php?version=1.8.9-2.5.2)
+* Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod/versions)
 * Screenshot Uploader - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 * Mumble Link - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
