@@ -11,7 +11,7 @@ few aspects.
 * Spider (Tarantula Broodfather) - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 * Wolf (Sven Packmaster) - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 * Enderman (Voidgloom Seraph) - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* Fishing - ?
+* Fishing - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Fishing Winter - ?
 * Fishing Festival - ?
 * Fishing Spooky - ?
