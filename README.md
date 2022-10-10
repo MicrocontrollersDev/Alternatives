@@ -1,9 +1,8 @@
 <div align="center">
 
 # [`Alternatives`](https://microcontrollersdev.github.io/Alternatives/)
-Repo which contains many
-alternatives to poorly made
-or out-of-date clients, mods,
+Website containing alternatives to outdated,
+poorly made or no longer maintained mods, clients
 and modpacks.
 
 </div>
@@ -13,10 +12,10 @@ The Markdown documents for this repo
 have been moved to their own site
 built using [MkDocs](https://www.mkdocs.org/).
 
-The website will now be the primary
-way this will be used. To access it,
-click [here](https://microcontrollersdev.github.io/Alternatives/).
-
 ## Copyright
 
-© MicrocontrollersDev. All Rights Reserved.
+<div align="center">
+
+&copy; MicrocontrollersDev. All Rights Reserved.
+
+</div>
