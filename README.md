@@ -14,6 +14,7 @@ built using [MkDocs](https://www.mkdocs.org/).
 
 <div align="center">
 
-&copy; MicrocontrollersDev. All Rights Reserved.
+**This project is licensed as All Rights Reserved**
+**&copy; 2022 MicrocontrollersDev**
 
 </div>
