@@ -12,8 +12,6 @@ The Markdown documents for this repo
 have been moved to their own site
 built using [MkDocs](https://www.mkdocs.org/).
 
-## Copyright
-
 <div align="center">
 
 &copy; MicrocontrollersDev. All Rights Reserved.
