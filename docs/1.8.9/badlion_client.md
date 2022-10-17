@@ -74,7 +74,7 @@
 * Fullbright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Hitboxes - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
 * Inventory Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
-* Motion Blur - None
+* Motion Blur - [Sk1er's Motion Blur](https://sk1er.club/mods/motionblurmod)
 * Nick Hider - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
 * Particle Mod - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO) / [aycy's OnHit](https://www.mediafire.com/file/nm8dqke0zejssd6/On_Hit_Particles_2.2.jar/file)
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner Perspective Mod](https://inv.wtf/djperspective)
