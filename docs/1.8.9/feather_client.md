@@ -153,18 +153,14 @@ mod authors and it is advised against supporting them.
     both Skyblock and PvP, allowing you to add
     extra mods and external mods, as well as
     provide an in-game updater for those included.
-
-    ## [Argon](https://github.com/Tricked-dev/argoninstaller)
-    Argon makes it easy to download specific
-    mods in a single installer, as well as
-    managing updates.
-
-    ## [PolyMC](https://polymc.org)
+    
+    **DO NOT DOWNLOAD FOR NOW, POLYMC IS COMPROMISED**
+    ~~## [PolyMC](https://polymc.org)
     PolyMC is a MultiMC fork with a wide
     array of useful features such as separated
     instances, an in-launcher mod downloader
     for both CurseForge and Modrinth, and one-click
-    install to install mod loaders and modpacks!
+    install to install mod loaders and modpacks!~~
 
 # Contributors
 
