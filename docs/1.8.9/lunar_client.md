@@ -37,14 +37,14 @@
 #### Bedwars
 
 * Stats - [KAD7's HyStats](https://www.mediafire.com/file/so4sw1wn8aso68i/HyStats-v4.1_1.8.9.jar/file)
-* Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm/versions)
+* Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm/versions) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Resource Counter - [Sk1er's Bedwars Resource Display](https://sk1er.club/mods/sk1er-bedwars_resource_display) (config may be confusing for most users, will soon be replaced by Hytils Reborn)
 * Colored Beds - None
 * Hardcore Hearts - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 
 ### HUD Mods
 
-* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Armor Status - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -55,10 +55,10 @@
 * Item Tracker - ?
 * Key Strokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 * Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
+* Pack Display - [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk) / [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
 * Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Potion Counter - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
+* Potion Counter - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Address -  [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -83,7 +83,7 @@
 
 * 2D Items - [Polyfrost's Overflow Animations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) **(REQUIRES [SK1ER'S OLD ANIMATIONS MOD](https://sk1er.club/beta))**
 * UHC Overlay - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (Resource packs also work)
-* FOV Mod - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* FOV Mod - [Sk1er's Patcher (/patcher fov)](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 * Chunk Borders - ?
@@ -99,7 +99,7 @@
 * Block Outline - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 * TNT Timer Mod - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
-* Hitbox - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Hitboxes - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
 * Reduced Hurt Animation - [Scherso's BetterHurtCam](https://github.com/Scherso/BetterHurtCam/releases/latest)
 
 ### Other Mods
@@ -193,3 +193,4 @@
 * [Solonovamax](https://github.com/solonovamax)
 * [Wyvest](https://github.com/Wyvest)
 * [Zetvue](https://zetvue.carrd.co)
+* [gabrielvicenteYT](https://github.com/gabrielvicenteYT)
