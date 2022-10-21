@@ -1,7 +1,9 @@
 # SkyblockReinvented Alternatives
-This mod takes much of its code
-from other mods. It is recommended
-to use those other mods instead.
+This mod is now end of life and 
+will no longer have updates, which 
+could lead to many features breaking 
+over time. It is recommended to use 
+alternatives that still get updated.
 
 ## Items
 
