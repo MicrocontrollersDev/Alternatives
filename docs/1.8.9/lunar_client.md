@@ -4,7 +4,7 @@
 
 ### 1.7 Visuals
 
-* Animations - [Polyfrost's OverflowAnimations v2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
+* Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
 * Hit Color - [Polyfrost's Damage Tint](https://github.com/Polyfrost/DamageTint/releases/latest)
 
 ### Chat Mods
