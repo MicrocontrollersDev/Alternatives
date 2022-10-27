@@ -4,7 +4,7 @@
 
 ### 1.7 Visuals
 
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) (yes, you need **_both_** Sk1er's OA and Polyfrost's OA.)
+* Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
 * Hit Color - [Polyfrost's Damage Tint](https://github.com/Polyfrost/DamageTint/releases/latest)
 
 ### Chat Mods
@@ -48,12 +48,12 @@
 * Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
 * Day Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * DirectionHUD - [ReflxctionDev's Bspkrs DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
-* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Item Tracker - ?
-* Key Strokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+* Key Strokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
 * Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
 * Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -88,14 +88,14 @@
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 * Chunk Borders - ?
 * Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
-* Weather Changer - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest)
+* Weather Changer - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest) / [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
 * Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
-* Motion Blur - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
+* Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
 * Shiny Pots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 * Particle Mod - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced/versions) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189)
 * Cooldowns - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
-* Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
+* Time Changer - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
 * Block Outline - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 * TNT Timer Mod - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
@@ -136,7 +136,7 @@
 
 * Smart Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Borderless Fullscreen - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Disable Weather - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest)
+* Disable Weather - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest) / [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
 * Modern Keybind Handling - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Minimal View Bobbing - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Unfocused FPS Limiter - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -182,6 +182,7 @@
 * [asbyth](https://github.com/asbyth)
 * [BobIsMymanager](https://github.com/BobisMymanager)
 * [Digux](https://github.com/Diguhxe)
+* [gabrielvicenteYT](https://github.com/gabrielvicenteYT)
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [Karmette](https://github.com/karmette)
 * [Lizzy](https://github.com/LizzyMaybeDev)
