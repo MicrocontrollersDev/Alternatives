@@ -13,7 +13,7 @@ mod authors and it is advised against supporting them.
 
 ### Visuals
 
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) (yes, you need **_both_** Sk1er's OA and Polyfrost's OA.)
+* Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
 * Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
@@ -25,7 +25,7 @@ mod authors and it is advised against supporting them.
 * Particles - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
 * Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 * Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
-* Weather Changer - [Salmon's Weather Changer](https://github.com/Scherso/WeatherChanger/releases/latest)
+* Weather Changer - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
 * Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
@@ -65,7 +65,7 @@ mod authors and it is advised against supporting them.
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 * Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Snaplook - [Polyfrost's BehindYouV3](https://github.com/Polyfrost/BehindYouV3/releases/latest)
-* Toggle Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
+* Toggle Sprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
 * Voice - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 
 ## General

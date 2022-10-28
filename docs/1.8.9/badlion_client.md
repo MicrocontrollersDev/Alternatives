@@ -4,7 +4,7 @@
 
 ### 1.7 Visuals
 
-* Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) (yes, you need **_both_** Sk1er's OA and Polyfrost's OA.)
+* Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
 * Hit Color  - [Polyfrost's Damage Tint](https://github.com/Polyfrost/DamageTint/releases/latest)
 
 ### Chat Mods
@@ -35,13 +35,13 @@
 
 * Armor Status - [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Bossbar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
-* CPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+* CPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
 * Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Crosshair Mod - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 * Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
-* Keystrokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+* FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
 * Ingame Server Switcher - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Item Counter - [DoKM's Item Counter](https://hypixel.net/threads/1-8-9-item-counter-mod.3683685/) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Item Info - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -74,13 +74,13 @@
 * Fullbright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Hitboxes - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and Polyfrost's OA.}
 * Inventory Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
-* Motion Blur - [Sk1er's Motion Blur](https://sk1er.club/mods/motionblurmod)
+* Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
 * Nick Hider - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
 * Particle Mod - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO) / [aycy's OnHit](https://www.mediafire.com/file/nm8dqke0zejssd6/On_Hit_Particles_2.2.jar/file)
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner Perspective Mod](https://inv.wtf/djperspective)
 * ShinyPots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 * Time Changer - [Lily's SimpleTimeChanger](https://github.com/My-Name-Is-Jeff/SimpleTimeChanger/releases/latest) / [Shatterpoint's Revamped TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
-* Weather Changer - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest)
+* Weather Changer - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
 
 ### Other
 * Clan Wars - Irrelevant
@@ -88,8 +88,8 @@
 * Ghost Liquid Fix - Irrelevant
 * JEI - [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?filter-game-version=2020709689%3A5806)
 * ResourcePack 24 - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds the ability to make folders and a better GUI)
-* Toggle Sneak - [Lily's ToggleSneak](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
-* Toggle Sprint - [Lily's ToggleSneak](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
+* Toggle Sneak - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
+* Toggle Sprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
 * Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 * Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher) (tweaks   Optifine's)
 * Emotes - ?

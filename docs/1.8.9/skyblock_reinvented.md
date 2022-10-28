@@ -115,7 +115,7 @@ alternatives that still get updated.
 
 ### Combat
 
-* Ghost Loot Tracker
+* Ghost Loot Tracker - ?
 
 ### General
 

@@ -81,7 +81,7 @@
 
 ### Visual Mods
 
-* 2D Items - [Polyfrost's Overflow Animations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) **(REQUIRES [SK1ER'S OLD ANIMATIONS MOD](https://sk1er.club/beta))**
+* 2D Items - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
 * UHC Overlay - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (Resource packs also work)
 * FOV Mod - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
@@ -104,7 +104,7 @@
 
 ### Other Mods
 
-* Toggle Sneak/Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
+* Toggle Sneak/Sprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
 * WorldEdit CUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
 * Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod/versions)
@@ -136,7 +136,7 @@
 
 * Smart Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Borderless Fullscreen - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Disable Weather - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest) / [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
+* Disable Weather - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
 * Modern Keybind Handling - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Minimal View Bobbing - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Unfocused FPS Limiter - [Sk1er's Patcher](https://sk1er.club/mods/patcher)

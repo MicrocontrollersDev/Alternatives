@@ -15,7 +15,7 @@ that you avoid using it if possible.
 
 ### Animations
 
-* 1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) (yes, you need **_both_** Sk1er's OA and Polyfrost's OA.)
+* [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
 
 ### Bugfixes
 
@@ -83,7 +83,7 @@ that you avoid using it if possible.
 
 ### Information
 
-* FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+* FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
 * Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
 * Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -162,11 +162,11 @@ that you avoid using it if possible.
 * Instagram - ?
 * Instant Tab Completion - ?
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
-* Keystrokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+* Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
 * Minigames - ?
 * MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
 * More Particles - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
-* Motion Blur - [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
+* Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
 * NoBob - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * OptiFine - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Rainbow GUI - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
@@ -178,7 +178,7 @@ that you avoid using it if possible.
 * SoundPlayer - ?
 * Spotify - [Cbyrneee's MediaMod](https://github.com/MediaModMC/MediaMod/releases/latest) / [ThatGravyBoat's Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify)  
 * TeamSpeak - ?
-* Toggle Sneak (Sneak & Sprint) - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
+* Toggle Sneak (Sneak & Sprint) - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
 * ToggleTab - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Transulcent Skins - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Twitter - ?

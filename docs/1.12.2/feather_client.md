@@ -22,7 +22,7 @@ mod authors and it is advised against supporting them.
 * Particles - ?
 * Time Changer - ?
 * Waypoints - ?
-* Weather Changer - ?
+* Weather Changer - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
 * Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
@@ -60,7 +60,7 @@ mod authors and it is advised against supporting them.
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
 * Server Address - ?
 * Snaplook - ?
-* Toggle Sprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
+* Toggle Sprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
 * Voice - ?
 
 ## General

@@ -50,7 +50,7 @@
 ### Mods
 
 * ShinyPots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
-* 1.7 Animations - [Sk1er's Old Animations Beta](https://sk1er.club/beta) **_and_** [Polyfrost's OverflowAnimations](https://github.com/Polyfrost/OverflowAnimations/releases/latest) {yes, you need **_both_** Sk1er's OA and W-OVERFLOW's OA.}
+* 1.7 Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
 * Auto MyPosition -  ?
 * AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
 * Bossbar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
@@ -59,9 +59,9 @@
 * FOV Modifier - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint Colorizer - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
-* Motion Blur - [Moulberry's Motionblur](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) / [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
+* Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
 * Sidebar Mod - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
-* Keystrokes - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+* Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
 * ToggleChat - [boomboompower's ToggleChat](https://hypixel.net/threads/version-2-1-togglechat-mod-theme-switcher.997547/)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 * Popup Events - [Sk1er's Popup Events](https://sk1er.club/mods/popup_events)
@@ -77,7 +77,7 @@
 * Disable Portal Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Disable Achievements - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Rear Cam - [Polyfrost's BehindYouV3](https://github.com/Polyfrost/BehindYouV3/releases/latest)
-* ToggleSprint - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
+* ToggleSprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
 * Name History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 
