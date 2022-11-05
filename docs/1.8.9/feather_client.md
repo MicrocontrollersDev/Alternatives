@@ -41,7 +41,7 @@ mod authors and it is advised against supporting them.
 * Item Info - [Sk1er's Patcher](https://www.sk1er.club/mods/patcher)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 * Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)

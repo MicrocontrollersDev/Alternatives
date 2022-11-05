@@ -25,8 +25,14 @@
     * Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes. Polyfrost's is more accurate to 1.7 with better compatibility and no bloat, along with even more features and animations missing from Spiderfrog's.
 * [Powns' ToggleSneak with Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
     * Powns' ToggleSneak is no longer maintained and has some small issues that Polyfrost's fixes.
-* SkyWars Stats mod with **either** [HyStats](https://download2270.mediafire.com/0r5h180odzzg/yx8m6ztaduf5bx8/HyStats-v4.0_%281.8.9%29.jar)
+* [SkyWars Stats mod with HyStats](https://download2270.mediafire.com/0r5h180odzzg/yx8m6ztaduf5bx8/HyStats-v4.0_%281.8.9%29.jar)
     * KAD7's more recent HyStats now supports multiple game-modes and has much more to offer compared to the discontinued SkyWars Stats mod.
+* [Pown's Potion Effect HUD with Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
+    * Powns's mods are no longer maintained.
+* [Powns's Coords HUD with isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+    * Powns's mods are no longer maintained.
+* [Powns's Armor Status HUD with isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+    * Powns's mods are no longer maintained.
 
 ## Remove
 

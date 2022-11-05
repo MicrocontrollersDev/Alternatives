@@ -57,7 +57,7 @@
 * Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
 * Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Potion Counter - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
 * Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Address -  [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
