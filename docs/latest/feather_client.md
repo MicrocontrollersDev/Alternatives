@@ -165,11 +165,11 @@ mod authors and it is advised against supporting them.
     mods in a single installer, as well as
     managing updates.
 
-    ## [PolyMC](https://polymc.org)
-    PolyMC is a MultiMC fork with a wide
+    ## [Prism Launcher](https://prismlauncher.org)
+    Prism Launcher is a MultiMC fork with a wide
     array of useful features such as separated
     instances, an in-launcher mod downloader
-    for both CurseForge and Modrinth, and one-click
+    for both Modrinth and CurseForge, and one-click
     install to install mod loaders and modpacks!
 
 # Contributors

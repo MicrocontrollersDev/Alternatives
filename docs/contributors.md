@@ -9,7 +9,7 @@
 - [BobIsMyManager](https://github.com/BobIsMyManager)
 - [bumble](https://github.com/itsbumble)
 - [Coolbird1234](https://www.youtube.com/c/Bird69)
-- [Deftu](https://github.com/deftu)
+- [Deftu](https://deftu.xyz)
 - [Digux](https://github.com/Diguhxe)
 - [DJtheRedstoner](https://github.com/DJtheRedstoner)
 - [Feel65](https://github.com/Feel65)
