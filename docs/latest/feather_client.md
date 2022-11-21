@@ -122,6 +122,10 @@ mod authors and it is advised against supporting them.
 * Use Culling - [tr7zw's Entity Culling](https://modrinth.com/mod/entityculling)
 * Cull Nametags - [tr7zw's Entity Culling](https://modrinth.com/mod/entityculling)
 
+### Cosmetics
+
+* Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
+
 ## External Mods
 
 * [Replay Mod](https://modrinth.com/mod/replaymod/versions)
