@@ -110,7 +110,7 @@ checking out
 
 #### Cosmetic Options
 
-* Cosmetics - [Sk1er's Essential](https://essential.gg)
+* Cosmetics - [eyezah's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
 * Show Tab Icon - [Sk1er's Essential](https://essential.gg)
 
 #### Misc Options
@@ -154,7 +154,6 @@ checking out
 * Discord Rich Presence - [CDAGaming_'s CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 * In Game Account Switcher - [Sk1er's Essential](https://essential.gg)
 * In Game Server Switcher - None
-* Cosmetics - [eyezah's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
 
 # Contributors
 
