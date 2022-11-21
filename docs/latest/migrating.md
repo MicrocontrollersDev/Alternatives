@@ -284,6 +284,7 @@ Some notes:
 - [osfanbuff](https://github.com/osfanbuff63)
 - [Lisena](https://github.com/Lisenaaaa)
 - [Lulonaut](https://github.com/Lulonaut)
+- [voxxal](https://github.com/voxxal)
 - [Wyvest](https://github.com/Wyvest)
 
-And a special thanks to [LambdAurora](https://gist.github.com/LambdAurora) for her own [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) gist that first helped me start using Fabric and helped with inspiration and mod finding for this list.
+And a special thanks to [LambdAurora](https://github.com/LambdAurora) for her own [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) gist that first helped me start using Fabric and helped with inspiration and mod finding for this list.

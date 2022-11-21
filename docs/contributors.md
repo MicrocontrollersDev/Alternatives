@@ -42,6 +42,7 @@
 - [ToggledX](https://twitter.com/ignToggleW)
 - [Tricked](https://github.com/Tricked-dev)
 - [usb](https://github.com/U5B)
+- [voxxal](https://github.com/voxxal)
 - [Wyvest](https://github.com/Wyvest)
 - [yan](https://github.com/yanNotDev)
 - [Zetvue](https://zetvue.github.io)
