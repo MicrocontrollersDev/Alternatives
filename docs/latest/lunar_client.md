@@ -110,7 +110,7 @@ checking out
 
 #### Cosmetic Options
 
-* Cosmetics - [eyezah's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
+* Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
 * Show Tab Icon - [Sk1er's Essential](https://essential.gg)
 
 #### Misc Options
