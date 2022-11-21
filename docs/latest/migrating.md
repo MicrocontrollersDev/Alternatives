@@ -162,6 +162,7 @@ These are mods that are more dependant on personal preference than importance.
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
+| [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc)
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
 | [Easeify](https://modrinth.com/mod/easeify) | Easeify is a QOL mod with many features. Check out the projects README for more information. | [Polyfrost](https://github.com/Polyfrost) |
 | [Midnight Controls](https://modrinth.com/mod/midnightcontrols) | Allows you to easily play Minecraft with a controller. | [TeamMidnightDust](https://github.com/TeamMidnightDust/MidnightControls) |
