@@ -33,7 +33,7 @@ if the features you use can be replaced.
 * Disable Block Particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Fix Skyblock Enchant Tag - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 * Disable Night Vision - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Display Realtime Ping - ?
+* Display Realtime Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 
 ### Miscellaneous
 
@@ -48,7 +48,7 @@ if the features you use can be replaced.
 * Enable Skin Rendering Fix - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) via custom models
 * Disable Hurt Camera Effect - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Enable Shortcut Game Button - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Enable 1.15 Armor Enchanted Glint - ?
+* Enable 1.15 Armor Enchanted Glint - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
 * Enable Enchanted Glint for Skulls - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Enable Overwrite Sign Editing - ?
 * Enable Sign Selection List - ?
