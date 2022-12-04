@@ -72,6 +72,9 @@ nav:
       - "Clients":
           - "Feather Client": "latest/feather_client.md"
           - "Lunar Client": "latest/lunar_client.md"
+  - "Launcher"
+     - "Prism Launcher"
+          - "Windows": "launcher/prism_win.md"
 
 markdown_extensions:
   - admonition
