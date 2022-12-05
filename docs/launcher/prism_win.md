@@ -1,10 +1,6 @@
-# Prism Launcher
 
-Recently, the default Minecraft launcher has been having a lot of issues. Almost every week it feels like Mojang manages to break something that causes many people to not be able to play the game. Being a modded version of an already old Minecraft version, I am not too hopeful that many of these issues will ever be fixed or will be fixed anytime soon. For this reason, its recommended to switch to a launcher that cares about modding and old versions of Minecraft, and whose devs we can easily reach out to to report any major issues.
 
-## How to Install (Windows)
-
-- This guide will only be for windows for now. Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from Skyclient, but steps will be largely the same, except for the migrating data section.
+- This guide is only for windows for now.
 
 ### Step 1 - Installing Java
 
@@ -53,6 +49,3 @@ Now that we've installed Forge 1.8.9, we need to move all our mods to the new Pr
 
 Prism Launcher has a lot of things to offer, such as themes if you don't like the look of it, as well as a lot of options for your instances, including the ability to see all your mods, resource packs, and worlds in the launcher before launching. You can use these menus to install mods and resource packs, and even update mods if they are hosted on Modrinth or CurseForge!
 
-## Step 7 - Updating Prism
-
-- WIP
