@@ -43,7 +43,7 @@ This guide will focus on 1.8.9, but steps for other versions should also be obvi
 
 Click on the button on the top left that says "Add Instance". Name it whatever you want and giving a group for it is optional, but I do not recommend giving a group name until you need to better organize your instances.
 
-Under the `Version` selector, scroll down till you find 1.8.9 and select it. Then in the `Mod Loader` tab underneath, choose Forge. It will automatically choose the latest version of Forge for 1.8.9 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
+Under the `Version` selector, scroll down till you find 1.8.9 and select it. Then in the `Mod Loader` tab directly underneath, choose Forge (NOTE: this is not the tab on the left that says Curseforge). It will automatically choose the latest version of Forge for 1.8.9 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
 
 ## Step 5 - Installing our mods
 
