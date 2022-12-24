@@ -61,7 +61,7 @@ checking out
 
 * Nametag Text Shadow -  None
 * Third Person Nametag - None
-* Show Nametag Icon - [Sk1er's Essential](https://essential.gg) (shows Essential indicator instead)
+* Show Nametag Icon - Irrelevant
 * Nametag Opacity - Minecraft setting.
 
 ### Visual Mods
@@ -111,7 +111,7 @@ checking out
 #### Cosmetic Options
 
 * Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
-* Show Tab Icon - [Sk1er's Essential](https://essential.gg)
+* Show Tab Icon - Irrelevant
 
 #### Misc Options
 
@@ -152,7 +152,7 @@ checking out
 * Vanilla Bug Fixes - [isXander's Debugify](https://modrinth.com/mod/debugify)
 * Custom Main Menu - [Keksuccino's FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
 * Discord Rich Presence - [CDAGaming_'s CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
-* In Game Account Switcher - [Sk1er's Essential](https://essential.gg)
+* In Game Account Switcher - [The_Fireplace's In Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 * In Game Server Switcher - None
 
 # Contributors
