@@ -21,6 +21,9 @@ In order to download Java, we will first head to the [Adoptium download page](ht
 
 Once we have chosen our download preferences, we will click the `.msi` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
 
+- If on Mac, download the .pkg instead
+- If on Linux, download the tar.gz instead
+
 ### Step 2 - Installing Prism
 
 [Download Prism Launcher](https://prismlauncher.org/download/). You will most likely want to download the `Installer (.exe)` version. Once it is finished downloading, it may give a warning screen saying "Windows protected your PC". Simply press the "More info" button, then "Run anyway"
