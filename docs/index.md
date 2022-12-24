@@ -6,6 +6,8 @@ Welcome to the official website for Microcontrollers' Alternatives lists!
 To find a list, use the navbar at the top of the page if on PC or in the left sidebar menu on mobile.
 Lists are separated by Minecraft version and then category (client/mod/modpack) within that.
 
+If you found any of these guides useful, please considering starring this repository on GitHub!
+
 ## For potential contributors
 
 Looking to contribute something to the project?
