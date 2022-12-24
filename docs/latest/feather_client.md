@@ -1,6 +1,6 @@
 # Feather "Client" Alternatives
 
-Please note that this page may be outdated as some mods don't update.
+Please note that this page may be outdated due to update cycles.
 
 WIP - Feather "Client" is a Forge/Fabric
 mod marketing itself as a client, claiming
@@ -159,22 +159,6 @@ mod authors and it is advised against supporting them.
 * [Starlight](https://www.modrinth.com/mod/starlight)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
-
-# Too lazy to download mods yourself?
-
-!!! note "Check out these projects:"
-
-    ## [Argon](https://github.com/Tricked-dev/argoninstaller)
-    Argon makes it easy to download specific
-    mods in a single installer, as well as
-    managing updates.
-
-    ## [Prism Launcher](https://prismlauncher.org)
-    Prism Launcher is a MultiMC fork with a wide
-    array of useful features such as separated
-    instances, an in-launcher mod downloader
-    for both Modrinth and CurseForge, and one-click
-    install to install mod loaders and modpacks!
 
 # Contributors
 
