@@ -1,6 +1,6 @@
 # Feather "Client" Alternatives
 
-Please note that this page may be outdated due to update cycles.
+Please note that this page may be outdated due to update cycles. It is currently for 1.19.2.
 
 WIP - Feather "Client" is a Forge/Fabric
 mod marketing itself as a client, claiming
@@ -13,37 +13,37 @@ mod authors and it is advised against supporting them.
 
 * Animations - Irrelevant
 * Block Overlay - [LordDeatHunter's Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)
-* Clear Water - Vanilla Tweaks
+* Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs/)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files)
-* FOV Changer - ?
+* FOV Changer - [Illusive Soulworks's Custom FOV](https://curseforge.com/minecraft/mc-mods/custom-fov-fabric)
 * Glint - ?
-* Hitbox - ?
+* Hitbox - [PingIsFun's Hitbox+](https://modrinth.com/mod/hitboxplus)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
 * Nick Hider - ?
 * Particles - ?
 * Time Changer - [Motschen's Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
 * Waypoints - ?
-* Weather Changer - ?
+* Weather Changer - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
 * Zoom - [isXander's Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
 
 ### HUD
 
-* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Boss Bar - ?
-* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Combo Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Item Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Item Info - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Armor Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Boss Bar - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Combo Display - ?
+* Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Direction - ?
+* FPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Item Counter - ?
+* Item Info - ?
 * Pack Display - ?
-* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Scoreboard - ?
-* Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Potion Effects - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Reach Display - ?
+* Saturation - ?
+* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Time - ?
 
 ### Hypixel
 
@@ -59,11 +59,11 @@ mod authors and it is advised against supporting them.
 * Discord - ?
 * Oof Mod - ?
 * Perspective - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
-* Screenshot - [isXander's Shotify](https://modrinth.com/mod/shotify)
+* Screenshot - 
 * Scrollable Tooltips - ?
-* Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Server Address - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Snaplook - ?
-* Toggle Sprint - Vanilla
+* Toggle Sprint - Vanilla (Accessibility Options)
 * Voice - ?
 
 ## General
@@ -103,6 +103,8 @@ mod authors and it is advised against supporting them.
 * Own Messages - ?
 
 ## Performance
+
+- Please see my [full list of performance mods](https://microcontrollersdev.github.io/Alternatives/latest/migrating/#performance).
 
 ### Rendering Settings
 
