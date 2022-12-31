@@ -47,7 +47,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 * Potion Counter - ?
 * Stopwatch - ?
 * Server Address -  [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Saturation - ?
+* Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
 * Reach Display - ?
 * Team View - Irrelevant
 

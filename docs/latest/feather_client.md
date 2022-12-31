@@ -41,7 +41,7 @@ mod authors and it is advised against supporting them.
 * Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Potion Effects - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Reach Display - ?
-* Saturation - ?
+* Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
 * Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Time - ?
 

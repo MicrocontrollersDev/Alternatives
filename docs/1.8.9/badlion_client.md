@@ -51,7 +51,7 @@
 * Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Potion Status - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) 
+* Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Server Address HUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)

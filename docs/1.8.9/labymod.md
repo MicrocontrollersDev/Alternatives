@@ -69,7 +69,7 @@ that you avoid using it if possible.
 
 * Show My Name - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Show Bossbar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
-* Show Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Show Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Sign Search - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Left Hand - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Discord Rich Presence - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)

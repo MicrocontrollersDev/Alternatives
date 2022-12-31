@@ -61,7 +61,7 @@
 * Potion Counter - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
 * Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Address -  [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * Team View - Irrelevant
 

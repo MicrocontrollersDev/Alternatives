@@ -9,7 +9,7 @@ This list is based off of the latest version of 5zig Reborn.
 * Vanilla Potion Indicator - ?
 * Show Potion Indicator - ?
 * Colored Armor Durability - ?
-* Show Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Show Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Show Food Heal Amount - ?
 * Show Hotbar Numbers - Resourcepack
 
