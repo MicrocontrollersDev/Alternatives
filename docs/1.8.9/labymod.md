@@ -139,7 +139,7 @@ that you avoid using it if possible.
 * Controller - ?
 * Custom Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * Custom Crosshair Mod - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
-* Custom Hitboxes - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) 
+* Custom Hitboxes - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
 * CustomFilterSounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * CustomFont - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
 * Custom Main Menu - [Lumien231's CustomMainMenu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
@@ -149,6 +149,7 @@ that you avoid using it if possible.
 * DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
 * EmoteChat - [Kokeria's ChatEmotes](https://www.curseforge.com/minecraft/mc-mods/chatemotes/files/all?filter-game-version=2020709689%3A5806) (doesn't work exactly like laby's but the emotes are the same)
 * FastJoin - ?
+* Focus Movement Fix - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
 * Friend Tags - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases/latest)
 * FriendViewer - [Sk1er's Essential](https://essential.gg)
 * FullBright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -184,8 +185,7 @@ that you avoid using it if possible.
 * Twitter - ?
 * WorldEditCUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
 * VoiceChat - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-* Glint Colorizer - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
-* Focus Movement Fix - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
+
 
 # Contributors
 

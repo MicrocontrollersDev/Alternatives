@@ -5,7 +5,7 @@
 ### 1.7 Visuals
 
 * Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
-* Hit Color - [Polyfrost's Damage Tint](https://github.com/Polyfrost/DamageTint/releases/latest)
+* Hit Color - [Nox's HitColor](https://github.com/Noxiuam/HitColor/releases/latest)
 
 ### Chat Mods
 
@@ -99,7 +99,7 @@
 * Block Outline - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 * TNT Timer Mod - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
-* Hitbox - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Hitbox - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
 * Reduced Hurt Animation - [Scherso's BetterHurtCam](https://github.com/Scherso/BetterHurtCam/releases/latest)
 
 ### Other Mods

@@ -13,7 +13,7 @@ The mod is no longer supported by its developer, Wyvest.
 * Title Customization - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Name Highlight - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 * Sidebar Customization - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
-* Hitbox Customization - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Hitbox Customization - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
 * Pack GUI Modifier - [aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 
 # Contributors
