@@ -12,7 +12,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 * Animations - Irrelevant
 * Hit Armor Color - ?
-* Reduced Hurt Animation - ?
+* Reduced Hurt Animation - [uku3lig's BetterHurtCam](https://modrinth.com/mod/betterhurtcam)
 
 ### Chat
 
