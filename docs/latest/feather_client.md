@@ -97,7 +97,7 @@ mod authors and it is advised against supporting them.
 
 ### Mentions
 
-* Highlight - ?
+* Highlight - [uku3lig's ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * Color - ?
 * Bold - ?
 * Own Messages - ?

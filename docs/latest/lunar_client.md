@@ -19,7 +19,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 * Chat Filter - ?
 * Chat Height Fix - Fixed in Vanilla
 * Don't Clear Chat History - [emmaffle's DCCH](https://modrinth.com/mod/dcch)
-* Highlighted Name - ?
+* Highlighted Name - [uku3lig's ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * Background Opacity - Vanilla (Accessibility Options)
 * Hide Incoming Messages - ?
 * Stack Spam Messages - ?
@@ -143,6 +143,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 ## Other
 
+* Performance Improvements - Please see my [full list of performance mods](https://microcontrollersdev.github.io/Alternatives/latest/migrating/#performance)
 * Vanilla Bug Fixes - [isXander's Debugify](https://modrinth.com/mod/debugify)
 * Custom Main Menu - [Keksuccino's FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
 * Discord Rich Presence - [CDAGaming_'s CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
