@@ -1,9 +1,10 @@
 # Wyvtils Alternatives
+
 The mod is no longer supported by its developer, Wyvest.
 
 ### General
 
-* Reverse Inventory Scrolling - None (although I don't know anyone who actually uses this feature)
+* Reverse Inventory Scrolling - ?
 * Hide Locraw Messages - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
 
@@ -14,7 +15,7 @@ The mod is no longer supported by its developer, Wyvest.
 * Name Highlight - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 * Sidebar Customization - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Hitbox Customization - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
-* Pack GUI Modifier - [aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+* Pack GUI Modifier - [aycy's Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar)
 
 # Contributors
 

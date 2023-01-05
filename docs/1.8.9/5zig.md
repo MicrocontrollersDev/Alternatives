@@ -1,4 +1,5 @@
 # 5zig Alternatives
+
 Both the original 5zig and 5zig Reborn are no longer maintained.
 This list is based off of the latest version of 5zig Reborn.
 
@@ -51,17 +52,18 @@ This list is based off of the latest version of 5zig Reborn.
 
 ### Other
 
+* Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Highlight Words - ?
 * 2nd Chat - ?
 * Chat Messages Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Text Shortcuts - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Text Shortcuts - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Text Macros **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) 
 * Username History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Join Auto-Text **(BANNABLE ON HYPIXEL)** - ?
 * TeamSpeak - ?
 * Discord Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Friends and Chat System - [Essential](https://essential.gg/download)
-* Cosmetics - [Essential](https://essential.gg/download)
+* Cosmetics - [Cosmetica-cc's Arcmetica](https://cosmetica.cc/docs/installing-arcmetica)
 
 # Contributors
 

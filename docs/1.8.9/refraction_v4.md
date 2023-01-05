@@ -13,7 +13,7 @@
 * [Quickplay](https://github.com/QuickplayMod/quickplay/releases/latest)
 * [Nick Hider](https://sk1er.club/mods/nick_hider)
 * [OofMod](https://sk1er.club/mods/refractionoof)
-* [Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+* [Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar)
 * [TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
 * [CustomCrosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 

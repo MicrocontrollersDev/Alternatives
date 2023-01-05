@@ -87,7 +87,7 @@
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 * Chunk Borders - ?
-* Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
+* Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695
 * Weather Changer - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest) / [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
 * Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
@@ -112,7 +112,7 @@
 * Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 * Mumble Link - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
 * Boss Bar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest) 
-* Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
+* Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * Quickplay - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)
 * 3D Skin Layers - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions)
 * Better Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (`/patcher sounds`)
@@ -129,8 +129,8 @@
 
 #### Cosmetic Options
 
-* Cosmetics - [Sk1er's Essential](https://essential.gg)
-* Show Tab Icon - [Sk1er's Essential](https://essential.gg)
+* Cosmetics - [Cosmetica-cc's Arcmetica](https://cosmetica.cc/docs/installing-arcmetica)
+* Show Tab Icon - Irrelevant
 
 #### Misc Options
 
@@ -145,7 +145,7 @@
 
 #### Texture Pack Options
 
-* Transparent Background - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+* Transparent Background - [Aycy's Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar)
 * Red String - ? (can be accomplished via a texture pack)
 
 ### Performance
@@ -171,7 +171,6 @@
 ## Other
 
 * Vanilla Bug Fixes - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Custom Main Menu - [Lumien231's Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * In Game Account Switcher - [Sk1er's Essential](https://essential.gg)
 * In Game Server Switcher - [Sk1er's Patcher](https://sk1er.club/mods/patcher)

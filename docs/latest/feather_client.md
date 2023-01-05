@@ -22,7 +22,7 @@ mod authors and it is advised against supporting them.
 * Nick Hider - ?
 * Particles - ?
 * Time Changer - [Motschen's Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
-* Waypoints - ?
+* Waypoints - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (BANNABLE ON HYPIXEL!)
 * Weather Changer - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
 * Zoom - [isXander's Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
 

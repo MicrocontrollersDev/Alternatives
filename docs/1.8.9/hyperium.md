@@ -44,8 +44,8 @@
 
 ### Misc
 
-* Different Main Menu - [Lumien231's Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/all?filter-game-version=2020709689%3A5806)
 * Confirm Disconnect  - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Cosmetics - [Cosmetica-cc's Arcmetica](https://cosmetica.cc/docs/installing-arcmetica)
 
 ### Mods
 

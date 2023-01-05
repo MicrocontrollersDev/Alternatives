@@ -103,7 +103,7 @@ mod authors and it is advised against supporting them.
 
 ### Rendering Settings
 
-* Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
+* Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar)
 * Use Direct Memory Access - ?
 * Use Fast Font Rendering - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Use Static Particle Color - [Sk1er's Patcher](https://sk1er.club/mods/patcher)

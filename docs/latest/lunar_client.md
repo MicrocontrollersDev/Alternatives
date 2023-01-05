@@ -24,7 +24,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 * Hide Incoming Messages - ?
 * Stack Spam Messages - ?
 * Stop Servers from Closing Chat - ?
-* Text Shadow - ?
+* Text Shadow - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
 * Unlimited Chat - [JackFred2's More Chat History](https://modrinth.com/mod/morechathistory)
 * Chat Animation - ?
 
@@ -53,20 +53,20 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 ### Nametags
 
-* Nametag Text Shadow -  ?
-* Third Person Nametag - ?
+* Nametag Text Shadow -  [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
+* Third Person Nametag - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
 * Show Nametag Icon - Irrelevant
-* Nametag Opacity - Minecraft setting.
+* Nametag Opacity - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
 
 ### Visual Mods
 
 * 2D Items - ?
 * UHC Overlay - ? (Resourcepacks work instead)
-* FOV Mod - Partially a Minecraft Setting.
+* FOV Mod - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod)
 * Waypoints - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (BANNABLE ON HYPIXEL!)
-* Scoreboard - ?
+* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Motion Blur - ?
 * Shiny Pots - ?
 * Scrollable Tooltips - Partially [Kyrptonaught's ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
@@ -100,7 +100,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 * Shift Effects in Inventory - Vanilla
 * Show Achievements - ?
-* Show Crosshair in Third Person - ?
+* Show Crosshair in Third Person - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
 
 #### Cosmetic Options
 
@@ -113,7 +113,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 * Borderless Fullscreen - [comp500's Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
 * Disable Weather - ?
 * Modern Keybind Handling - Vanilla
-* Minimal View Bobbing - [InboundBark's No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod)
+* Minimal View Bobbing - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
 * Unfocused FPS Limiter - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
 #### Texture Pack Options

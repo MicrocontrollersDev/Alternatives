@@ -23,8 +23,8 @@ mod authors and it is advised against supporting them.
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
 * Particles - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
-* Time Changer - [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
-* Waypoints - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
+* Time Changer - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
+* Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695267197857922/Waypoints_1.0.jar)
 * Weather Changer - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
 * Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
@@ -60,7 +60,7 @@ mod authors and it is advised against supporting them.
 * Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
 * Discord - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Oof Mod - [Powns & Refraction & Deftu's OofMod](https://github.com/Deftu/OofMod/releases/latest)
-* Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://inv.wtf/djperspective)
+* Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * Screenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 * Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
@@ -142,24 +142,7 @@ mod authors and it is advised against supporting them.
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 * [HD Skins](https://www.hdskins.de/)
-<!-- * [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer) (1.8, 1.12, 1.18) - Switch to RPM for 1.8 -->
-
-# Too lazy to download mods yourself?
-
-!!! note "Check out these projects:"
-
-    ## [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/)
-    SkyClient allows for a great modpack for
-    both Skyblock and PvP, allowing you to add
-    extra mods and external mods, as well as
-    provide an in-game updater for those included.
-    
-    ## [Prism Launcher](https://prismlauncher.org)
-    Prism Launcher is a MultiMC fork with a wide
-    array of useful features such as separated
-    instances, an in-launcher mod downloader
-    for both Modrinth and CurseForge, and one-click
-    install to install mod loaders and modpacks!
+* [ResourcePack Organizer](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar) (Aycy's Resource Pack Manager instead)
 
 # Contributors
 
