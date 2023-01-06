@@ -10,14 +10,14 @@ Recently, the default Minecraft launcher has been having a lot of issues. Almost
 
 First, we need to download and setup Java to be able to use Prism Launcher. Unlike the default Minecraft launcher, Prism does not come bundled with a default Java, and so we must install it ourselves.
 
-Minecraft 1.16 and below all use Java 8, while 1.17 and above use Java 17. I recommend installing both to make it simpler to use different versions of Minecraft whenever you want.
+Minecraft 1.16 and below all use Java 8, while 1.17 and above use Java 17+. I recommend installing both to make it simpler to use different versions of Minecraft whenever you want.
 
 In order to download Java, we will first head to the [Adoptium download page](https://adoptium.net/temurin/releases/). Adoptium is an open source Java that does not require a paid account to install, and is made by the Eclipse Foundation, a very reputable source. To install, we will use the dropdown boxes to make it easier to find the versions of Java we need
 
 - Operating System: Windows
 - Architecture: x64
 - Package Type: JRE
-- Version: 8 or 18 (download one of them, then download the other after)
+- Version: 8 or 19 (download one of them, then download the other after)
 
 Once we have chosen our download preferences, we will click the `.msi` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
 
@@ -44,7 +44,7 @@ Once this is completed, you can exit back to the main Prism Launcher menu. Click
 
 This guide will focus on 1.8.9, but steps for other versions should also be obvious.
 
-Click on the button on the top left that says "Add Instance". Name it whatever you want and giving a group for it is optional, but I do not recommend giving a group name until you need to better organize your instances.
+Once you've clicked on the button on the top left that says "Add Instance", name it whatever you want and giving a group for it is optional, but I do not recommend giving a group name until you need to better organize your instances.
 
 Under the `Version` selector, scroll down till you find 1.8.9 and select it. Then in the `Mod Loader` tab directly underneath, choose Forge (NOTE: this is not the tab on the left that says Curseforge). It will automatically choose the latest version of Forge for 1.8.9 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
 
