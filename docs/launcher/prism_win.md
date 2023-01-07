@@ -2,6 +2,8 @@
 
 Recently, the default Minecraft launcher has been having a lot of issues. Almost every week it feels like Mojang manages to break something that causes many people to not be able to play the game. Being a modded version of an already old Minecraft version, I am not too hopeful that many of these issues will ever be fixed or will be fixed anytime soon. For this reason, its recommended to switch to a launcher that cares about modding and old versions of Minecraft, and whose devs we can easily reach out to to report any major issues.
 
+This guide will explain the install process for Prism, as well as how we can use it for Skyclient.
+
 ## How to Install (Windows)
 
 - This guide will only be for windows for now. Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from Skyclient, but steps will be largely the same, except for the migrating data section.
@@ -50,7 +52,7 @@ Under the `Version` selector, scroll down till you find 1.8.9 and select it. The
 
 ## Step 5 - Installing our mods
 
-Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit`. Now, we'll go to the `Mods` tab. On the bottom right, there will be a button called `View Folder`. Click on this and you should be redirected to a file explorer tab. Now, open a new file explorer by either pressing `Win + E` on your keyboard or right clicking the file explorer icon and pressing "File Explorer". Navigate to your old .minecraft folder, which is `C:\Users\USER\AppData\Roaming\.minecraft` (change USER to your computer's name, or if you don't know it, navigate there manually). Open the `.minecraft` file, then open the `skyclient` file if you were using Skyclient. Simply move everything in the skyclient folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
+Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit`. Now, we'll go to the `Mods` tab. On the bottom right, there will be a button called `View Folder`. Click on this and you should be redirected to a file explorer tab. Now, open a new file explorer by either pressing `Win + E` on your keyboard or right clicking the file explorer icon and pressing "File Explorer". Navigate to your old .minecraft folder, which is `C:\Users\USER\AppData\Roaming\.minecraft` (change USER to your computer's name, or if you don't know it, press the `Windows` key and `r` at the same time to open up Run, and type `%appdata%` to open your Roaming folder). Open the `.minecraft` file, then open the `skyclient` file if you are using Skyclient. Simply move everything in the skyclient folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
 
 [A quick video guide explaining this process can be found here.](https://youtu.be/DEGaD-_HFCE)
 
