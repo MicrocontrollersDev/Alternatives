@@ -132,6 +132,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [FastAnim](https://modrinth.com/mod/fastanim) | Speeds up entity angle calculations, which may be especially noticeable when there is a high number of entities on screen. | [Lunade_](https://github.com/AViewFromTheTop) |
 | [Fastload](https://modrinth.com/mod/fastload) | Reduces world loading times. | [BumbleSoftware](https://github.com/BumbleSoftware) |
 | [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) |
+| [Rail Optimization](https://modrinth.com/mod/rail-optimization) | Makes powered rails turn on and off much faster. | [fxmorin](https://github.com/fxmorin) |
 
 ### Other Performance Mods
 
