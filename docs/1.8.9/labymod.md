@@ -137,7 +137,7 @@ that you avoid using it if possible.
 * Color Correction - ?
 * ConnectionHistory - ?
 * Controller - ?
-* Custom Block Overlay - [Aycy's BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
+* Custom Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
 * Custom Crosshair Mod - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
 * Custom Hitboxes - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
 * CustomFilterSounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)

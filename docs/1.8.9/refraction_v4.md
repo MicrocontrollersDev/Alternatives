@@ -5,7 +5,7 @@
 * [OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5.jar)
 * [Patcher](https://sk1er.club/mods/patcher)
 * [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* [BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
+* [BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
 * [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
 * [AutoGG](https://sk1er.club/mods/autogg)
 * [Levelhead](https://sk1er.club/mods/level_head)
