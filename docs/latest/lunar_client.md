@@ -8,6 +8,11 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 * [List of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives)
 
+
+### Performance
+
+* Performance Improvements - See my [full list of performance mods](https://microcontrollersdev.github.io/Alternatives/latest/migrating/#performance) (as well as the Dependencies section above it)
+
 ### 1.7 Visuals
 
 * Animations - Irrelevant
@@ -143,7 +148,6 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 ## Other
 
-* Performance Improvements - Please see my [full list of performance mods](https://microcontrollersdev.github.io/Alternatives/latest/migrating/#performance)
 * Vanilla Bug Fixes - [isXander's Debugify](https://modrinth.com/mod/debugify)
 * Custom Main Menu - [Keksuccino's FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
 * Discord Rich Presence - [CDAGaming_'s CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
