@@ -168,7 +168,7 @@ These are mods that are more dependant on personal preference than importance.
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc)
+| [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
 | [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a fade-in animation to chunks similar to Bedrock Edition. | [kerudion](https://github.com/kerudion) |
 | [Easeify (No 1.19.3 Yet)](https://modrinth.com/mod/easeify) | Easeify is a QOL mod with many features. Check out the projects README for more information. | [Polyfrost](https://github.com/Polyfrost) |
@@ -215,6 +215,7 @@ Features that OptiFine provides that are not resource pack related.
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
+| [Cosmetica](https://modrinth.com/mod/cosmetica) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
 | [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702) |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
 | [LambdaBetterGrass (No 1.19.3 Yet)](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
@@ -247,7 +248,7 @@ If you are one of those weirdos who uses internal shaders (you shouldn't btw), h
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Simply No Shading](https://modrinth.com/mod/simply-no-shading) | Internal Shaders | [StartsMercury](https://github.com/StartsMercury) |
+| [Simply No Shading](https://modrinth.com/mod/simply-no-shading) | Internal Shaders. | [StartsMercury](https://github.com/StartsMercury) |
 
 ### Unrecommended Mods
 
@@ -295,6 +296,7 @@ Some notes:
 - [osfanbuff](https://github.com/osfanbuff63)
 - [Lisena](https://github.com/Lisenaaaa)
 - [Lulonaut](https://github.com/Lulonaut)
+- [Mayaqq](https://github.com/MayaqqDev)
 - [voxxal](https://github.com/voxxal)
 - [Wyvest](https://github.com/Wyvest)
 
