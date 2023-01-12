@@ -74,7 +74,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 * Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Motion Blur - ?
 * Shiny Pots - ?
-* Scrollable Tooltips - Partially [Kyrptonaught's ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
+* Scrollable Tooltips - [isXander's's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
 * Particle Multiplier - ?
 * Cooldowns - ?
 * Time Changer - [Motschen's Timechanger](https://www.curseforge.com/minecraft/mc-mods/time-changer) (Only works on Multiplayer)

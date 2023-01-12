@@ -59,8 +59,8 @@ mod authors and it is advised against supporting them.
 * Discord - ?
 * Oof Mod - ?
 * Perspective - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
-* Screenshot - 
-* Scrollable Tooltips - ?
+* Screenshot - ?
+* Scrollable Tooltips - [isXander's's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
 * Server Address - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Snaplook - ?
 * Toggle Sprint - Vanilla (Accessibility Options)
@@ -108,16 +108,16 @@ mod authors and it is advised against supporting them.
 
 ### Rendering Settings
 
-* Use Fast Rendering - [Sodium](https://modrinth.com/mod/sodium)
-* Use Direct Memory Access - [Sodium](https://modrinth.com/mod/sodium)
-* Use Fast Font Rendering - [Sodium](https://modrinth.com/mod/sodium)
+* Use Fast Rendering - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
+* Use Direct Memory Access - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
+* Use Fast Font Rendering - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
 * Use Static Particle Color - ?
 * Lazy Chunk Loading - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
 
 ### Light Settings
 
-* Use Fast Block Lighting - [Sodium](https://modrinth.com/mod/sodium)
-* Use Fast Entity Lighting - [Sodium](https://modrinth.com/mod/sodium)
+* Use Fast Block Lighting - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
+* Use Fast Entity Lighting - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
 
 ### Advanced Settings
 
