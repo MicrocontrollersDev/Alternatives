@@ -287,6 +287,7 @@ Some notes:
 
 ## Contributors
 
+- [Absterge](https://github.com/Absterge)
 - [BobIsMyManager](https://github.com/BobIsMyManager)
 - [glai](https://github.com/glaicodes)
 - [karmette](https://github.com/karmette)
