@@ -69,7 +69,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 * UHC Overlay - ? (Resourcepacks work instead)
 * FOV Mod - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
-* Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod)
+* Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Waypoints - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (BANNABLE ON HYPIXEL!)
 * Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Motion Blur - ?

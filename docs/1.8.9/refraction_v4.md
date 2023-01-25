@@ -15,7 +15,7 @@
 * [OofMod](https://sk1er.club/mods/refractionoof)
 * [Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar)
 * [TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
-* [CustomCrosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
+* [CustomCrosshair](https://modrinth.com/mod/custom-crosshair-mod)
 
 ## Replace
 
@@ -29,9 +29,9 @@
     * KAD7's more recent HyStats now supports multiple game-modes and has much more to offer compared to the discontinued SkyWars Stats mod.
 * [Pown's Potion Effect HUD with Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
     * Powns's mods are no longer maintained.
-* [Powns's Coords HUD with isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* [Powns's Coords HUD with isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
     * Powns's mods are no longer maintained.
-* [Powns's Armor Status HUD with isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* [Powns's Armor Status HUD with isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
     * Powns's mods are no longer maintained.
 
 ## Remove

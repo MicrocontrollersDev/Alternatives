@@ -11,7 +11,7 @@ that you avoid using it if possible.
 * Ping in Tablist - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Permission Changes - Irrelevant
 * LabyMod User Indicator - [Sk1er's Essential](https://essential.gg) (indicates Essential users instead)
-* Out of Memory Warning - ? (Check F3 / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) for current memory usage)
+* Out of Memory Warning - ? (Check F3 / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud) for current memory usage)
 
 ### Animations
 
@@ -19,7 +19,7 @@ that you avoid using it if possible.
 
 ### Bugfixes
 
-* Lava Optimization - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
+* Lava Optimization - Don't use!
 * Optimize Soup & Potion Refill **(BANNABLE ON HYPIXEL)** - ?
 * Synchronised Crosshair - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Blockhit - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
@@ -83,28 +83,28 @@ that you avoid using it if possible.
 
 ### Information
 
-* FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
-* Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's Coords Hud](https://download.powns.dev/coordsmod189)
-* Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Date - ?
-* Biome - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Entity Count - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Biome - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Entity Count - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Chunk Caching Info - Irrelevant, servers must have support for Chunk Caching anyways
-* Memory - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Online Players - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Memory - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Online Players - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Support - Irrelevant
 * Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
-* Combo - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Range - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Speed - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Combo - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Range - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Speed - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Items
 
-* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Powns's ArmorHud](https://download.powns.dev/armorhud189)
+* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### External Services
 
@@ -118,7 +118,7 @@ that you avoid using it if possible.
 * Lava Challenge Time - ?
 * ToggleSneak Info - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
 * Laby's MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/releases/latest)
-* DirectionHUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* DirectionHUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Addons
 
@@ -138,7 +138,7 @@ that you avoid using it if possible.
 * ConnectionHistory - ?
 * Controller - ?
 * Custom Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
-* Custom Crosshair Mod - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
+* Custom Crosshair Mod - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Custom Hitboxes - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
 * CustomFilterSounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * CustomFont - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
@@ -146,7 +146,7 @@ that you avoid using it if possible.
 * CustomTime - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
 * DamageIndicator **(BANNABLE ON HYPIXEL)** - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
 * Direct Connect History - ?
-* DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * EmoteChat - [Kokeria's ChatEmotes](https://www.curseforge.com/minecraft/mc-mods/chatemotes/files/all?filter-game-version=2020709689%3A5806) (doesn't work exactly like laby's but the emotes are the same)
 * FastJoin - ?
 * Focus Movement Fix - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)

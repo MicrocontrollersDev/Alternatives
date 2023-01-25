@@ -13,7 +13,7 @@ mod authors and it is advised against supporting them.
 * Animations - Irrelevant
 * Block Overlay - ?
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
-* Custom Crosshair - [Sparkless' Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A6580)
+* Custom Crosshair - [Sparkless' Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint - ?
 * Hitbox - ?

@@ -44,25 +44,25 @@
 
 ### HUD Mods
 
-* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
-* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions) / [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
-* Day Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
+* Day Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * DirectionHUD - [ReflxctionDev's Bspkrs DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
-* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Tracker - ?
 * Key Strokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
-* Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
-* Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Potion Counter - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
 * Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Server Address -  [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Server Address -  [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
-* Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
+* Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Team View - Irrelevant
 
 ### Nametags
@@ -85,7 +85,7 @@
 * UHC Overlay - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (Resource packs also work)
 * FOV Mod - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
-* Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
+* Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Chunk Borders - ?
 * Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695)
 * Weather Changer - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest) / [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)

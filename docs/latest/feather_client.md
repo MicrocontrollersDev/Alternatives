@@ -14,7 +14,7 @@ mod authors and it is advised against supporting them.
 * Animations - Irrelevant
 * Block Overlay - [LordDeatHunter's Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)
 * Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs/)
-* Custom Crosshair - [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files)
+* Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - [Illusive Soulworks's Custom FOV](https://curseforge.com/minecraft/mc-mods/custom-fov-fabric)
 * Glint - ?
 * Hitbox - [PingIsFun's Hitbox+](https://modrinth.com/mod/hitboxplus)
