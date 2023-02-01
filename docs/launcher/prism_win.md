@@ -63,3 +63,27 @@ Prism Launcher has a lot of things to offer, such as themes if you don't like th
 ## Step 7 - Updating Prism
 
 - WIP
+
+## Common Issues
+
+##### `The java binary "" couldn't be found. Please fix the java path override in the instance's settings or disable it.`
+
+In the main screen of Prism Launcher, click `Settings` near the top, a popup should appear. From here click `Java`, under `Java Runtime` you should click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_362`.
+
+If you do not see any version, [you should redo step 1](#step-1---installing-java)
+
+You may also need to set the java version in the instance, click on the instance once then on the right click `Edit`, then in the next popup click `Settings` once again click `Auto-detect` and choose the java version.
+
+#
+
+##### `My mods arent showing up in-game!`
+
+There are 2 common causes for this, click on the instance once then on the right click `Edit`, then in the next popup click `Mods`.
+
+If you do not see any mods in the mods tab, [you should redo step 5](#step-5---installing-our-mods)
+
+If you see a list of mods here then you should click `Version` and on the right click `Install Forge`, the latest version should be highlighted. Click `OK` and Forge should be installed, and the mods should work.
+
+#
+
+If you encounter any issues not shown here you should open a ticket in our [discord server](https://inv.wtf/skyclient/)
