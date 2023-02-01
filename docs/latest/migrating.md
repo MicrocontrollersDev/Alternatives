@@ -203,6 +203,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | Shows a player's head next to their chat message in game. | [dzwdz](https://github.com/dzwdz) |
 | [Craftify](https://modrinth.com/mod/craftify) | Shows your currently playing music on your HUD. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
 | [Numeral Ping](https://modrinth.com/mod/numeral-ping) | Shows ping in the tab as a number instead of icon. | [TheKodeToad](https://github.com/TheKodeToad) |
+| [Modern World Creation](https://modrinth.com/mod/modern-world-creation) | Makes the world creation screen nicer to use and look at. | [Keksuccino](https://github.com/Keksuccino) |
 
 ### OptiFine Replacements
 
