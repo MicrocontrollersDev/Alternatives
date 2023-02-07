@@ -20,6 +20,7 @@
 - [JitterDev](https://github.com/JitterDev)
 - [Karmette](https://github.com/karmette)
 - [Koxx12](https://github.com/koxx12-dev)
+- [Koxx12isbad](https://github.com/koxx12-dev-is-bad)
 - [Lily](https://github.com/My-Name-Is-Jeff)
 - [Lisena](https://github.com/lisenaaaa)
 - [Lizzy](https://github.com/LizzyMaybeDev)

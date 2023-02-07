@@ -80,7 +80,7 @@ You may also need to set the java version in the instance, click on the instance
 
 There are 2 common causes for this, click on the instance once then on the right click `Edit`, then in the next popup click `Mods`.
 
-If you do not see any mods in the mods tab, [you should redo step 5](#step-5-installing-our-mods)
+If you do not see any mods in the mods tab, [you should redo step 5](#step-5-installing-our-mods-skyclient)
 
 If you see a list of mods here then you should click `Version` and on the right click `Install Forge`, the latest version should be highlighted. Click `OK` and Forge should be installed, and the mods should work.
 
