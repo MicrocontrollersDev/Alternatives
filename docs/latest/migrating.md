@@ -57,7 +57,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     If you are using Prism Launcher, you can simply go to the mods menu for your instance and press the "Download Mods" button in the top right to search Modrinth and CurseForge directly inside the launcher.
 
-    **NOTE: SOME CURSEFORGE MODS MAY NOT ALLOW DOWNLOADS FROM THIRD PARTIES SUCH AS POLYMC**
+    **NOTE: SOME CURSEFORGE MODS MAY NOT ALLOW DOWNLOADS FROM THIRD PARTIES SUCH AS PRISMLAUNCHER**
 
     ### Installing Mods on Fabric
 
