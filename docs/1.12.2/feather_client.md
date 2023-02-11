@@ -147,7 +147,7 @@ mod authors and it is advised against supporting them.
 
 # Contributors
 
-* [o9o](https://www.youtube.com/channel/UC_lbg2qjUsZwro5khBW9PHw)
+* [o9o](https://www.youtube.com/@o9omc)
 * [Geek](https://github.com/GamingGeek)
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [moisty](https://github.com/Mqisty)
@@ -157,4 +157,4 @@ mod authors and it is advised against supporting them.
 * [Systemless](https://github.com/SystemlessDev)
 * [Tricked](https://github.com/Tricked-dev)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.carrd.co)
+* [Zetvue](https://zetvue.github.io/)

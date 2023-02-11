@@ -42,4 +42,4 @@ The mod is no longer supported by its developer, Moulberry.
 * [moisty](https://github.com/Mqisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.carrd.co)
+* [Zetvue](https://zetvue.github.io/)

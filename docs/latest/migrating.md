@@ -290,6 +290,7 @@ Some notes:
 
 - [Absterge](https://github.com/Absterge)
 - [BobIsMyManager](https://github.com/BobIsMyManager)
+- [Flopgop](https://github.com/Flopgop)
 - [glai](https://github.com/glaicodes)
 - [karmette](https://github.com/karmette)
 - [Moisty](https://github.com/Mqisty)

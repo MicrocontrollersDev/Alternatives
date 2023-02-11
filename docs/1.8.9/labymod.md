@@ -197,6 +197,7 @@ that you avoid using it if possible.
 * [Karmette](https://github.com/karmette)
 * [LlamaLad7](https://github.com/LlamaLad7)
 * [Lizzy](https://github.com/LizzyMaybeDev)
+* [LynithDev](https://github.com/LynithDev)
 * [Moiré](https://github.com/moire9)
 * [moisty](https://github.com/Mqisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
@@ -205,4 +206,4 @@ that you avoid using it if possible.
 * [ToggledX](https://twitter.com/ignToggleW)
 * [usb](https://github.com/U5B)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.carrd.co)
+* [Zetvue](https://zetvue.github.io/)

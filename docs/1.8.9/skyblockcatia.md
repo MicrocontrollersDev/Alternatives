@@ -69,4 +69,4 @@ if the features you use can be replaced.
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.carrd.co)
+* [Zetvue](https://zetvue.github.io/)

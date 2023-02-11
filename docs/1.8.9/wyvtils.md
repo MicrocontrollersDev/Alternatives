@@ -21,4 +21,4 @@ The mod is no longer supported by its developer, Wyvest.
 
 * [moisty](https://github.com/Mqisty)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.carrd.co)
+* [Zetvue](https://zetvue.github.io/)

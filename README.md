@@ -17,6 +17,10 @@ The website will now be the primary
 way this will be used. To access it,
 click [here](https://microcontrollersdev.github.io/Alternatives/).
 
+## Contributors
+ [![GitHub Contributors](https://contrib.rocks/image?repo=MicrocontrollersDev/Alternatives)](https://microcontrollersdev.github.io/Alternatives/contributors/)
+
+
 ## Copyright
 
 © MicrocontrollersDev. All Rights Reserved.

@@ -105,6 +105,7 @@
 * [asbyth](https://github.com/asbyth)
 * [BobIsMyManager](https://github.com/BobIsMyManager)
 * [Digux](https://github.com/Diguhxe)
+* [Fizzify](https://github.com/Fizzify)
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
@@ -112,4 +113,4 @@
 * [Salmon](https://github.com/Scherso)
 * [Solonovamax](https://github.com/solonovamax)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.carrd.co)
+* [Zetvue](https://zetvue.github.io/)

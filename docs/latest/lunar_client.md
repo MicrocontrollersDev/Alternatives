@@ -157,5 +157,5 @@ Please note that this page may be outdated due to update cycles. It is currently
 # Contributors
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
-* [Zetvue](https://zetvue.carrd.co)
+* [Zetvue](https://zetvue.github.io/)
 * [Tricked](https://github.com/Tricked-dev)

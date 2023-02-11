@@ -18,4 +18,4 @@ the game.
 # Contributors
 
 * [moisty](https://github.com/Mqisty)
-* [Zetvue](https://zetvue.carrd.co)
+* [Zetvue](https://zetvue.github.io/)

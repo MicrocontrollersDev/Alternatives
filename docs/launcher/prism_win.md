@@ -87,3 +87,7 @@ If you see a list of mods here then you should click `Version` and on the right 
 <br>
 
 If you encounter any issues not shown here you should open a ticket in our [discord server](https://inv.wtf/skyclient/)
+
+# Contributors
+
+* [Koxx12isbad](https://github.com/koxx12-dev-is-bad)
