@@ -62,7 +62,11 @@ Prism Launcher has a lot of things to offer, such as themes if you don't like th
 
 ### Step 7 - Updating Prism
 
-- WIP
+Prism Launcher auto-updates for macOS using the Sparkle Framework.<br>
+Windows auto-updating is WIP for now, you will need to download the installer and run it again. (You will not lose your instances/your SkyClient).<br>
+In some cases, Prism Launcher for Windows breaks after an update. If that happens, just run the uninstaller, then run the reinstaller (Again, you will not lose anything).
+For Linux, just update through your package manager.<br>
+
 
 ## Common Issues
 
