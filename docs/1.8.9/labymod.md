@@ -9,8 +9,10 @@ that you avoid using it if possible.
 ### Information
 
 * Ping in Tablist - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+    * Colored Ping - ?
+    * Show Language Flags - ?
 * Permission Changes - Irrelevant
-* LabyMod User Indicator - [Sk1er's Essential](https://essential.gg) (indicates Essential users instead)
+* LabyMod User Indicator - Irrelevant
 * Out of Memory Warning - ? (Check F3 / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud) for current memory usage)
 
 ### Animations
@@ -21,7 +23,7 @@ that you avoid using it if possible.
 
 * Lava Optimization - Don't use!
 * Optimize Soup & Potion Refill **(BANNABLE ON HYPIXEL)** - ?
-* Synchronised Crosshair - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Synchronised Crosshair - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Blockhit - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
 * Particle Optimization - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
@@ -36,14 +38,17 @@ that you avoid using it if possible.
 ### Minecraft Chat
 
 * Autotext **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
-* Name History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Name History - Removed by Mojang for privacy concerns.
 * Chat Icons - ?
 * Chat Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Shortcuts - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Player Menu - ?
 * Disable Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 * Adjustable Chat - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-* Advanced Chat Settings - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+* Advanced Chat Settings
+    * Scroll Speed - ?
+    * Chat Row Limit - ?
+    * Animated Chat - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Secondary Chat - ?
 
 ### PvP
@@ -64,13 +69,15 @@ that you avoid using it if possible.
 * Better Shader Selection - ?
 * Live Serverlist - ?
 * Custom Inventory Scale - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Show Tab Icons - ?
+* LabyMod Settings in Tab - Irrelevant
+* Server Banner in Tablist - ?
 
 #### Additional
 
 * Show My Name - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Show Bossbar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Show Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
-* Sign Search - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Sign Search - ?
 * Left Hand - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Discord Rich Presence - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Custom Name Tags - ? ([Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) for highlighting names)
@@ -78,6 +85,7 @@ that you avoid using it if possible.
 ### Cosmetics
 
 * Cosmetics - [Cosmetica-cc's Arcmetica](https://cosmetica.cc/docs/installing-arcmetica)
+* Extrude Textures - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes) (not really the same thing but its cool so)
 
 ## Ingame GUI
 
@@ -120,17 +128,23 @@ that you avoid using it if possible.
 * Laby's MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/releases/latest)
 * DirectionHUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
+### Other
+
+* Account Switcher - [Sk1er's Essential](https://essential.gg)
+* Main Menus - [Nox's MainMenus](https://github.com/Noxiuam/MainMenus/releases/latest)
+
 ### Addons
 
 * Anti Clear Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * AntiRage - ?
 * AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
+* AutoGL - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 * AutoReconnect - ?
 * Batty's Coordinates - [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) 
 * BetterHat - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions)
 * Better Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * BetterScreenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* ChatCopper - ?
+* ChatCopied - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * ChatLog - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * ChatTime - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * ChatTranslator - ?
@@ -159,6 +173,7 @@ that you avoid using it if possible.
 * HeadOwner - ?
 * Hotbar - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 * Hypixel Quick Play - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
+* HyPlus - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (somewhat)
 * I Love Music - ?
 * Instagram - ?
 * Instant Tab Completion - ?

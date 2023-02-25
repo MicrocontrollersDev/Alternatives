@@ -227,7 +227,7 @@ or a discussion.
 * Nearby Tank Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Run Overview - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Score Approximation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Custom Splits - ?
+* Show Custom Splits - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 
 ### Party Finder
 

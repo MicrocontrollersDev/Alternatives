@@ -69,6 +69,7 @@
 * Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Cosmetics - [Cosmetica-cc's Arcmetica](https://cosmetica.cc/docs/installing-arcmetica)
+    * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)
 * Enchant Glint - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 * FOV - [Sk1er's Patcher (/patcher fov)](https://sk1er.club/mods/patcher)
 * Fullbright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
