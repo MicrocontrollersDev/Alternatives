@@ -11,7 +11,7 @@ This list is based off of the latest version of 5zig Reborn.
 * Show Potion Indicator - ?
 * Colored Armor Durability - ?
 * Show Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
-* Show Food Heal Amount - ?
+* Show Food Heal Amount - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Show Hotbar Numbers - Resourcepack
 
 ### Noncategorized
@@ -40,7 +40,7 @@ This list is based off of the latest version of 5zig Reborn.
 * Automatically Reconnect - ?
 * Use CMD-Key - ?
 * Show Compass Target - ?
-* Show Large Killsreaks - ?
+* Show Large Killstreaks - ?
 * Show Mojang Satus - [GamingGeek's MojangStatus](https://github.com/GamingGeek/MojangStatus/releases/latest)
 * Confirm Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
@@ -58,11 +58,11 @@ This list is based off of the latest version of 5zig Reborn.
 * Chat Messages Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Text Shortcuts - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Text Macros **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) 
-* Username History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Username History - Removed by Mojang for privacy concerns.
 * Join Auto-Text **(BANNABLE ON HYPIXEL)** - ?
 * TeamSpeak - ?
 * Discord Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-* Friends and Chat System - [Essential](https://essential.gg/download)
+* Friends and Chat System - [Sk1er's Essential](https://essential.gg/download)
 * Cosmetics - [Cosmetica-cc's Arcmetica](https://cosmetica.cc/docs/installing-arcmetica)
 
 # Contributors
