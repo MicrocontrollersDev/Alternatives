@@ -36,6 +36,7 @@
 * [Moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
 * [Narwhalism](https://www.twitch.tv/narwhalswim)
+* [PandaNinjas](https://github.com/pandaninjas)
 * [Proudmuslim](https://github.com/proudmuslim-dev)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
