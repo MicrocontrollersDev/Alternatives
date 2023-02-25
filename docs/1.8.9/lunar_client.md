@@ -18,7 +18,7 @@
 * Stop Servers from Closing Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Text Shadow - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Unlimited Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Chat Animation - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+* Chat Animation - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 
 ### Hypixel Mods
 

@@ -134,6 +134,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Fastload](https://modrinth.com/mod/fastload) | Reduces world loading times. | [BumbleSoftware](https://github.com/BumbleSoftware) |
 | [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) |
 | [Rail Optimization](https://modrinth.com/mod/rail-optimization) | Makes powered rails turn on and off much faster. | [fxmorin](https://github.com/fxmorin) |
+| [Noxesium](https://modrinth.com/mod/noxesium) | Contains several smaller performance improvements and also has many visual bug fixes for the MCCI server. | [Noxcrew](https://github.com/Noxcrew) |
 
 ### Other Performance Mods
 
@@ -144,6 +145,7 @@ These are other performance mods that one may prefer to use, but are not require
 | [Phosphor](https://modrinth.com/mod/phosphor) | Phosphor is similar to Starlight in that they both speed up the light engine. However, Phosphor ensures full vanilla parity as compared to Starlight, which may break things such as light suppression. Use Phosphor instead of Starlight if you are looking for vanilla parity at the expense of being slightly slower. Starlight may also cause stuttering on some machines, in which case you should use Phosphor instead. | [CaffeineMC](https://github.com/CaffeineMC) | Starlight |
 | [Skip Transitions](https://modrinth.com/mod/skip-transitions) | Removes transitions such as the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine or allow people to access certain menus quicker if they do not like the small wait time. | [TrufflezMC](https://github.com/trufflezmc) |
 | [Krypton](https://modrinth.com/mod/krypton) | This mod is bannable on Hypixel and most likely other servers. Although it is probably not detectable, it is still against Hypixel's rules and the mod developer does not recommend using it on Hypixel. However, this mod works great for private servers. Krypton optimizes network stacking and entity tracking, as well as other micro-optimizations. | [astei](https://github.com/astei) |
+| [Methane](https://modrinth.com/mod/methane) | Completely kills the light engine, providing permanent fullbright. This cannot be disabled in game, and you must remove the mod from your mods folder and relaunch to disable the effect. However, there is a toggle for fog. Not recommended due to not being toggleable, breaking Starlight/Phosphor, and not working with shaders. | [AnOpenSauceDev](https://github.com/AnOpenSauceDev) | Iris, Starlight, Phosphor |
 
 ### Recommended
 
