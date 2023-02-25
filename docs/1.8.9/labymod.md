@@ -46,7 +46,7 @@ that you avoid using it if possible.
 * Disable Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 * Adjustable Chat - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 * Advanced Chat Settings
-    * Scroll Speed - ?
+    * Scroll Speed - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
     * Chat Row Limit - ?
     * Animated Chat - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Secondary Chat - ?
