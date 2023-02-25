@@ -95,3 +95,4 @@ If you encounter any issues not shown here you should open a ticket in our [disc
 # Contributors
 
 * [Koxx12isbad](https://github.com/koxx12-dev-is-bad)
+* [PandaNinjas](https://github.com/pandaninjas)
