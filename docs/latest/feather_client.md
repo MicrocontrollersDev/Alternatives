@@ -32,7 +32,7 @@ mod authors and it is advised against supporting them.
 * Attack Indicator - [Minenash's Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
 * Boss Bar - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Combo Display - ?
+* Combo Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Direction - ?
 * FPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
@@ -44,7 +44,7 @@ mod authors and it is advised against supporting them.
 * Reach Display - ?
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
 * Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Time - ?
+* Time - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 
 ### Hypixel
 
