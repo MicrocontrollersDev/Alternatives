@@ -95,7 +95,7 @@ These are essential mods that are required for some fabric mods to work.
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://github.com/FabricMC) |
+| [Quilted Fabric API](https://modrinth.com/mod/qsl) | Required for most Quilt/Fabric mods. | [Quilt Team](https://github.com/QuiltMC) |
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | Required for mods that use Kotlin. | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods in-game, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
 | [Indium](https://modrinth.com/mod/indium) | Adds FRAPI support to Sodium, making it necessary to use for some of the mods on this list to work. This mod is merely temporary and will be removed once Sodium adds FRAPI/FREX support itself. | [comp500](https://github.com/comp500) |
@@ -135,6 +135,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) |
 | [Rail Optimization](https://modrinth.com/mod/rail-optimization) | Makes powered rails turn on and off much faster. | [fxmorin](https://github.com/fxmorin) | May just crash. Reasoning unsure. |
 | [Noxesium](https://modrinth.com/mod/noxesium) | Contains several smaller performance improvements and also has many visual bug fixes for the MCCI server. | [Noxcrew](https://github.com/Noxcrew) |
+| [QuiltGoSlightlyFasterLol](https://modrinth.com/mod/quiltgoslighlyfasterlol) | Makes Quilt launch slightly faster. | [CoolMineman](https://github.com/CoolMineman) |
 
 ### Other Performance Mods
 
