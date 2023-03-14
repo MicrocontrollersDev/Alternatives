@@ -4,7 +4,7 @@ Recently, the default Minecraft launcher has been having a lot of issues. Almost
 
 This guide will explain the install process for Prism, as well as how we can use it for Skyclient.
 
-## How to Install (Linux)
+## How to Install (Linux) (Also unfinished - continue with caution)
 
 - This is the install guide for GNU/Linux. Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from Skyclient, but steps will be largely the same, except for the migrating data section.
 
