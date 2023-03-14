@@ -69,6 +69,7 @@ nav:
       - "Mods":
           - "OptiFine": "latest/optifine.md"
       - "Clients":
+          - "Badlion Client": "latest/badlion_client.md"
           - "Feather Client": "latest/feather_client.md"
           - "Lunar Client": "latest/lunar_client.md"
       - "Other":
