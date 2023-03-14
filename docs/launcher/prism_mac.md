@@ -24,8 +24,6 @@ In order to download Java, we will first head to the [Adoptium download page](ht
 
 If it asks if you want to allow downloads, click "Allow". Once we have chosen our download preferences, we will click the `.pkg` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
 
-- If on Linux, download the tar.gz instead
-
 ### Step 2 - Installing Prism
 
 [Download Prism Launcher](https://prismlauncher.org/download/mac). Get the version of the launcher depending on which version of macOS you are on (you most likely want the Universal download). If it asks if you want to allow downloads, click "Allow". Once it is finished downloading, run it to extract the application. Now right click the Prism Launcher application and press "Open". Running it normally will not let you launch as it cannot be scanned for malware.

@@ -77,7 +77,7 @@ nav:
      - "Prism Launcher":
           - "Windows": "launcher/prism_win.md"
           - "MacOS": "launcher/prism_mac.md"
-          - "Linux": "launcher/prism_tux.md"
+          - "Linux": "launcher/prism_gnu.md"
 
 markdown_extensions:
   - admonition
