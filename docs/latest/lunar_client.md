@@ -27,7 +27,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 * Highlighted Name - [uku3lig's ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * Background Opacity - Vanilla (Accessibility Options)
 * Hide Incoming Messages - ?
-* Stack Spam Messages - ?
+* Stack Spam Messages - [Caoimhe's Compact Chat](https://modrinth.com/mod/compact-chat)
 * Stop Servers from Closing Chat - ?
 * Text Shadow - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
 * Unlimited Chat - [JackFred2's More Chat History](https://modrinth.com/mod/morechathistory)
@@ -36,14 +36,14 @@ Please note that this page may be outdated due to update cycles. It is currently
 ### HUD Mods
 
 * Armor Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Clock - ?
-* Combo Counter - ?
+* Clock - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Combo Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Day Counter - ?
 * DirectionHUD - 
 * FPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Item Tracker - ?
+* Item Tracker - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Key Strokes - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Memory Usage - 
 * Pack Display - ?
@@ -88,7 +88,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 * Toggle Sneak/Sprint - Vanilla (Accessible in Controls and Accessibility Settings menus)
 * Nick Hider - ?
-* WorldEdit CUI - ?
+* WorldEdit CUI - [EngineHub's WorldEdit CUI](https://curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
 * Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod)
 * Screenshot Uploader - [isXander's Shotify](https://modrinth.com/mod/shotify)
 * Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [GGCrosby's Simple Macros](https://www.curseforge.com/minecraft/mc-mods/fabric-simple-macros)

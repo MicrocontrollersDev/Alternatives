@@ -29,9 +29,10 @@ mod authors and it is advised against supporting them.
 ### HUD
 
 * Armor Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Attack Indicator - [Minenash's Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
 * Boss Bar - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Combo Display - ?
+* Combo Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Direction - ?
 * FPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
@@ -43,7 +44,7 @@ mod authors and it is advised against supporting them.
 * Reach Display - ?
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
 * Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Time - ?
+* Time - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 
 ### Hypixel
 
@@ -92,8 +93,8 @@ mod authors and it is advised against supporting them.
 
 ### Stack Messages
 
-* Stack Messages - ?
-* Consecutive Messages Only - ?
+* Stack Messages - [Caoimhe's Compact Chat](https://modrinth.com/mod/compact-chat)
+* Consecutive Messages Only - [Caoimhe's Compact Chat](https://modrinth.com/mod/compact-chat)
 
 ### Mentions
 
@@ -136,7 +137,7 @@ mod authors and it is advised against supporting them.
 * [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink)
 * [HD Skins](https://www.hdskins.de/)
 * [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer)
-* OptiFabric
+* OptiFabric - Do not use.
 * [Iris](https://irisshaders.github.io/)
 * [ModMenu](https://modrinth.com/mod/modmenu)
 * [RoughlyEnoughItems](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)

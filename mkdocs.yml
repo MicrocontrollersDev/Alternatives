@@ -65,15 +65,18 @@ nav:
   - "1.12.2":
       - "Clients":
           - "Feather Client": "1.12.2/feather_client.md"
-  - "1.19.2":
+  - "1.19.3":
       - "Mods":
           - "OptiFine": "latest/optifine.md"
       - "Clients":
           - "Feather Client": "latest/feather_client.md"
           - "Lunar Client": "latest/lunar_client.md"
+      - "Other":
+          - "Migrating to Latest": "latest/migrating.md"
   - "Launcher":
      - "Prism Launcher":
           - "Windows": "launcher/prism_win.md"
+          - "MacOS": "launcher/prism_mac.md"
           - "Linux": "launcher/prism_tux.md"
 
 markdown_extensions:

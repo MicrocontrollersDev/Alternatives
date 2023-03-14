@@ -4,10 +4,10 @@ Recently, the default Minecraft launcher has been having a lot of issues. Almost
 
 This guide will explain the install process for Prism, as well as how we can use it for Skyclient.
 
-## How to Install (Windows)
+## How to Install (Mac)
 
 - Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from Skyclient, but steps will be largely the same, except for the migrating data section.
-- If you're looking for a MacOS install guide, [click here](https://microcontrollersdev.github.io/Alternatives/launcher/prism_mac).
+- If you're looking for a Windows install guide, [click here](https://microcontrollersdev.github.io/Alternatives/launcher/prism_win).
 
 ### Step 1 - Installing Java
 
@@ -15,22 +15,22 @@ First, we need to download and setup Java to be able to use Prism Launcher. Unli
 
 Minecraft 1.16 and below all use Java 8, while 1.17 and above use Java 17+. I recommend installing both to make it simpler to use different versions of Minecraft whenever you want.
 
-In order to download Java, we will first head to the [Adoptium download page](https://adoptium.net/temurin/releases). Adoptium is an open source Java that does not require a paid account to install, and is made by the Eclipse Foundation, a very reputable source. To install, we will use the dropdown boxes to make it easier to find the versions of Java we need
+In order to download Java, we will first head to the [Adoptium download page](https://adoptium.net/temurin/releases). Adoptium is an open source Java distribution that does not require a paid account to install, and is made by the Eclipse Foundation, a very reputable source. To install, we will use the dropdown boxes to make it easier to find the versions of Java we need
 
-- Operating System: Windows
+- Operating System: macOS
 - Architecture: x64
 - Package Type: JRE
 - Version: 8 or 17 (download one of them, then download the other after)
 
-Once we have chosen our download preferences, we will click the `.msi` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
+If it asks if you want to allow downloads, click "Allow". Once we have chosen our download preferences, we will click the `.pkg` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
 
 - If on Linux, download the tar.gz instead
 
 ### Step 2 - Installing Prism
 
-[Download Prism Launcher](https://prismlauncher.org/download). You will most likely want to download the `Installer (.exe)` version. Once it is finished downloading, it may give a warning screen saying "Windows protected your PC". Simply press the "More info" button, then "Run anyway"
+[Download Prism Launcher](https://prismlauncher.org/download/mac). Get the version of the launcher depending on which version of macOS you are on (you most likely want the Universal download). If it asks if you want to allow downloads, click "Allow". Once it is finished downloading, run it to extract the application. Now right click the Prism Launcher application and press "Open". Running it normally will not let you launch as it cannot be scanned for malware.
 
-Continue the installation process until you get to the "Java" screen. Here, you will decide which Java you want to set as the default for new instances. Click on the version that says "1.8" at the beginning of the version and has "Eclipse Foundation" in the path name. This is your Java 8 and it will be the default version of Java for every new instance you create on Prism. Of course, you can always change this later and can still manually specify a different version of Java whenever you want.
+If Prism asks to check for updates automatically, allow it to do so. Continue the installation process until you get to the "Java" screen. Here, you will decide which Java you want to set as the default for new instances. Click on the version that says "1.8" at the beginning of the version and has "temurin" in the path name. This is your Java 8 and it will be the default version of Java for every new instance you create on Prism. Of course, you can always change this later and can still manually specify a different version of Java whenever you want.
 
 For the Minimum and Maximum memory allocation, leave them at 512 MiB and 4096 MiB respectively, unless you only have 8GB of ram or less, in which case you may want to change the maximum to 2048 MiB.
 
@@ -52,9 +52,7 @@ Under the `Version` selector, scroll down till you find 1.8.9 and select it. The
 
 ### Step 5 - Installing our mods / Skyclient
 
-Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit`. Now, we'll go to the `Mods` tab. On the bottom right, there will be a button called `View Folder`. Click on this and you should be redirected to a File Explorer tab. Now, open a new File Explorer by either pressing `Win + E` on your keyboard or right clicking the file explorer icon and pressing "File Explorer". Navigate to your old .minecraft folder, which is `C:\Users\USER\AppData\Roaming\.minecraft` (change USER to your computer's name, or if you don't know it, press the `Windows` key and `r` at the same time to open up Run, and type `%appdata%` to open your Roaming folder). Open the `.minecraft` file, then open the `skyclient` file if you are using Skyclient. Simply move everything in the skyclient folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
-
-[A quick video guide explaining this process can be found here.](https://youtu.be/DEGaD-_HFCE)
+Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit`. Now, we'll go to the `Mods` tab. On the bottom right, there will be a button called `View Folder`. Click on this and you should be redirected to a Finder tab. Now, open a new file explorer by either pressing `Cmd + Shift + E` on your keyboard or clicking the Finder tab and pressing "Go". Navigate to your old .minecraft folder by typing `~/Library/Application Support/Minecraft`, then open the `skyclient` file if you are using Skyclient. Simply move everything in the skyclient folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
 
 ### Step 6 - Explore
 
@@ -63,16 +61,12 @@ Prism Launcher has a lot of things to offer, such as themes if you don't like th
 ### Step 7 - Updating Prism
 
 Prism Launcher has a built in updater for macOS using the Sparkle Framework. When an update is available, an update button will appear on the top toolbar.<br>
-Windows auto-updating is WIP for now, you will need to download the installer and run it again. (You will not lose your instances/your SkyClient).<br>
-In some cases, Prism Launcher for Windows breaks after an update (for example, updating from <5.x to >6.x). If that happens, just run the uninstaller, then rerun the installer (Again, you will not lose anything).
-For Linux, just update through your package manager.<br>
-
 
 ## Common Issues
 
 #### `The java binary "" couldn't be found. Please fix the java path override in the instance's settings or disable it.`
 
-In the main screen of Prism Launcher, click `Settings` near the top, a popup should appear. From here click `Java`, under `Java Runtime` you should click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx`(xxx symbolizes the newest version of Java at the time of your installation).
+In the main screen of Prism Launcher, click `Settings` near the top, a popup should appear. From here click `Java`, under `Java Runtime` you should click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx` (xxx symbolizes the newest version of Java at the time of your installation).
 
 If you do not see any version, [you should redo step 1](#step-1-installing-java)
 
@@ -91,8 +85,3 @@ If you see a list of mods here then you should click `Version` and on the right 
 <br>
 
 If you encounter any issues not shown here you should open a ticket in our [discord server](https://inv.wtf/skyclient/)
-
-# Contributors
-
-* [Koxx12isbad](https://github.com/koxx12-dev-is-bad)
-* [PandaNinjas](https://github.com/pandaninjas)

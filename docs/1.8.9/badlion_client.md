@@ -22,7 +22,7 @@
 * Chat Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 * Chat Size - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/2918388/files/all?filter-game-version=2020709689%3A5806)
 * Emphasize Username in Chat - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
-* New Chat - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest) (adds search bar, ability to screenshot chatbox and chat messages, and ability to copy chat messages)
+* New Chat - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest) (adds search bar, ability to screenshot chatbox and chat messages, ability to copy chat messages, and smooth chat animations)
 
 ### Hypixel Mods
 
@@ -69,6 +69,7 @@
 * Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Cosmetics - [Cosmetica-cc's Arcmetica](https://cosmetica.cc/docs/installing-arcmetica)
+    * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)
 * Enchant Glint - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 * FOV - [Sk1er's Patcher (/patcher fov)](https://sk1er.club/mods/patcher)
 * Fullbright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
