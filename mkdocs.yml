@@ -47,7 +47,6 @@ nav:
   - "1.8.9":
       - "Mods":
           - "5zig": "1.8.9/5zig.md"
-          - "Danker's Skyblock Mod": "1.8.9/dsm.md"
           - "Dungeon Utilities": "1.8.9/dungeon_utilities.md"
           - "HyChat": "1.8.9/hychat.md"
           - "Skyblock Reinvented": "1.8.9/skyblock_reinvented.md"
@@ -78,6 +77,7 @@ nav:
      - "Prism Launcher":
           - "Windows": "launcher/prism_win.md"
           - "MacOS": "launcher/prism_mac.md"
+          - "Linux": "launcher/prism_tux.md"
 
 markdown_extensions:
   - admonition
