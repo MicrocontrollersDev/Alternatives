@@ -60,11 +60,8 @@ Prism Launcher has a lot of things to offer, such as themes if you don't like th
 
 ### Step 7 - Updating Prism
 
-Prism Launcher has a built in updater for macOS using the Sparkle Framework. When an update is available, an update button will appear on the top toolbar.<br>
-Windows auto-updating is WIP for now, you will need to download the installer and run it again. (You will not lose your instances/your SkyClient).<br>
-In some cases, Prism Launcher for Windows breaks after an update (for example, updating from <5.x to >6.x). If that happens, just run the uninstaller, then rerun the installer (Again, you will not lose anything).
-For Linux, just update through your package manager.<br>
-
+Windows auto-updating is WIP for now, you will need to download the installer and run it again (you will not lose your instances/your Skyclient).
+In some cases (specifically when you are on version 5.x or lower), you may need to uninstall your current Prism Launcher entirely before reinstalling. Your instances will still be safe and will not be deleted.
 
 ## Common Issues
 
@@ -88,7 +85,7 @@ If you see a list of mods here then you should click `Version` and on the right 
 
 <br>
 
-If you encounter any issues not shown here you should open a ticket in our [discord server](https://inv.wtf/skyclient/)
+If you encounter any issues not shown here you should open a ticket in our [discord server](https://inv.wtf/micro)
 
 # Contributors
 

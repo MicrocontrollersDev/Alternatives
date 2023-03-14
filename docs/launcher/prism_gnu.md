@@ -260,13 +260,13 @@ Prism Launcher has a lot of things to offer, such as themes if you don't like th
 
 ### Step 7 - Updating Prism
 
-- WIP
+- Simply update through your package manager, or reinstall it the same way you installed it.
 
 ## Common Issues
 
 #### `The java binary "" couldn't be found. Please fix the java path override in the instance's settings or disable it.`
 
-In the main screen of Prism Launcher, click `Settings` near the top, a popup should appear. From here click `Java`, under `Java Runtime` you should click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_362`.
+In the main screen of Prism Launcher, click `Settings` near the top, a popup should appear. From here click `Java`, under `Java Runtime` you should click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx` (xxx symbolizes the newest version of Java at the time of your installation).
 
 If you do not see any version, [you should redo step 1](#step-1-installing-java)
 
@@ -284,7 +284,7 @@ If you see a list of mods here then you should click `Version` and on the right 
 
 <br>
 
-If you encounter any issues not shown here you should open a ticket in our [discord server](https://inv.wtf/skyclient/)
+If you encounter any issues not shown here you should open a ticket in our [discord server](https://inv.wtf/micro)
 
 # Contributors
 
