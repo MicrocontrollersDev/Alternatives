@@ -12,19 +12,19 @@ mod authors and it is advised against supporting them.
 ### Visuals
 
 * Animations - Irrelevant
-* Block Overlay - [LordDeatHunter's Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)
+* Block Overlay - [LordDeatHunter's Color Me Outlines](https://modrinth.com/mod/color-me-outlines)
 * Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs/)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* FOV Changer - [Illusive Soulworks's Custom FOV](https://curseforge.com/minecraft/mc-mods/custom-fov-fabric)
+* FOV Changer - Partially in vanilla's accessibility menu
 * Glint - ?
-* Hitbox - [PingIsFun's Hitbox+](https://modrinth.com/mod/hitboxplus)
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
+* Hitbox - ?
+* Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * Nick Hider - ?
 * Particles - ?
 * Time Changer - [Motschen's Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
-* Waypoints - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (BANNABLE ON HYPIXEL!)
+* Waypoints **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * Weather Changer - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
-* Zoom - [isXander's Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
+* Zoom - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
 
 ### HUD
 
@@ -50,14 +50,14 @@ mod authors and it is advised against supporting them.
 
 * AutoFriend - ?
 * Auto Tip - ?
-* Auto GG - ?
+* Auto GG - [ZtereoHYPE's AutoTechno](https://modrinth.com/mod/autotechno)
 * Anti GG - ?
 * LevelHead - ?
 
 ### Other
 
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
-* Discord - ?
+* Discord - [CDAGaming's CraftPresence](https://modrinth.com/mod/craftpresence)
 * Oof Mod - ?
 * Perspective - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
 * Screenshot - ?
@@ -71,8 +71,8 @@ mod authors and it is advised against supporting them.
 
 ### Blur Settings
 
-* Inventory - [Motschen's Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
-* Menu - [Motschen's Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
+* Inventory - [Motschen's Blur](https://modrinth.com/mod/blur-fabric)
+* Menu - [Motschen's Blur](https://modrinth.com/mod/blur-fabric)
 
 ### Sound
 

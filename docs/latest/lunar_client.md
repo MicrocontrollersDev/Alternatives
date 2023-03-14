@@ -29,7 +29,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 * Hide Incoming Messages - ?
 * Stack Spam Messages - [Caoimhe's Compact Chat](https://modrinth.com/mod/compact-chat)
 * Stop Servers from Closing Chat - ?
-* Text Shadow - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
+* Text Shadow - ?
 * Unlimited Chat - [JackFred2's More Chat History](https://modrinth.com/mod/morechathistory)
 * Chat Animation - ?
 
@@ -58,17 +58,17 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 ### Nametags
 
-* Nametag Text Shadow -  [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
-* Third Person Nametag - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
+* Nametag Text Shadow -  ?
+* Third Person Nametag - ?
 * Show Nametag Icon - Irrelevant
-* Nametag Opacity - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
+* Nametag Opacity - ?
 
 ### Visual Mods
 
 * 2D Items - ?
 * UHC Overlay - ? (Resourcepacks work instead)
-* FOV Mod - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
-* Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
+* FOV Mod - ?
+* Menu Blur - [Motschen's Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Waypoints - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (BANNABLE ON HYPIXEL!)
 * Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
@@ -105,7 +105,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 * Shift Effects in Inventory - Vanilla
 * Show Achievements - ?
-* Show Crosshair in Third Person - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
+* Show Crosshair in Third Person - ?
 
 #### Cosmetic Options
 
@@ -116,9 +116,9 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 * Smart Disconnect - ?
 * Borderless Fullscreen - [comp500's Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
-* Disable Weather - ?
+* Disable Weather - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
 * Modern Keybind Handling - Vanilla
-* Minimal View Bobbing - [Polyfrost's Easeify](https://github.com/Polyfrost/Easeify/releases/latest)
+* Minimal View Bobbing - [InboundBark's No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod)
 * Unfocused FPS Limiter - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
 #### Texture Pack Options
