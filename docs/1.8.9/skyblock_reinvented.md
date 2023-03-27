@@ -23,10 +23,10 @@ alternatives that still get updated.
 
 * Hide Ironman in Scoreboard - ?
 * Pickup Stash Keybind / Reminder - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Dark Auction Reminder - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* Dragon Tracker - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* Discord Rich Presence - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* Treasure Hunter Waypoints / Solver - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+* Dark Auction Reminder - ?
+* Dragon Tracker - ?
+* Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
+* Treasure Hunter Waypoints / Solver - ?
 * Show Cake Year as Stack Size - ?
 * Skyblock Updates - ?
 
@@ -48,7 +48,7 @@ alternatives that still get updated.
 
 ### General
 
-* Shorten/Remove Teleport Pad Names - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+* Shorten/Remove Teleport Pad Names - ?
 
 ### Misc
 
@@ -79,8 +79,8 @@ alternatives that still get updated.
 
 ### Slayer
 
-* Slayer Info - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest) & [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Remove Sven Pups - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+* Slayer Info - ? & [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Remove Sven Pups - ?
 * Maddox Clickable Message - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Reminder to Start New Slayer - ?
 
@@ -139,7 +139,7 @@ alternatives that still get updated.
 ### Rendering
 
 * Hub Overlay - ?
-* Hide villagers in Hub - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+* Hide villagers in Hub - ?
 * Overlay Uncollected Jacob’s Contests - ?
 
 ### Sounds

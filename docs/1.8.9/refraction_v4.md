@@ -4,7 +4,6 @@
 
 * [OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5.jar)
 * [Patcher](https://sk1er.club/mods/patcher)
-* [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
 * [BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
 * [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
 * [AutoGG](https://sk1er.club/mods/autogg)
@@ -46,6 +45,8 @@
     * PerspectiveMod is now **bannable** on Hypixel.
 * ChatTriggers (ctjs)
     * ChatTriggers may cause many performance issues depending on your modules and most of the modules you can get are readily available in other mods. Many people also do not know how to use ChatTriggers and never import any modules, leading to an increased startup time for no reason.
+* [SkyblockAddons](https://microcontrollersdev.github.io/Alternatives/1.8.9/skyblockaddons)
+    * SkyblockAddons is old, unmaintained, and has many features that are either useless or simply do not work anymore. It will cause issues on Skyblock.
 * [Skypixel](https://microcontrollersdev.github.io/Alternatives/1.8.9/skypixel)
     * Skypixel is old, unmaintained, and has many features that are either useless or simply do not work anymore. It will cause issues on Skyblock.
 * [LabyMod](https://microcontrollersdev.github.io/Alternatives/1.8.9/labymod)

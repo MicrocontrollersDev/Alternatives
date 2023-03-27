@@ -127,7 +127,7 @@ mod authors and it is advised against supporting them.
 ## External Mods
 
 * [Patcher](https://sk1er.club/mods/patcher)
-* [SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+* SkyblockAddons - [See alternatives]((https://microcontrollersdev.github.io/Alternatives/1.8.9/skyblockaddons))
 * [NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * [ChatTriggers](https://github.com/ChatTriggers/ChatTriggers/releases/latest)
 * [Apec](https://github.com/BananaFructa/Apec/releases/latest)

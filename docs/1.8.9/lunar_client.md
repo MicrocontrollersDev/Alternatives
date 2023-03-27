@@ -74,7 +74,7 @@
 
 ### Skyblock
 
-* SkyblockAddons - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+* SkyblockAddons - [See alternatives]((https://microcontrollersdev.github.io/Alternatives/1.8.9/skyblockaddons))
 * NotEnoughUpdates - [Moulberry's Not Enough Updates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Cowlection - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)

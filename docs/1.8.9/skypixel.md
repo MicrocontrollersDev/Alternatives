@@ -13,7 +13,7 @@ the game.
 * Cancel Inventory Drag - NEU?
 * Keybinds - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Client Command Fix - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Show Skyblock Item ID in Debug Tooltip - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+* Show Skyblock Item ID in Debug Tooltip - ?
 
 # Contributors
 

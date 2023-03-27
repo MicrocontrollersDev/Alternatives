@@ -11,8 +11,8 @@ if the features you use can be replaced.
 
 ### QoL
 
-* Jungle Axe Cooldown - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
-* Grappling Hook Cooldown - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+* Jungle Axe Cooldown - ?
+* Grappling Hook Cooldown - ?
 * Zealot Respawn Cooldown - ?
 * Placed Summoning Eye Tracker - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Leave Party when Last Eye Placed - ?
@@ -28,11 +28,11 @@ if the features you use can be replaced.
 * Fancy Color for Supporters - Irrelevant ([Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) allows you to change the color of your name as well)
 * Show Item Rarity - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Item Rarity Opacity - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Make Special Zealot Held Gold Block - [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+* Make Special Zealot Held Gold Block - ?
 * Hitbox Render Mode - ([Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)) ?
 * Glowing Dragon Armor - ?
 * Disable Block Particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Fix Skyblock Enchant Tag - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest) / [Biscuit's SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons/releases/latest)
+* Fix Skyblock Enchant Tag - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 * Disable Night Vision - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Display Realtime Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
