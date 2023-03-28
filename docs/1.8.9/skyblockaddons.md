@@ -22,15 +22,15 @@ alternatives that still get updated.
 * Defence Percentage - ?
 * Defence Symbol - ?
 * Disable Boss Messages - ?
-* Disable Enderman Teleportation
-* Disable Location Not Perfect Warnings -?
+* Disable Enderman Teleportation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Disable Location Not Perfect Warnings - ?
 * Disable Magical Mushroom Soup Messages - ?
 * Disable Mort Messages - ?
 * Disable Night Vision Potion Blinking - ?
 * Disable Teleport Pad Messages - ?
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Dolphin Pet Tracker - ?
-* Don't Reset Cursor Between Inventories - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Don't Reset Cursor Between Inventories - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Dragon Tracker - ?
 * Drill Fuel Bar - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Drill Fuel Number - ?
@@ -50,16 +50,16 @@ alternatives that still get updated.
 * Health Change Number - ?
 * Health Number - ?
 * Hide Far Entities in Lobby - ?
-* Hide Food & Armor Bar - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Hide Food & Armor Bar - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Menu Glass Pane Tooltips - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Hide Other Player's Presents - ?
-* Hide Pet Health Bar - ?
+* Hide Pet Health Bar - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Players Near Important NPCs - ?
-* Hide Players at Hub Spawn Point - ?
+* Hide Players at Hub Spawn Point - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Skeleton's Helmet Bones - ?
 * Hide Sven Pup Nametags - ?
 * Hide True Defense - ?
-* Hide Vanilla Health Bar - ?
+* Hide Vanilla Health Bar - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Item Drop Confirmation - ?
 * Item Pickup Log - ?
 * Jacob's Contest Timer - ?
@@ -75,7 +75,7 @@ alternatives that still get updated.
 * Parse Enchant Tooltips - ?
 * Potion and Powerup Timers - ?
 * Power Orb Display - ?
-* Prevent Walking After Death - ?
+* Prevent Walking After Death - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Reforge Filter - ?
 * Replace Roman Numerals on Items - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Rock Pet Tracker - ?
