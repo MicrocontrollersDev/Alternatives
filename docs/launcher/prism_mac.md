@@ -18,7 +18,7 @@ Minecraft 1.16 and below all use Java 8, while 1.17 and above use Java 17+. I re
 In order to download Java, we will first head to the [Adoptium download page](https://adoptium.net/temurin/releases). Adoptium is an open source Java distribution that does not require a paid account to install, and is made by the Eclipse Foundation, a very reputable source. To install, we will use the dropdown boxes to make it easier to find the versions of Java we need
 
 - Operating System: macOS
-- Architecture: x64
+- Architecture: x64 (or Arm if on M1/M2)
 - Package Type: JRE
 - Version: 8 or 17 (download one of them, then download the other after)
 
