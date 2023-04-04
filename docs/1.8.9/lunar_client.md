@@ -2,6 +2,16 @@
 
 ## Mods
 
+### Uncategorized
+
+I do not have LunarClient and don't intend on downloading it. If you know where these should be located, please PR or make an issue!
+
+* Lighting - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* PvP Info - ?
+* Titles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Fog Customizer - ?
+* Item Tracker - ?
+
 ### 1.7 Visuals
 
 * Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
@@ -22,24 +32,34 @@
 
 ### Hypixel Mods
 
+
+* Remove Guild MOTD - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Remove Guild on Tab - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Short Chat Channel Messages - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 * Auto Friend - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 * Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
 * Auto GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 * Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 * Auto Who - No longer works on Hypixel
-* Remove Guild MOTD - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Remove Guild on Tab - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Remove Lobby Join Messages - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Short Chat Channel Messages - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 * Level Head - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
 * Hypixel Autocomplete - [Sk1er's Hypixel Autocomplete](https://sk1er.club/mods/hypixel_auto_complete)
+* Hide Private Messages - 
+* Hide Team Chat - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
+* Hide Party Chat - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
+* Hide Guild Chat - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
+* Hide Shouts - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
+* Hide Spectator Chat - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
+* Hide Lobby Join Messages - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Hide Join Messages - ?
+* Hide Leave Messages - ?
+* Hide Soul Well Announcements - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 
 #### Bedwars
 
 * Stats - [KAD7's HyStats](https://www.mediafire.com/file/so4sw1wn8aso68i/HyStats-v4.1_1.8.9.jar/file)
 * Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm/versions)
-* Resource Counter - [Sk1er's Bedwars Resource Display](https://sk1er.club/mods/sk1er-bedwars_resource_display) (config may be confusing for most users, will soon be replaced by Hytils Reborn)
-* Colored Beds - ?
+* Resource Counter - [Sk1er's Bedwars Resource Display](https://sk1er.club/mods/sk1er-bedwars_resource_display)
+* Colored Beds - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 * Hardcore Hearts - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 
 ### HUD Mods
@@ -55,15 +75,18 @@
 * Item Tracker - ?
 * Key Strokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
 * Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Momentum Mod - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
 * Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Playtime - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Potion Counter - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
 * Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Server Address -  [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Team View - Irrelevant
+* WAILA - [profmobius's WAILA](https://www.curseforge.com/minecraft/mc-mods/waila/files/2270821)
 
 ### Nametags
 
@@ -93,7 +116,7 @@
 * Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
 * Shiny Pots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
-* Particle Mod - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced/versions) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189)
+* Particle Mod - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced/versions) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189) + [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Cooldowns - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
 * Time Changer - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
 * Block Outline - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
@@ -175,6 +198,7 @@
 * In Game Account Switcher - [Sk1er's Essential](https://essential.gg)
 * In Game Server Switcher - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Save Controls Between Versions - [leduyquang753's Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/)
+* Polling Rate Warning - [yukiqt, Mixces, & RayDeeUx's RawInput](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) (This ACTUALLY fixes the problem instead of warning you about it)
 
 # Contributors
 
