@@ -41,14 +41,14 @@ that you avoid using it if possible.
 * Name History - Removed by Mojang for privacy concerns.
 * Chat Icons - ?
 * Chat Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Shortcuts - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+* Shortcuts - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Player Menu - ?
 * Disable Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 * Adjustable Chat - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
 * Advanced Chat Settings
-    * Scroll Speed - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+    * Scroll Speed - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
     * Chat Row Limit - ?
-    * Animated Chat - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+    * Animated Chat - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Secondary Chat - ?
 
 ### PvP
@@ -144,7 +144,7 @@ that you avoid using it if possible.
 * BetterHat - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions)
 * Better Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * BetterScreenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* ChatCopied - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+* ChatCopied - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * ChatLog - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * ChatTime - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * ChatTranslator - ?
