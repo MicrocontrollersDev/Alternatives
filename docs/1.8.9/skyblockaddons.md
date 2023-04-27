@@ -10,9 +10,9 @@ alternatives that still get updated.
 * Adjust Zoom with +/- Keys - ?
 * Allow Locking Slots - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Axe Cooldown Indicator - ?
-* Bal Boss Warning - Useless?
+* Bal Boss Warning - Useless
 * Birch Park Rainmaker Timer - ?
-* Brood Mother Warning - Useless?
+* Brood Mother Warning - Useless
 * Change Enderchest Color in the End - ?
 * Change Zealot Color - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Color Bow Green When Using Toxic Arrow Poison - ?
