@@ -129,12 +129,6 @@ alternatives that still get updated.
 * Zealout Counter * Total Zealot Count - ?
 * Zealout Counter Explosive Bow Support - ?
 
-
 # Contributors
 
-* [hannibal2](https://github.com/hannibal002)   
-
-
-# Contributors
-
-* [hannibal2](https://github.com/hannibal002)   
+* [hannibal2](https://github.com/hannibal002)
