@@ -30,4 +30,4 @@ click [here](https://microcontrollersdev.github.io/Alternatives/).
 
 ## Copyright
 
-© MicrocontrollersDev. All Rights Reserved.![Uploading image.png…]()
+© MicrocontrollersDev. All Rights Reserved.
