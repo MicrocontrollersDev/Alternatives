@@ -8,6 +8,10 @@ and modpacks.
 
 </div>
 
+## Discord
+
+[Join my Discord server!](https://discord.gg/rejfv9kFJj)
+
 ## Changes
 The Markdown documents for this repo
 have been moved to their own site
