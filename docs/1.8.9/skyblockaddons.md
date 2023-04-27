@@ -9,12 +9,12 @@ alternatives that still get updated.
 * "Minion Cannot Reach" Warning - ?
 * Adjust Zoom with +/- Keys - ?
 * Allow Locking Slots - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Axe Cooldown Indicator
-* Bal Boss Warning
+* Axe Cooldown Indicator - ?
+* Bal Boss Warning - Useless?
 * Birch Park Rainmaker Timer - ?
-* Brood Mother Warning
+* Brood Mother Warning - Useless?
 * Change Enderchest Color in the End - ?
-* Change Zealot Color - ?
+* Change Zealot Color - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Color Bow Green When Using Toxic Arrow Poison - ?
 * Compact Tab List - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (not really compact, but cleans it up a bit)
 * Dark Auction Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
@@ -25,7 +25,7 @@ alternatives that still get updated.
 * Disable Enderman Teleportation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Disable Location Not Perfect Warnings - ?
 * Disable Magical Mushroom Soup Messages - ?
-* Disable Mort Messages - ?
+* Disable Mort Messages - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Disable Night Vision Potion Blinking - ?
 * Disable Teleport Pad Messages - ?
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
@@ -62,7 +62,7 @@ alternatives that still get updated.
 * Hide Vanilla Health Bar - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Item Drop Confirmation - ?
 * Item Pickup Log - ?
-* Jacob's Contest Timer - ?
+* Jacob's Contest Timer - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Leather Backpack Opening Sound - ?
 * Legendary Sea Creature Warning - ?
 * Mana Bar - ?
@@ -83,10 +83,10 @@ alternatives that still get updated.
 * Show Bait List While Holding a Rod - ?
 * Show Base Stat Boost for Dungeon Items - ?
 * Show Broken Dragon Fragments - ?
-* Show Crimson Armor Stacks
+* Show Crimson Armor Stacks - ?
 * Show Critical Dungeon Teammates  - ?
 * Show Dungeon Healing Circle Wall - ?
-* Show Dungeon Milestone - ?
+* Show Dungeon Milestone - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Show Entity Outlines - ?
 * Show Experimentation Table Tooltips - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Show Floor Obtained Dungeon Items - ?
@@ -98,7 +98,7 @@ alternatives that still get updated.
 * Show Reforge Overlay - ?
 * Show SBA Button in Pause Menu - Irrelevant
 * Show Skyblock Item ID on Hover - ?
-* Show Stacking Enchant Progress - ?
+* Show Stacking Enchant Progress - [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest)
 * Show Sword Kills - ?
 * Show What Fetchur Wants Today - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show if Item's Rarity has been Upgraded - ?
@@ -113,7 +113,7 @@ alternatives that still get updated.
 * Slayer Tracker - Voidgloom/Enderman - ?
 * Sound Indicator for Fishing - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Special Zealot Alert - ?
-* Speed Percentage - ?
+* Speed Percentage - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) (in Garden only)
 * Spirit Sceptre/Wither Blade Damage Display - ?
 * Spooky Event Candy/Points Counter - ?
 * Stop Bonzo's Staff Sounds - ?
@@ -128,3 +128,8 @@ alternatives that still get updated.
 * Zealout Counter * Total Eye Count - ?
 * Zealout Counter * Total Zealot Count - ?
 * Zealout Counter Explosive Bow Support - ?
+
+
+# Contributors
+
+* [hannibal2](https://github.com/hannibal002)   
