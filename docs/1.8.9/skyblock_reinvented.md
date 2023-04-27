@@ -27,7 +27,7 @@ alternatives that still get updated.
 * Dragon Tracker - ?
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Treasure Hunter Waypoints / Solver - ?
-* Show Cake Year as Stack Size - ?
+* Show Cake Year as Stack Size - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Skyblock Updates - ?
 
 ### QOL
@@ -48,7 +48,7 @@ alternatives that still get updated.
 
 ### General
 
-* Shorten/Remove Teleport Pad Names - ?
+* Shorten/Remove Teleport Pad Names - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 
 ### Misc
 
@@ -58,7 +58,7 @@ alternatives that still get updated.
 ### Dungeons
 
 * Stop Opening Chests - ?
-* Clean Ending of Dungeons - ?
+* Clean Ending of Dungeons - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Bonzo Mask Alert - [Sychic and Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (custom alerts)
 * Hide Guided Sheeps - ?
 * Watcher Ready Reminder - [Sychic and Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (custom alerts)
@@ -82,7 +82,7 @@ alternatives that still get updated.
 * Slayer Info - ? & [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Sven Pups - ?
 * Maddox Clickable Message - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Reminder to Start New Slayer - ?
+* Reminder to Start New Slayer - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 
 ### Fishing
 
@@ -155,3 +155,4 @@ alternatives that still get updated.
 * [moisty](https://github.com/Mqisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
+* [hannibal2](https://github.com/hannibal002)
