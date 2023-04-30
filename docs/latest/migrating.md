@@ -96,7 +96,7 @@ These are essential mods that are required for some fabric mods to work.
 | Mod | Description | Author |
 | --- | --- | --- |
 | [Quilted Fabric API](https://modrinth.com/mod/qsl) | Required for most Quilt/Fabric mods. | [Quilt Team](https://github.com/QuiltMC) |
-| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | Required for mods that use Kotlin. | [Fabric Team](https://github.com/FabricMC) |
+| [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl) | Required for mods that use Kotlin. | [Quilt Team](https://github.com/QuiltMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods in-game, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
 | [Indium](https://modrinth.com/mod/indium) | Adds FRAPI support to Sodium, making it necessary to use for some of the mods on this list to work. This mod is merely temporary and will be removed once Sodium adds FRAPI/FREX support itself. | [comp500](https://github.com/comp500) |
 | [Architectury](https://modrinth.com/mod/architectury-api) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
