@@ -300,5 +300,6 @@ Some notes:
 - [Mayaqq](https://github.com/MayaqqDev)
 - [voxxal](https://github.com/voxxal)
 - [Wyvest](https://github.com/Wyvest)
+* [yedonbro](https://github.com/yedonbro)
 
 And a special thanks to [LambdAurora](https://github.com/LambdAurora) for her own [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) gist that first helped me start using Fabric and helped with inspiration and mod finding for this list.

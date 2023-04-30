@@ -53,4 +53,5 @@
 * [voxxal](https://github.com/voxxal)
 * [Wyvest](https://github.com/Wyvest)
 * [yan](https://github.com/yanNotDev)
+* [yedonbro](https://github.com/yedonbro)
 * [Zetvue](https://zetvue.github.io)
