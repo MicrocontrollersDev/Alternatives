@@ -101,7 +101,9 @@ These are essential mods that are required for some fabric mods to work.
 | [Indium](https://modrinth.com/mod/indium) | Adds FRAPI support to Sodium, making it necessary to use for some of the mods on this list to work. This mod is merely temporary and will be removed once Sodium adds FRAPI/FREX support itself. | [comp500](https://github.com/comp500) |
 | [Architectury](https://modrinth.com/mod/architectury-api) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
 | [Cloth Config](https://modrinth.com/mod/cloth-config) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
-| [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | Required for a few mods such as Litematica. | [Matti Ruohonen](https://github.com/maruohon) |
+| [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | Required for a few mods such as Litematica. | [Matti Ruohonen](https://github.com/maruohon) 
+| [Iris & Oculus Flywheel Compat](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) | Compatibilaty between Flywheel and shaders. | [Red Face](https://github.com/leon-o) |
+
 
 
 ### Performance
@@ -134,6 +136,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) |
 | [Noxesium](https://modrinth.com/mod/noxesium) | Contains several smaller performance improvements and also has many visual bug fixes for the MCCI server. | [Noxcrew](https://github.com/Noxcrew) |
 | [QuiltGoSlightlyFasterLol - No 1.19.4 Yet](https://modrinth.com/mod/quiltgoslighlyfasterlol) | Makes Quilt launch slightly faster. | [CoolMineman](https://github.com/CoolMineman) |
+| [Flywheel- No 1.19.3 Yet](https://www.curseforge.com/minecraft/mc-mods/flywheel) | Optimizes tile entity rendering. | [Jozufozu](https://github.com/Jozufozu) |
 
 ### Other Performance Mods
 
