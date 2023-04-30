@@ -102,7 +102,7 @@ These are essential mods that are required for some fabric mods to work.
 | [Architectury](https://modrinth.com/mod/architectury-api) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
 | [Cloth Config](https://modrinth.com/mod/cloth-config) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
 | [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | Required for a few mods such as Litematica. | [Matti Ruohonen](https://github.com/maruohon) 
-| [Iris & Oculus Flywheel Compat](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) | Compatibilaty between Flywheel and shaders. | [Red Face](https://github.com/leon-o) |
+| [Iris & Oculus Flywheel Compat](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) | Compatibilaty between Flywheel and shaders. | [Leon Mout](https://github.com/leon-o) |
 
 
 
