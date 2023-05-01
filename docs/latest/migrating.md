@@ -104,8 +104,6 @@ These are essential mods that are required for some fabric mods to work.
 | [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | Required for a few mods such as Litematica. | [Matti Ruohonen](https://github.com/maruohon) |
 | [Iris & Flywheel Compat - No 1.19.4 Yet](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) | Compatibilaty between Flywheel and shaders. | [Leon Mout](https://github.com/leon-o) |
 
-
-
 ### Performance
 
 These are mods that are needed for playing the latest versions of Minecraft at a reasonable FPS. These will also help decrease frame times, hopefully eliminating spikes or stuttering.
