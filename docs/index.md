@@ -4,7 +4,12 @@
 Welcome to the official website for Microcontrollers' Alternatives lists!
 
 To find a list, use the navbar at the top of the page if on PC or in the left sidebar menu on mobile.
-Lists are separated by Minecraft version and then category (client/mod/modpack) within that.
+You can also use the links below!
+
+- [1.8.9](https://microcontrollersdev.github.io/Alternatives/1.8.9/home)
+- [1.12.2](https://microcontrollersdev.github.io/Alternatives/1.12.2/home)
+- [1.19.4](https://microcontrollersdev.github.io/Alternatives/1.19.4/home)
+- [Launcher](https://microcontrollersdev.github.io/Alternatives/launcher/home)
 
 If you found any of these guides useful, please considering starring this repository on GitHub!
 

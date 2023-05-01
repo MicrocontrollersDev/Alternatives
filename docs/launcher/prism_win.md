@@ -7,7 +7,6 @@ This guide will explain the install process for Prism, as well as how we can use
 ## How to Install (Windows)
 
 - Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from Skyclient, but steps will be largely the same, except for the migrating data section.
-- If you're looking for a MacOS install guide, [click here](https://microcontrollersdev.github.io/Alternatives/launcher/prism_mac).
 
 ### Step 1 - Installing Java
 
