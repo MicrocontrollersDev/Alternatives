@@ -45,6 +45,13 @@ nav:
       - "Welcome": "index.md"
       - "Contributors": "contributors.md"
   - "1.8.9":
+      - "Home": "1.8.9/home.md"
+      - "Clients":
+        - "Badlion Client": "1.8.9/badlion_client.md"
+        - "Feather Client": "1.8.9/feather_client.md"
+        - "Hyperium": "1.8.9/hyperium.md"
+        - "LabyMod": "1.8.9/labymod.md"
+        - "Lunar Client": "1.8.9/lunar_client.md"
       - "Mods":
           - "5zig": "1.8.9/5zig.md"
           - "Dungeon Utilities": "1.8.9/dungeon_utilities.md"
@@ -55,28 +62,25 @@ nav:
           - "Skyblock Reinvented": "1.8.9/skyblock_reinvented.md"
           - "Skypixel": "1.8.9/skypixel.md"
           - "Wyvtils": "1.8.9/wyvtils.md"
-      - "Clients":
-          - "Badlion Client": "1.8.9/badlion_client.md"
-          - "Feather Client": "1.8.9/feather_client.md"
-          - "Hyperium": "1.8.9/hyperium.md"
-          - "LabyMod": "1.8.9/labymod.md"
-          - "Lunar Client": "1.8.9/lunar_client.md"
       - "Modpacks":
           - "Refraction v4": "1.8.9/refraction_v4.md"
   - "1.12.2":
+      - "Home": "1.12.2/home.md"
       - "Clients":
           - "Feather Client": "1.12.2/feather_client.md"
-  - "1.19.3":
-      - "Mods":
-          - "OptiFine": "latest/optifine.md"
+  - "1.19.4":
+      - "Home": "1.19.4/home.md"
       - "Clients":
           - "Badlion Client": "latest/badlion_client.md"
           - "Feather Client": "latest/feather_client.md"
           - "Lunar Client": "latest/lunar_client.md"
+      - "Mods":
+          - "OptiFine": "latest/optifine.md"
       - "Other":
           - "Migrating to Latest": "latest/migrating.md"
   - "Launcher":
-     - "Prism Launcher":
+      - "Home": "launcher/home.md" 
+      - "Prism Launcher":
           - "Windows": "launcher/prism_win.md"
           - "MacOS": "launcher/prism_mac.md"
           - "Linux": "launcher/prism_gnu.md"
