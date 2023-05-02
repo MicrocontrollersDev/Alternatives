@@ -20,9 +20,9 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     ### Why no longer Forge?
 
-    Forge has always been less than ideal for performance due to its large overhead for server-sided modding, which is not necessary for users wishing for a vanilla compatible experience. Fabric on the other hand is extremely lightweight and is practically identical to vanilla. It's also considered to be much easier to make mods for and is being used as the stepping stone for [Quilt](https://quiltmc.org/faq), an in-progress mod loader which will provide many more benefits to modders and users alike, which we will use in this guide instead of Fabric.
+    Forge has always been less than ideal for performance due to its large overhead for server-sided modding, which is not necessary for users wishing for a vanilla compatible experience. Fabric on the other hand is extremely lightweight and is practically identical to vanilla. It's also considered to be much easier to make mods for.
 
-    ### Installing Quilt
+    ### Installing Fabric
 
     Due to many issues with the official Minecraft launcher, we will not be using it. We will be using Prism Launcher instead, which is a much improved launcher that has many more features than the official Minecraft launcher and is made with mods in mind.
 
@@ -39,11 +39,11 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     Once this is completed, you can exit back to the main Prism Launcher menu. Click on the button at the top left that says "Add Instance". Name it whatever you want and giving a group for it is optional, but I do not recommend giving a group name until you need to better organize your instances.
 
-    Under the `Version` selector, find 1.19.3 and select it. Then in the `Mod Loader` tab directly underneath, choose Quilt. It will automatically choose the latest version of Quilt for 1.19.3 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
+    Under the `Version` selector, find 1.19.4 and select it. Then in the `Mod Loader` tab directly underneath, choose Fabric. It will automatically choose the latest version of Fabric for 1.19.4 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
 
-    ### Downloading Mods for Quilt
+    ### Downloading Mods for Fabric
 
-    This list currently consists of three different sources for mod downloads: Modrinth, GitHub, and CurseForge. This section will explain how to download mods from each of them. Also please note that all Fabric mods will work on Quilt!
+    This list currently consists of three different sources for mod downloads: Modrinth, GitHub, and CurseForge. This section will explain how to download mods from each of them.
 
     - Modrinth:
         - On the mod's page, click on the `Versions` tab. From there, you can see all versions of the mod. Make sure you download the correct one based on the Minecraft version and mod loader, click on the download icon for the newest version of the mod that fits both previous criteria.
@@ -53,7 +53,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
             - If a link does not redirect you to the latest version but rather the main page, on the right side of the page, you should find a tag icon with the latest version. 
 
     - CurseForge:
-        - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric or Quilt mod loader, and download the latest one. You can also press the `View All` button, then sort by mod loader or Minecraft version to make finding the correct jar easier.
+        - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric mod loader, and download the latest one. You can also press the `View All` button, then sort by mod loader or Minecraft version to make finding the correct jar easier.
 
     If you are using Prism Launcher, you can simply go to the mods menu for your instance and press the "Download Mods" button in the top right to search Modrinth and CurseForge directly inside the launcher.
 
@@ -95,8 +95,8 @@ These are essential mods that are required for some fabric mods to work.
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Quilted Fabric API](https://modrinth.com/mod/qsl) | Required for most Quilt/Fabric mods. | [Quilt Team](https://github.com/QuiltMC) |
-| [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl) | Required for mods that use Kotlin. | [Quilt Team](https://github.com/QuiltMC) |
+| [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://github.com/FabricMC) |
+| [Fabric Kotlin Libraries](https://modrinth.com/mod/fabric-language-kotlin) | Required for mods that use Kotlin. | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods in-game, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
 | [Indium](https://modrinth.com/mod/indium) | Adds FRAPI support to Sodium, making it necessary to use for some of the mods on this list to work. This mod is merely temporary and will be removed once Sodium adds FRAPI/FREX support itself. | [comp500](https://github.com/comp500) |
 | [Architectury](https://modrinth.com/mod/architectury-api) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
@@ -133,7 +133,6 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Fastload - No 1.19.4 Yet](https://modrinth.com/mod/fastload) | Reduces world loading times. | [BumbleSoftware](https://github.com/BumbleSoftware) |
 | [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) |
 | [Noxesium](https://modrinth.com/mod/noxesium) | Contains several smaller performance improvements and also has many visual bug fixes for the MCCI server. | [Noxcrew](https://github.com/Noxcrew) |
-| [QuiltGoSlightlyFasterLol - No 1.19.4 Yet](https://modrinth.com/mod/quiltgoslighlyfasterlol) | Makes Quilt launch slightly faster. | [CoolMineman](https://github.com/CoolMineman) |
 | [Flywheel - No 1.19.4 Yet](https://www.curseforge.com/minecraft/mc-mods/flywheel) | Optimizes tile entity rendering. | [Jozufozu](https://github.com/Jozufozu) |
 
 ### Other Performance Mods
@@ -159,7 +158,6 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Smooth Scrolling Everywhere - No 1.19.4 Yet](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Makes the scrolling in all menus smoother. (MAY HAVE A PROBLEM WITH CONFIG RESETS) | [Shedaniel](https://github.com/shedaniel) |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) |
 | [Better Recipe Book (No 1.19.3 Yet)](https://www.modrinth.com/mod/brb) | Brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
-| [Inspecio](https://modrinth.com/mod/inspecio) | Adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
 | [CompactChat - No 1.19.4 Yet](https://modrinth.com/mod/compact-chat) | Compacts duplicate chat messages to help clean your chat. It also lets you increase your chat history length. | [cbyrne](https://github.com/cbyrneee) |
 | [MixinTrace](https://modrinth.com/mod/mixintrace) | Makes it easier for mod developers to debug crash reports. | [comp500](https://github.com/comp500) |
 | [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips) | Makes tooltips more readable by preventing them from going off screen and allowing for tooltip scrolling, as well as more customization options such as custom transparency. | [isXander](https://github.com/isXander) |
@@ -219,7 +217,6 @@ Features that OptiFine provides that are not resource pack related.
 | [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
-| [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | Smart leaves. | [isXander](https://github.com/isXander) |
 | [Fabrishot - No 1.19.4 Yet](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
 
