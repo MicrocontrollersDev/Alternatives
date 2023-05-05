@@ -237,6 +237,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [Custom Entity Models](https://modrinth.com/cem) | Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures. Supports OptiFine format. | [Traben](https://github.com/btrab1) |
 | [JsonEM - No 1.19.4 Yet](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models. Does not support OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
+| [Transparent](https://modrinth.com/mod/transparent) | Transparent/translucent entities. Supports OptiFine format. | [Trikzon](https://github.com/Trikzon) |
 | [Puzzle](https://modrinth.com/mod/puzzle) | Adds custom splash screens, better logo blending, unlimited model rotations, and bigger custom models. Incorporates a platform to configure OptiFine replacements from other mods. Supports OptiFine format. | [PuzzleMC](https://github.com/PuzzleMC) |
 | [MCPatcherPatcher++ - No 1.19.4 Yet](https://modrinth.com/mod/mcpppp) | Converts from OptiFine format to newer formats. | [supsm](https://github.com/supsm) |
 
