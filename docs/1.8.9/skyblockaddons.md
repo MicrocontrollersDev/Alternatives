@@ -28,7 +28,7 @@ alternatives that still get updated.
 * Disable Mort Messages - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Disable Night Vision Potion Blinking - ?
 * Disable Teleport Pad Messages - ?
-* Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
+* Discord Rich Presence - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest) 
 * Dolphin Pet Tracker - ?
 * Don't Reset Cursor Between Inventories - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Dragon Tracker - ?
