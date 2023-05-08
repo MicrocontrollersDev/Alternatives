@@ -233,7 +233,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [Semitranslucency Fix - No 1.19.4 Yet](https://modrinth.com/mod/semitranslucency) | Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | Custom item textures. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
 | [Colormatic - No 1.19.4 Yet](https://modrinth.com/mod/colormatic) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
-| [ENtity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. Supports OptiFine format. | [Traben](https://github.com/btrab1) |
+| [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. Supports OptiFine format. | [Traben](https://github.com/btrab1) |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures. Supports OptiFine format. | [Traben](https://github.com/btrab1) |
 | [JsonEM - No 1.19.4 Yet](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models. Does not support OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
 | [Transparent](https://modrinth.com/mod/transparent) | Transparent/translucent entities. Supports OptiFine format. | [Trikzon](https://github.com/Trikzon) |
