@@ -79,7 +79,7 @@ alternatives that still get updated.
 
 ### Slayer
 
-* Slayer Info - ? & [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Slayer Info - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Sven Pups - ?
 * Maddox Clickable Message - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Reminder to Start New Slayer - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
