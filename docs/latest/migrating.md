@@ -207,8 +207,7 @@ These are mods that are more dependant on personal preference than importance.
 
 As OptiFine is no longer recommended, here are some replacements for many of it's features. Please note that some mods that have been listed in the above categories may be repeated here.
 
-#### Features ✅ 🚧 ⛔
-
+#### Features
 Features that OptiFine provides that are not resource pack related.
 
 | Mod | Description | Author
@@ -219,7 +218,7 @@ Features that OptiFine provides that are not resource pack related.
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
 
-#### Resource Packs ✅ 🚧 ⛔
+#### Resource Packs
 
 Resource pack features that OptiFine has. Not all support the OptiFine format.
 
