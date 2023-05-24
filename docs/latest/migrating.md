@@ -196,7 +196,6 @@ These are mods that are more dependant on personal preference than importance.
 | [Screencapper - No 1.19.4 Yet](https://modrinth.com/mod/screencapper) | Improves the way you share and view screenshots. | [Deftu](https://github.com/Deftu) |
 | [Better TaskBar](https://modrinth.com/mod/better-taskbar) (**Windows Only**) | Small mod that applies the windows progress animation to the Minecraft icon in the taskbar whenever loading resources or a world. | [MORIMORI0317](https://github.com/MORIMORI0317) |
 | [Gamma Utils](https://modrinth.com/mod/gamma-utils) | Fully configurable gamma utility mod. Fullbright but for Fabric. | [Sjouwer](https://github.com/Sjouwer) |
-| [Better Barriers - No 1.19.4 Yet](https://modrinth.com/mod/betterbarriers) | Provides a new method of rendering barriers that makes it easier to tell their location and does not have the visual delay regular barriers do. | [DJtheRedstoner](https://github.com/DJtheRedstoner) |
 | [Better Command Block UI ](https://modrinth.com/mod/bettercommandblockui) | Improves the command block user interface by allowing for visual newlining . | [Tectato](https://github.com/Tectato) |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats) | A visual overhaul to the statistics screen, giving useful information in a much more visually appealing format. | [TheCSDev](https://github.com/TheCSDev) | Current version may break joining some servers.
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | Shows a player's head next to their chat message in game. | [dzwdz](https://github.com/dzwdz) |
@@ -208,38 +207,36 @@ These are mods that are more dependant on personal preference than importance.
 
 As OptiFine is no longer recommended, here are some replacements for many of it's features. Please note that some mods that have been listed in the above categories may be repeated here.
 
-#### Features
+#### Features ✅ 🚧 ⛔
 
 Features that OptiFine provides that are not resource pack related.
 
 | Mod | Description | Author
 | --- | --- | --- |
+| [Iris](https://irisshaders.github.io) | Shaders. More customizable than OptiFine's. | [IrisShaders](https://github.com/IrisShaders) |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
-| [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | Smart leaves. | [isXander](https://github.com/isXander) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
 
-#### Resource Packs
+#### Resource Packs ✅ 🚧 ⛔
 
 Resource pack features that OptiFine has. Not all support the OptiFine format.
 
-| Mod | Description | Author |
-| --- | --- | --- |
-| [Custom Splash Screen - No 1.19.4 Yet](https://modrinth.com/mod/custom-splash-screen) | Custom loading screen colors. Does not support OptiFine format. | [MidnightDust](https://github.com/TeamMidnightDust) |
-| [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
-| [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
-| [MoreMcmeta](https://modrinth.com/mod/moremcmeta) | Animated textures. Does not support OptiFine format. | [soir20](https://github.com/soir20) |
-| [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. Supports OptiFine format. | [opekope2](https://github.com/opekope2) |
-| [Semitranslucency Fix - No 1.19.4 Yet](https://modrinth.com/mod/semitranslucency) | Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
-| [CIT Resewn](https://modrinth.com/mod/cit-resewn) | Custom item textures. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
-| [Colormatic - No 1.19.4 Yet](https://modrinth.com/mod/colormatic) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
-| [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. Supports OptiFine format. | [Traben](https://github.com/btrab1) |
-| [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures. Supports OptiFine format. | [Traben](https://github.com/btrab1) |
-| [JsonEM - No 1.19.4 Yet](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models. Does not support OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
-| [Transparent](https://modrinth.com/mod/transparent) | Transparent/translucent entities. Supports OptiFine format. | [Trikzon](https://github.com/Trikzon) |
-| [Puzzle](https://modrinth.com/mod/puzzle) | Adds custom splash screens, better logo blending, unlimited model rotations, and bigger custom models. Incorporates a platform to configure OptiFine replacements from other mods. Supports OptiFine format. | [PuzzleMC](https://github.com/PuzzleMC) |
-| [MCPatcherPatcher++ - No 1.19.4 Yet](https://modrinth.com/mod/mcpppp) | Converts from OptiFine format to newer formats. | [supsm](https://github.com/supsm) |
+| Mod | Feature | Supports OptiFine format| Notes | Author |
+| --- | --- | --- | --- | --- |
+| [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. | 🚧 | Use [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) by [FlashyReese](https://github.com/FlashyReese) | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
+| [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. | ✅ | | [Pepper_Bell](https://github.com/PepperCode1) |
+| [MoreMcmeta](https://modrinth.com/mod/moremcmeta) | Animated textures. | ⛔ | | [soir20](https://github.com/soir20) |
+| [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. | ✅ | | [opekope2](https://github.com/opekope2) |
+| [Semitranslucency Fix - No 1.19.4 Yet](https://modrinth.com/mod/semitranslucency) | Fixes semitranslucent textures. | 🚧 | Not sure if OptiFIne even does this. | [ruvaldk](https://github.com/ruvaldak) |
+| [CIT Resewn](https://modrinth.com/mod/cit-resewn) | Custom item textures. | ✅ | | [SHsuperCM](https://github.com/SHsuperCM) |
+| [Colormatic - No 1.19.4 Yet](https://modrinth.com/mod/colormatic) | Custom colors. | ⛔ | | [Thalia](https://github.com/kvverti) |
+| [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. | ✅ | More customizable. | [Traben](https://github.com/btrab1) |
+| [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures.| ✅ | More customizable. | [Traben](https://github.com/btrab1) |
+| [JsonEM - No 1.19.4 Yet](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models. | ⛔ | | [FoundationGames](https://github.com/FoundationGames) |
+| [Transparent](https://modrinth.com/mod/transparent) | Transparent/translucent entities. | ✅ | | [Trikzon](https://github.com/Trikzon) |
+| [Puzzle](https://modrinth.com/mod/puzzle) | Custom splash screens, better logo blending, unlimited model rotations, and bigger custom models. | ✅ | | [PuzzleMC](https://github.com/PuzzleMC) |
 
 ### Internal Shader
 
