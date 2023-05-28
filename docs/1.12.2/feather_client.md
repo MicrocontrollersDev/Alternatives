@@ -21,27 +21,27 @@ mod authors and it is advised against supporting them.
 * Nick Hider - ?
 * Particles - ?
 * Time Changer - ?
-* Waypoints - ?
+* Waypoints - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/all?filter-game-version=2020709689%3A6756)
 * Weather Changer - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
 * Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
-* Armor Status - ?
+* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
 * Boss Bar - ?
-* CPS - ?
-* Combo Display - ?
-* Coordinates - ?
-* Direction - ?
-* FPS - ?
+* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* Combo Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
 * Item Counter - ?
 * Item Info - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Pack Display - ?
-* Ping - ?
-* Potion Effects - ?
-* Reach Display - ?
-* Saturation - ?
+* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
 * Scoreboard - ?
-* Time - ?
+* Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
 
 ### Hypixel
 * AutoFriend - ?
@@ -53,12 +53,12 @@ mod authors and it is advised against supporting them.
 ### Other
 
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
-* Discord - ?
+* Discord - [CDAGaming's CraftPresence](https://modrinth.com/mod/craftpresence/version/v2.0.0-rc.3+1.12.2)
 * Oof Mod - ?
 * Perspective - [Cynosphere's Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux/files/all?filter-game-version=2020709689%3A6756)
 * Screenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
-* Server Address - ?
+* Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
 * Snaplook - ?
 * Toggle Sprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
 * Voice - ?
