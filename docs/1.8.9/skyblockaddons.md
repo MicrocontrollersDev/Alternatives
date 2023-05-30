@@ -5,6 +5,11 @@ will no longer have updates, which
 could lead to many features breaking 
 over time. It is recommended to use 
 alternatives that still get updated.
+UPDATE: There is currently an unofficial SBA 
+fork that includes tons of features
+and is most likely safe.
+
+* Unofficial SBA Fork - [Fix3dll's SkyblockAddons Fork](https://github.com/Fix3dll/SkyblockAddons/actions) (WARNING: You need a GitHub account to download this SBA Version for now)
 
 * "Minion Cannot Reach" Warning - ?
 * Adjust Zoom with +/- Keys - ?
