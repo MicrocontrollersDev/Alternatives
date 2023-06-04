@@ -228,7 +228,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. | ✅ | | [Pepper_Bell](https://github.com/PepperCode1) |
 | [MoreMcmeta](https://modrinth.com/mod/moremcmeta) | Animated textures. | ⛔ | | [soir20](https://github.com/soir20) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. | ✅ | | [opekope2](https://github.com/opekope2) |
-| [Semitranslucency Fix - No 1.19.4 Yet](https://modrinth.com/mod/semitranslucency) | Fixes semitranslucent textures. | 🚧 | Not sure if OptiFine even does this. | [ruvaldk](https://github.com/ruvaldak) |
+| [Translucency Fix](https://modrinth.com/mod/translucencyfix) | Fixes semitranslucent textures. | 🚧 | Not sure if OptiFine even does this. | [ruvaldk](https://github.com/ruvaldak) |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | Custom item textures. | ✅ | | [SHsuperCM](https://github.com/SHsuperCM) |
 | [Colormatic - No 1.19.4 Yet](https://modrinth.com/mod/colormatic) | Custom colors. | ⛔ | | [Thalia](https://github.com/kvverti) |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. | ✅ | More customizable. | [Traben](https://github.com/btrab1) |
