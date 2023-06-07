@@ -85,7 +85,7 @@ As of 1.19, Mojang has added the ability to report chat messages. While on the s
 | Mod | Description | Author |
 | --- | --- | --- |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Server side and client side mod. Prevents chat reporting from working if `enforce-secure-chat` is not enabled. Works best if installed on both sides but is not required. | [Aizistral](https://github.com/Aizistral-Studios) |
-| [Guardian - No 1.19.4 Yet](https://github.com/nodusclient/guardian/releases/latest) | Prevents people from including context in chat reports against you. This can help prevent servers falsifying evidence against you. This will not protect against individual reports, be a good person and only use this to prevent unfair bans! | [Nodus](https://github.com/nodusclient) |
+| [Guardian](https://github.com/nodusclient/guardian/releases/latest) | Prevents people from including context in chat reports against you. This can help prevent servers falsifying evidence against you. This will not protect against individual reports, be a good person and only use this to prevent unfair bans! | [Nodus](https://github.com/nodusclient) |
 
 Are you a server owner using Bukkit, Spigot, Paper, or a similar plugin based server? Check out [Freedom Chat](https://modrinth.com/plugin/freedomchat) by [eim](https://github.com/e-im) for similar functionality to No Chat Reports!
 
