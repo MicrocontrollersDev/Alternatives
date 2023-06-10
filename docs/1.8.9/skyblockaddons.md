@@ -123,11 +123,11 @@ alternatives that still get updated.
 * Ticker/Charges Display - ?
 * Trevor The Trapper Features - ?
 * Use New Chroma Effect - ?
-* Zealout Counter * Count Since Last Eye - ?
-* Zealout Counter * Show Zealots Per Eye - ?
-* Zealout Counter * Total Eye Count - ?
-* Zealout Counter * Total Zealot Count - ?
-* Zealout Counter Explosive Bow Support - ?
+* Zealot Counter - Count Since Last Eye - ?
+* Zealot Counter - Show Zealots Per Eye - ?
+* Zealot Counter - Total Eye Count - ?
+* Zealot Counter - Total Zealot Count - ?
+* Zealot Counter Explosive Bow Support - ?
 
 # Contributors
 
