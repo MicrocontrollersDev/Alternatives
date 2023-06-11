@@ -103,7 +103,7 @@ These are essential mods that are required for some fabric mods to work.
 | [Cloth Config](https://modrinth.com/mod/cloth-config) | Several mods | [Shedaniel](https://github.com/shedaniel) |
 | [MaLiLib (No 1.20 Yet)](https://www.curseforge.com/minecraft/mc-mods/malilib) | Litematica, MiniHUD | [Matti Ruohonen](https://github.com/maruohon) |
 | [Ash API](https://modrinth.com/mod/ash-api) | Transparent. | [Trikzon](https://github.com/Trikzon) |
-| [Searchables (No 1.20 Yet)](https://www.curseforge.com/minecraft/mc-mods/searchables) | Controlling | [Jaredllll08](https://github.com/jaredlll08) |
+| [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) | Controlling | [Jaredllll08](https://github.com/jaredlll08) |
 | [DarkKore (No 1.20 Yet)](https://modrinth.com/mod/darkkore) | KronHUD, BetterBlockOutlines | [DarkKronicle](https://github.com/DarkKronicle) |
 
 ### Performance
@@ -224,7 +224,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | Mod | Feature | Supports OptiFine format| Notes | Author |
 | --- | --- | --- | --- | --- |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. | 🚧 | Use [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) by [FlashyReese](https://github.com/FlashyReese) | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
-| [Continuity (No 1.20 Yet)](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. | ✅ | | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. | ✅ | | [Pepper_Bell](https://github.com/PepperCode1) |
 | [MoreMcmeta (No 1.20 Yet)](https://modrinth.com/mod/moremcmeta) | Animated textures. | ⛔ | | [soir20](https://github.com/soir20) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. | ✅ | | [opekope2](https://github.com/opekope2) |
 | [Translucency Fix (No 1.20 Yet)](https://modrinth.com/mod/translucencyfix) | Fixes semitranslucent textures. | 🚧 | Not sure if OptiFine even does this. | [ruvaldk](https://github.com/ruvaldak) |
@@ -235,7 +235,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [JsonEM (No 1.20 Yet)](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models. | ⛔ | | [FoundationGames](https://github.com/FoundationGames) |
 | [Transparent](https://modrinth.com/mod/transparent) | Transparent/translucent entities. | ✅ | | [Trikzon](https://github.com/Trikzon) |
 | [Puzzle](https://modrinth.com/mod/puzzle) | Custom splash screen, better logo blending, unlimited model rotations, and bigger custom models. | ✅ | | [PuzzleMC](https://github.com/PuzzleMC) |
-| [Custom Splash Screen (No 1.20 Yet)](https://modrinth.com/mod/custom-splash-screen) | Custom splash screen. | ⛔ | More customizable (than OptiFine and Puzzle). | [Motschen](https://github.com/Motschen) |
+| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | Custom splash screen. | ⛔ | More customizable (than OptiFine and Puzzle). | [Motschen](https://github.com/Motschen) |
 
 ### Internal Shader
 
