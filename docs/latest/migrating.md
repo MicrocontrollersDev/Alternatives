@@ -85,9 +85,9 @@ As of 1.19, Mojang has added the ability to report chat messages. While on the s
 | Mod | Description | Author |
 | --- | --- | --- |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Server side and client side mod. Prevents chat reporting from working if `enforce-secure-chat` is not enabled. Works best if installed on both sides but is not required. | [Aizistral](https://github.com/Aizistral-Studios) |
-| [Guardian](https://github.com/nodusclient/guardian/releases/latest) | Prevents people from including context in chat reports against you. This can help prevent servers falsifying evidence against you. This will not protect against individual reports, be a good person and only use this to prevent unfair bans! | [Nodus](https://github.com/nodusclient) |
+| [Guardian (No 1.20 Yet)](https://github.com/nodusclient/guardian/releases/latest) | Prevents people from including context in chat reports against you. This can help prevent servers falsifying evidence against you. This will not protect against individual reports, be a good person and only use this to prevent unfair bans! | [Nodus](https://github.com/nodusclient) |
 
-Are you a server owner using Bukkit, Spigot, Paper, or a similar plugin based server? Check out [Freedom Chat](https://modrinth.com/plugin/freedomchat) by [eim](https://github.com/e-im) for similar functionality to No Chat Reports!
+Are you a server owner using Bukkit, Spigot, Paper, or a similar plugin based server? Check out [Freedom Chat (No 1.20 Yet)](https://modrinth.com/plugin/freedomchat) by [eim](https://github.com/e-im) for similar functionality to No Chat Reports!
 
 ### Dependencies
 
@@ -260,7 +260,7 @@ These are mods that are too experimental or unstable that I do not recommend usi
 
 | Mod | Reasoning | Author |
 | --- | --- | --- |
-| Not Enough Crashes | NEC regularly causes the game to be in an invalid state and blames the wrong mods for crashes, making it harder for mod devs to debug. | [natanfudge](https://github.com/natanfudge) |
+| Not Enough Crashes | NEC regularly causes the game to be in an invalid state and blames the wrong mods for crashes, making it harder for mod devs to debug. It is also marked incompatible with Iris and possibly other mods. | [natanfudge](https://github.com/natanfudge) |
 | Better Beds | BetterBeds has been replaced by Enhanced Block Entities. | [Motschen](https://github.com/Motschen) |
 | Smooth Boot | While Smooth Boot does great at decreasing startup time, it is no match for DashLoader. Smooth Boot will also cause a decrease in performance for several minutes after startup according to some reports. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | FastOpenLinksAndFolders | Superseded by Debugify. | [Altrisi](https://github.com/altrisi) |
@@ -296,5 +296,3 @@ Some notes:
 * [voxxal](https://github.com/voxxal)
 * [Wyvest](https://github.com/Wyvest)
 * [yedonbro](https://github.com/yedonbro)
-
-And a special thanks to [LambdAurora](https://github.com/LambdAurora) for her own [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) gist that first helped me start using Fabric and helped with inspiration and mod finding for this list.

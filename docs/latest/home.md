@@ -15,4 +15,4 @@
 ## Other
 
 - [Migrating to Latest](https://microcontrollersdev.github.io/Alternatives/latest/migrating)
-    - This is a comprehensive list of mods for 1.19.4 and guide for installing them
+    - This is a comprehensive list of mods for Fabric 1.20 and guide on installing them

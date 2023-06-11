@@ -1,6 +1,6 @@
 # Feather "Client" Alternatives
 
-Please note that this page may be outdated due to update cycles. It is currently for 1.19.2.
+* Not yet updated to reflect 1.20
 
 WIP - Feather "Client" is a Forge/Fabric
 mod marketing itself as a client, claiming

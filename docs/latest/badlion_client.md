@@ -1,5 +1,7 @@
 # Badlion Client Alternatives
 
+* Not yet updated to reflect 1.20
+
 ## Mods
 
 ### 1.7 Visuals
