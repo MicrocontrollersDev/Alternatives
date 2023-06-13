@@ -18,7 +18,7 @@ In order to download Java, we will first head to the [Adoptium download page](ht
 
 - Operating System: Windows
 - Architecture: x64
-- Package Type: JRE
+- Package Type: JDK
 - Version: 8 or 17 (download one of them, then download the other after)
 
 Once we have chosen our download preferences, we will click the `.msi` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
