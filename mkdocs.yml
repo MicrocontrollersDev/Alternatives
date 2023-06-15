@@ -1,5 +1,5 @@
 site_name: Alternatives
-copyright: Copyright 2022 MicrocontrollersDev
+copyright: Copyright 2023 MicrocontrollersDev
 
 theme:
   favicon: assets/images/logo.png
@@ -64,10 +64,6 @@ nav:
           - "Wyvtils": "1.8.9/wyvtils.md"
       - "Modpacks":
           - "Refraction v4": "1.8.9/refraction_v4.md"
-  - "1.12.2":
-      - "Home": "1.12.2/home.md"
-      - "Clients":
-          - "Feather Client": "1.12.2/feather_client.md"
   - "1.20":
       - "Home": "latest/home.md"
       - "Clients":
