@@ -101,7 +101,7 @@ These are essential mods that are required for some fabric mods to work.
 | [Indium](https://modrinth.com/mod/indium) | Most mods | [comp500](https://github.com/comp500) |
 | [Architectury](https://modrinth.com/mod/architectury-api) | Several mods | [Shedaniel](https://github.com/shedaniel) |
 | [Cloth Config](https://modrinth.com/mod/cloth-config) | Several mods | [Shedaniel](https://github.com/shedaniel) |
-| [MaLiLib (No 1.20.1 Yet)](https://www.curseforge.com/minecraft/mc-mods/malilib) | Litematica, MiniHUD | [Matti Ruohonen](https://github.com/maruohon) |
+| [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | Litematica, MiniHUD | [Matti Ruohonen](https://github.com/maruohon) |
 | [Ash API](https://modrinth.com/mod/ash-api) | Transparent. | [Trikzon](https://github.com/Trikzon) |
 | [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) | Controlling | [Jaredllll08](https://github.com/jaredlll08) |
 | [DarkKore (No 1.20.1 Yet)](https://modrinth.com/mod/darkkore) | KronHUD, BetterBlockOutlines | [DarkKronicle](https://github.com/DarkKronicle) |
@@ -131,7 +131,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Debugify](https://modrinth.com/mod/debugify) | Fixes several bugs in Minecraft, including a few which can effect performance. This will fix lag spikes when crossing chunks and when clicking on links or the resource pack folder button, reduces time it takes to load into a world, and fixes entity collision checks being needlessly calculated client side. | [isXander](https://github.com/isXander) |
 | [Audio Engine Tweaks (No 1.20.1 Yet)](https://modrinth.com/mod/audio-engine-tweaks) | Fixes the sound pool overloading, allowing for sounds to continue playing at all time and without log spam. | [mattymatty97](https://github.com/mattymatty97) |
 | [FastAnim](https://modrinth.com/mod/fastanim) | Speeds up entity angle calculations, which may be especially noticeable when there is a high number of entities on screen. | [Lunade_](https://github.com/AViewFromTheTop) |
-| [Fastload (No 1.20.1 Yet)](https://modrinth.com/mod/fastload) | Reduces world loading times. | [BumbleSoftware](https://github.com/BumbleSoftware) |
+| [Fastload](https://modrinth.com/mod/fastload) | Reduces world loading times. | [BumbleSoftware](https://github.com/BumbleSoftware) |
 | [FastQuit (No 1.20.1 Yet)](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) |
 | [Noxesium](https://modrinth.com/mod/noxesium) | Contains several smaller performance improvements and also has many visual bug fixes for the MCCI server. | [Noxcrew (No 1.20.1 Yet)](https://github.com/Noxcrew) |
 
@@ -161,6 +161,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Chat Patches (No 1.20.1 Yet)](https://modrinth.com/mod/chatpatches) | Adds several QOL features to Minecraft's chat to make it more usable. | [mrbuilder1961](https://github.com/mrbuilder1961) |
 | [MixinTrace](https://modrinth.com/mod/mixintrace) | Makes it easier for mod developers to debug crash reports. | [comp500](https://github.com/comp500) |
 | [Adaptive Tooltips (No 1.20.1 Yet)](https://modrinth.com/mod/adaptive-tooltips) | Makes tooltips more readable by preventing them from going off screen and allowing for tooltip scrolling, as well as more customization options such as custom transparency. | [isXander](https://github.com/isXander) |
+| [Persistent Stuff](https://modrinth.com/mod/persistent-stuff) | Saves your toggle sprint (sprinting/walking), hitboxes' (enabled/disabled), chunk borders' (enabled/disabled) states across Minecraft restarts. Never toggle these at startup again. | [Andy Russo](https://github.com/AndyRusso) |
 
 ### Other Cool Mods
 
@@ -168,7 +169,7 @@ These are mods that are more dependant on personal preference than importance.
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Cosmetica (No 1.20.1 Yet)](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
+| [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
 | [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a fade-in animation to chunks similar to Bedrock Edition. | [kerudion](https://github.com/kerudion) |
 | [Distant Horizons (No 1.20.1 Yet)](https://modrinth.com/mod/distanthorizons) | Adds LODs to Minecraft, allowing for much further render distances without a big tank on performance. | [James Seibel](https://gitlab.com/jeseibel) | Phosphor |
@@ -187,8 +188,8 @@ These are mods that are more dependant on personal preference than importance.
 | [Horse Stats Vanilla (No 1.20.1 Yet)](https://modrinth.com/mod/horsestatsvanilla) | Adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
 | [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Makes some important HUD modules visible when riding a mount. | [Lortseam_](https://www.curseforge.com/members/lortseam_/projects) |
 | [Clear Despawn (No 1.20.1 Yet)](https://modrinth.com/mod/cleardespawn) | Clear Despawn makes it more obvious on which items are about to despawn by making them blink exponentially faster after a certain time. | [StrikerRockers](https://github.com/StrikerRockers-Mods) |
-| [Litematica (No 1.20.1 Yet)](https://www.curseforge.com/minecraft/mc-mods/litematica) | A schematic mod that allows you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
-| [MiniHUD (No 1.20.1 Yet)](https://www.curseforge.com/minecraft/mc-mods/minihud) | A customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
+| [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) | A schematic mod that allows you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
+| [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) | A customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
 | [Clear Skies (No 1.20.1 Yet)](https://modrinth.com/mod/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
 | [Extended Clouds](https://modrinth.com/mod/extended-clouds) | Changes cloud render distance to be same as your set render distance. | [alphaqu](https://github.com/alphaqu) |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [vlad2305m](https://github.com/vlad2305m), [thedocruby](https://github.com/thedocruby) & [henkelmax](https://github.com/henkelmax)|
