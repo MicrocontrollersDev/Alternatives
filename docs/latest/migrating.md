@@ -226,6 +226,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | --- | --- | --- | --- | --- |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. | 🚧 | Use [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) by [FlashyReese](https://github.com/FlashyReese) | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
 | [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. | ✅ | | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Animatica](https://modrinth.com/mod/animatica) | Animated textures. | ✅ | | [FoundationGames](https://github.com/FoundationGames) |
 | [MoreMcmeta (No 1.20.1 Yet)](https://modrinth.com/mod/moremcmeta) | Animated textures. | ⛔ | | [soir20](https://github.com/soir20) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. | ✅ | | [opekope2](https://github.com/opekope2) |
 | [Translucency Fix (No 1.20.1 Yet)](https://modrinth.com/mod/translucencyfix) | Fixes semitranslucent textures. | 🚧 | Not sure if OptiFine even does this. | [ruvaldk](https://github.com/ruvaldak) |
