@@ -47,7 +47,7 @@ or a discussion.
 
 ### Dwarven Mines
 
-* Show Mine Map - [ThatGravyBoat's SkyblockHUD](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Show Mine Map - [ThatGravyBoat's Erymanthus, & Nea's SkyblockHUD Death Defied](https://github.com/romangraef/SkyblockHud-Death-Defied/releases/latest)
 * Notify Events - [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
 * Mute Wind Changes - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Raffle Timer Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -76,7 +76,7 @@ or a discussion.
 * Show Gemstone Buffs - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Show Pickonimbus Durability - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Crystal Hollows Waypoints - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-* Auto Add Mining Waypoints - [ThatGravyBoat's SkyblockHUD](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Auto Add Mining Waypoints - [ThatGravyBoat's Erymanthus, & Nea's SkyblockHUD Death Defied](https://github.com/romangraef/SkyblockHud-Death-Defied/releases/latest)
 * Add Parsed Crystall Hollows Waypoints - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Ignore Waypoint Parse Messages - ?
 * Save Waypoints across Instances - ?
