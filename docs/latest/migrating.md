@@ -96,7 +96,7 @@ These are essential mods that are required for some fabric mods to work.
 | Mod | Required for | Author |
 | --- | --- | --- |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Most mods | [Fabric Team](https://github.com/FabricMC) |
-| [Fabric Kotlin Libraries](https://modrinth.com/mod/fabric-language-kotlin) | Most mods (that use kotlin) | [Fabric Team](https://github.com/FabricMC) |
+| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | Most mods (that use kotlin) | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Most mods | [Terraformers](https://github.com/TerraformersMC) |
 | [Indium](https://modrinth.com/mod/indium) | Most mods | [comp500](https://github.com/comp500) |
 | [Architectury](https://modrinth.com/mod/architectury-api) | Several mods | [Shedaniel](https://github.com/shedaniel) |
@@ -131,7 +131,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Audio Engine Tweaks (No 1.20.1 Yet)](https://modrinth.com/mod/audio-engine-tweaks) | Fixes the sound pool overloading, allowing for sounds to continue playing at all time and without log spam. | [mattymatty97](https://github.com/mattymatty97) |
 | [FastAnim](https://modrinth.com/mod/fastanim) | Speeds up entity angle calculations, which may be especially noticeable when there is a high number of entities on screen. | [Lunade_](https://github.com/AViewFromTheTop) |
 | [Fastload](https://modrinth.com/mod/fastload) | Reduces world loading times. | [BumbleSoftware](https://github.com/BumbleSoftware) |
-| [FastQuit (No 1.20.1 Yet)](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) |
+| [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) |
 | [Noxesium](https://modrinth.com/mod/noxesium) | Contains several smaller performance improvements and also has many visual bug fixes for the MCCI server. | [Noxcrew (No 1.20.1 Yet)](https://github.com/Noxcrew) |
 | [Remove Reloading Screen](https://modrinth.com/mod/rrls) | Allows you to access other parts of the game by removing the reload screen except for the progress bar. | [dima_dencep](https://github.com/dimadencep) |
 
