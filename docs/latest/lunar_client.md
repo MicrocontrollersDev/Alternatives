@@ -18,7 +18,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 ### 1.7 Visuals
 
 * Animations - Irrelevant
-* Hit Armor Color - ?
+* Hit Armor Color - [rizecookey's CookeyMod](https://github.com/rizecookey/CookeyMod/releases/latest)
 * Reduced Hurt Animation - [uku3lig's BetterHurtCam](https://modrinth.com/mod/betterhurtcam)
 
 ### Chat
@@ -73,23 +73,23 @@ Please note that this page may be outdated due to update cycles. It is currently
 * Menu Blur - [Motschen's Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Waypoints - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (BANNABLE ON HYPIXEL!)
-* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud) & [Lortseam's Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
 * Motion Blur - ?
 * Shiny Pots - ?
 * Scrollable Tooltips - [isXander's's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
 * Particle Multiplier - ?
 * Cooldowns - ?
-* Time Changer - [Motschen's Timechanger](https://www.curseforge.com/minecraft/mc-mods/time-changer) (Only works on Multiplayer)
+* Time Changer - [JuggleStrugger's DaylightChangerStruggle](https://modrinth.com/mod/daylightchangerstruggle)
 * Block Outline - [LordDeatHunter's Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)
 * Item Physics - [Draylar1's Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items)
 * TNT Timer Mod - [shateq's TNTTime](https://modrinth.com/mod/tnttime)
-* Hitbox - [PingIsFun's Hitbox+](https://modrinth.com/mod/hitboxplus)
+* Hitbox - [ErrorGamer2000's Pretty Hitboxes](https://modrinth.com/mod/pretty-hitboxes)
 * 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 
 ### Other Mods
 
 * Toggle Sneak/Sprint - Vanilla (Accessible in Controls and Accessibility Settings menus)
-* Nick Hider - ?
+* Nick Hider - [FoxOnTop's NameProtect](https://modrinth.com/mod/nameprotect)
 * WorldEdit CUI - [EngineHub's WorldEdit CUI](https://curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
 * Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod)
 * Screenshot Uploader - [isXander's Shotify](https://modrinth.com/mod/shotify)
@@ -151,6 +151,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 ## Other
 
 * Vanilla Bug Fixes - [isXander's Debugify](https://modrinth.com/mod/debugify)
+* Resource Pack Menu - [enjarai's Recursive Resources](https://modrinth.com/mod/recursiveresources)
 * Custom Main Menu - [Keksuccino's FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
 * Discord Rich Presence - [CDAGaming_'s CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 * In Game Account Switcher - [The_Fireplace's In Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
