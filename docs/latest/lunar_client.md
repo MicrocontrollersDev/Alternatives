@@ -107,7 +107,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 * Shift Effects in Inventory - Vanilla
 * Show Achievements - ?
-* Show Crosshair in Third Person - ?
+* Show Crosshair in Third Person - [Microcontroller's Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 
 #### Cosmetic Options
 
@@ -120,7 +120,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 * Borderless Fullscreen - [comp500's Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
 * Disable Weather - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
 * Modern Keybind Handling - Vanilla
-* Minimal View Bobbing - [InboundBark's No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod)
+* Minimal View Bobbing - [Microcontroller's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Unfocused FPS Limiter - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
 #### Texture Pack Options

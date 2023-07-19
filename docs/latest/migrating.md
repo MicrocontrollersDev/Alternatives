@@ -214,8 +214,9 @@ These are mods that are more dependant on personal preference than importance.
 | [SkinShuffle](https://modrinth.com/mod/skinshuffle) | Allows you to change, store, and customize your skins in game. | [mineblock11](https://github.com/mineblock11) |
 | [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations) | Adds a small animation when holding items similar to old console editions of the game. | [Trivaxy](https://github.com/Trivaxy) |
 | [Draggable Lists](https://modrinth.com/mod/draggable-lists) | Allows you to drag to order resourcepacks, datapacks, worlds, and servers. | [MrMelon54](https://github.com/MrMelon54) |
-
-
+| [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks) | A small QOL mod that lets you alter the vanilla crosshair in small ways. | [MicrocontrollersDev](https://github.com/Microcontrolles) |
+| [Shake Tweaks](https://modrinth.com/mod/shaketweaks) | A small QOL mod that lets you alter the game's shake mechanics for the screen and hand. | [MicrocontrollersDev](https://github.com/Microcontrolles) |
+| [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [MicrocontrollersDev](https://github.com/Microcontrolles) |
 
 ### OptiFine Replacements
 

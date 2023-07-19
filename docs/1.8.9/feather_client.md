@@ -68,6 +68,10 @@ mod authors and it is advised against supporting them.
 * Toggle Sprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
 * Voice - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 
+### Cosmetics
+
+* Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
+
 ## General
 
 ### Blur Settings
