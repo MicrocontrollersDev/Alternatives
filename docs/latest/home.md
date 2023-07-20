@@ -1,4 +1,4 @@
-# 1.20
+# Latest
 
 - Click the links below or use the sidebar navigation to find the list you want.
 
@@ -15,4 +15,4 @@
 ## Other
 
 - [Migrating to Latest](https://microcontrollersdev.github.io/Alternatives/latest/migrating)
-    - This is a comprehensive list of mods for Fabric 1.20 and guide on installing them
+    - This is a comprehensive list of mods for the latest version of Fabric (1.20.1) with a guide on installing them.

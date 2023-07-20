@@ -7,7 +7,7 @@ To find a list, use the navbar at the top of the page if on PC or in the left si
 You can also use the links below!
 
 - [1.8.9](https://microcontrollersdev.github.io/Alternatives/1.8.9/home)
-- [1.20.1](https://microcontrollersdev.github.io/Alternatives/latest/home)
+- [Latest](https://microcontrollersdev.github.io/Alternatives/latest/home)
 - [Launcher](https://microcontrollersdev.github.io/Alternatives/launcher/home)
 
 If you found any of these guides useful, please considering starring this repository on GitHub!
