@@ -64,7 +64,7 @@ nav:
           - "Wyvtils": "1.8.9/wyvtils.md"
       - "Modpacks":
           - "Refraction v4": "1.8.9/refraction_v4.md"
-  - "1.20":
+  - "Latest":
       - "Home": "latest/home.md"
       - "Clients":
           - "Badlion Client": "latest/badlion_client.md"

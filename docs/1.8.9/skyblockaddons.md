@@ -6,6 +6,8 @@ could lead to many features breaking
 over time. It is recommended to use 
 alternatives that still get updated.
 
+Before reading these alternatives we recommend taking a look at [Kuschel-Swein's Smixer](https://github.com/Kuschel-Swein/smixer-mod). This is an addon mod to Biscuit's SBA. We do NOT take any responsibility for how stable the mod is.
+
 * "Minion Cannot Reach" Warning - ?
 * Adjust Zoom with +/- Keys - ?
 * Allow Locking Slots - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)

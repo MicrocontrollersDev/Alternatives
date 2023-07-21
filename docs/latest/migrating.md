@@ -1,4 +1,4 @@
-# Migrating to Latest (1.20.1)
+# Migrating to Latest 
 
 This is a comprehensive guide on how to download Fabric and mods for it. It also provides direct links to many mods that you may find useful.
 
