@@ -1,6 +1,5 @@
 # Massive thanks to the following people who helped make this:
 
-* [o9o](https://www.youtube.com/@o9omc)
 * [8KCoffeeWizard](https://github.com/8KCoffeeWizard)
 * [Abd](https://github.com/BrahR)
 * [Absterge](https://github.com/Absterge)
@@ -37,6 +36,7 @@
 * [Moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
 * [Narwhalism](https://www.twitch.tv/narwhalswim)
+* [o9o](https://www.youtube.com/@o9omc)
 * [PandaNinjas](https://github.com/pandaninjas)
 * [Proudmuslim](https://github.com/proudmuslim-dev)
 * [RayDeeUx](https://github.com/RayDeeUx)
