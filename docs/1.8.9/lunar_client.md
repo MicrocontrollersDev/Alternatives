@@ -15,7 +15,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 ### 1.7 Visuals
 
 * Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
-* Hit Color - [Nox's HitColor](https://github.com/Noxiuam/HitColor/releases/latest)
+* Hit Color - [Nox's HitColor](https://cdn.discordapp.com/attachments/1009757412921708604/1133000824486891581/HitColor_1.8.9-forge-1.3.jar)
 
 ### Chat Mods
 
@@ -122,7 +122,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Block Outline - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
 * TNT Timer Mod - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
-* Hitbox - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
+* Hitbox - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar) (need a GitHub account to download artifact)
 * Reduced Hurt Animation - [Scherso's BetterHurtCam](https://github.com/Scherso/BetterHurtCam/releases/latest)
 
 ### Other Mods

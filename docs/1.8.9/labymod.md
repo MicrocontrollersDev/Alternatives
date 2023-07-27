@@ -153,7 +153,7 @@ that you avoid using it if possible.
 * Controller - ?
 * Custom Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
 * Custom Crosshair Mod - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* Custom Hitboxes - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
+* Custom Hitboxes - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * CustomFilterSounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * CustomFont - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
 * Custom Main Menu - [Lumien231's CustomMainMenu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2280558)
