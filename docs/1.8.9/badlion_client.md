@@ -29,7 +29,7 @@
 * AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
 * AutoTip - [Semx11's AutoTip](https://autotip.pro)
 * Levelhead - [Sk1er's Levelhead](https://sk1er.club/mods/level_head)
-* HyStats - [KAD7's HyStats](https://download2270.mediafire.com/0r5h180odzzg/yx8m6ztaduf5bx8/HyStats-v4.0_%281.8.9%29.jar)
+* HyStats - [KAD7's HyStats](https://cdn.discordapp.com/attachments/1009757412921708604/1134269972877676574/HyStats-v4.0_1.8.9.jar)
 
 ### HUD Mods
 
@@ -49,7 +49,7 @@
 * MiniMap **(BANNABLE ON HYPIXEL)** - [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap*iles/all?filter-game-version=2020709689%3A5806)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 * Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Potion Status - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/actions) (Download articacts from latest workflow, requires being signed into GitHub)
+* Potion Status - [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)

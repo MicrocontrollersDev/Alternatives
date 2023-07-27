@@ -38,9 +38,9 @@ alternatives that still get updated.
 
 * Stop Rendering Players with Customizable Whitelist - ? ([Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) has a similar feature that consequently removes players, but does not have a whitelist)
 * Stop Rendering Player Armor - ?
-* Create Hitboxes Around your Arrows - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
-* Show Hitboxes of Special Zealots - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
-* Show Hitboxes of Drags & Golems - [Nox's Hitboxes](https://github.com/Noxiuam/Hitboxes/actions) (need a GitHub account to download artifact)
+* Create Hitboxes Around your Arrows - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
+* Show Hitboxes of Special Zealots - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
+* Show Hitboxes of Drags & Golems - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Hide Other People's Arrows - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Stop Power Orb Nametags / Particles from Rendering - ?
 

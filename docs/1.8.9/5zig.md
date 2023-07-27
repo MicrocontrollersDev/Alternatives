@@ -30,7 +30,7 @@ This list is based off of the latest version of 5zig Reborn.
 ### Customize Display
 
 * See [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud) for most of the features
-* See [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/actions) for Potion Effects (Download articacts from latest workflow, requires being signed into GitHub)
+* See [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
 
 ## Server Options
 
@@ -46,7 +46,7 @@ This list is based off of the latest version of 5zig Reborn.
 
 ### Hypixel
 
-* Stats - [KAD7's HyStats](https://download2274.mediafire.com/5o9in79dryzg/so4sw1wn8aso68i/HyStats-v4.1_1.8.9.jar)
+* Stats - [KAD7's HyStats](https://cdn.discordapp.com/attachments/1009757412921708604/1134269972877676574/HyStats-v4.0_1.8.9.jar)
 * Guilds - ?
 * Friends - ?
 

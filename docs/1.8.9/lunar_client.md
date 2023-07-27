@@ -56,7 +56,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 #### Bedwars
 
-* Stats - [KAD7's HyStats](https://www.mediafire.com/file/so4sw1wn8aso68i/HyStats-v4.1_1.8.9.jar/file)
+* Stats - [KAD7's HyStats](https://cdn.discordapp.com/attachments/1009757412921708604/1134269972877676574/HyStats-v4.0_1.8.9.jar)
 * Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm/versions)
 * Resource Counter - [Sk1er's Bedwars Resource Display](https://sk1er.club/mods/sk1er-bedwars_resource_display)
 * Colored Beds - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
@@ -79,7 +79,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
 * Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Playtime - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/actions) (Download articacts from latest workflow, requires being signed into GitHub)
+* Potion Effects - [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
 * Potion Counter - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
 * Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
