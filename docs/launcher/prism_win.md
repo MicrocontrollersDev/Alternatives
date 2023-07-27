@@ -57,6 +57,8 @@ Now that we've installed Forge 1.8.9, we need to move all our mods to the new Pr
 
 Prism Launcher has a lot of things to offer, such as themes if you don't like the look of it, as well as a lot of options for your instances, including the ability to see all your mods, resource packs, and worlds in the launcher before launching. You can use these menus to install mods and resource packs, and even update mods if they are hosted on Modrinth or CurseForge!
 
+You can find a list of Prism themes and how to install them on [their website](https://prismlauncher.org/wiki/getting-started/change-themes).
+
 ### Step 7 - Updating Prism
 
 Windows auto-updating is WIP for now, you will need to download the installer and run it again (you will not lose your instances/your Skyclient).

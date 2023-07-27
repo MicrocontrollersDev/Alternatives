@@ -79,7 +79,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
 * Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Playtime - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
+* Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/actions) (Download articacts from latest workflow, requires being signed into GitHub)
 * Potion Counter - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
 * Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)

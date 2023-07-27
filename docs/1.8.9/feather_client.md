@@ -41,7 +41,7 @@ mod authors and it is advised against supporting them.
 * Item Info - [Sk1er's Patcher](https://www.sk1er.club/mods/patcher)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 * Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
+* Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/actions) (Download articacts from latest workflow, requires being signed into GitHub)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)

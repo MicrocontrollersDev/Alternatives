@@ -49,7 +49,7 @@
 * MiniMap **(BANNABLE ON HYPIXEL)** - [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap*iles/all?filter-game-version=2020709689%3A5806)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
 * Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Potion Status - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
+* Potion Status - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/actions) (Download articacts from latest workflow, requires being signed into GitHub)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)

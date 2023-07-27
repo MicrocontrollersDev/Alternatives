@@ -30,7 +30,7 @@ This list is based off of the latest version of 5zig Reborn.
 ### Customize Display
 
 * See [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud) for most of the features
-* [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest) for Potion Effects
+* See [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/actions) for Potion Effects (Download articacts from latest workflow, requires being signed into GitHub)
 
 ## Server Options
 
