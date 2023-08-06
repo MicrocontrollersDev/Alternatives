@@ -6,9 +6,9 @@
 
 ## Clients
 
-- [Badlion Client](https://microcontrollersdev.github.io/Alternatives/1.8.9/badlion_client)
-- [Feather Client](https://microcontrollersdev.github.io/Alternatives/1.8.9/feather_client)
-- [Lunar Client](https://microcontrollersdev.github.io/Alternatives/1.8.9/lunar_client)
+- [Badlion Client](https://microcontrollersdev.github.io/Alternatives/latest/badlion_client)
+- [Feather Client](https://microcontrollersdev.github.io/Alternatives/latest/feather_client)
+- [Lunar Client](https://microcontrollersdev.github.io/Alternatives/latest/lunar_client)
 
 ## Mods
 
