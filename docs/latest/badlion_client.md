@@ -1,6 +1,6 @@
 # Badlion Client Alternatives
 
-* Not yet updated to reflect 1.20
+Please note that this page may be outdated due to Minecraft update cycles.
 
 ## Mods
 
@@ -13,7 +13,7 @@
   
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
 * Clear Chat - Vanilla
-* Compact Chat - [Caoimhe's Compact Chat](https://modrinth.com/mod/compact-chat)
+* Compact Chat - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 * Text Shadow - ?
 * 24 Hour Timestamps - ?
 * Fancy Fonts - ?
@@ -23,7 +23,7 @@
 * Chat Messages Notifications - ?
 * Chat Opacity - Vanilla
 * Chat Size - ?
-* Emphasize Username in Chat - ?
+* Emphasize Username in Chat - [uku3lig's ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * New Chat - ?
 
 ### Hypixel Mods
@@ -35,26 +35,26 @@
 
 ### HUD Mods
 
-* Armor Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Bossbar - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* CPS Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Combo Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
+* Bossbar - ?
+* CPS Counter - ?
+* Combo Counter - ?
+* Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
 * Crosshair Mod - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* Direction - ?
-* FPS Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Keystrokes - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Direction - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* FPS Counter - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
+* Keystrokes - ?
 * Ingame Server Switcher - ?
-* Item Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Item Counter - ?
 * Item Info - ?
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * MiniMap **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * Pack Display - ?
-* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Potion Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Reach Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Ping - ?
+* Potion Status - ?
+* Reach Display - ?
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
-* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Scoreboard - [Lortseam's Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
 * Server Address HUD - ?
 * Stopwatch - ?
 * Timers - ?
@@ -75,9 +75,9 @@
 * Enchant Glint - ?
 * FOV - ?
 * Fullbright - [Serilum's Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle)
-* Hitboxes - ?
+* Hitboxes - [ErrorGamer2000's Pretty Hitboxes](https://modrinth.com/mod/pretty-hitboxes)
 * Inventory Blur - [Motschen's Blur](https://modrinth.com/mod/blur-fabric)
-* Motion Blur - ?
+* Motion Blur - [Noryea's Motion Blur](https://modrinth.com/mod/motionbl
 * Nick Hider - ?
 * Particle Mod - ?
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)

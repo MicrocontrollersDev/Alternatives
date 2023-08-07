@@ -1,6 +1,6 @@
 # Feather "Client" Alternatives
 
-* Not yet updated to reflect 1.20
+Please note that this page may be outdated due to Minecraft update cycles.
 
 WIP - Feather "Client" is a Forge/Fabric
 mod marketing itself as a client, claiming
@@ -17,7 +17,7 @@ mod authors and it is advised against supporting them.
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - Partially in vanilla's accessibility menu
 * Glint - ?
-* Hitbox - ?
+* Hitbox - [ErrorGamer2000's Pretty Hitboxes](https://modrinth.com/mod/pretty-hitboxes)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * Nick Hider - ?
 * Particles - ?
@@ -28,23 +28,23 @@ mod authors and it is advised against supporting them.
 
 ### HUD
 
-* Armor Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
 * Attack Indicator - [Minenash's Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
-* Boss Bar - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Combo Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Direction - ?
-* FPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Boss Bar - ?
+* CPS - ?
+* Combo Display - ?
+* Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* Direction - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
 * Item Counter - ?
 * Item Info - ?
 * Pack Display - ?
-* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Potion Effects - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Ping - ?
+* Potion Effects - ?
 * Reach Display - ?
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
-* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Time - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Scoreboard - [Lortseam's Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
+* Time - ?
 
 ### Hypixel
 
@@ -62,7 +62,7 @@ mod authors and it is advised against supporting them.
 * Perspective - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
 * Screenshot - ?
 * Scrollable Tooltips - [isXander's's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
-* Server Address - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Server Address - ?
 * Snaplook - ?
 * Toggle Sprint - Vanilla (Accessibility Options)
 * Voice - ?
@@ -93,8 +93,8 @@ mod authors and it is advised against supporting them.
 
 ### Stack Messages
 
-* Stack Messages - [Caoimhe's Compact Chat](https://modrinth.com/mod/compact-chat)
-* Consecutive Messages Only - [Caoimhe's Compact Chat](https://modrinth.com/mod/compact-chat)
+* Stack Messages - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Consecutive Messages Only - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 
 ### Mentions
 

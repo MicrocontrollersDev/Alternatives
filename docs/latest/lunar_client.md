@@ -1,8 +1,6 @@
 # Lunar Client Alternatives
 
-* Not yet updated to reflect 1.20
-
-Please note that this page may be outdated due to update cycles. It is currently for 1.19.2.
+Please note that this page may be outdated due to Minecraft update cycles.
 
 ## Mods
 
@@ -19,51 +17,51 @@ Please note that this page may be outdated due to update cycles. It is currently
 
 * Animations - Irrelevant
 * Hit Armor Color - [rizecookey's CookeyMod](https://github.com/rizecookey/CookeyMod/releases/latest)
-* Reduced Hurt Animation - [uku3lig's BetterHurtCam](https://modrinth.com/mod/betterhurtcam)
+* Reduced Hurt Animation - [Microcontroller's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 
 ### Chat
 
 * Chat Filter - ?
-* Chat Height Fix - Fixed in Vanilla
-* Don't Clear Chat History - [emmaffle's DCCH](https://modrinth.com/mod/dcch)
+* Chat Height Fix - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Don't Clear Chat History - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 * Highlighted Name - [uku3lig's ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * Background Opacity - Vanilla (Accessibility Options)
 * Hide Incoming Messages - ?
-* Stack Spam Messages - [Caoimhe's Compact Chat](https://modrinth.com/mod/compact-chat)
+* Stack Spam Messages - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 * Stop Servers from Closing Chat - ?
 * Text Shadow - ?
-* Unlimited Chat - [JackFred2's More Chat History](https://modrinth.com/mod/morechathistory)
+* Unlimited Chat - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 * Chat Animation - ?
 
 ### HUD Mods
 
-* Armor Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Clock - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Combo Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
+* Clock - ?
+* Combo Counter - ?
+* Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* CPS - ?
 * Day Counter - ?
-* DirectionHUD - 
-* FPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Item Tracker - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Key Strokes - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* DirectionHUD - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
+* Item Tracker - ?
+* Key Strokes - ?
 * Memory Usage - 
 * Pack Display - ?
-* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Potion Effects - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Potion Counter - ?
+* Ping - ?
+* Potion Effects - ?
+* Potion Counter - [uku's PotionCounter](https://modrinth.com/mod/potioncounter)
 * Stopwatch - ?
-* Server Address -  [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Server Address -  ?
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
 * Reach Display - ?
 * Team View - Irrelevant
 
 ### Nametags
 
-* Nametag Text Shadow -  ?
-* Third Person Nametag - ?
+* Nametag Text Shadow -  [Microcontroller's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Third Person Nametag - [Microcontroller's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 * Show Nametag Icon - Irrelevant
-* Nametag Opacity - ?
+* Nametag Opacity - [Microcontroller's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 
 ### Visual Mods
 
@@ -73,8 +71,8 @@ Please note that this page may be outdated due to update cycles. It is currently
 * Menu Blur - [Motschen's Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Waypoints - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (BANNABLE ON HYPIXEL!)
-* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud) & [Lortseam's Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
-* Motion Blur - ?
+* Scoreboard - [Lortseam's Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
+* Motion Blur - [Noryea's Motion Blur](https://modrinth.com/mod/motionblur)
 * Shiny Pots - ?
 * Scrollable Tooltips - [isXander's's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
 * Particle Multiplier - ?
@@ -106,7 +104,7 @@ Please note that this page may be outdated due to update cycles. It is currently
 #### HUD Options
 
 * Shift Effects in Inventory - Vanilla
-* Show Achievements - ?
+* Show Achievements/Advancements - ?
 * Show Crosshair in Third Person - [Microcontroller's Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 
 #### Cosmetic Options
