@@ -28,7 +28,7 @@ Please note that this page may be outdated due to Minecraft update cycles.
 
 ### Hypixel Mods
 
-* AutoGG - ?
+* AutoGG - [ZtereoHYPE's AutoTechno](https://modrinth.com/mod/autotechno)
 * AutoTip - ?
 * Levelhead - ?
 * HyStats - ?

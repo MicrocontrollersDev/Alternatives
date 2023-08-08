@@ -19,7 +19,7 @@ Please note that this page may be outdated due to Minecraft update cycles.
 * Hit Armor Color - [rizecookey's CookeyMod](https://github.com/rizecookey/CookeyMod/releases/latest)
 * Reduced Hurt Animation - [Microcontroller's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 
-### Chat
+### Chat Mods
 
 * Chat Filter - ?
 * Chat Height Fix - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
@@ -33,6 +33,30 @@ Please note that this page may be outdated due to Minecraft update cycles.
 * Unlimited Chat - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 * Chat Animation - ?
 
+### Hypixel Mods
+
+
+* Remove Guild MOTD - ?
+* Remove Guild on Tab - ?
+* Short Chat Channel Messages - ?
+* Auto Friend - ?
+* Auto Tip - ?
+* Auto GG - [ZtereoHYPE's AutoTechno](https://modrinth.com/mod/autotechno)
+* Anti GG - ?
+* Auto Who - No longer works on Hypixel
+* Level Head - ?
+* Hypixel Autocomplete - ?
+* Hide Private Messages - ?
+* Hide Team Chat - ?
+* Hide Party Chat - ?
+* Hide Guild Chat - ?
+* Hide Shouts - ?
+* Hide Spectator Chat - ?
+* Hide Lobby Join Messages - ?
+* Hide Join Messages - ?
+* Hide Leave Messages - ?
+* Hide Soul Well Announcements - ?
+
 ### HUD Mods
 
 * Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
@@ -45,7 +69,7 @@ Please note that this page may be outdated due to Minecraft update cycles.
 * FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
 * Item Tracker - ?
 * Key Strokes - ?
-* Memory Usage - 
+* Memory Usage - ?
 * Pack Display - ?
 * Ping - ?
 * Potion Effects - ?
