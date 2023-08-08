@@ -41,7 +41,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     Under the `Version` selector, find 1.20.1 and select it. Then in the `Mod Loader` tab directly underneath, choose Fabric. It will automatically choose the latest version of Fabric for 1.20.1 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
 
-    ### Downloading Mods for Fabric
+    ### Downloading and Installing Mods for Fabric
 
     This list currently consists of three different sources for mod downloads: Modrinth, GitHub, and CurseForge. This section will explain how to download mods from each of them.
 
@@ -50,44 +50,30 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     - GitHub:
         - For your convenience, all GitHub links lead directly to the latest version of the mod. From here, click on the `Assets` drop down if needed, then download the jar that does not include `-sources` or `-dev` in the name.
-            - If a link does not redirect you to the latest version but rather the main page, on the right side of the page, you should find a tag icon with the latest version. 
+            - If a link does not redirect you to the latest version but rather the main page, on the right side of the page, you should find a tag icon with the latest version.
+        - Mods downloaded this way will not automatically be installed to your instance. See the "[Manually Installing Mods on Fabric](https://microcontrollersdev.github.io/Alternatives/latest/migrating/#manually-installing-mods-on-fabric)" section on how to install these mods.
 
     - CurseForge:
         - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric mod loader, and download the latest one. You can also press the `View All` button, then sort by mod loader or Minecraft version to make finding the correct jar easier.
 
     If you are using Prism Launcher, you can simply go to the mods menu for your instance and press the "Download Mods" button in the top right to search Modrinth and CurseForge directly inside the launcher.
 
-    **NOTE: SOME CURSEFORGE MODS MAY NOT ALLOW DOWNLOADS FROM THIRD PARTIES SUCH AS PRISMLAUNCHER**
+    **NOTE**: Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. It is recommended to download from Modrinth when possible. If the mod is not on Modrinth, you can simply download from CurseForge and add it to your Prism instance's mods folder. Downloading mods from CurseForge does **NOT** require you to install their launcher!
 
-    ### Installing Mods on Fabric
-
-    This is only for the default .minecraft directory. If you have made a custom directory, you likely do not need this guide.
+    ### Manually Installing Mods on Fabric
 
     0. Make sure you close Minecraft before installing mods, otherwise unexpected things can happen.
-    1. Open your Minecraft folder:
-        - Windows: Hold the Windows key (`win`) and press `r` to open the Run program. Then type in `%appdata%/.minecraft` and hit enter.
-        - Mac: On the bar at the top of your screen in Finder, click `Go`, then click `Go to Folder` and type `~/Library/Application Support/Minecraft`, then hit enter.
-        - Linux: Open `~/.minecraft`.
-    2. In your Minecraft folder, open the folder called `mods`.
-        - If this folder does not exist, create it.
-    3. Place all of the mods you want to use into this folder (note that all mods you install must support Fabric 1.20 or they will not work).
+    1. Click on your Prism Instance.
+    2. Click `Edit`.
+    3. Go to the `Mods` tab.
+    4. Either drag and drop files into this menu, or you can press `View Folder` to drag and drop mods directly into your mods folder.
+    5. You can now launch the instance
 
     ### Still Need Help?
 
     Feel free to join my [Discord server](https://inv.wtf/micro) for any help downloading Fabric, its mods, or general questions about them.
     
 ## Mods
-
-### NECESSARY
-
-As of 1.19.1, Mojang has added the ability to report chat messages. While on the surface this sounds great, these chat reports do not go to the server owners, but to a Mojang moderation team. This team will then decide your punishment, which is a temporary or permanent ban from all online servers and Realms. **If you do not want to get banned from playing online, use this mod!**
-
-| Mod | Description | Author |
-| --- | --- | --- |
-| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Server side and client side mod. Prevents chat reporting from working if `enforce-secure-chat` is not enabled. Works best if installed on both sides but is not required. | [Aizistral](https://github.com/Aizistral-Studios) |
-| [Guardian (No 1.20.1 Yet)](https://github.com/nodusclient/guardian/releases/latest) | Prevents people from including context in chat reports against you. This can help prevent servers falsifying evidence against you. This will not protect against individual reports, be a good person and only use this to prevent unfair bans! | [Nodus](https://github.com/nodusclient) |
-
-Are you a server owner using Bukkit, Spigot, Paper, or a similar plugin based server? Check out [Freedom Chat (No 1.20.1 Yet)](https://modrinth.com/plugin/freedomchat) by [eim](https://github.com/e-im) for similar functionality to No Chat Reports!
 
 ### Dependencies
 
@@ -152,6 +138,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 
 | Mod | Description | Author |
 | --- | --- | --- |
+| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Removes cryptographic signatures from chat messages, making it harder to get chat reported. | [Aizistral](https://github.com/Aizistral-Studios) |
 | [Modern Keybinding](https://modrinth.com/mod/modernkeybinding) | Allows you to use modifiers for keybinds. For example, you can set keybinds to Ctrl/Shift/Alt + key. | [Nova-Committee](https://github.com/Nova-Committee) |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix) | Fixes the gaps you see on items when holding them as well as 3D blocks. This makes for a much more pleasant experience for most resourcepacks, including both defaults. | [MehVahdJukaar](https://github.com/MehVahdJukaar) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
@@ -164,6 +151,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Adaptive Tooltips (No 1.20.1 Yet)](https://modrinth.com/mod/adaptive-tooltips) | Makes tooltips more readable by preventing them from going off screen and allowing for tooltip scrolling, as well as more customization options such as custom transparency. | [isXander](https://github.com/isXander) |
 | [Persistent Stuff](https://modrinth.com/mod/persistent-stuff) | Saves your toggle sprint (sprinting/walking), hitboxes' (enabled/disabled), chunk borders' (enabled/disabled) states across Minecraft restarts. Never toggle these at startup again. | [Andy Russo](https://github.com/AndyRusso) |
 | [Log Cleaner](https://modrinth.com/mod/log-cleaner) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) |
+| [Better Selection](https://modrinth.com/mod/better-selection) | Makes it easier to select text by allowing mouse selection and Ctrl + ← and Ctrl + →. | [MDLC01](https://github.com/MDLC01) |
 
 ### Other Cool Mods
 
@@ -174,6 +162,7 @@ These are mods that are more dependant on personal preference than importance.
 | [e4mc](https://modrinth.com/mod/e4mc) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [vgskye](https://git.skye.vg/me) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
+| [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [MicrocontrollersDev](https://github.com/Microcontrolles) |
 | [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a fade-in animation to chunks similar to Bedrock Edition. | [kerudion](https://github.com/kerudion) | Sodium (needs update to 0.5) |
 | [Distant Horizons (No 1.20.1 Yet)](https://modrinth.com/mod/distanthorizons) | Adds LODs to Minecraft, allowing for much further render distances without a big tank on performance. | [James Seibel](https://gitlab.com/jeseibel) | Phosphor |
 | [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) |
@@ -214,7 +203,9 @@ These are mods that are more dependant on personal preference than importance.
 | [SkinShuffle](https://modrinth.com/mod/skinshuffle) | Allows you to change, store, and customize your skins in game. | [mineblock11](https://github.com/mineblock11) |
 | [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations) | Adds a small animation when holding items similar to old console editions of the game. | [Trivaxy](https://github.com/Trivaxy) |
 | [Draggable Lists](https://modrinth.com/mod/draggable-lists) | Allows you to drag to order resourcepacks, datapacks, worlds, and servers. | [MrMelon54](https://github.com/MrMelon54) |
-| [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [MicrocontrollersDev](https://github.com/Microcontrolles) |
+| [Highlight](https://modrinth.com/mod/highlight) | Changes hitboxes to allow them to not be axis alligned, making them look much smoother on some blocks. | [Team Resourceful](https://github.com/Team-Resourceful) |
+| [Biome Moss](https://modrinth.com/mod/biome-moss) | Improves the look of moss by adding color biome variation. | [TheDarkCoder](https://github.com/TheDarkCoder) |
+| [Clear Void](https://modrinth.com/mod/clear-void) | Makes the void the same color as the sky instead of black when below Y=59. | [yezhiyi9670](https://github.com/yezhiyi9670) |
 
 ### OptiFine Replacements
 
