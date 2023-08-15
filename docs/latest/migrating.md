@@ -209,6 +209,8 @@ These are mods that are more dependant on personal preference than importance.
 | [Biome Moss](https://modrinth.com/mod/biome-moss) | Improves the look of moss by adding color biome variation. | [TheDarkCoder](https://github.com/TheDarkCoder) |
 | [Clear Void](https://modrinth.com/mod/clear-void) | Makes the void the same color as the sky instead of black when below Y=59. | [yezhiyi9670](https://github.com/yezhiyi9670) |
 | [Fluid Void Fading](https://modrinth.com/mod/fluidvoidfading) | Makes liquids like water and lava slowly fade out in the void. Looks great in games like Skyblock, Skyways, or similar. | [DaFuqs](https://github.com/DaFuqs) |
+| [Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer) | Makes server pinging smoother and fixes it breaking when refreshing too many times. | [JustAlittleWolf](https://github.com/JustAlittleWolf/ServerPingerFixer) |
+
 ### OptiFine Replacements
 
 As OptiFine is no longer recommended, here are some replacements for many of it's features. Please note that some mods that have been listed in the above categories may be repeated here.
@@ -216,7 +218,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 #### Features
 Features that OptiFine provides that are not resource pack related.
 
-| Mod | Description | Author
+| Mod | Description | Author |
 | --- | --- | --- |
 | [Iris](https://irisshaders.github.io) | Shaders. More customizable than OptiFine's. | [IrisShaders](https://github.com/IrisShaders) |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
