@@ -36,6 +36,7 @@
 * [Moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
 * [Narwhalism](https://www.twitch.tv/narwhalswim)
+* [NetheriteMiner](https://github.com/NetheriteMiner)
 * [o9o](https://www.youtube.com/@o9omc)
 * [PandaNinjas](https://github.com/pandaninjas)
 * [Proudmuslim](https://github.com/proudmuslim-dev)
