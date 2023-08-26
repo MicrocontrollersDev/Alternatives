@@ -43,7 +43,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Dungeons Teammate Name Overlay - ?
 * Effective Health Number - ?
 * Endstone Protector Display - ?
-* Fancy Warp Menu - ?
+* Fancy Warp Menu - [TirelessTraveler's Fancy Warp Menu](https://github.com/ILikePlayingGames/FancyWarpMenu)
 * Fishing Particle Overlay - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Full Inventory Warning - ?
 * Full Minion Warning - ?
