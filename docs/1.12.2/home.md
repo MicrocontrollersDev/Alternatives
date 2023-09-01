@@ -4,4 +4,4 @@
 
 ## Clients
 
-- [Feather Client](https://microcontrollersdev.github.io/Alternatives/1.8.9/feather_client)
+- [Feather "Client"](https://microcontrollersdev.github.io/Alternatives/1.12.2/feather_client)
