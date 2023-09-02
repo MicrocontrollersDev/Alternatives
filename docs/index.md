@@ -6,9 +6,9 @@ Welcome to the official website for Microcontrollers' Alternatives lists!
 To find a list, use the navbar at the top of the page if on PC or in the left sidebar menu on mobile.
 You can also use the links below!
 
-- [1.8.9](https://microcontrollersdev.github.io/Alternatives/1.8.9/home)
-- [Latest](https://microcontrollersdev.github.io/Alternatives/latest/home)
-- [Launcher](https://microcontrollersdev.github.io/Alternatives/launcher/home)
+- [1.8.9](https://microcontrollers.dev/Alternatives/1.8.9/home)
+- [Latest](https://microcontrollers.dev/Alternatives/latest/home)
+- [Launcher](https://microcontrollers.dev/Alternatives/launcher/home)
 
 If you found any of these guides useful, please considering starring this repository on GitHub!
 

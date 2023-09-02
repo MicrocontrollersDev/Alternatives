@@ -11,7 +11,7 @@ Please note that this page may be outdated due to Minecraft update cycles.
 
 ### Performance
 
-* Performance Improvements - See my [full list of performance mods](https://microcontrollersdev.github.io/Alternatives/latest/migrating/#performance) (as well as the Dependencies section above it)
+* Performance Improvements - See my [full list of performance mods](https://microcontrollers.dev/Alternatives/latest/migrating/#performance) (as well as the Dependencies section above it)
 
 ### 1.7 Visuals
 

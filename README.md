@@ -1,6 +1,6 @@
 <div align="center">
 
-# [`Alternatives`](https://microcontrollersdev.github.io/Alternatives/)
+# [`Alternatives`](https://microcontrollers.dev/Alternatives/)
 Repo which contains many
 alternatives to poorly made
 or out-of-date clients, mods,
@@ -19,10 +19,10 @@ built using [MkDocs](https://www.mkdocs.org/).
 
 The website will now be the primary
 way this will be used. To access it,
-click [here](https://microcontrollersdev.github.io/Alternatives/).
+click [here](https://microcontrollers.dev/Alternatives/).
 
 ## Contributors
- [![GitHub Contributors](https://contrib.rocks/image?repo=MicrocontrollersDev/Alternatives)](https://microcontrollersdev.github.io/Alternatives/contributors/)
+ [![GitHub Contributors](https://contrib.rocks/image?repo=MicrocontrollersDev/Alternatives)](https://microcontrollers.dev/Alternatives/contributors/)
 
 ## Whatever this is
 

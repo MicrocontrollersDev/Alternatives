@@ -4,6 +4,6 @@
 
 ## Prism Launcher
 
-- [Windows](https://microcontrollersdev.github.io/Alternatives/launcher/prism_win)
-- [MacOS](https://microcontrollersdev.github.io/Alternatives/launcher/prism_mac)
-- [Linux](https://microcontrollersdev.github.io/Alternatives/launcher/prism_gnu)
+- [Windows](https://alternatives.microcontrollers.dev/launcher/prism_win)
+- [MacOS](https://alternatives.microcontrollers.dev/launcher/prism_mac)
+- [Linux](https://alternatives.microcontrollers.dev/launcher/prism_gnu/)

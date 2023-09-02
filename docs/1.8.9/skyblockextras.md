@@ -13,7 +13,7 @@ version of the mod. If you know of any
 features/alternatives or would like to
 confirm any of my guesses, feel free to
 make a pull request and ping me on
-[my discord server](https://inv.wtf/micro)
+[my discord server](https://discord.gg/rejfv9kFJj)
 if you would like any further clarification
 or a discussion.
 

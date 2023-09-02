@@ -6,15 +6,15 @@
 
 ## Clients
 
-- [Badlion Client](https://microcontrollersdev.github.io/Alternatives/latest/badlion_client)
-- [Feather "Client"](https://microcontrollersdev.github.io/Alternatives/latest/feather_client)
-- [Lunar Client](https://microcontrollersdev.github.io/Alternatives/latest/lunar_client)
+- [Badlion Client](https://alternatives.microcontrollers.dev/latest/badlion_client)
+- [Feather "Client"](https://alternatives.microcontrollers.dev/latest/feather_client)
+- [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar_client)
 
 ## Mods
 
-- [OptiFine](https://microcontrollersdev.github.io/Alternatives/latest/optifine)
+- [OptiFine](https://alternatives.microcontrollers.dev/latest/optifine)
 
 ## Other
 
-- [Migrating to Latest](https://microcontrollersdev.github.io/Alternatives/latest/migrating)
+- [Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)
     - This is a comprehensive list of mods for Fabric 1.20 and guide on installing them

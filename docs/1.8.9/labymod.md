@@ -190,7 +190,7 @@ that you avoid using it if possible.
 * Send To Server - ?
 * Settings Profile Mod - [leduyquang753's Controls Saved](https://drive.google.com/uc?authuser=0&id=1di1XQ_JNcVOt2RyCyZncsua7Vi5ar_fo&export=download)
 * ShinyPots - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
-* SkyblockAddons - [See alternatives](https://microcontrollersdev.github.io/Alternatives/1.8.9/skyblockaddons)
+* SkyblockAddons - [See alternatives](https://microcontrollers.dev/Alternatives/1.8.9/skyblockaddons)
 * SoundPlayer - ?
 * Spotify - [Cbyrneee's MediaMod](https://github.com/MediaModMC/MediaMod/releases/latest) / [ThatGravyBoat's Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify)  
 * TeamSpeak - ?
