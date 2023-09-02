@@ -131,11 +131,11 @@ mod authors and it is advised against supporting them.
 ## External Mods
 
 * [Patcher](https://sk1er.club/mods/patcher)
-* SkyblockAddons - [See alternatives](https://microcontrollers.dev/Alternatives/1.8.9/skyblockaddons)
+* SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
 * [NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * [ChatTriggers](https://github.com/ChatTriggers/ChatTriggers/releases/latest)
 * [Apec](https://github.com/BananaFructa/Apec/releases/latest)
-* [Danker's Skyblock Mod](https://github.com/MicrocontrollersDev/Alternatives/blob/main/DankersSkyblockMod.md)
+* [Danker's Skyblock Mod](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * [Dungeon Rooms Mod](https://github.com/Quantizr/DungeonRoomsMod/releases/latest)
 * [Dungeons Guide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 * [Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)

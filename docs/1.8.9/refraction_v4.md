@@ -45,13 +45,13 @@
     * PerspectiveMod is now **bannable** on Hypixel.
 * ChatTriggers (ctjs)
     * ChatTriggers may cause many performance issues depending on your modules and most of the modules you can get are readily available in other mods. Many people also do not know how to use ChatTriggers and never import any modules, leading to an increased startup time for no reason.
-* [SkyblockAddons](https://microcontrollers.dev/Alternatives/1.8.9/skyblockaddons)
+* [SkyblockAddons](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
     * SkyblockAddons is old, unmaintained, and has many features that are either useless or simply do not work anymore. It will cause issues on Skyblock.
-* [Skypixel](https://microcontrollers.dev/Alternatives/1.8.9/skypixel)
+* [Skypixel](https://alternatives.microcontrollers.dev/1.8.9/skypixel)
     * Skypixel is old, unmaintained, and has many features that are either useless or simply do not work anymore. It will cause issues on Skyblock.
-* [LabyMod](https://microcontrollers.dev/Alternatives/1.8.9/labymod)
+* [LabyMod](https://alternatives.microcontrollers.dev/1.8.9/labymod)
     * LabyMod causes many issues with other mods, has performance issues, and has many alternatives that can be used without messing up other mods.
-* [SkyblockExtras](https://microcontrollers.dev/Alternatives/1.8.9/skyblockextras) (if you bought it)
+* [SkyblockExtras](https://alternatives.microcontrollers.dev/1.8.9/skyblockextras) (if you bought it)
     * SBE breaks EULA, breaks some other mod licenses, leads to performance issues, and has much better free alternatives for all of its important features.
 
 # Contributors

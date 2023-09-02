@@ -105,7 +105,7 @@ mod authors and it is advised against supporting them.
 
 ## Performance
 
-- Performance Improvements - See my [full list of performance mods](https://microcontrollers.dev/Alternatives/latest/migrating/#performance)  (as well as the Dependencies section above it)
+- Performance Improvements - See my [full list of performance mods](https://alternatives.microcontrollers.dev/latest/migrating/#performance)  (as well as the Dependencies section above it)
 
 ### Rendering Settings
 

@@ -51,7 +51,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
     - GitHub:
         - For your convenience, all GitHub links lead directly to the latest version of the mod. From here, click on the `Assets` drop down if needed, then download the jar that does not include `-sources` or `-dev` in the name.
             - If a link does not redirect you to the latest version but rather the main page, on the right side of the page, you should find a tag icon with the latest version.
-        - Mods downloaded this way will not automatically be installed to your instance. See the "[Manually Installing Mods on Fabric](https://microcontrollers.dev/Alternatives/latest/migrating/#manually-installing-mods-on-fabric)" section on how to install these mods.
+        - Mods downloaded this way will not automatically be installed to your instance. See the "[Manually Installing Mods on Fabric](https://alternatives.microcontrollers.dev/latest/migrating/#manually-installing-mods-on-fabric)" section on how to install these mods.
 
     - CurseForge:
         - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric mod loader, and download the latest one. You can also press the `View All` button, then sort by mod loader or Minecraft version to make finding the correct jar easier.
