@@ -22,7 +22,7 @@ way this will be used. To access it,
 click [here](https://microcontrollers.dev).
 
 ## Contributors
- [![GitHub Contributors](https://contrib.rocks/image?repo=MicrocontrollersDev)](https://microcontrollers.dev/contributors/)
+[![GitHub Contributors](https://contrib.rocks/image?repo=MicrocontrollersDev/Alternatives)](https://alternatives.microcontrollers.dev/contributors/)
 
 ## Whatever this is
 
