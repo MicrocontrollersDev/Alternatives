@@ -1,8 +1,8 @@
 # Prism Launcher
 
-Recently, the default Minecraft launcher has been having a lot of issues. Almost every week it feels like Mojang manages to break something that causes many people to not be able to play the game. Being a modded version of an already old Minecraft version, I am not too hopeful that many of these issues will ever be fixed or will be fixed anytime soon. For this reason, its recommended to switch to a launcher that cares about modding and old versions of Minecraft, and whose devs we can easily reach out to to report any major issues.
+Prism Launcher is an incredibly powerful launcher that makes managing your mods and modded instances much easier. It can do everything the official launcher can do, but allows for much more customization and ease of access. The official launcher has had several issues that have taken weeks to fix or are currently still not fixed, despite their severity. For modded and vanilla users alike, it is recommended to switch to Prism Launcher for an issue-less experience.
 
-This guide will explain the install process for Prism, as well as how we can use it for Skyclient.
+This guide will explain the install process for Prism, as well as how we can use it for Skyclient. Please take the time after setting up to better learn your way around the launcher, as you may end up using it as your go-to launcher from now on!
 
 ## How to Install (Linux)
 
@@ -19,7 +19,7 @@ In order to download Java, we will first head to the [Adoptium download page](ht
 - Operating System: Linux
 - Architecture: x64
 - Package Type: JDK
-- Version: 8 or 17 (download one of them, then download the other after)
+- Version: 8 and 17 (download one of them, then download the other after)
 
 Once we have chosen our download preferences, we will click the `tar.gz` download option and install it.
 
@@ -234,6 +234,8 @@ Continue the installation process until you get to the "Java" screen. Here, you 
 
 For the Minimum and Maximum memory allocation, leave them at 512 MiB and 4096 MiB respectively, unless you only have 8GB of ram or less, in which case you may want to change the maximum to 2048 MiB.
 
+All of these settings can be later adjusted globally or per instance. This includes changing the Java version or memory allocation. See the global settings button on the main page or in instance settings once you've completed this guide.
+
 After this, continue with the installation process as normal.
 
 ### Step 3 - Logging in
@@ -252,11 +254,11 @@ Under the `Version` selector, scroll down till you find 1.8.9 and select it. The
 
 ### Step 5 - Installing our mods / Skyclient
 
-Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit`. Now, we'll go to the `Mods` tab. On the bottom right, there will be a button called `View Folder`. Click on this and you should be redirected to your file explorer. Now, open a new file explorer and navigate to your old .minecraft folder, which is `~/.minecraft`. Then open the `skyclient` file if you are using Skyclient. Simply move everything in the skyclient folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
+Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit`. Now, we'll go to the `Mods` tab. On the bottom right, there will be a button called `View Folder`. Click on this and you should be redirected to your file explorer. Now, open a new file explorer and navigate to your old .minecraft folder, which is `~/.minecraft`. Then open the `skyclient` file if you are using Skyclient. Simply move everything in this folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
 
 ### Step 6 - Explore
 
-Prism Launcher has a lot of things to offer, such as themes if you don't like the look of it, as well as a lot of options for your instances, including the ability to see all your mods, resource packs, and worlds in the launcher before launching. You can use these menus to install mods and resource packs, and even update mods if they are hosted on Modrinth or CurseForge!
+Prism Launcher has a lot of things to offer, such as themes if you don't like the look of it, as well as a lot of options for your instances, including the ability to see all your mods, resource packs, and worlds in the launcher before launching. You can use these menus to install mods and resource packs, and even update mods if they are hosted on Modrinth or CurseForge! Please take the time to actually learn how the launcher works and experiment with it! Prism is an incredibly powerful launcher and it's important to know exactly what you can do with it!
 
 You can find a list of Prism themes and how to install them on [their website](https://prismlauncher.org/wiki/getting-started/change-themes).
 
