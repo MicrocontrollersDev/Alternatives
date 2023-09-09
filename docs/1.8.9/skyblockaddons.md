@@ -23,12 +23,12 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Defence Number - ?
 * Defence Percentage - ?
 * Defence Symbol - ?
-* Disable Boss Messages - ?
+* Disable Boss Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Disable Enderman Teleportation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Disable Location Not Perfect Warnings - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Disable Magical Mushroom Soup Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Disable Mort Messages - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Disable Night Vision Potion Blinking - ?
+* Disable Night Vision Potion Blinking - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Disable Teleport Pad Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Discord Rich Presence - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest) 
 * Dolphin Pet Tracker - ?
@@ -39,7 +39,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Dungeon Death Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeon Map Display - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Collected Essences Display - ?
-* Dungeons Secret Display  - ?
+* Dungeons Secret Display  - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Teammate Name Overlay - ?
 * Effective Health Number - ?
 * Endstone Protector Display - ?
@@ -69,13 +69,13 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Legendary Sea Creature Warning - ?
 * Mana Bar - ?
 * Mana Number - ?
-* No Arrows Left Alert - ?
+* No Arrows Left Alert - Impossible (Hypixel changed Infinite Quiver so it can't be 100% accurate)
 * Only Show in the Dragon's Nest - ?
 * Outbid Alert Sound - ?
 * Outline Dungeon Teammates - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Overflow Mana Number - ?
 * Parse Enchant Tooltips - ?
-* Potion and Powerup Timers - ?
+* Potion and Powerup Timers - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Power Orb Display - ?
 * Prevent Walking After Death - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Reforge Filter - ?
@@ -100,7 +100,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Show Reforge Overlay - ?
 * Show SBA Button in Pause Menu - Irrelevant
 * Show Skyblock Item ID on Hover - ?
-* Show Stacking Enchant Progress - [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest)
+* Show Stacking Enchant Progress - [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Sword Kills - ?
 * Show What Fetchur Wants Today - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest)
 * Show if Item's Rarity has been Upgraded - ?
