@@ -25,18 +25,18 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Defence Symbol - ?
 * Disable Boss Messages - ?
 * Disable Enderman Teleportation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Disable Location Not Perfect Warnings - ?
-* Disable Magical Mushroom Soup Messages - ?
-* Disable Mort Messages - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Disable Location Not Perfect Warnings - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Disable Magical Mushroom Soup Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Disable Mort Messages - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Disable Night Vision Potion Blinking - ?
-* Disable Teleport Pad Messages - ?
+* Disable Teleport Pad Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Discord Rich Presence - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest) 
 * Dolphin Pet Tracker - ?
 * Don't Reset Cursor Between Inventories - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Dragon Tracker - ?
 * Drill Fuel Bar - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Drill Fuel Number - ?
-* Dungeon Death Counter - ?
+* Dungeon Death Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeon Map Display - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Collected Essences Display - ?
 * Dungeons Secret Display  - ?
@@ -47,7 +47,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Fishing Particle Overlay - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Full Inventory Warning - ?
 * Full Minion Warning - ?
-* Glowing Dropped Items  - ?
+* Glowing Dropped Items  - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Health Bar - ?
 * Health Change Number - ?
 * Health Number - ?
@@ -62,7 +62,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Hide Sven Pup Nametags - ?
 * Hide True Defense - ?
 * Hide Vanilla Health Bar - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Item Drop Confirmation - ?
+* Item Drop Confirmation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Item Pickup Log - ?
 * Jacob's Contest Timer - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Leather Backpack Opening Sound - ?
@@ -72,7 +72,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * No Arrows Left Alert - ?
 * Only Show in the Dragon's Nest - ?
 * Outbid Alert Sound - ?
-* Outline Dungeon Teammates - ?
+* Outline Dungeon Teammates - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Overflow Mana Number - ?
 * Parse Enchant Tooltips - ?
 * Potion and Powerup Timers - ?
@@ -93,7 +93,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Show Experimentation Table Tooltips - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Show Floor Obtained Dungeon Items - ?
 * Show Item Anvil Uses - Useless
-* Show Item Cooldowns - ?
+* Show Item Cooldowns - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Show Nether Faction - ?
 * Show Player Symbols In Chat - ?
 * Show Profile Type - ?
@@ -102,7 +102,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Show Skyblock Item ID on Hover - ?
 * Show Stacking Enchant Progress - [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest)
 * Show Sword Kills - ?
-* Show What Fetchur Wants Today - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show What Fetchur Wants Today - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest)
 * Show if Item's Rarity has been Upgraded - ?
 * Skeleton's Helmet Bones Bar - ?
 * Skill Progress Bar - ?
