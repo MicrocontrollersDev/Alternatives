@@ -69,7 +69,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Legendary Sea Creature Warning - ?
 * Mana Bar - ?
 * Mana Number - ?
-* No Arrows Left Alert - Impossible (Hypixel changed Infinite Quiver so it can't be 100% accurate)
+* No Arrows Left Alert - Irrelevant (you can just click and see it doesn't shoot)
 * Only Show in the Dragon's Nest - ?
 * Outbid Alert Sound - ?
 * Outline Dungeon Teammates - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
