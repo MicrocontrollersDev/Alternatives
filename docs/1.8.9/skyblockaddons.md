@@ -91,7 +91,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Show Dungeon Milestone - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Show Entity Outlines - ?
 * Show Experimentation Table Tooltips - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Floor Obtained Dungeon Items - ?
+* Show Floor Obtained Dungeon Items - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * Show Item Anvil Uses - Useless
 * Show Item Cooldowns - ?
 * Show Nether Faction - ?
@@ -99,7 +99,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Show Profile Type - ?
 * Show Reforge Overlay - ?
 * Show SBA Button in Pause Menu - Irrelevant
-* Show Skyblock Item ID on Hover - ?
+* Show Skyblock Item ID on Hover - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Show Stacking Enchant Progress - [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest)
 * Show Sword Kills - ?
 * Show What Fetchur Wants Today - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -123,7 +123,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Stop Rat Pet Sounds - ?
 * Summoning Eye Alert - ?
 * Ticker/Charges Display - ?
-* Trevor The Trapper Features - ?
+* Trevor The Trapper Features - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Use New Chroma Effect - ?
 * Zealot Counter - Count Since Last Eye - ?
 * Zealot Counter - Show Zealots Per Eye - ?
@@ -135,3 +135,4 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 
 * [hannibal2](https://github.com/hannibal002)
 * [NetheriteMiner](https://github.com/NetheriteMiner)
+* [CalMWolfs](https://github.com/CalMWolfs)
