@@ -17,6 +17,6 @@ the game.
 
 # Contributors
 
+* [CalMWolfs](https://github.com/CalMWolfs)
 * [moisty](https://github.com/Mqisty)
 * [Zetvue](https://zetvue.github.io/)
-* [CalMWolfs](https://github.com/CalMWolfs)

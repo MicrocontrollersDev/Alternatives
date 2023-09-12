@@ -152,8 +152,8 @@ alternatives that still get updated.
 
 # Contributors
 
+* [CalMWolfs](https://github.com/CalMWolfs)
+* [hannibal2](https://github.com/hannibal002)
 * [moisty](https://github.com/Mqisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
-* [hannibal2](https://github.com/hannibal002)
-* [CalMWolfs](https://github.com/CalMWolfs)

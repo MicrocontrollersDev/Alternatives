@@ -133,6 +133,6 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 
 # Contributors
 
+* [CalMWolfs](https://github.com/CalMWolfs)
 * [hannibal2](https://github.com/hannibal002)
 * [NetheriteMiner](https://github.com/NetheriteMiner)
-* [CalMWolfs](https://github.com/CalMWolfs)
