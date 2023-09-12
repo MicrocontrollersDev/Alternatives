@@ -20,6 +20,7 @@
 - [SkyblockExtras](https://alternatives.microcontrollers.dev/1.8.9/skyblockextras)
 - [Skyblock Reinvented](https://alternatives.microcontrollers.dev/1.8.9/skyblock_reinvented)
 - [Skypixel](https://alternatives.microcontrollers.dev/1.8.9/skypixel)
+- [SoopyAddons](https://alternatives.microcontrollers.dev/1.8.9/soopy)
 - [Wyvtils](https://alternatives.microcontrollers.dev/1.8.9/wyvtils)
 
 ## Modpacks
