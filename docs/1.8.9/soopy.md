@@ -8,12 +8,9 @@ not work as intended. It also requires
 ChatTriggers to run the mod which can 
 cause performance issues.
 
-List is a constant WIP. It has been a 
-while since I have played many aspects
-of the game so if you know of any
-features/alternatives or would like to
-confirm any of my guesses, feel free to
-make a pull request.
+List is a WIP but should have all 
+features just is missing some alternatives. 
+Feel free to make a pull request to add them.
 
 
 ### Waypoints
