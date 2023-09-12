@@ -213,11 +213,8 @@ make a pull request.
 * Scatha Pet Dropped Alert - ?
 
 
-### Stat Next To Name
-* Stat Next To Name - ?
-
-
 ### Other
+* Stat Next To Name - ?
 * Networth Viewer - ?
 * Networth Leaderboard - ?
 * Stat Graphs - ?
