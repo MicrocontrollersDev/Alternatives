@@ -17,9 +17,9 @@ TODO
 ### SkyBlock
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- | --- |
-| [NotEnoughUpdates]https://github.com/Moulberry/NotEnoughUpdates/releases/latest) | TODO | [NEU Team](https://github.com/NotEnoughUpdates) |
+| [NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) | TODO | [NEU Team](https://github.com/NotEnoughUpdates) |
 | [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) | TODO | [Skytils Team](https://github.com/Skytils) |
-| [SkyHanni](https://github.com/hannibal002/SkyHanni/releases/latest) | TODO | [hannibal002] | Requires NotEnoughUpdates |
+| [SkyHanni](https://github.com/hannibal002/SkyHanni/releases/latest) | TODO | [hannibal2](https://github.com/hannibal002) | Requires NotEnoughUpdates |
 | [SkyblockHUD Death Defied](https://github.com/romangraef/SkyblockHud-Death-Defied/releases/latest) | [ThatGravyBoat](https://github.com/ThatGravyBoat), [Erymanthus](https://github.com/RayDeeUx), & [Nea](https://github.com/romangraef) |
 | [Danker's Skyblock Mod](https://github.com/bowser0000/SkyblockMod/releases/latest) | TODO | [Dankker / bowser0000](https://github.com/bowser0000) |
 | [SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest) | TODO | [Cobble8](https://github.com/Cobble8) |
