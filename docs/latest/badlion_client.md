@@ -50,7 +50,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Item Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Item Info - ?
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
-* MiniMap **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+* MiniMap **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * Pack Display - ?
 * Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Potion Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
@@ -71,7 +71,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### Visual Mods
 
 * Block Overlay - [LordDeatHunter's Color Me Outlines](https://modrinth.com/mod/color-me-outlines)
-* Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs/)
+* Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs)
 * Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with BLC capes)
     * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)
 * Enchant Glint - ?

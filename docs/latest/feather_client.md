@@ -24,7 +24,7 @@ mod authors and it is advised against supporting them.
 * Nick Hider - ?
 * Particles - ?
 * Time Changer - [Motschen's Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
-* Waypoints **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+* Waypoints **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * Weather Changer - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
 * Zoom - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
 
@@ -129,41 +129,39 @@ mod authors and it is advised against supporting them.
 
 ### Cosmetics
 
-* Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
+* Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica)
 
 ## External Mods
 
 * [Replay Mod](https://modrinth.com/mod/replaymod/versions)
 * [OptiFine](https://optifine.net)
-* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-* [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink)
+* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+* [MumbleLink](https://modrinth.com/mod/mumble-link)
 * [HD Skins](https://www.hdskins.de/)
-* [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer)
+* [Recursive Resources (Fabric version of Resourcepack Organizer)](https://modrinth.com/mod/recursiveresources)
 * OptiFabric - Do not use.
-* [Iris](https://irisshaders.github.io/)
+* [Iris](https://modrinth.com/mod/iris)
 * [ModMenu](https://modrinth.com/mod/modmenu)
-* [RoughlyEnoughItems](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+* [RoughlyEnoughItems](https://modrinth.com/mod/rei)
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
-* [Durability101](https://www.curseforge.com/minecraft/mc-mods/durability101)
-* [MouseTweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
-* [ClientTweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric)
-* [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)
-* [Multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect)
-* [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)
-* [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
+* [Durability101](https://modrinth.com/mod/durability101)
+* [MouseTweaks](https://modrinth.com/mod/mouse-tweaks)
+* [ClientTweaks](https://modrinth.com/mod/client-tweaks)
+* [WTHIT](https://modrinth.com/mod/wthit)
+* [Multiconnect](https://modrinth.com/mod/multiconnect)
+* [Origins](https://modrinth.com/mod/origins)
+* [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
-* [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
-* [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
 * [Indium](https://modrinth.com/mod/indium)
-* [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
-* [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
-* [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+* [Balm](https://modrinth.com/mod/balm)
+* [Architectury](https://modrinth.com/mod/architectury-api)
+* [Cloth Config](https://modrinth.com/mod/cloth-config)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [Lithium](https://modrinth.com/mod/lithium)
 * [Starlight](https://www.modrinth.com/mod/starlight)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
-* [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+* [Entity Culling](https://modrinth.com/mod/entityculling)
 
 # Contributors
 
