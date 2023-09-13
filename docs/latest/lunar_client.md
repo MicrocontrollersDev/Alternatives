@@ -2,6 +2,8 @@
 
 Please note that this page may be outdated due to Minecraft update cycles.
 
+It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all dependencies and recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
+
 ## Mods
 
 ### OptiFine
@@ -59,25 +61,25 @@ Please note that this page may be outdated due to Minecraft update cycles.
 
 ### HUD Mods
 
-* Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
-* Clock - ?
-* Combo Counter - ?
-* Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* CPS - ?
-* Day Counter - ?
+* Armor Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Clock - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Combo Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Day Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * DirectionHUD - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
 * FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
-* Item Tracker - ?
-* Key Strokes - ?
+* Item Tracker - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Key Strokes - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Memory Usage - ?
 * Pack Display - ?
-* Ping - ?
-* Potion Effects - ?
+* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Potion Effects - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Potion Counter - [uku's PotionCounter](https://modrinth.com/mod/potioncounter)
 * Stopwatch - ?
-* Server Address -  ?
+* Server Address -  [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
-* Reach Display - ?
+* Reach Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Team View - Irrelevant
 
 ### Nametags

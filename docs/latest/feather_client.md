@@ -2,6 +2,8 @@
 
 Please note that this page may be outdated due to Minecraft update cycles.
 
+It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all dependencies and recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
+
 WIP - Feather "Client" is a Forge/Fabric
 mod marketing itself as a client, claiming
 immense FPS boosts and wide mod support. However,
@@ -13,7 +15,7 @@ mod authors and it is advised against supporting them.
 
 * Animations - Irrelevant
 * Block Overlay - [LordDeatHunter's Color Me Outlines](https://modrinth.com/mod/color-me-outlines)
-* Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs/)
+* Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - Partially in vanilla's accessibility menu
 * Glint - ?
@@ -30,21 +32,21 @@ mod authors and it is advised against supporting them.
 
 * Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
 * Attack Indicator - [Minenash's Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
-* Boss Bar - ?
-* CPS - ?
-* Combo Display - ?
+* Boss Bar - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Combo Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* Direction - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* Direction - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
-* Item Counter - ?
+* Item Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Item Info - ?
 * Pack Display - ?
-* Ping - ?
-* Potion Effects - ?
-* Reach Display - ?
+* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Potion Effects - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Reach Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
-* Scoreboard - [Lortseam's Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
-* Time - ?
+* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Time - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 
 ### Hypixel
 
