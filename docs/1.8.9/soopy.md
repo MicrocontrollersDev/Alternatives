@@ -33,7 +33,7 @@ Feel free to make a pull request to add them.
 * Custom Museum Gui - ?
 * Custom Dungeon Ready Gui - ?
 * Inventory Search Bar - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Custom Hp And Mana Bar
+* Custom Hp And Mana Bar - 
 
 
 ### Dungeons Solvers
@@ -73,7 +73,7 @@ Feel free to make a pull request to add them.
 * Glowing Mushroom Highlighter - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Trevor Theodite Solver - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Block Zapper Cooldown - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Use Manner Reminder (Bingo) - ?
+* Use Mana Reminder (Bingo) - ?
 
 
 ### Global Settings
@@ -93,6 +93,7 @@ Feel free to make a pull request to add them.
 
 
 ### Guild
+
 * Shorten "Guild >" To "G >" - ?
 
 
@@ -132,6 +133,7 @@ Feel free to make a pull request to add them.
 
 
 ### Nether
+
 * Mastery Timer - ?
 * Show Next Dojo Swiftness Block - ?
 * Dojo Discipline Zombie Overlay - ?
@@ -142,12 +144,14 @@ Feel free to make a pull request to add them.
 
 
 ### Rng Meter
+
 * Rng Meter Display - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Slayer Rng Meter Reset Alert - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Slayer Rng Drop Title - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 
 
 ### Slayer
+
 * Show Slayer Exp On Kill - ?
 * Show Boss Slain Alert - ?
 * Show Boss Spawned Alert - ?
@@ -176,12 +180,14 @@ Feel free to make a pull request to add them.
 
 
 ### Summonings
+
 * Hide Summoning Nametags - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Warn When Summoning Hp Is Low - ?
 * Render Hp Of Summons On Screen - ?
 
 
 ### Spam Hider
+
 * Hide Some Messages - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Move Messages To Spam Hider Chat - ?
 * Show Friend Join/Leave Messages - /f notifications
@@ -192,6 +198,7 @@ Feel free to make a pull request to add them.
 
 
 ### Special Mining 
+
 * Compact Powder Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Fix x2 Powder Messages - ?
 * Powder Info On HUD - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
@@ -211,6 +218,7 @@ Feel free to make a pull request to add them.
 
 
 ### Other
+
 * Stat Next To Name - ?
 * Networth Viewer - ?
 * Networth Leaderboard - ?
