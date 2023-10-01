@@ -45,6 +45,16 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     This list currently consists of three different sources for mod downloads: Modrinth, GitHub, and CurseForge. This section will explain how to download mods from each of them.
 
+    #### Automatic Installation:
+    
+    - If you are using Prism Launcher, you can simply go to the mods menu for your instance and press the "Download Mods" button in the top right to search Modrinth and CurseForge directly inside the launcher.
+
+    - Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. This can be bypassed by opening Prism settings, going to `APIs`, then `API Keys` and entering `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm` into the CurseForge Core API.
+
+    - GitHub or non-Modrinth/CurseForge mods will require manual installation.
+
+    #### Manual Download
+
     - Modrinth:
         - On the mod's page, click on the `Versions` tab. From there, you can see all versions of the mod. Make sure you download the correct one based on the Minecraft version and mod loader, click on the download icon for the newest version of the mod that fits both previous criteria.
 
@@ -56,18 +66,14 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
     - CurseForge:
         - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric mod loader, and download the latest one. You can also press the `View All` button, then sort by mod loader or Minecraft version to make finding the correct jar easier.
 
-    If you are using Prism Launcher, you can simply go to the mods menu for your instance and press the "Download Mods" button in the top right to search Modrinth and CurseForge directly inside the launcher.
+    #### Manually Installing Mods
 
-    **NOTE**: Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. It is recommended to download from Modrinth when possible. If the mod is not on Modrinth, you can simply download from CurseForge and add it to your Prism instance's mods folder. Downloading mods from CurseForge does **NOT** require you to install their launcher!
-
-    ### Manually Installing Mods on Fabric
-
-    0. Make sure you close Minecraft before installing mods, otherwise unexpected things can happen.
+    0. Close Minecraft if open.
     1. Click on your Prism Instance.
     2. Click `Edit`.
     3. Go to the `Mods` tab.
     4. Either drag and drop files into this menu, or you can press `View Folder` to drag and drop mods directly into your mods folder.
-    5. You can now launch the instance
+    5. You can now launch the instance.
 
     ### Still Need Help?
 

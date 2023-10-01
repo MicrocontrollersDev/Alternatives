@@ -66,6 +66,10 @@ You can find a list of Prism themes and how to install them on [their website](h
 Windows auto-updating is WIP for now, you will need to download the installer and run it again (you will not lose your instances/your Skyclient).
 In some cases (specifically when you are on version 5.x or lower), you may need to uninstall your current Prism Launcher entirely before reinstalling. Your instances will still be safe and will not be deleted.
 
+### Step 8 - Setting CurseForge API Key
+
+- Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. This can be bypassed by opening Prism settings, going to `APIs`, then `API Keys` and entering `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm` into the CurseForge Core API.
+
 ## Common Issues
 
 #### `The java binary "" couldn't be found. Please fix the java path override in the instance's settings or disable it.`

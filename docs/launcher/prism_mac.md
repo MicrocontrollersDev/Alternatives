@@ -61,7 +61,11 @@ You can find a list of Prism themes and how to install them on [their website](h
 
 ### Step 7 - Updating Prism
 
-Prism Launcher has a built in updater for macOS using the Sparkle Framework. When an update is available, an update button will appear on the top toolbar.<br>
+Prism Launcher has a built in updater for macOS using the Sparkle Framework. When an update is available, an update button will appear on the top toolbar.
+
+### Step 8 - Setting CurseForge API Key
+
+- Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. This can be bypassed by opening Prism settings, going to `APIs`, then `API Keys` and entering `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm` into the CurseForge Core API.
 
 ## Common Issues
 

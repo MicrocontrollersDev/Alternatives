@@ -266,6 +266,10 @@ You can find a list of Prism themes and how to install them on [their website](h
 
 - Simply update through your package manager, or reinstall it the same way you installed it.
 
+### Step 8 - Setting CurseForge API Key
+
+- Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. This can be bypassed by opening Prism settings, going to `APIs`, then `API Keys` and entering `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm` into the CurseForge Core API.
+
 ## Common Issues
 
 #### `The java binary "" couldn't be found. Please fix the java path override in the instance's settings or disable it.`
