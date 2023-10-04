@@ -13,6 +13,7 @@
 ## Mods
 
 - [OptiFine](https://alternatives.microcontrollers.dev/latest/optifine)
+- [Patcher](https://alternatives.microcontrollers.dev/latest/patcher)
 
 ## Other
 

@@ -73,6 +73,7 @@ nav:
           - "Lunar Client": "latest/lunar_client.md"
       - "Mods":
           - "OptiFine": "latest/optifine.md"
+          - "Patcher": "latest/patcher.md"
       - "Other":
           - "Migrating to Latest": "latest/migrating.md"
   - "Launcher":
