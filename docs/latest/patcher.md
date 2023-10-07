@@ -162,7 +162,7 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Image Preview Width - ?
 - Inventory Position - Vanilla
 - Click Out of Containers - ?
-- Inventory Scale - ?
+- Inventory Scale - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 - Tab Opacity - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 - Tab Height - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 - Set Tab Height - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
