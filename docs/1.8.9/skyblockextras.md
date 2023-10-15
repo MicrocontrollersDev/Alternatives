@@ -287,7 +287,7 @@ or a discussion.
 * Hide WitherBorn Shadows - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (properly scales shadows) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (for bossbar)
 * Hide Displayed Armor - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Damage Vignette - ?
-* Modify Visual Words - ?
+* Modify Visual Words - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 
 ### Bazaar
 
