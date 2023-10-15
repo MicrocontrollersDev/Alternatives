@@ -18,7 +18,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Change Enderchest Color in the End - ?
 * Change Zealot Color - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Color Bow Green When Using Toxic Arrow Poison - ?
-* Compact Tab List - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (not really compact, but cleans it up a bit)
+* Compact Tab List - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Dark Auction Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Defence Number - ?
 * Defence Percentage - ?
@@ -47,7 +47,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Fishing Particle Overlay - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Full Inventory Warning - ?
 * Full Minion Warning - ?
-* Glowing Dropped Items  - ?
+* Glowing Dropped Items  - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Health Bar - ?
 * Health Change Number - ?
 * Health Number - ?
@@ -72,7 +72,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * No Arrows Left Alert - ?
 * Only Show in the Dragon's Nest - ?
 * Outbid Alert Sound - ?
-* Outline Dungeon Teammates - ?
+* Outline Dungeon Teammates - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Overflow Mana Number - ?
 * Parse Enchant Tooltips - ?
 * Potion and Powerup Timers - ?
@@ -89,14 +89,14 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Show Critical Dungeon Teammates  - ?
 * Show Dungeon Healing Circle Wall - ?
 * Show Dungeon Milestone - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Show Entity Outlines - ?
+* Show Entity Outlines - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Show Experimentation Table Tooltips - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Show Floor Obtained Dungeon Items - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * Show Item Anvil Uses - Useless
 * Show Item Cooldowns - ?
-* Show Nether Faction - ?
-* Show Player Symbols In Chat - ?
-* Show Profile Type - ?
+* Show Nether Faction - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Player Symbols In Chat - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Profile Type - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Show Reforge Overlay - ?
 * Show SBA Button in Pause Menu - Irrelevant
 * Show Skyblock Item ID on Hover - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
@@ -109,10 +109,10 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Skill Progress Display - ?
 * Slayer Armor Progress Indicator - ?
 * Slayer Boss Approach Alert - ?
-* Slayer Tracker - Revenant/Zombie - ?
-* Slayer Tracker - Sven/Wolf - ?
-* Slayer Tracker - Tarantula/Spider - ?
-* Slayer Tracker - Voidgloom/Enderman - ?
+* Slayer Tracker - Revenant/Zombie - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Slayer Tracker - Sven/Wolf - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Slayer Tracker - Tarantula/Spider - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Slayer Tracker - Voidgloom/Enderman - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Sound Indicator for Fishing - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Special Zealot Alert - ?
 * Speed Percentage - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) (in Garden only)
@@ -124,7 +124,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Summoning Eye Alert - ?
 * Ticker/Charges Display - ?
 * Trevor The Trapper Features - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Use New Chroma Effect - ?
+* Use New Chroma Effect - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Zealot Counter - Count Since Last Eye - ?
 * Zealot Counter - Show Zealots Per Eye - ?
 * Zealot Counter - Total Eye Count - ?
