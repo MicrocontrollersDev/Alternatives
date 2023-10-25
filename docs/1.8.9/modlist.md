@@ -2,6 +2,15 @@
 
 WIP list of 1.8.9 mods.
 
+| [Mod]() | TODO | [Name](https://github.com/) |
+
+### How to install
+
+TODO
+
+- link to prism guide
+- explain modrinth/github/cf/maybe sk1er? downloads
+
 ### Performance
 
 | Mod | Description | Author | Notes |
@@ -9,14 +18,40 @@ WIP list of 1.8.9 mods.
 | [OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | One of the oldest performance mods for Minecraft. Required for many resource packs as well. | [sp614x](https://github.com/sp614x) |
 | [Patcher](https://sk1er.club/mods/patcher) | Patcher fixes several Minecraft bugs, adds many performance improvements, and adds many quality of life features. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 
-### Other
+### Other (needs to be sorted better eventually)
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [ChatTriggers](https://modrinth.com/mod/chattriggers) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. | [ChatTriggers Team](https://github.com/ChatTriggers) | Modules can be found on [their site](https://www.chattriggers.com/modules), and depending on their quality may substantially decrease FPS
+| [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | TODO | [tr7zw](https://github.com/tr7zw) |
+| [Block overlay]() | TODO | [Aycy TODO]() |
+| [Blur]() | TODO | TODO |
+| [Chatting]() | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [ChatTriggers](https://modrinth.com/mod/chattriggers) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. | [ChatTriggers Team](https://github.com/ChatTriggers) | Modules can be found on [their site](https://www.chattriggers.com/modules), and depending on their quality may substantially decrease FPS |
+| [Controlling]() | TODO | [Name](https://github.com/) |
+| [Craftify]() | TODO | [Gravy TODO](https://github.com/) |
+| [CrashPatch]() | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [DamageTilt]() | TODO | [Name](https://github.com/) |
+| [EvergreenHUD]() | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [Keystrokes]() | TODO | [Polyfrost](https://github.com/Polyfrost) & [Canalex TODO]() |
+| [Mixmetica](https://modrinth.com/mod/mixmetica) | TODO | [Microcontrollers](https://github.com/MicrocontrollersDev) |
+| [Not So Essential]() | TODO | [Scheroso TODO](https://github.com/) |
+| [OofMod]() | TODO | [Name](https://github.com/) |
+| [OverflowAnimations]() | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [ParticlesEnhanced]() | TODO | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
+| [PolyBlur]() | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [Raw Input]() | TODO | [Name](https://github.com/) |
+| [Resource Pack Manager]() | TODO | [Aycy TODO](https://github.com/) |
+| [Resourcify]() | TODO | [DeDiamondPro](https://github.com/DeDiamondPro) |
+| [Scrollable Tooltips]() | TODO | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| [Serverlist Buffer Fixer]() | TODO | [Name](https://github.com/) |
+| [PolySprint]() | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [Smooth Scrolling Everywhere]() | TODO | [shedaniel](https://github.com/shedaniel) |
+| [VanillaHUD]() | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [WaveyCapes]() | TODO | [tr7zw](https://github.com/tr7zw) |
 
 ### Hypixel
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
+| [BedWar Mod](https://modrinth.com/mod/bedwar-mod) | Multifeature mod for Hypixel Bedwars. | [CalMWolfs](https://github.com/CalMWolfs) |
 | [Hytils Reborn](https://modrinth.com/mod/hytils) | Adds tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others. | [Polyfrost](https://github.com/Polyfrost) |
 
 ### SkyBlock
@@ -50,3 +85,4 @@ WIP, needs to be table-ized and prettified
     - Use Overflow V2
 - Resource Pack Organizer
     - Use RPM
+
