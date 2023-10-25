@@ -108,8 +108,8 @@ alternatives that still get updated.
 
 ### Alerts
 
-* Boost Ready Alert - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Boost Expired Alert - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Boost Ready Alert - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Boost Expired Alert - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Remove Mining Speed Boost Ready - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Mining Speed Boost Used - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Mining Speed Boost Expired - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)

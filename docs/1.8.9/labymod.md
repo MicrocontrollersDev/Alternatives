@@ -37,14 +37,14 @@ that you avoid using it if possible.
 
 ### Minecraft Chat
 
-* Autotext **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
+* Autotext **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9)
 * Name History - Removed by Mojang for privacy concerns.
 * Chat Icons - ?
 * Chat Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Shortcuts - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
 * Player Menu - ?
-* Disable Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
-* Adjustable Chat - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+* Disable Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
+* Adjustable Chat - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
 * Advanced Chat Settings
     * Scroll Speed - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
     * Chat Row Limit - ?
@@ -125,7 +125,7 @@ that you avoid using it if possible.
 * Click Test -  ?
 * Lava Challenge Time - ?
 * ToggleSneak Info - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
-* Laby's MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/releases/latest)
+* Laby's MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files?version=1.8.9) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/releases/latest)
 * DirectionHUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Other
@@ -140,7 +140,7 @@ that you avoid using it if possible.
 * AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
 * AutoGL - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
 * AutoReconnect - ?
-* Batty's Coordinates - [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/all?filter-game-version=2020709689%3A5806) 
+* Batty's Coordinates - [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files?version=1.8.9) 
 * BetterHat - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions)
 * Better Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * BetterScreenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -151,25 +151,25 @@ that you avoid using it if possible.
 * Color Correction - ?
 * ConnectionHistory - ?
 * Controller - ?
-* Custom Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
+* Custom Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
 * Custom Crosshair Mod - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Custom Hitboxes - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * CustomFilterSounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* CustomFont - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/all?filter-game-version=2020709689%3A5806)
+* CustomFont - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files?version=1.8.9)
 * Custom Main Menu - [Lumien231's CustomMainMenu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2280558)
 * CustomTime - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
-* DamageIndicator **(BANNABLE ON HYPIXEL)** - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/all?filter-game-version=2020709689%3A5806)
+* DamageIndicator **(BANNABLE ON HYPIXEL)** - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files?version=1.8.9)
 * Direct Connect History - ?
 * DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* EmoteChat - [Kokeria's ChatEmotes](https://www.curseforge.com/minecraft/mc-mods/chatemotes/files/all?filter-game-version=2020709689%3A5806) (doesn't work exactly like laby's but the emotes are the same)
+* EmoteChat - [Kokeria's ChatEmotes](https://www.curseforge.com/minecraft/mc-mods/chatemotes/files?version=1.8.9) (doesn't work exactly like laby's but the emotes are the same)
 * FastJoin - ?
 * Focus Movement Fix - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
 * Friend Tags - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases/latest)
 * FriendViewer - [Sk1er's Essential](https://essential.gg)
 * FullBright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint Colorizer - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
-* GUI Blur Mod - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
-* HDSkins - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/all?filter-game-version=2020709689%3A5806)
+* GUI Blur Mod - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
+* HDSkins - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files?version=1.8.9)
 * HeadOwner - ?
 * Hotbar - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 * Hypixel Quick Play - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
@@ -177,10 +177,10 @@ that you avoid using it if possible.
 * I Love Music - ?
 * Instagram - ?
 * Instant Tab Completion - ?
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
+* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
 * Minigames - ?
-* MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all?filter-game-version=2020709689%3A5806) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A5806) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
+* MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files?version=1.8.9) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
 * More Particles - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
 * Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
 * NoBob - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -198,8 +198,8 @@ that you avoid using it if possible.
 * ToggleTab - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Transulcent Skins - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Twitter - ?
-* WorldEditCUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
-* VoiceChat - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
+* WorldEditCUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files?version=1.8.9)
+* VoiceChat - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files?version=1.8.9) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 
 
 # Contributors

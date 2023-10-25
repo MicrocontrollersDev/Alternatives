@@ -98,7 +98,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 ### Skyblock
 
 * SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
-* NotEnoughUpdates - [Moulberry's Not Enough Updates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* NotEnoughUpdates - [Moulberry's Not Enough Updates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Cowlection - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
@@ -107,7 +107,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * 2D Items - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
 * UHC Overlay - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (Resource packs also work)
 * FOV Mod - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
+* Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Chunk Borders - ?
 * Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695)
@@ -119,8 +119,8 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Particle Mod - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced/versions) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189) + [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Cooldowns - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
 * Time Changer - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
-* Block Outline - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
+* Block Outline - [Aycy's BlockOverlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
+* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * TNT Timer Mod - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
 * Hitbox - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar) (need a GitHub account to download artifact)
 * Reduced Hurt Animation - [Scherso's BetterHurtCam](https://github.com/Scherso/BetterHurtCam/releases/latest)
@@ -129,11 +129,11 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 * Toggle Sneak/Sprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
-* WorldEdit CUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/all?filter-game-version=2020709689%3A5806)
+* WorldEdit CUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files?version=1.8.9)
 * Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod/versions)
 * Screenshot Uploader - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
-* Mumble Link - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
+* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9)
+* Mumble Link - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files?version=1.8.9)
 * Boss Bar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest) 
 * Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * Quickplay - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)

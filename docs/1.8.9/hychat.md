@@ -34,7 +34,7 @@ The mod is no longer supported by its developer, Moulberry.
 ### Visual
 
 * Change Colors - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
-* Change Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+* Change Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
 
 # Contributors
 

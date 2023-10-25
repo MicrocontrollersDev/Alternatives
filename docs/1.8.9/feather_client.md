@@ -14,13 +14,13 @@ mod authors and it is advised against supporting them.
 ### Visuals
 
 * Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
-* Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
+* Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest) & [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 * Hitbox - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
+* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
 * Particles - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
 * Time Changer - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
@@ -57,7 +57,7 @@ mod authors and it is advised against supporting them.
 
 ### Other
 
-* Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
+* Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9)
 * Discord - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Oof Mod - [Powns & Refraction & Deftu's OofMod](https://github.com/Deftu/OofMod/releases/latest)
 * Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
@@ -76,8 +76,8 @@ mod authors and it is advised against supporting them.
 
 ### Blur Settings
 
-* Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
-* Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
+* Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
+* Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 
 ### Sound
 
@@ -132,7 +132,7 @@ mod authors and it is advised against supporting them.
 
 * [Patcher](https://sk1er.club/mods/patcher)
 * SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
-* [NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* [NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * [ChatTriggers](https://github.com/ChatTriggers/ChatTriggers/releases/latest)
 * [Apec](https://github.com/BananaFructa/Apec/releases/latest)
 * [Danker's Skyblock Mod](https://github.com/bowser0000/SkyblockMod/releases/latest)

@@ -57,7 +57,7 @@ This list is based off of the latest version of 5zig Reborn.
 * 2nd Chat - ?
 * Chat Messages Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Text Shortcuts - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
-* Text Macros **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806) 
+* Text Macros **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9) 
 * Username History - Removed by Mojang for privacy concerns.
 * Join Auto-Text **(BANNABLE ON HYPIXEL)** - ?
 * TeamSpeak - ?

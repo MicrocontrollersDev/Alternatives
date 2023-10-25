@@ -2,7 +2,7 @@
 
 ### General
 
-* Blurred Gui Background - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
+* Blurred Gui Background - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 * Clear Glass - [canelex's Clear Glass](https://www.youtube.com/watch?v=Iq63MOSURbE)
 * Fire Height - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Persistent Chat Messages - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -54,11 +54,11 @@
 * Auto MyPosition -  ?
 * AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
 * Bossbar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
-* Chunk Animator - [Lumien231's Chunk Animator](https://www.curseforge.com/minecraft/mc-mods/chunk-animator/files/all?filter-game-version=2020709689%3A5806)
+* Chunk Animator - [Lumien231's Chunk Animator](https://www.curseforge.com/minecraft/mc-mods/chunk-animator/files?version=1.8.9)
 * Entity Radius - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * FOV Modifier - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint Colorizer - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
+* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
 * Sidebar Mod - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
