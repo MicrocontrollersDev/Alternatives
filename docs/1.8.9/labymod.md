@@ -41,14 +41,14 @@ that you avoid using it if possible.
 * Name History - Removed by Mojang for privacy concerns.
 * Chat Icons - ?
 * Chat Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Shortcuts - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+* Shortcuts - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
 * Player Menu - ?
 * Disable Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
 * Adjustable Chat - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
 * Advanced Chat Settings
-    * Scroll Speed - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+    * Scroll Speed - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
     * Chat Row Limit - ?
-    * Animated Chat - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+    * Animated Chat - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
 * Secondary Chat - ?
 
 ### PvP
@@ -124,7 +124,7 @@ that you avoid using it if possible.
 * AFK Time - ?
 * Click Test -  ?
 * Lava Challenge Time - ?
-* ToggleSneak Info - [Lily's SimpleToggleSprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest)
+* ToggleSneak Info - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * Laby's MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files?version=1.8.9) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap/releases/latest)
 * DirectionHUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
@@ -138,13 +138,13 @@ that you avoid using it if possible.
 * Anti Clear Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * AntiRage - ?
 * AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
-* AutoGL - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* AutoGL - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * AutoReconnect - ?
 * Batty's Coordinates - [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files?version=1.8.9) 
-* BetterHat - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions)
+* BetterHat - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 * Better Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * BetterScreenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* ChatCopied - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+* ChatCopied - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
 * ChatLog - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * ChatTime - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * ChatTranslator - ?
@@ -173,7 +173,7 @@ that you avoid using it if possible.
 * HeadOwner - ?
 * Hotbar - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
 * Hypixel Quick Play - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
-* HyPlus - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (somewhat)
+* HyPlus - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) (somewhat)
 * I Love Music - ?
 * Instagram - ?
 * Instant Tab Completion - ?
@@ -181,7 +181,7 @@ that you avoid using it if possible.
 * Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
 * Minigames - ?
 * MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files?version=1.8.9) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
-* More Particles - [isXander's Particles Enhanced](https://short.isxander.dev/yGgnHO)
+* More Particles - [isXander & Microcontrollers's Particles Enhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest)
 * Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
 * NoBob - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * OptiFine - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
@@ -194,7 +194,7 @@ that you avoid using it if possible.
 * SoundPlayer - ?
 * Spotify - [Cbyrneee's MediaMod](https://github.com/MediaModMC/MediaMod/releases/latest) / [ThatGravyBoat's Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify)  
 * TeamSpeak - ?
-* Toggle Sneak (Sneak & Sprint) - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
+* Toggle Sneak (Sneak & Sprint) - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * ToggleTab - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Transulcent Skins - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Twitter - ?

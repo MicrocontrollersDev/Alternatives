@@ -14,12 +14,12 @@
 ### Hypixel
 
 * Welcome to the Hypixel Zoo - [Chachy's WelcomeToTheHypixelZoo](https://github.com/ChachyDev/WelcomeToTheHypixelZoo/releases/latest)
-* Broadcast Achievements - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Disable Leather Armor - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Friends First in Tab - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (adds a star next to friends instead)
-* Ping on DM - None, Hypixel has this feature / [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) for when in Limbo
-* Send Guild Welcome Message - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Thank Watchdog - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Broadcast Achievements - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Disable Leather Armor - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Friends First in Tab - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) (adds a star next to friends instead)
+* Ping on DM - None, Hypixel has this feature / [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) for when in Limbo
+* Send Guild Welcome Message - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Thank Watchdog - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 
 ### Improvements
 
@@ -29,7 +29,7 @@
 * Disable Item Frames - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Disable Lightning Bolts - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Disable Shadowed Text - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Limbo FPS Limiter - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Limbo FPS Limiter - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Fast World Switching - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Smart Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Void Flicker Fix - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -62,7 +62,7 @@
 * Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
 * Sidebar Mod - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
 * Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
-* ToggleChat - [boomboompower's ToggleChat](https://hypixel.net/threads/version-2-1-togglechat-mod-theme-switcher.997547/)
+* ToggleChat - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Popup Events - [Sk1er's Popup Events](https://sk1er.club/mods/popup_events)
 * (Hyperium's) Reach Display - None ([isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud) for a regular reach display)
@@ -77,7 +77,7 @@
 * Disable Portal Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Disable Achievements - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Rear Cam - [Polyfrost's BehindYouV3](https://github.com/Polyfrost/BehindYouV3/releases/latest)
-* ToggleSprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
+* ToggleSprint - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * Name History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 

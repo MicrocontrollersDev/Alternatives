@@ -100,7 +100,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Scoreboard - [Lortseam's Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
 * Motion Blur - [Noryea's Motion Blur](https://modrinth.com/mod/motionblur)
 * Shiny Pots - ?
-* Scrollable Tooltips - [isXander's's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
+* Scrollable Tooltips - [isXander's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
 * Particle Multiplier - ?
 * Cooldowns - ?
 * Time Changer - [JuggleStrugger's DaylightChangerStruggle](https://modrinth.com/mod/daylightchangerstruggle)

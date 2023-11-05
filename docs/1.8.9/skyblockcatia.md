@@ -16,12 +16,12 @@ if the features you use can be replaced.
 * Zealot Respawn Cooldown - ?
 * Placed Summoning Eye Tracker - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Leave Party when Last Eye Placed - ?
-* Lobby Player Viewer - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Lobby Player Viewer - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Auction Bid Confirm Value - ?
-* Bazaar on Item Tooltip - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
-* Sneak to Trade Other Player Island - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Bazaar on Item Tooltip - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Sneak to Trade Other Player Island - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Display Max Used of Item Ability - ?
-* Shortcut Button in Inventory - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Shortcut Button in Inventory - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 
 ### Rendering
 
@@ -46,11 +46,11 @@ if the features you use can be replaced.
 ### Global Config
 
 * Enable Confirm to Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Enable Skin Rendering Fix - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) via custom models
+* Enable Skin Rendering Fix - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) via custom models
 * Disable Hurt Camera Effect - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Enable Shortcut Game Button - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Enable Shortcut Game Button - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Enable 1.15 Armor Enchanted Glint - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
-* Enable Enchanted Glint for Skulls - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Enable Enchanted Glint for Skulls - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Enable Overwrite Sign Editing - ?
 * Enable Sign Selection List - ?
 * Enable Chat in Container Screen - [SirDesco's Synthesis](https://github.com/SynthesisMod/Synthesis) 

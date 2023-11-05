@@ -36,7 +36,7 @@ alternatives that still get updated.
 
 ### Rendering
 
-* Stop Rendering Players with Customizable Whitelist - ? ([Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) has a similar feature that consequently removes players, but does not have a whitelist)
+* Stop Rendering Players with Customizable Whitelist - ? ([Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) has a similar feature that consequently removes players, but does not have a whitelist)
 * Stop Rendering Player Armor - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Create Hitboxes Around your Arrows - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Show Hitboxes of Special Zealots - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
@@ -108,8 +108,8 @@ alternatives that still get updated.
 
 ### Alerts
 
-* Boost Ready Alert - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
-* Boost Expired Alert - [Moulberry's NotEnoughUpdates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* Boost Ready Alert - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Boost Expired Alert - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Remove Mining Speed Boost Ready - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Mining Speed Boost Used - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Mining Speed Boost Expired - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)

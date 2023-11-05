@@ -63,7 +63,7 @@ mod authors and it is advised against supporting them.
 * Oof Mod - ?
 * Perspective - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
 * Screenshot - ?
-* Scrollable Tooltips - [isXander's's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
+* Scrollable Tooltips - [isXander's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
 * Server Address - ?
 * Snaplook - ?
 * Toggle Sprint - Vanilla (Accessibility Options)
@@ -133,7 +133,7 @@ mod authors and it is advised against supporting them.
 
 ## External Mods
 
-* [Replay Mod](https://modrinth.com/mod/replaymod/versions)
+* [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://optifine.net)
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * [MumbleLink](https://modrinth.com/mod/mumble-link)

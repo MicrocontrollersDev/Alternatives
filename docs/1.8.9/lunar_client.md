@@ -28,39 +28,39 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Stop Servers from Closing Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Text Shadow - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Unlimited Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Chat Animation - [Polyfrost'S Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+* Chat Animation - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
 
 ### Hypixel Mods
 
 
-* Remove Guild MOTD - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Remove Guild on Tab - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Short Chat Channel Messages - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Auto Friend - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Remove Guild MOTD - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Remove Guild on Tab - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Short Chat Channel Messages - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Auto Friend - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
 * Auto GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 * Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 * Auto Who - No longer works on Hypixel
 * Level Head - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
 * Hypixel Autocomplete - [Sk1er's Hypixel Autocomplete](https://sk1er.club/mods/hypixel_auto_complete)
-* Hide Private Messages - 
+* Hide Private Messages - ?
 * Hide Team Chat - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
 * Hide Party Chat - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
 * Hide Guild Chat - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
 * Hide Shouts - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
 * Hide Spectator Chat - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
-* Hide Lobby Join Messages - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Hide Lobby Join Messages - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Hide Join Messages - ?
 * Hide Leave Messages - ?
-* Hide Soul Well Announcements - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Hide Soul Well Announcements - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 
 #### Bedwars
 
 * Stats - [KAD7's HyStats](https://cdn.discordapp.com/attachments/1009757412921708604/1134269972877676574/HyStats-v4.0_1.8.9.jar)
-* Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm/versions)
+* Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm)
 * Resource Counter - [Sk1er's Bedwars Resource Display](https://sk1er.club/mods/sk1er-bedwars_resource_display)
-* Colored Beds - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Hardcore Hearts - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Colored Beds - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Hardcore Hearts - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 
 ### HUD Mods
 
@@ -68,7 +68,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
+* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Day Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * DirectionHUD - [ReflxctionDev's Bspkrs DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 * FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
@@ -86,7 +86,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Team View - Irrelevant
-* WAILA - [profmobius's WAILA](https://www.curseforge.com/minecraft/mc-mods/waila/files/2270821)
+* WAILA - [profmobius's WAILA](https://www.curseforge.com/minecraft/mc-mods/waila/files?version=1.8.9)
 
 ### Nametags
 
@@ -98,14 +98,14 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 ### Skyblock
 
 * SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
-* NotEnoughUpdates - [Moulberry's Not Enough Updates](https://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar)
+* NotEnoughUpdates - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
 * Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Cowlection - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
 ### Visual Mods
 
 * 2D Items - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
-* UHC Overlay - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (Resource packs also work)
+* UHC Overlay - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) (Resource packs also work)
 * FOV Mod - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
@@ -116,7 +116,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
 * Shiny Pots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
-* Particle Mod - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced/versions) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189) + [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Particle Mod - [isXander & Microcontrollers's Particles Enhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189) + [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Cooldowns - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
 * Time Changer - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
 * Block Outline - [Aycy's BlockOverlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
@@ -127,17 +127,17 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 ### Other Mods
 
-* Toggle Sneak/Sprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
+* Toggle Sneak/Sprint - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
 * WorldEdit CUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files?version=1.8.9)
-* Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod/versions)
+* Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod)
 * Screenshot Uploader - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9)
 * Mumble Link - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files?version=1.8.9)
 * Boss Bar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest) 
 * Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * Quickplay - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)
-* 3D Skin Layers - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions)
+* 3D Skin Layers - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 * Better Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (`/patcher sounds`)
 
 ## Settings
