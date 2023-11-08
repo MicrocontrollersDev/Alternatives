@@ -88,9 +88,9 @@ These are essential mods that are required for some fabric mods to work.
 | Mod | Required for | Author |
 | --- | --- | --- |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Most mods | [Fabric Team](https://github.com/FabricMC) |
-| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | Most mods (that use kotlin) | [Fabric Team](https://github.com/FabricMC) |
+| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | Several mods (that use kotlin) | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Most mods | [Terraformers](https://github.com/TerraformersMC) |
-| [Indium](https://modrinth.com/mod/indium) | Most mods | [comp500](https://github.com/comp500) |
+| [Indium](https://modrinth.com/mod/indium) | Several mods | [comp500](https://github.com/comp500) |
 | [Architectury](https://modrinth.com/mod/architectury-api) | Several mods | [Shedaniel](https://github.com/shedaniel) |
 | [Cloth Config](https://modrinth.com/mod/cloth-config) | Several mods | [Shedaniel](https://github.com/shedaniel) |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | Several mods | [isXander](https://github.com/isXander)
