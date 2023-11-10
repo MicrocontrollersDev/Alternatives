@@ -271,10 +271,20 @@ or a discussion.
 ### General
 
 * Allow Favoriting Pets - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Hide Pet Nametags - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Hide Pet Names - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide AutoPet Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Pet Candies - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Mute Rat Pet - ?
+* Fix Candy Lore - ?
+
+### Pet Menu
+
+* Custom Pets Menu - ?
+* Reorganize Pet Menu - ?
+* Show Pet Favourites Bar - ?
+* Custom Pet Skins - ?
+* Custom Pet Colors - ?
+* Render Pet Rarities - ?
 
 ## Dungeon
 
