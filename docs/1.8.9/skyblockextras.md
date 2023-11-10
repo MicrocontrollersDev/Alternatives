@@ -332,7 +332,7 @@ or a discussion.
 * Show Armor Color - ?
 * Show Item Quality - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 * Show Names in Guis - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Hide Mage Beams From Other Players- ?
+* Hide Mage Beams From Other Players - ?
 
 ### Floor 7
 
@@ -353,22 +353,14 @@ or a discussion.
 
 ## Quality of Life
 
-### General
-
-* Customize Custom Commands - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Search Bar - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Middle Click SB Menu - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Hide Item Durability - ?
-* Better Crop Hitboxes - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Show Cultivating Count - ?
-* Left Click Zapper Undo - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Wither Shield Duration - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (/trackcooldown)
-* Show EXP in Minions - ?
-
 ### Visual
 
 * Color Enchants - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Selected Arrow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Cookie Timer - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Show Trapper Hides - ?
+* Show Champion EXP - ?
+* Show Hetacomb Runs - ?
 * Freeze Previews - ?
 * Show Storage Previews - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Cache Backpack Data - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
@@ -377,7 +369,7 @@ or a discussion.
 * Show Custom Ender Chest Names - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Block Zapper Destroyed Blocks - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Hub Colors - ?
-* Prettify Damage Markings - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Truncate Damage Markings - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Custom Dyed Armor - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Custom Skull Textures - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Enchant Glow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -387,8 +379,25 @@ or a discussion.
 * Show Builder's Wand Overlay - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Hide WitherBorn Shadows - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (properly scales shadows) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (for bossbar)
 * Hide Displayed Armor - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Damage Vignette - ?
 * Modify Visual Words - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+
+### BINGO
+
+* Show Bingo List - ?
+* Show Community Goals - ?
+
+### General
+
+* Search Bar - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Middle Click SB Menu - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Hide Item Durability - ?
+* Better Crop Hitboxes - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Show Cultivating Count - ?
+* Show Compact Count - ?
+* Left Click Zapper Undo - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Item Cooldown - ?
+* Show Wither Shield Duration - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (/trackcooldown)
+* Show EXP in Minions - ?
 
 ### Bazaar
 
@@ -398,9 +407,16 @@ or a discussion.
 ### Chat
 
 * Use Chat Filters - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Use Default Chat Filters - ?
+* Hide Hub Messages - ?
+* Notify Scam Messages - ?
+* Auto Confirm Reports - ?
 * Hide Sea Creature Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Coop Chat -[Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases)
 * Hide Dicer Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Hide Random Parties - ?
+* Hide [PLAYER INFORMATION] - ?
+* Hide Spook Messages - ?
 
 ### Performance
 
@@ -413,14 +429,20 @@ or a discussion.
 
 * Show Damage Calculations - ?
 * Compact Damage Text - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Click Copy Chat - ?
+* Draw Bestiary Info - ?
+* Bestiary Tracker - ?
 
 ### Use At Your Own Risk
 
 * Allow Reparty Command - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Prevent Orb Placement - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Auto Reparty - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Auto Reparty - Irrelevant
 * Auto Join Party - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 * Party Rejoin Filter - ?
+
+### Custom Wardrobe
+* Custom Wardrobe Menu - ?
 
 # Contributors
 
