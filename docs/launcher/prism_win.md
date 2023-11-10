@@ -65,7 +65,10 @@ You can find a list of Prism themes and how to install them on [their website](h
 
 ### Step 7 - Updating Prism
 
-Windows auto-updating is WIP for now, you will need to download the installer and run it again (you will not lose your instances/your Skyclient).
+Automatic updating has been added since Prism Launcher 8.0. Simply press the `Update` button in the top toolbar to check for updates.
+
+If you are on a version less than 8.0, you will need to download the installer and run it again (you will not lose your instances/your Skyclient).
+
 In some cases (specifically when you are on version 5.x or lower), you may need to uninstall your current Prism Launcher entirely before reinstalling. Your instances will still be safe and will not be deleted.
 
 ### Step 8 - Setting CurseForge API Key
@@ -94,7 +97,7 @@ If you see a list of mods here then you should click `Version` and on the right 
 
 <br>
 
-If you encounter any issues not shown here you should open a ticket in our [discord server](https://discord.gg/rejfv9kFJj)
+If you encounter any issues not shown here you should ask for help in my [discord server](https://discord.gg/rejfv9kFJj)
 
 # Contributors
 

@@ -91,4 +91,4 @@ If you see a list of mods here then you should click `Version` and on the right 
 
 <br>
 
-If you encounter any issues not shown here you should open a ticket in our [discord server](https://discord.gg/rejfv9kFJj)
+If you encounter any issues not shown here you should ask for help in my [discord server](https://discord.gg/rejfv9kFJj)
