@@ -191,11 +191,12 @@ or a discussion.
 ### Slayer
 
 * Show Slayer Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Reset Counter on Restart - ?
 * Show Miniboss Spawn - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Lock Slayer Type - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Maddox Dial - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Inactive Quest Warning - ?
 * Boss Soon Warning - ?
+* Boss Spawn Warning - ?
 * Show Boss Slain Time - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ### Fishing
@@ -206,7 +207,7 @@ or a discussion.
 * Toggle Shark Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Toggle Spooky Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Toggle Mining Fishing Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-* Auto Select Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Toggle Crimson Fishing Counter - ?
 
 ### Fishing Statistics
 
@@ -215,6 +216,7 @@ or a discussion.
 * Show Shark Stats - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Show Spooky Stats - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Show Mining Fishing Stats - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Show Crimson Fishing Stats - ?
 
 ### Fishing QOL
 
@@ -246,8 +248,7 @@ or a discussion.
 * Ping Nearby Particles - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Red Footsteps - ?
 * Show Red Gaias - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (shows when you can hit)
-* Show Diana Waypoints - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Refresh Duration - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Diana Waypoints - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 
 ### Miscellaneous
 
@@ -255,7 +256,6 @@ or a discussion.
 * Show Dragon Counter - ?
 * Show Farming Counter - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Ghost Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-* Show Legion Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ## Pets
 
