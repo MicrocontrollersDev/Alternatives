@@ -25,11 +25,11 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Defence Symbol - ?
 * Disable Boss Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Disable Enderman Teleportation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Disable Location Not Perfect Warnings - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Disable Magical Mushroom Soup Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Disable Location Not Perfect Warnings - Skytils Regex
+* Disable Magical Mushroom Soup Messages - Skytils Regex
 * Disable Mort Messages - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Disable Night Vision Potion Blinking - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Disable Teleport Pad Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Disable Night Vision Potion Blinking - ?
+* Disable Teleport Pad Messages - Skytils Regex
 * Discord Rich Presence - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest) 
 * Dolphin Pet Tracker - ?
 * Don't Reset Cursor Between Inventories - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
@@ -39,7 +39,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Dungeon Death Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeon Map Display - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Collected Essences Display - ?
-* Dungeons Secret Display  - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Dungeons Secret Display - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Teammate Name Overlay - ?
 * Effective Health Number - ?
 * Endstone Protector Display - ?
