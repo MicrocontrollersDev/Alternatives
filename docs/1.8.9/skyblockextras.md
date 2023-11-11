@@ -433,6 +433,22 @@ or a discussion.
 * Draw Bestiary Info - ?
 * Bestiary Tracker - ?
 
+### Museum
+
+* Show Uncollected Museum Items - ?
+* Render Soulbound Bookmark - ?
+* Show Museum Item Type - ?
+
+### The Rift
+
+* Tubulator Highlight - ?
+* Upside-Down Highlight - ?
+* Rift Effigy Timer - ?
+* Highlight Ichor Skulls - ?
+* Stake Steak Highlight - ?
+* Boss Soon Time Warning - ?
+* Time Warning - ?
+
 ### Use At Your Own Risk
 
 * Allow Reparty Command - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
