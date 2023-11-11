@@ -8,8 +8,8 @@ The mod is no longer supported by its developer, Moulberry.
 * Consecutive Compact Char - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Compact Chat Count - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Fix Centered Text - ?
-* Smart Dividers - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
-* Connect Dividers - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Smart Dividers - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Connect Dividers - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Stack Empty Lines - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Filter Bad Words - ?
 * Replace Homoglyphs - ?
@@ -21,20 +21,20 @@ The mod is no longer supported by its developer, Moulberry.
 
 ### Appearance
 
-* Text Shadow - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
-* Tab Text Shadow - Irrelevant ([Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest))
+* Text Shadow - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
+* Tab Text Shadow - Irrelevant ([Polyfrost's Chatting](https://modrinth.com/mod/chatting))
 
 ### Screenshot and Copying
 
-* Copy Message - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
-* Take Screenshot of Message - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
-* Take Screenshot of Entire Chatbox - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
-* Copy Formatting of Message- [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+* Copy Message - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
+* Take Screenshot of Message - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
+* Take Screenshot of Entire Chatbox - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
+* Copy Formatting of Message- [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
 
 ### Visual
 
-* Change Colors - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
-* Change Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/all?filter-game-version=2020709689%3A5806)
+* Change Colors - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
+* Change Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
 
 # Contributors
 

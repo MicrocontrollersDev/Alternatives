@@ -47,11 +47,13 @@ This guide will focus on 1.8.9, but steps for other versions should also be obvi
 
 Once you've clicked on the button on the top left that says "Add Instance", name it whatever you want and giving a group for it is optional, but I do not recommend giving a group name until you need to better organize your instances.
 
-Under the `Version` selector, scroll down till you find 1.8.9 and select it. Then in the `Mod Loader` tab directly underneath, choose Forge (NOTE: this is not the tab on the left that says Curseforge). It will automatically choose the latest version of Forge for 1.8.9 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
+Under the `Version` selector, scroll down till you find 1.8.9 and select it. Then in the `Mod Loader` tab directly underneath, choose Forge (NOTE: this is not the tab on the left that says CurseForge). It will automatically choose the latest version of Forge for 1.8.9 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
 
 ### Step 5 - Installing our mods / Skyclient
 
-Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit`. Now, we'll go to the `Mods` tab. On the bottom right, there will be a button called `View Folder`. Click on this and you should be redirected to a Finder tab. Now, open a new file explorer by either pressing `Cmd + Shift + E` on your keyboard or clicking the Finder tab and pressing "Go". Navigate to your old .minecraft folder by typing `~/Library/Application Support/minecraft`, then open the `skyclient` file if you are using Skyclient. Simply move everything in this folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
+Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit`. Now, we'll go to the `Mods` tab. On the bottom right, there will be a button called `View Folder`. Click on this and you should be redirected to a Finder tab. Now, open a new Finder by either pressing `Cmd + Shift + G` on your keyboard or clicking the Finder tab and pressing "Go". Navigate to your old .minecraft folder by typing `~/Library/Application Support/minecraft`, then open the `skyclient` folder if you are using Skyclient. Simply move everything in this folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
+
+When downloading mods from now on, you can simply drag and drop them into the Mods tab in Prism Launcher. Additionally, if the mod is on Modrinth or CurseForge, you can download them within the launcher using the `Download Mods` button.
 
 ### Step 6 - Explore
 
@@ -61,7 +63,11 @@ You can find a list of Prism themes and how to install them on [their website](h
 
 ### Step 7 - Updating Prism
 
-Prism Launcher has a built in updater for macOS using the Sparkle Framework. When an update is available, an update button will appear on the top toolbar.<br>
+Prism Launcher has a built in updater for macOS using the Sparkle Framework. When an update is available, an update button will appear on the top toolbar.
+
+### Step 8 - Setting CurseForge API Key
+
+Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. This can be bypassed by opening Prism settings, going to `APIs`, then `API Keys` and entering `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm` into the CurseForge Core API.
 
 ## Common Issues
 
@@ -85,4 +91,4 @@ If you see a list of mods here then you should click `Version` and on the right 
 
 <br>
 
-If you encounter any issues not shown here you should open a ticket in our [discord server](https://discord.gg/rejfv9kFJj)
+If you encounter any issues not shown here you should ask for help in my [discord server](https://discord.gg/rejfv9kFJj)

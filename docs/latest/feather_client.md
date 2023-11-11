@@ -2,6 +2,8 @@
 
 Please note that this page may be outdated due to Minecraft update cycles.
 
+It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all dependencies and recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
+
 WIP - Feather "Client" is a Forge/Fabric
 mod marketing itself as a client, claiming
 immense FPS boosts and wide mod support. However,
@@ -13,7 +15,7 @@ mod authors and it is advised against supporting them.
 
 * Animations - Irrelevant
 * Block Overlay - [LordDeatHunter's Color Me Outlines](https://modrinth.com/mod/color-me-outlines)
-* Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs/)
+* Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - Partially in vanilla's accessibility menu
 * Glint - ?
@@ -22,7 +24,7 @@ mod authors and it is advised against supporting them.
 * Nick Hider - ?
 * Particles - ?
 * Time Changer - [Motschen's Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
-* Waypoints **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+* Waypoints **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * Weather Changer - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
 * Zoom - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
 
@@ -30,21 +32,21 @@ mod authors and it is advised against supporting them.
 
 * Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
 * Attack Indicator - [Minenash's Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
-* Boss Bar - ?
-* CPS - ?
-* Combo Display - ?
+* Boss Bar - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Combo Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* Direction - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* Direction - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
-* Item Counter - ?
+* Item Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Item Info - ?
 * Pack Display - ?
-* Ping - ?
-* Potion Effects - ?
-* Reach Display - ?
+* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Potion Effects - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Reach Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
-* Scoreboard - [Lortseam's Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
-* Time - ?
+* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Time - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 
 ### Hypixel
 
@@ -61,7 +63,7 @@ mod authors and it is advised against supporting them.
 * Oof Mod - ?
 * Perspective - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
 * Screenshot - ?
-* Scrollable Tooltips - [isXander's's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
+* Scrollable Tooltips - [isXander's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
 * Server Address - ?
 * Snaplook - ?
 * Toggle Sprint - Vanilla (Accessibility Options)
@@ -127,41 +129,39 @@ mod authors and it is advised against supporting them.
 
 ### Cosmetics
 
-* Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
+* Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica)
 
 ## External Mods
 
-* [Replay Mod](https://modrinth.com/mod/replaymod/versions)
+* [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://optifine.net)
-* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-* [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink)
+* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+* [MumbleLink](https://modrinth.com/mod/mumble-link)
 * [HD Skins](https://www.hdskins.de/)
-* [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer)
+* [Recursive Resources (Fabric version of Resourcepack Organizer)](https://modrinth.com/mod/recursiveresources)
 * OptiFabric - Do not use.
-* [Iris](https://irisshaders.github.io/)
+* [Iris](https://modrinth.com/mod/iris)
 * [ModMenu](https://modrinth.com/mod/modmenu)
-* [RoughlyEnoughItems](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+* [RoughlyEnoughItems](https://modrinth.com/mod/rei)
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
-* [Durability101](https://www.curseforge.com/minecraft/mc-mods/durability101)
-* [MouseTweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
-* [ClientTweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric)
-* [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)
-* [Multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect)
-* [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)
-* [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
+* [Durability101](https://modrinth.com/mod/durability101)
+* [MouseTweaks](https://modrinth.com/mod/mouse-tweaks)
+* [ClientTweaks](https://modrinth.com/mod/client-tweaks)
+* [WTHIT](https://modrinth.com/mod/wthit)
+* [Multiconnect](https://modrinth.com/mod/multiconnect)
+* [Origins](https://modrinth.com/mod/origins)
+* [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
-* [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
-* [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
 * [Indium](https://modrinth.com/mod/indium)
-* [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
-* [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
-* [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+* [Balm](https://modrinth.com/mod/balm)
+* [Architectury](https://modrinth.com/mod/architectury-api)
+* [Cloth Config](https://modrinth.com/mod/cloth-config)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [Lithium](https://modrinth.com/mod/lithium)
 * [Starlight](https://www.modrinth.com/mod/starlight)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
-* [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+* [Entity Culling](https://modrinth.com/mod/entityculling)
 
 # Contributors
 

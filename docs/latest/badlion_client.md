@@ -2,6 +2,8 @@
 
 Please note that this page may be outdated due to Minecraft update cycles.
 
+It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all dependencies and recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
+
 ## Mods
 
 ### 1.7 Visuals
@@ -35,27 +37,27 @@ Please note that this page may be outdated due to Minecraft update cycles.
 
 ### HUD Mods
 
-* Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
-* Bossbar - ?
-* CPS Counter - ?
-* Combo Counter - ?
-* Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* Armor Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Bossbar - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* CPS Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Combo Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Crosshair Mod - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* Direction - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* FPS Counter - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
-* Keystrokes - ?
+* Direction - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* FPS Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Keystrokes - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Ingame Server Switcher - ?
-* Item Counter - ?
+* Item Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Item Info - ?
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
-* MiniMap **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+* MiniMap **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * Pack Display - ?
-* Ping - ?
-* Potion Status - ?
-* Reach Display - ?
+* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Potion Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Reach Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
-* Scoreboard - [Lortseam's Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
-* Server Address HUD - ?
+* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Server Address HUD - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Stopwatch - ?
 * Timers - ?
 
@@ -69,7 +71,7 @@ Please note that this page may be outdated due to Minecraft update cycles.
 ### Visual Mods
 
 * Block Overlay - [LordDeatHunter's Color Me Outlines](https://modrinth.com/mod/color-me-outlines)
-* Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs/)
+* Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs)
 * Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with BLC capes)
     * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)
 * Enchant Glint - ?

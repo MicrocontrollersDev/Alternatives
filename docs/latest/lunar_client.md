@@ -2,6 +2,8 @@
 
 Please note that this page may be outdated due to Minecraft update cycles.
 
+It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all dependencies and recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
+
 ## Mods
 
 ### OptiFine
@@ -59,25 +61,25 @@ Please note that this page may be outdated due to Minecraft update cycles.
 
 ### HUD Mods
 
-* Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
-* Clock - ?
-* Combo Counter - ?
-* Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* CPS - ?
-* Day Counter - ?
+* Armor Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Clock - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Combo Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Day Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * DirectionHUD - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
 * FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
-* Item Tracker - ?
-* Key Strokes - ?
+* Item Tracker - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Key Strokes - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Memory Usage - ?
 * Pack Display - ?
-* Ping - ?
-* Potion Effects - ?
+* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Potion Effects - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Potion Counter - [uku's PotionCounter](https://modrinth.com/mod/potioncounter)
 * Stopwatch - ?
-* Server Address -  ?
+* Server Address -  [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
-* Reach Display - ?
+* Reach Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Team View - Irrelevant
 
 ### Nametags
@@ -94,19 +96,19 @@ Please note that this page may be outdated due to Minecraft update cycles.
 * FOV Mod - ?
 * Menu Blur - [Motschen's Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* Waypoints - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (BANNABLE ON HYPIXEL!)
+* Waypoints - [xaero96's Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (BANNABLE ON HYPIXEL!)
 * Scoreboard - [Lortseam's Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
 * Motion Blur - [Noryea's Motion Blur](https://modrinth.com/mod/motionblur)
 * Shiny Pots - ?
-* Scrollable Tooltips - [isXander's's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
+* Scrollable Tooltips - [isXander's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
 * Particle Multiplier - ?
 * Cooldowns - ?
 * Time Changer - [JuggleStrugger's DaylightChangerStruggle](https://modrinth.com/mod/daylightchangerstruggle)
-* Block Outline - [LordDeatHunter's Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)
-* Item Physics - [Draylar1's Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items)
+* Block Outline - [LordDeatHunter's Color Me Outlines](https://modrinth.com/mod/color-me-outlines)
+* Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * TNT Timer Mod - [shateq's TNTTime](https://modrinth.com/mod/tnttime)
 * Hitbox - [ErrorGamer2000's Pretty Hitboxes](https://modrinth.com/mod/pretty-hitboxes)
-* 3D Skin Layers - [tr7zw's 3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
+* 3D Skin Layers - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 
 ### Other Mods
 
@@ -139,7 +141,7 @@ Please note that this page may be outdated due to Minecraft update cycles.
 #### Misc Options
 
 * Smart Disconnect - ?
-* Borderless Fullscreen - [comp500's Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
+* Borderless Fullscreen - [comp500's Borderless Mining](https://modrinth.com/mod/borderless-mining)
 * Disable Weather - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
 * Modern Keybind Handling - Vanilla
 * Minimal View Bobbing - [Microcontroller's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
@@ -174,8 +176,8 @@ Please note that this page may be outdated due to Minecraft update cycles.
 
 * Vanilla Bug Fixes - [isXander's Debugify](https://modrinth.com/mod/debugify)
 * Resource Pack Menu - [enjarai's Recursive Resources](https://modrinth.com/mod/recursiveresources)
-* Custom Main Menu - [Keksuccino's FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
-* Discord Rich Presence - [CDAGaming_'s CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
+* Custom Main Menu - [Keksuccino's FancyMenu](https://modrinth.com/mod/fancymenu)
+* Discord Rich Presence - [CDAGaming_'s CraftPresence](https://modrinth.com/mod/craftpresence)
 * In Game Account Switcher - [The_Fireplace's In Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 * In Game Server Switcher - ?
 

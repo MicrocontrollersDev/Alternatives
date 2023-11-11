@@ -17,31 +17,31 @@ mod authors and it is advised against supporting them.
 * FOV Changer - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint - ?
 * Hitbox - ?
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A6756)
+* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.12.2)
 * Nick Hider - ?
 * Particles - ?
 * Time Changer - ?
-* Waypoints - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/all?filter-game-version=2020709689%3A6756)
+* Waypoints - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files?version=1.12.2)
 * Weather Changer - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
 * Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
-* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Boss Bar - ?
-* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
-* Combo Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
-* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
-* Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
-* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Combo Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Counter - ?
 * Item Info - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Pack Display - ?
-* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
-* Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
-* Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
-* Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Scoreboard - ?
-* Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Hypixel
 * AutoFriend - ?
@@ -53,22 +53,22 @@ mod authors and it is advised against supporting them.
 ### Other
 
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
-* Discord - [CDAGaming's CraftPresence](https://modrinth.com/mod/craftpresence/version/v2.0.0-rc.3+1.12.2)
+* Discord - [CDAGaming's CraftPresence](https://modrinth.com/mod/craftpresence)
 * Oof Mod - ?
-* Perspective - [Cynosphere's Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux/files/all?filter-game-version=2020709689%3A6756)
+* Perspective - [Cynosphere's Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux/files?version=1.12.2)
 * Screenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
-* Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/version/RZXVA2Kt)
+* Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Snaplook - ?
-* Toggle Sprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
+* Toggle Sprint - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * Voice - ?
 
 ## General
 
 ### Blur Settings
 
-* Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A6756)
-* Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A6756)
+* Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.12.2)
+* Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.12.2)
 
 ### Sound
 
@@ -137,13 +137,13 @@ mod authors and it is advised against supporting them.
 
 ## External Mods
 
-* [Replay Mod](https://modrinth.com/mod/replaymod/versions)
+* [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
-* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/all?filter-game-version=2020709689%3A6756)
+* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files?version=1.12.2)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
-* [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A6756)
+* [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files?version=1.12.2)
 * [HD Skins](https://www.hdskins.de/)
-* [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer/files/all?filter-game-version=2020709689%3A6756)
+* [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer/files?version=1.12.2)
 
 # Contributors
 

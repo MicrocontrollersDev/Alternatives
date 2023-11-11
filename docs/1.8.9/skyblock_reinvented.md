@@ -36,8 +36,8 @@ alternatives that still get updated.
 
 ### Rendering
 
-* Stop Rendering Players with Customizable Whitelist - ? ([Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) has a similar feature that consequently removes players, but does not have a whitelist)
-* Stop Rendering Player Armor - ?
+* Stop Rendering Players with Customizable Whitelist - ? ([Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) has a similar feature that consequently removes players, but does not have a whitelist)
+* Stop Rendering Player Armor - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Create Hitboxes Around your Arrows - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Show Hitboxes of Special Zealots - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Show Hitboxes of Drags & Golems - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
@@ -108,15 +108,15 @@ alternatives that still get updated.
 
 ### Alerts
 
-* Boost Ready Alert - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Boost Expired Alert - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Boost Ready Alert - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Boost Expired Alert - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Remove Mining Speed Boost Ready - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Mining Speed Boost Used - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Mining Speed Boost Expired - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ### Combat
 
-* Ghost Loot Tracker - ?
+* Ghost Loot Tracker - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 
 ### General
 
@@ -140,7 +140,7 @@ alternatives that still get updated.
 
 * Hub Overlay - ?
 * Hide villagers in Hub - ?
-* Overlay Uncollected Jacob’s Contests - ?
+* Overlay Uncollected Jacob’s Contests - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 
 ### Sounds
 
@@ -152,7 +152,8 @@ alternatives that still get updated.
 
 # Contributors
 
+* [CalMWolfs](https://github.com/CalMWolfs)
+* [hannibal2](https://github.com/hannibal002)
 * [moisty](https://github.com/Mqisty)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
-* [hannibal2](https://github.com/hannibal002)

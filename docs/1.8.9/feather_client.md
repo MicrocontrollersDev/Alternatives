@@ -14,15 +14,15 @@ mod authors and it is advised against supporting them.
 ### Visuals
 
 * Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
-* Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
+* Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest) & [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 * Hitbox - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/all?filter-game-version=2020709689%3A5806)
+* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
-* Particles - [isXander's Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
+* Particles - [isXander & Microcontrollers's Particles Enhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest)
 * Time Changer - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
 * Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695267197857922/Waypoints_1.0.jar)
 * Weather Changer - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
@@ -49,7 +49,7 @@ mod authors and it is advised against supporting them.
 
 ### Hypixel
 
-* Auto Friend - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest)
+* Auto Friend - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
 * Auto GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
 * Anti GG - [Sk1er's AutoGG & AntiGG](https://sk1er.club/mods/autogg)
@@ -57,7 +57,7 @@ mod authors and it is advised against supporting them.
 
 ### Other
 
-* Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/all?filter-game-version=2020709689%3A5806)
+* Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9)
 * Discord - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Oof Mod - [Powns & Refraction & Deftu's OofMod](https://github.com/Deftu/OofMod/releases/latest)
 * Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
@@ -65,7 +65,7 @@ mod authors and it is advised against supporting them.
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 * Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Snaplook - [Polyfrost's BehindYouV3](https://github.com/Polyfrost/BehindYouV3/releases/latest)
-* Toggle Sprint - [Polyfrost's SimpleToggleSprint](https://github.com/Polyfrost/SimpleToggleSprint/releases/latest)
+* Toggle Sprint - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * Voice - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 
 ### Cosmetics
@@ -76,8 +76,8 @@ mod authors and it is advised against supporting them.
 
 ### Blur Settings
 
-* Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
-* Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
+* Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
+* Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 
 ### Sound
 
@@ -93,7 +93,7 @@ mod authors and it is advised against supporting them.
 
 * Toggle Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Unlimited Scrollbar - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Background Color - [Polyfrost's Chatting](https://github.com/Polyfrost/Chatting/releases/latest)
+* Background Color - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
 * Text Shadow - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Stack Messages
@@ -132,7 +132,7 @@ mod authors and it is advised against supporting them.
 
 * [Patcher](https://sk1er.club/mods/patcher)
 * SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
-* [NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * [ChatTriggers](https://github.com/ChatTriggers/ChatTriggers/releases/latest)
 * [Apec](https://github.com/BananaFructa/Apec/releases/latest)
 * [Danker's Skyblock Mod](https://github.com/bowser0000/SkyblockMod/releases/latest)
@@ -141,7 +141,7 @@ mod authors and it is advised against supporting them.
 * [Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * [BazaarNotifier](https://github.com/symt/BazaarNotifier/releases/latest)
 * [ResourcePack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
-* [Replay Mod](https://modrinth.com/mod/replaymod/versions)
+* [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://optifine.net)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)

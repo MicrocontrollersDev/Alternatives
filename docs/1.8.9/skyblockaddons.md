@@ -10,7 +10,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 
 * "Minion Cannot Reach" Warning - ?
 * Adjust Zoom with +/- Keys - ?
-* Allow Locking Slots - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Allow Locking Slots - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Axe Cooldown Indicator - ?
 * Bal Boss Warning - Useless
 * Birch Park Rainmaker Timer - ?
@@ -18,8 +18,8 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Change Enderchest Color in the End - ?
 * Change Zealot Color - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Color Bow Green When Using Toxic Arrow Poison - ?
-* Compact Tab List - [Polyfrost's Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn/releases/latest) (not really compact, but cleans it up a bit)
-* Dark Auction Timer - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Compact Tab List - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Dark Auction Timer - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Defence Number - ?
 * Defence Percentage - ?
 * Defence Symbol - ?
@@ -32,19 +32,19 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Disable Teleport Pad Messages - Skytils Regex
 * Discord Rich Presence - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest) 
 * Dolphin Pet Tracker - ?
-* Don't Reset Cursor Between Inventories - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Don't Reset Cursor Between Inventories - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Dragon Tracker - ?
-* Drill Fuel Bar - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Drill Fuel Bar - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Drill Fuel Number - ?
 * Dungeon Death Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Dungeon Map Display - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Dungeon Map Display - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Collected Essences Display - ?
 * Dungeons Secret Display - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Teammate Name Overlay - ?
 * Effective Health Number - ?
 * Endstone Protector Display - ?
 * Fancy Warp Menu - [TirelessTraveler's Fancy Warp Menu](https://github.com/ILikePlayingGames/FancyWarpMenu/releases/latest)
-* Fishing Particle Overlay - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Fishing Particle Overlay - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Full Inventory Warning - ?
 * Full Minion Warning - ?
 * Glowing Dropped Items  - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
@@ -53,7 +53,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Health Number - ?
 * Hide Far Entities in Lobby - ?
 * Hide Food & Armor Bar - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Hide Menu Glass Pane Tooltips - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Hide Menu Glass Pane Tooltips - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Hide Other Player's Presents - ?
 * Hide Pet Health Bar - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Players Near Important NPCs - ?
@@ -81,7 +81,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Reforge Filter - ?
 * Replace Roman Numerals on Items - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Rock Pet Tracker - ?
-* Show Backpack Preview [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Show Backpack Preview [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Bait List While Holding a Rod - ?
 * Show Base Stat Boost for Dungeon Items - ?
 * Show Broken Dragon Fragments - ?
@@ -89,17 +89,17 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Show Critical Dungeon Teammates  - ?
 * Show Dungeon Healing Circle Wall - ?
 * Show Dungeon Milestone - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Show Entity Outlines - ?
-* Show Experimentation Table Tooltips - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
-* Show Floor Obtained Dungeon Items - ?
+* Show Entity Outlines - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Experimentation Table Tooltips - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Show Floor Obtained Dungeon Items - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * Show Item Anvil Uses - Useless
 * Show Item Cooldowns - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Show Nether Faction - ?
-* Show Player Symbols In Chat - ?
-* Show Profile Type - ?
+* Show Nether Faction - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Player Symbols In Chat - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Profile Type - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Show Reforge Overlay - ?
 * Show SBA Button in Pause Menu - Irrelevant
-* Show Skyblock Item ID on Hover - ?
+* Show Skyblock Item ID on Hover - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Show Stacking Enchant Progress - [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Sword Kills - ?
 * Show What Fetchur Wants Today - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest)
@@ -109,11 +109,11 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Skill Progress Display - ?
 * Slayer Armor Progress Indicator - ?
 * Slayer Boss Approach Alert - ?
-* Slayer Tracker - Revenant/Zombie - ?
-* Slayer Tracker - Sven/Wolf - ?
-* Slayer Tracker - Tarantula/Spider - ?
-* Slayer Tracker - Voidgloom/Enderman - ?
-* Sound Indicator for Fishing - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
+* Slayer Tracker - Revenant/Zombie - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Slayer Tracker - Sven/Wolf - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Slayer Tracker - Tarantula/Spider - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Slayer Tracker - Voidgloom/Enderman - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Sound Indicator for Fishing - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Special Zealot Alert - ?
 * Speed Percentage - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) (in Garden only)
 * Spirit Sceptre/Wither Blade Damage Display - ?
@@ -123,8 +123,8 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Stop Rat Pet Sounds - ?
 * Summoning Eye Alert - ?
 * Ticker/Charges Display - ?
-* Trevor The Trapper Features - ?
-* Use New Chroma Effect - ?
+* Trevor The Trapper Features - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Use New Chroma Effect - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Zealot Counter - Count Since Last Eye - ?
 * Zealot Counter - Show Zealots Per Eye - ?
 * Zealot Counter - Total Eye Count - ?
@@ -133,5 +133,6 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 
 # Contributors
 
+* [CalMWolfs](https://github.com/CalMWolfs)
 * [hannibal2](https://github.com/hannibal002)
 * [NetheriteMiner](https://github.com/NetheriteMiner)

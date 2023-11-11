@@ -61,6 +61,7 @@ nav:
           - "SkyblockExtras": "1.8.9/skyblockextras.md"
           - "Skyblock Reinvented": "1.8.9/skyblock_reinvented.md"
           - "Skypixel": "1.8.9/skypixel.md"
+          - "SoopyAddons": "1.8.9/soopy.md"
           - "Wyvtils": "1.8.9/wyvtils.md"
       - "Modpacks":
           - "Refraction v4": "1.8.9/refraction_v4.md"
@@ -72,6 +73,7 @@ nav:
           - "Lunar Client": "latest/lunar_client.md"
       - "Mods":
           - "OptiFine": "latest/optifine.md"
+          - "Patcher": "latest/patcher.md"
       - "Other":
           - "Migrating to Latest": "latest/migrating.md"
   - "Launcher":
