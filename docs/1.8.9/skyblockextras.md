@@ -478,6 +478,7 @@ or a discussion.
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
 * [moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
+* [Pengu](https://github.com/pengubear)
 * [Proudmuslim](https://github.com/proudmuslim-dev)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [stef-the](https://github.com/stef-the)

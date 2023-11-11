@@ -41,6 +41,7 @@
 * [NetheriteMiner](https://github.com/NetheriteMiner)
 * [o9o](https://www.youtube.com/@o9omc)
 * [PandaNinjas](https://github.com/pandaninjas)
+* [Pengu](https://github.com/pengubear)
 * [Proudmuslim](https://github.com/proudmuslim-dev)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
