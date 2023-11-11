@@ -39,6 +39,8 @@ extra:
       link: https://github.com/MicrocontrollersDev/Alternatives
     - icon: fontawesome/brands/discord
       link: https://discord.gg/rejfv9kFJj
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@Microcontrollers
 
 nav:
   - "Home":
