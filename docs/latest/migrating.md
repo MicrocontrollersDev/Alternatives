@@ -111,7 +111,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Lithium](https://modrinth.com/mod/lithium) | Helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Exordium](https://modrinth.com/mod/exordium) | Caps the FPS of certain HUD elements that do not need to be updated every frame. | [tr7zw](https://github.com/tr7zw) | May break some HUD elements from other mods. |
 | [DashLoader (No 1.20.2 Yet)](https://modrinth.com/mod/dashloader) | Caches all of Minecraft's contents to load the game much faster and provide insanely quick reloads. | [alphaqu](https://github.com/alphaqu) | Sodium (0.5.0) |
-| [Enhanced Block Entities (No 1.20.2 Yet)](https://modrinth.com/mod/ebe) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
+| [Enhanced Block Entities (No Official 1.20.2 Yet)](https://modrinth.com/mod/ebe) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | Unofficial 1.20.2 port can be found [here](https://cdn.discordapp.com/attachments/778792141932986401/1166950719627210834/enhancedblockentities-0.91.20.2.jar).
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Helps reduce the amount of memory the game takes up. This may make a big difference for larger modpacks as well. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which entities can be culled. | [tr7zw](https://github.com/tr7zw) |
 | [More Culling](https://modrinth.com/mod/moreculling) | Culls more block faces not already culled by Sodium. Can provide a massive performance boost when many of these blocks are in view. | [fxmorin](https://github.com/fxmorin) |
@@ -126,7 +126,10 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [FastQuit (No 1.20.2 Yet)](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) |
 | [Noxesium](https://modrinth.com/mod/noxesium) | Contains several smaller performance improvements and also has many visual bug fixes for the MCCI server. | [Noxcrew](https://github.com/Noxcrew) |
 | [Remove Reloading Screen (No 1.20.2 Yet)](https://modrinth.com/mod/rrls) | Allows you to access other parts of the game by removing the reload screen except for the progress bar. | [dima_dencep](https://github.com/dimadencep) |
+| [C2ME](https://modrinth.com/mod/c2me-fabric) | C2ME is an experimental mod that attempts to multithread chunk generation, I/O, and loading. | [RelativityMC](https://github.com/RelativityMC) |
+| [Very Many Players](https://modrinth.com/mod/vmp-fabric) | VMP attempts to alleviate the strain on servers when there are a large amount of players. | [RelativityMC](https://github.com/RelativityMC) |
 | [Early Loading Screen](https://modrinth.com/mod/early-loading-screen) | Allows the game to create a game window earlier, allowing you to stop the game much faster if needed. | [Ishland](https://github.com/ishland) | May cause crashes when starting the game. If your game instantly crashes, try disabling this mod. |
+| [Noisium](https://modrinth.com/mod/noisium) | Optimizes world generation when generating new chunks. | [Steveplays](https://github.com/Steveplays28) |
 
 ### Other Performance Mods
 
@@ -264,14 +267,7 @@ If you are one of those weirdos who uses internal shaders (you shouldn't btw), h
 
 ### Unrecommended Mods
 
-These are mods that are too experimental or unstable that I do not recommend using unless you know what you are doing. Please note that some of these mods will continue to be improved upon over time and may eventually be added to the above lists.
-
-#### May Eventually Be Supported
-
-| Mod | Reasoning | Author |
-| --- | --- | --- |
-| C2ME | C2ME is an experimental mod that attempts to multithread chunk generation, I/O, and loading. It is deemed not production ready by the authors and may corrupt worlds or cause other issues. It also comes with its own list of incompatible mods and can cause memory usage to spike drastically. If you decide to use it, remember to make backups. | [RelativityMC](https://github.com/RelativityMC) |
-| VMP (Very Many Players) | VMP attempts to alleviate the strain on servers when there are a large amount of players. It is still in early development and may cause issues according to the authors, who also made C2ME. If you decide to use it, remember to make backups. | [RelativityMC](https://github.com/RelativityMC) |
+These are mods that are not recommended for use. They have either been replaced by other mods, cause issues, or are simply not needed.
 
 #### Will Never Be Supported
 
@@ -280,7 +276,7 @@ These are mods that are too experimental or unstable that I do not recommend usi
 | MemoryLeakFix | While this mod does fix some memory leaks, it's rendered almost entirely useless when using FerriteCore and may causes issues and crashes with other mods, and the leaks it fixes are not major enough to be worth it. | [fxmorin](https://github.com/fxmorin) |
 | Starlight | Starlight rewrotes the light engine to make loading chunks much quicker. Mojang has now included this fix in 1.20 and Starlight is no longer needed. Despite the fact that updates are still being made, the developer says there is no point in using them. | [Spottedleaf](https://github.com/Spottedleaf) |
 | Not Enough Crashes | NEC regularly causes the game to be in an invalid state and blames the wrong mods for crashes, making it harder for mod devs to debug. It is also marked incompatible with Iris and possibly other mods. | [natanfudge](https://github.com/natanfudge) |
-| Better Beds | BetterBeds has been replaced by Enhanced Block Entities. | [Motschen](https://github.com/Motschen) |
+| Better Beds | BetterBeds has been replaced by Enhanced Block Entities. Feel free to use if Enhanced Block Entities is not yet updated to the current version.| [Motschen](https://github.com/Motschen) |
 | ToolTipFix | ToolTipFix has been replaced by Adaptive Tooltips. | [kyrptonaught](https://github.com/kyrptonaught) |
 | Animatica | Animatica has been replaced by MoreMcMeta. | [FoundationGames](https://github.com/FoundationGames) |
 
