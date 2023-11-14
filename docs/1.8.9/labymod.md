@@ -218,7 +218,7 @@ that you avoid using it if possible.
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
 * [Solonovamax](https://github.com/solonovamax)
-* [ToggledX](https://twitter.com/ignToggleW)
+* [ToggledX](https://github.com/ToggledX)
 * [usb](https://github.com/U5B)
 * [Wyvest](https://github.com/Wyvest)
 * [Zetvue](https://zetvue.github.io/)

@@ -52,7 +52,7 @@
 * [Stekerser](https://github.com/Stekerser)
 * [Sychic](https://github.com/Sychic)
 * [Systemless](https://github.com/SystemlessDev)
-* [ToggledX](https://twitter.com/ignToggleW)
+* [ToggledX](https://github.com/ToggledX)
 * [Tricked](https://github.com/Tricked-dev)
 * [usb](https://github.com/U5B)
 * [voxxal](https://github.com/voxxal)
