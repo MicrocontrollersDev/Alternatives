@@ -7,11 +7,9 @@ alternatives to poorly made
 or out-of-date clients, mods,
 and modpacks.
 
-</div>
-
-## Discord
-
 ![Discord Banner](https://discordapp.com/api/guilds/778792141932986398/widget.png?style=banner2)
+
+</div>
 
 ## Changes
 
