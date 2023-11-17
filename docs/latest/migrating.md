@@ -104,13 +104,13 @@ These are essential mods that are required for some fabric mods to work.
 
 These are mods that are needed for playing the latest versions of Minecraft at a reasonable FPS. These will also help decrease frame times, hopefully eliminating spikes or stuttering.
 
-| Mod | Description | Author | Incompatibilities |
+| Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
 | [Sodium](https://modrinth.com/mod/sodium) | An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Iris](https://modrinth.com/mod/iris) | A shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [Iris Team](https://github.com/IrisShaders) |
 | [Lithium](https://modrinth.com/mod/lithium) | Helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Exordium](https://modrinth.com/mod/exordium) | Caps the FPS of certain HUD elements that do not need to be updated every frame. | [tr7zw](https://github.com/tr7zw) | May break some HUD elements from other mods. |
-| [DashLoader (No 1.20.2 Yet)](https://modrinth.com/mod/dashloader) | Caches all of Minecraft's contents to load the game much faster and provide insanely quick reloads. | [alphaqu](https://github.com/alphaqu) | Sodium (0.5.0) |
+| [DashLoader (No 1.20.2 Yet)](https://modrinth.com/mod/dashloader) | Caches all of Minecraft's contents to load the game much faster and provide insanely quick reloads. | [alphaqu](https://github.com/alphaqu) |
 | [Enhanced Block Entities (No Official 1.20.2 Yet)](https://modrinth.com/mod/ebe) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | Unofficial 1.20.2 port can be found [here](https://cdn.discordapp.com/attachments/778792141932986401/1166950719627210834/enhancedblockentities-0.91.20.2.jar).
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Helps reduce the amount of memory the game takes up. This may make a big difference for larger modpacks as well. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which entities can be culled. | [tr7zw](https://github.com/tr7zw) |
@@ -135,20 +135,20 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 
 These are other performance mods that one may prefer to use, but are not required. It is neither recommended or unrecommended, and is up to the player to decide given their use-case.
 
-| Mod | Description | Author | Incompatibilities |
+| Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [Nvidium](https://modrinth.com/mod/nvidium) | Nvidium uses NVIDIA only OpenGL extensions to greatly improve the game's performance. This mod will not work on AMD. It has a few graphical glitches and could lead to crashes, as the mod is still in beta and not considered stable yet. The mod will also disable itself whenever Iris shaders are enabled or if the required OpenGL extensions are not available. | [MCRcortex](https://github.com/MCRcortex) | Distant Horizons (LODs will not load), Chunks Fade In (chunks don't fade) |
+| [Nvidium](https://modrinth.com/mod/nvidium) | Nvidium uses NVIDIA only OpenGL extensions to greatly improve the game's performance. This mod will not work on AMD. It has a few graphical glitches and could lead to crashes, as the mod is still in beta and not considered stable yet. The mod will also disable itself whenever Iris shaders are enabled or if the required OpenGL extensions are not available. | [MCRcortex](https://github.com/MCRcortex) | Incompatible with Chunks Fade In (chunks don't fade) |
 | [Fadeless](https://modrinth.com/mod/skip-transitions) | Removes transitions such as the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine or allow people to access certain menus quicker if they do not like the small wait time. This mod is made partially redundant by Remove Loading Screen. | [DerpDerpling](https://github.com/DerpDerpling) & [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [Krypton](https://modrinth.com/mod/krypton) | This mod is bannable on Hypixel and most likely other servers. Although it is probably not detectable, it is still against Hypixel's rules and the mod developer does not recommend using it on Hypixel. However, this mod works great for private servers. Krypton optimizes network stacking and entity tracking, as well as other micro-optimizations. | [astei](https://github.com/astei) |
-| [Methane](https://modrinth.com/mod/methane) | Completely kills the light engine, providing permanent fullbright and improved FPS. Disable when using shaders. Allows you to disable some fog such as powdered snow fog and lava fog, which may be considered as an unfair advantage on some servers. | [AnOpenSauceDev](https://github.com/AnOpenSauceDev) | Most shaderpacks |
+| [Methane](https://modrinth.com/mod/methane) | Completely kills the light engine, providing permanent fullbright and improved FPS. Disable when using shaders. Allows you to disable some fog such as powdered snow fog and lava fog, which may be considered as an unfair advantage on some servers. | [AnOpenSauceDev](https://github.com/AnOpenSauceDev) | Incompatible with most shaderpacks (disable Methane) |
 | [Sciophobia](https://modrinth.com/mod/sciophobia) | Removes text shadows globally. Due to Minecraft's not so great text rendering, this can greatly improve performance, especially when a lot of text is being rendered on the screen at once, with the trade-off that text looks terrible and can sometimes be near impossible to read. May help on especially terrible computers, but for most people this is more of a preference thing than a performance improvement. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) |
 
 ### Recommended
 
 These are mods that I personally recommend due to their usefulness. While they may not boost performance, they are mostly quality of life mods meant to better your experience.
 
-| Mod | Description | Author |
-| --- | --- | --- |
+| Mod | Description | Author | Notes |
+| --- | --- | --- | --- |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Removes cryptographic signatures from chat messages, making it harder to get chat reported. | [Aizistral](https://github.com/Aizistral-Studios) |
 | [Modern Keybinding (No 1.20.2 Yet)](https://modrinth.com/mod/modernkeybinding) | Allows you to use modifiers for keybinds. For example, you can set keybinds to Ctrl/Shift/Alt + key. | [Nova-Committee](https://github.com/Nova-Committee) |
 | [Model Gap Fix (Works on 1.20.2)](https://modrinth.com/mod/modelfix) | Fixes the gaps you see on items when holding them as well as 3D blocks. This makes for a much more pleasant experience for most resourcepacks, including both defaults. | [MehVahdJukaar](https://github.com/MehVahdJukaar) |
@@ -169,24 +169,24 @@ These are mods that I personally recommend due to their usefulness. While they m
 
 These are mods that are more dependant on personal preference than importance.
 
-| Mod | Description | Author | Incompatibilities |
+| Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
 | [e4mc](https://modrinth.com/mod/e4mc) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [vgskye](https://git.skye.vg/me) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
-| [SuperBetterGrass (No 1.20.2 Yet)](https://www.curseforge.com/minecraft/mc-mods/super-better-grass) | Better grass and snow, more customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) & [Dima-Dencep](https://github.com/dima-dencep) | This is a fork of LambdaBetterGrass by LambdAurora. |
+| [SuperBetterGrass (No 1.20.2 Yet)](https://www.curseforge.com/minecraft/mc-mods/super-better-grass) | Better grass and snow, more customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) & [Dima-Dencep](https://github.com/dima-dencep) | This is a fork of LambdaBetterGrass by LambdAurora |
 | [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) |
 | [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks) | Let's you alter the way nametags are rendered, such as background transparency, text shadow, and custom F1 rules. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) |
 | [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a fade-in animation to chunks similar to Bedrock Edition. | [kerudion](https://github.com/kerudion) | Nvidium (chunks don't fade) |
-| [Distant Horizons (No 1.20.2 Yet)](https://modrinth.com/mod/distanthorizons) | Adds LODs to Minecraft, allowing for much further render distances without a big tank on performance. | [James Seibel](https://gitlab.com/jeseibel) | Nvidium (LODs will not load) |
-| [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) | Reimagined World Menu |
+| [Distant Horizons](https://modrinth.com/mod/distanthorizons) | Adds LODs to Minecraft, allowing for much further render distances without a big tank on performance. | [James Seibel](https://gitlab.com/jeseibel) | Using shaders will disable the LODs (for now) |
+| [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | Prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Color Me Outlines](https://modrinth.com/mod/color-me-outlines) | Color Me Outlines is a close equivalent to 1.8's block overlay, allowing you to customize the outline when looking at blocks. | [LordDeatHunter](https://github.com/LordDeatHunter) |
 | [Pretty Hitboxes (No 1.20.2 Yet)](https://modrinth.com/mod/pretty-hitboxes) | Allows you to customize hitboxes, similar to 1.8 mods and clients. | [ErrorGamer2000](https://github.com/ErrorGamer2000) |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
 | [Perspektive **(BANNABLE ON HYPIXEL)**](https://modrinth.com/mod/perspektive) | A simple 360 degrees perspective mod that lets you move the camera without moving your player's direction. | [r0yzer](https://github.com/r0yzer) |
-| [KronHUD](https://modrinth.com/mod/kronhud (No 1.20.2 Yet)) | Adds many useful HUD elements to your screen with an easy to use in game config. | [DarkKronicle](https://github.com/DarkKronicle) |
+| [KronHUD (No 1.20.2 Yet2)](https://modrinth.com/mod/kronhud (No 1.20.2 Yet)) | Adds many useful HUD elements to your screen with an easy to use in game config. | [DarkKronicle](https://github.com/DarkKronicle) |
 | [BetterF3](https://modrinth.com/mod/betterf3) | Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | [cominixo](https://github.com/cominixo) |
 | [TNTTime](https://modrinth.com/mod/tnttime) | Displays time left to the TNT explosion above primed TNT. | [Simon](https://github.com/shateq) |
 | [Paginated Advancements & Custom Frames](https://modrinth.com/mod/paginatedadvancements) | Makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. | [DaFuqs](https://github.com/DaFuqs)
@@ -205,7 +205,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats) | A visual overhaul to the statistics screen, giving useful information in a much more visually appealing format. | [TheCSDev](https://github.com/TheCSDev) |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | Shows a player's head next to their chat message in game. | [dzwdz](https://github.com/dzwdz) |
 | [Craftify](https://modrinth.com/mod/craftify) | Shows your currently playing music on your HUD. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
-| [Reimagined World Menu (No 1.20.2 Yet)](https://modrinth.com/mod/reimagined-world-menu) | Redesigns the world creation screen. | [Iamaprogramer](https://github.com/lamaprogramer) | Controlify |
+| [Reimagined World Menu (No 1.20.2 Yet)](https://modrinth.com/mod/reimagined-world-menu) | Redesigns the world creation screen. | [Iamaprogramer](https://github.com/lamaprogramer) |
 | [Resourcify](https://modrinth.com/mod/resourcify) | Lets you view, download, and update resource packs from Modrinth all in game. | [DeDiamondPro](https://github.com/DeDiamondPro) |
 | [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) | Improves the look of bubbles in water. | [Tschipcraft](https://github.com/Tschipcraft) |
 | [NicerTabBackground (No 1.20.2 Yet)](https://modrinth.com/mod/nicertabbackground) | Makes the new tabs introduced in 1.20 look nicer. | [Benonardo](https://github.com/Benonardo) |
