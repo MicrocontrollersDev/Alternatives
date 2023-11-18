@@ -43,7 +43,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Dungeons Teammate Name Overlay - ?
 * Effective Health Number - ?
 * Endstone Protector Display - ?
-* Fancy Warp Menu - [TirelessTraveler's Fancy Warp Menu](https://github.com/ILikePlayingGames/FancyWarpMenu/releases/latest)
+* Fancy Warp Menu - [TirelessTraveler's Fancy Warp Menu](https://modrinth.com/mod/fancy-warp-menu)
 * Fishing Particle Overlay - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Full Inventory Warning - ?
 * Full Minion Warning - ?
@@ -81,7 +81,7 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Reforge Filter - ?
 * Replace Roman Numerals on Items - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Rock Pet Tracker - ?
-* Show Backpack Preview [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Show Backpack Preview - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Bait List While Holding a Rod - ?
 * Show Base Stat Boost for Dungeon Items - ?
 * Show Broken Dragon Fragments - ?

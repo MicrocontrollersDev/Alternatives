@@ -12,7 +12,6 @@ List is a WIP but should have all
 features just is missing some alternatives. 
 Feel free to make a pull request to add them.
 
-
 ### Waypoints
 
 * Waypoints - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -20,12 +19,10 @@ Feel free to make a pull request to add them.
 * Crystal Hollows Waypoints From Chat - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Synced Crystal Hollows Waypoints - ?
 
-
 ### Bestiary
 
 * Box Around Bestiary Mobs - ?
 * Track Specific Bestiary Mob - ?
-
 
 ### Better GUIs
 
@@ -34,7 +31,6 @@ Feel free to make a pull request to add them.
 * Custom Dungeon Ready Gui - ?
 * Inventory Search Bar - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Custom Hp And Mana Bar - ?
-
 
 ### Dungeons Solvers
 
@@ -57,7 +53,6 @@ Feel free to make a pull request to add them.
 * m3/f3 Guardian Hp - ?
 * Stair Stonk Helper - ?
 
-
 ### Events
 
 * Load Burials From Particles - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -75,12 +70,11 @@ Feel free to make a pull request to add them.
 * Block Zapper Cooldown - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Use Mana Reminder (Bingo) - ?
 
-
 ### Global Settings
 
 * Hide Falling Blocks - ?
 * In-game Twitch Bot Commands - ?
-* Replace \[hand] With Currently Held Item - ?
+* Replace [hand] With Currently Held Item - ?
 * Approximate Item Worth In Lore - ?
 * Hetacomb Enchant Info In Lore - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Champion Enchant Info In Lore - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -91,11 +85,9 @@ Feel free to make a pull request to add them.
 * Vanquisher Spawn Alert - ?
 * Sea Creature Catch Alert - ?
 
-
 ### Guild
 
-* Shorten "Guild >" To "G >" - ?
-
+* Shorten "Guild >" To "G >" - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 
 ### Hud
 
@@ -116,7 +108,6 @@ Feel free to make a pull request to add them.
 * Spider's Den Thundering Timer - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Packets/Second - ?
 
-
 ### Mining
 
 * Show Bal Hp - ?
@@ -131,7 +122,6 @@ Feel free to make a pull request to add them.
 * Metal Detector Solver - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Alert When All 4 Tools Found - ?
 
-
 ### Nether
 
 * Mastery Timer - ?
@@ -142,13 +132,11 @@ Feel free to make a pull request to add them.
 * Show Timer Over Rods - ?
 * Show Nether Boss Nametag On Hud - ?
 
-
 ### Rng Meter
 
 * Rng Meter Display - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Slayer Rng Meter Reset Alert - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Slayer Rng Drop Title - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-
 
 ### Slayer
 
@@ -178,13 +166,11 @@ Feel free to make a pull request to add them.
 * Arachne Keeper Spawn Alert - ?
 * Nested Endermite Spawn Warning - ?
 
-
 ### Summonings
 
 * Hide Summoning Nametags - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Warn When Summoning Hp Is Low - ?
 * Render Hp Of Summons On Screen - ?
-
 
 ### Spam Hider
 
@@ -195,7 +181,6 @@ Feel free to make a pull request to add them.
 * Show Pet Level Messages - ?
 * Hide "There are blocks in the way!" Message - ?
 * Hide Autopet Messages - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-
 
 ### Special Mining 
 
@@ -216,14 +201,12 @@ Feel free to make a pull request to add them.
 * Worm/Scatha Spawn Message - ?
 * Scatha Pet Dropped Alert - ?
 
-
 ### Other
 
 * Stat Next To Name - ?
 * Networth Viewer - ?
 * Networth Leaderboard - ?
 * Stat Graphs - ?
-
 
 # Contributors
 
