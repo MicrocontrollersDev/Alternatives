@@ -24,10 +24,10 @@ TODO
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | TODO | [tr7zw](https://github.com/tr7zw) |
 | [Block overlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar) | TODO | [Aycy](https://www.youtube.com/@aycyy) | No Source or official download available. The provided download is hosted on SkyClient. |
 | [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9) | TODO | [tterag](https://github.com/tterrag1098) | Add `net.optifine.gui.GuiChatOF` to exclusions list to fix blur on chat window. |
-| [Chatting](https://modrinth.com/mod/chatting) | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [Chatting](https://modrinth.com/mod/chatting) | Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying. | [Polyfrost](https://github.com/Polyfrost) |
 | [ChatTriggers](https://modrinth.com/mod/chattriggers) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. | [ChatTriggers Team](https://github.com/ChatTriggers) | Modules can be found on [their site](https://www.chattriggers.com/modules), and depending on their quality may substantially decrease FPS. |
 | [Controlling](https://modrinth.com/mod/controlling) | TODO | [jaredlll08](https://github.com/jaredlll08) |
-| [Craftify](https://modrinth.com/mod/craftify) | TODO | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
+| [Craftify](https://modrinth.com/mod/craftify) | Craftify allows you to connect to music services to display and control them in-game. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | Supports Spotify, Apple Music, YouTube, Foobar, and DeaDBeeF. |
 | [CrashPatch](https://github.com/Polyfrost/CrashPatch/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) | CrashPatch is meant for simpler crashes and may lead to a broken gamestate. Restart your game should this happen. |
 | [DamageTilt](https://github.com/Charles445/DamageTilt/releases/latest) | TODO | [Name](https://github.com/) | GitHub release has a ton of versions, make sure to get the right one. |
 | [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | TODO | [isXander](https://github.com/isXander) & [Polyfrost](https://github.com/Polyfrost) |
@@ -36,10 +36,10 @@ TODO
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | TODO | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://sk1er.club/mods/refractionoof) | TODO | [powns](https://github.com/pownsgg) |
 | [Optibye](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Optibye-1.0.0-dep.jar) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | No Source or official download available. The provided download is hosted on SkyClient. |
-| [OverflowAnimations](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [OverflowAnimations](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) |
 | [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | TODO | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) |
-| [PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest) | PolySprint is a simple yet feature-versatile toggle sprint / sneak mod for 1.8.9 and 1.12.2. | [Polyfrost](https://github.com/Polyfrost) |
 | [Raw Input](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) | TODO | [xCuri0](https://github.com/xCuri0), [Mixces](https://github.com/Mixces), & [Erymanthus](https://github.com/RayDeeUx) |
 | [REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) | Redaction adds HUDs to your game that are normally classified as "cheat-client" modules. | [Polyfrost](https://github.com/Polyfrost) |
 | [Resource Pack Manager](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar) | TODO | [Aycy](https://www.youtube.com/@aycyy) |
@@ -71,7 +71,7 @@ TODO
 | --- | --- | --- | --- |
 | [Apec](https://github.com/BananaFructa/Apec/releases/latest) | Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, making the game feel more like an RPG. | [BananaFructa](https://github.com/BananaFructa) |
 | [BazaarNotifier](https://github.com/symt/BazaarNotifier/releases/latest) | Mod for Hypixel Skyblock that helps with tracking bazaar sell offer and buy order movements. | [symt](https://github.com/symt) |
-| [Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) | A collection of various features and enhancements mainly towards Hypixel Skyblock with other features like log searching, stalk, best friends list which are designed to be suitable for all Hypixel players. | [Cow](https://github.com/cow-mc) |
+| [Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) | A collection of various features and enhancements mainly focused on Hypixel Skyblock with other features like log searching and stalking. | [Cow](https://github.com/cow-mc) |
 | [Danker's Skyblock Mod](https://github.com/bowser0000/SkyblockMod/releases/latest) | DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself. | [bowser0000](https://github.com/bowser0000) |
 | [Dulkir Mod](https://github.com/inglettronald/DulkirMod/releases) | TODO | [inglettronald](https://github.com/inglettronald) | Some features currently broken with OverflowAnimations. |
 | [Dungeons Guide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) | A highly advanced Hypixel Skyblock dungeons mod, with secrets pathfinding, among other features. | [Dungeons Guide Team](https://github.com/Dungeons-Guide)
