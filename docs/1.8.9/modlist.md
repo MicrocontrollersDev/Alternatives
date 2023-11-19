@@ -8,14 +8,15 @@ WIP list of 1.8.9 mods.
 
 TODO
 
-- link to prism guide
+- link to [prism guide](https://alternatives.microcontrollers.dev/launcher/home)
 - explain modrinth/github/cf/maybe sk1er? downloads
+    - first 3 already in guide for prism but manual install should be explained clearly as well here
 
 ### Performance
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | One of the oldest performance mods for Minecraft. Required for many resource packs as well. | [sp614x](https://github.com/sp614x) |
+| [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | One of the oldest performance mods for Minecraft. Required for many resource packs as well. | [sp614x](https://github.com/sp614x) |
 | [Patcher](https://sk1er.club/mods/patcher) | Patcher fixes several Minecraft bugs, adds many performance improvements, and adds many quality of life features. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 
 ### Other (needs to be sorted better eventually)
@@ -90,10 +91,15 @@ TODO
 
 WIP, needs to be table-ized and prettified
 
-- Soopy
+- [Soopy](https://alternatives.microcontrollers.dev/1.8.9/soopy)
+    - Discontinued
+- [SBA](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons/)
     - Discontinued
 - Sk1er OAM
     - Use Overflow V2
 - Resource Pack Organizer
     - Use RPM
 
+# Contributors
+
+* [Pengu](https://github.com/pengubear)
