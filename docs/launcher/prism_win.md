@@ -83,7 +83,13 @@ In the main screen of Prism Launcher, click `Settings` near the top, a popup sho
 
 If you do not see any version, [you should redo step 1](#step-1-installing-java)
 
-You may also need to set the java version in the instance, click on the instance once then on the right click `Edit`, then in the next popup click `Settings` once again click `Auto-detect` and choose the java version.
+<br>
+
+#### `This instance is not compatabile with Java version x.`
+
+Click your instance and go to edit. click `Settings` on the left. From here click `Java installation` so that the section is ticked and editable. Click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx`(xxx symbolizes the newest version of Java at the time of your installation).
+
+If you do not see any version, [you should redo step 1](#step-1-installing-java)
 
 <br>
 
