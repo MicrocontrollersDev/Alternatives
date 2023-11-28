@@ -21,9 +21,9 @@ or a discussion.
 
 ### Cosmetics
 
-* Custom Color Names - ?
-* Show Particle Cosmetics - ?
-* Techno Tribute - ?
+* Custom Color Names - Irrelevant
+* Show Particle Cosmetics - Irrelevant
+* Techno Tribute - Irrelevant
 
 ### Commands
 
@@ -137,11 +137,11 @@ or a discussion.
 * Show Automaton Parts - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Treasure Chest Helper - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Treasure Loot Display - ?
-* Powder Tracker Display - ?
+* Powder Tracker Display - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Metal Detector Locator - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Metal Detector Waypoint - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Auto Renew Mining Pass - ?
-* Worm Notifier Warning - ?
+* Worm Notifier Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (Regex: `§r§7§oYou hear the sound of something approaching\.\.\.§r` Text: `§7§lScatha/worm`)
 
 ### Spider's Den
 
@@ -175,16 +175,16 @@ or a discussion.
 * Highlight Endermen Stages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Beam Attack - ?
 * Hide Enderman Hurt Effects - ?
-* Stop Enderman Teleportation - ?
+* Stop Enderman Teleportation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Mute Enderman Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Mute Player Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Approximate Ender Nodes - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 
 ### Etherwarp Display
 
-* LOS Etherwarp Location (Line of Sight) - ?
-* Display Unusable Blocks - ?
-* Display Unknown Blocks - ?
+* LOS Etherwarp Location (Line of Sight) - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Display Unusable Blocks - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Display Unknown Blocks - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 
 ## Trackers
 
@@ -429,7 +429,7 @@ or a discussion.
 
 * Show Damage Calculations - ?
 * Compact Damage Text - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Click Copy Chat - ?
+* Click Copy Chat - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
 * Draw Bestiary Info - ?
 * Bestiary Tracker - ?
 
