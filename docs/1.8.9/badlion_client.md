@@ -4,8 +4,8 @@
 
 ### 1.7 Visuals
 
-* Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
-* Hit Color  - [Nox's HitColor](https://cdn.discordapp.com/attachments/1009757412921708604/1133000824486891581/HitColor_1.8.9-forge-1.3.jar)
+* Animations - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
+* Hit Color - [Polyfrost's DamageTint](https://modrinth.com/mod/damagetint)
 
 ### Chat Mods
   
@@ -34,14 +34,14 @@
 ### HUD Mods
 
 * Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Bossbar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
+* Bossbar - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
 * CPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Crosshair Mod - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
+* Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes)
 * Ingame Server Switcher - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Item Counter - [DoKM's Item Counter](https://hypixel.net/threads/1-8-9-item-counter-mod.3683685/) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Item Info - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -52,7 +52,7 @@
 * Potion Status - [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
 * Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files?version=1.8.9)
-* Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
+* Scoreboard - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Server Address HUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Timers - [LlamaLad's BLCTimers](https://github.com/LlamaLad7/blctimers/releases/latest)
@@ -70,18 +70,18 @@
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
     * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)
-* Enchant Glint - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
+* Enchant Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * FOV - [Sk1er's Patcher (/patcher fov)](https://sk1er.club/mods/patcher)
 * Fullbright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Hitboxes - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Inventory Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
-* Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
+* Motion Blur - [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
 * Nick Hider - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
 * Particle Mod - [isXander & Microcontrollers's Particles Enhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest)
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * ShinyPots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
-* Time Changer - [Lily's SimpleTimeChanger](https://github.com/My-Name-Is-Jeff/SimpleTimeChanger/releases/latest) / [Shatterpoint's Revamped TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/latest)
-* Weather Changer - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
+* Time Changer - [Polyfrost's PolyTime](https://modrinth.com/mod/polytime)
+* Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
 
 ### Other
 

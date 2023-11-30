@@ -17,14 +17,14 @@ that you avoid using it if possible.
 
 ### Animations
 
-* [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
+* [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 
 ### Bugfixes
 
 * Lava Optimization - Don't use!
 * Optimize Soup & Potion Refill **(BANNABLE ON HYPIXEL)** - ?
 * Synchronised Crosshair - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
-* Blockhit - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
+* Blockhit - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 * Particle Optimization - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Performance
@@ -105,7 +105,7 @@ that you avoid using it if possible.
 * Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Support - Irrelevant
 * Potion Effects - [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
-* Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
+* Scoreboard - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Combo - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Range - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Speed - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
@@ -167,7 +167,7 @@ that you avoid using it if possible.
 * Friend Tags - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases/latest)
 * FriendViewer - [Sk1er's Essential](https://essential.gg)
 * FullBright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Glint Colorizer - [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
+* Glint Colorizer - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * GUI Blur Mod - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 * HDSkins - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files?version=1.8.9)
 * HeadOwner - ?
@@ -178,11 +178,11 @@ that you avoid using it if possible.
 * Instagram - ?
 * Instant Tab Completion - ?
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
-* Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
+* Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes)
 * Minigames - ?
 * MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files?version=1.8.9) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
 * More Particles - [isXander & Microcontrollers's Particles Enhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest)
-* Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
+* Motion Blur - [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
 * NoBob - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * OptiFine - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Rainbow GUI - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)

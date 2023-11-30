@@ -32,14 +32,14 @@ TODO
 | [CrashPatch](https://github.com/Polyfrost/CrashPatch/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) | CrashPatch is meant for simpler crashes and may lead to a broken gamestate. Restart your game should this happen. |
 | [DamageTilt](https://github.com/Charles445/DamageTilt/releases/latest) | TODO | [Name](https://github.com/) | GitHub release has a ton of versions, make sure to get the right one. |
 | [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | TODO | [isXander](https://github.com/isXander) & [Polyfrost](https://github.com/Polyfrost) |
-| [Canalex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest) | TODO | [Canalex](https://www.youtube.com/@canelex) & [Polyfrost](https://github.com/Polyfrost) |
+| [Canalex Keystrokes Revamp](https://modrinth.com/mod/keystrokes) | TODO | [Canalex](https://www.youtube.com/@canelex) & [Polyfrost](https://github.com/Polyfrost) |
 | [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | TODO | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://sk1er.club/mods/refractionoof) | TODO | [powns](https://github.com/pownsgg) |
 | [Optibye](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Optibye-1.0.0-dep.jar) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | No Source or official download available. The provided download is hosted on SkyClient. |
 | [OverflowAnimations](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) |
 | [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | TODO | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [PolyBlur](https://modrinth.com/mod/polyblur) | TODO | [Polyfrost](https://github.com/Polyfrost) |
 | [PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest) | PolySprint is a simple yet feature-versatile toggle sprint / sneak mod for 1.8.9 and 1.12.2. | [Polyfrost](https://github.com/Polyfrost) |
 | [Raw Input](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) | TODO | [xCuri0](https://github.com/xCuri0), [Mixces](https://github.com/Mixces), & [Erymanthus](https://github.com/RayDeeUx) |
 | [REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) | Redaction adds HUDs to your game that are normally classified as "cheat-client" modules. | [Polyfrost](https://github.com/Polyfrost) |
@@ -49,7 +49,7 @@ TODO
 | [Serverlist Buffer Fixer](https://modrinth.com/mod/serverlistbufferfixer) | TODO | [Nixuge](https://github.com/Nixuge) |
 | [Sound Subtitles](https://sk1er.club/mods/subtitles_mod) | Backports the subtitles HUD from newer MC versions. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files?version=1.8.9) | TODO | [shedaniel](https://github.com/shedaniel) |
-| [VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [VanillaHUD](https://modrinth.com/mod/vanillahud) | TODO | [Polyfrost](https://github.com/Polyfrost) |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | TODO | [tr7zw](https://github.com/tr7zw) |
 
 ### Hypixel

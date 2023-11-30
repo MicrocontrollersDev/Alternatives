@@ -14,8 +14,8 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 ### 1.7 Visuals
 
-* Animations - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
-* Hit Color - [Nox's HitColor](https://cdn.discordapp.com/attachments/1009757412921708604/1133000824486891581/HitColor_1.8.9-forge-1.3.jar)
+* Animations - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
+* Hit Color - [Polyfrost's DamageTint](https://modrinth.com/mod/damagetint)
 
 ### Chat Mods
 
@@ -73,7 +73,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * DirectionHUD - [ReflxctionDev's Bspkrs DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 * FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Tracker - ?
-* Key Strokes - [Polyfrost's Canelex Keystrokes Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
+* Key Strokes - [Polyfrost's Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes)
 * Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Momentum Mod - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
@@ -104,16 +104,16 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 ### Visual Mods
 
-* 2D Items - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
+* 2D Items - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 * UHC Overlay - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) (Resource packs also work)
 * FOV Mod - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Chunk Borders - ?
 * Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695)
-* Weather Changer - [Salmon's WeatherChanger](https://github.com/Scherso/WeatherChanger/releases/latest) / [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
-* Scoreboard - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest)
-* Motion Blur - [Polyfrost's PolyBlur](https://github.com/Polyfrost/PolyBlur/releases/latest)
+* Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
+* Scoreboard - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
+* Motion Blur - [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
 * Shiny Pots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 * Particle Mod - [isXander & Microcontrollers's Particles Enhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189) + [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -134,7 +134,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Screenshot Uploader - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9)
 * Mumble Link - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files?version=1.8.9)
-* Boss Bar - [Polyfrost's VanillaHUD](https://github.com/Polyfrost/VanillaHUD/releases/latest) 
+* Boss Bar - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud) 
 * Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * Quickplay - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)
 * 3D Skin Layers - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
@@ -159,7 +159,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 * Smart Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Borderless Fullscreen - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Disable Weather - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
+* Disable Weather - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
 * Modern Keybind Handling - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Minimal View Bobbing - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Unfocused FPS Limiter - [Sk1er's Patcher](https://sk1er.club/mods/patcher)

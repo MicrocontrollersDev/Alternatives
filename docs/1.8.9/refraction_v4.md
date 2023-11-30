@@ -18,7 +18,7 @@
 
 ## Replace
 
-* [Canalex's Keystrokes with Polyfrost's Revamp](https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/latest)
+* [Canalex's Keystrokes with Polyfrost's Revamp](https://modrinth.com/mod/keystrokes)
     * Canalex's keystrokes are old and no longer maintained. Polyfrost's revamp will continue to receive updates.
 * [Spiderfrog's old animations with Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
     * Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes. Polyfrost's is more accurate to 1.7 with better compatibility and no bloat, along with even more features and animations missing from Spiderfrog's.

@@ -15,14 +15,14 @@ mod authors and it is advised against supporting them.
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
 * Custom Crosshair - [Sparkless' Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Glint - ?
+* Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * Hitbox - ?
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.12.2)
 * Nick Hider - ?
 * Particles - ?
-* Time Changer - ?
+* Time Changer - [Polyfrost's PolyTime](https://modrinth.com/mod/polytime)
 * Waypoints - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files?version=1.12.2)
-* Weather Changer - [Polyfrost's PolyWeather](https://github.com/Polyfrost/PolyWeather/releases/latest)
+* Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
 * Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD

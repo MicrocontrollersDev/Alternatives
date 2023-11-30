@@ -49,7 +49,7 @@ if the features you use can be replaced.
 * Enable Skin Rendering Fix - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) via custom models
 * Disable Hurt Camera Effect - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Enable Shortcut Game Button - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Enable 1.15 Armor Enchanted Glint - [Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
+* Enable 1.15 Armor Enchanted Glint - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 * Enable Enchanted Glint for Skulls - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Enable Overwrite Sign Editing - ?
 * Enable Sign Selection List - ?
