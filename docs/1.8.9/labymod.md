@@ -100,7 +100,7 @@ that you avoid using it if possible.
 * Entity Count - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Chunk Caching Info - Irrelevant, servers must have support for Chunk Caching anyways
 * Memory - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Online Players - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Support - Irrelevant

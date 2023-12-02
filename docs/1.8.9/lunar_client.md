@@ -77,10 +77,10 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Momentum Mod - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
-* Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Playtime - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Potion Effects - [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
-* Potion Counter - [Senoe's PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
+* Potion Counter - ?
 * Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
