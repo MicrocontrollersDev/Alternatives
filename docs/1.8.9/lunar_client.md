@@ -132,7 +132,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * WorldEdit CUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files?version=1.8.9)
 * Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod)
 * Screenshot Uploader - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9)
+* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
 * Mumble Link - [snipingcoward's Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files?version=1.8.9)
 * Boss Bar - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud) 
 * Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)

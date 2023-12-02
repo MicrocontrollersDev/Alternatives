@@ -37,7 +37,7 @@ that you avoid using it if possible.
 
 ### Minecraft Chat
 
-* Autotext **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9)
+* Autotext **(BANNABLE ON HYPIXEL)** - [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
 * Name History - Removed by Mojang for privacy concerns.
 * Chat Icons - ?
 * Chat Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)

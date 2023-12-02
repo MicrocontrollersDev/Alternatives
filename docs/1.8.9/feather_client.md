@@ -57,7 +57,7 @@ mod authors and it is advised against supporting them.
 
 ### Other
 
-* Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9)
+* Auto Text **(BANNABLE ON HYPIXEL)** - [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
 * Discord - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Oof Mod - [Powns & Refraction & Deftu's OofMod](https://github.com/Deftu/OofMod/releases/latest)
 * Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)

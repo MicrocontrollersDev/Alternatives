@@ -9,7 +9,7 @@
 
 ### Chat Mods
   
-* Auto Text **(BANNABLE ON HYPIXEL)** - [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files?version=1.8.9)
+* Auto Text **(BANNABLE ON HYPIXEL)** - [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
 * Clear Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9) 
 * Compact Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Text Shadow - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
