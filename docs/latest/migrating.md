@@ -130,7 +130,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | VMP attempts to alleviate the strain on servers when there are a large amount of players. | [RelativityMC](https://github.com/RelativityMC) |
 | [Early Loading Screen](https://modrinth.com/mod/early-loading-screen) | Allows the game to create a game window earlier, allowing you to stop the game much faster if needed. | [Ishland](https://github.com/ishland) | May cause crashes when starting the game. If your game instantly crashes, try disabling this mod. |
 | [Noisium](https://modrinth.com/mod/noisium) | Optimizes world generation when generating new chunks. | [Steveplays](https://github.com/Steveplays28) |
-| [BadOptimization](https://modrinth.com/mod/badoptimizations) | Optimizes the game by removing many unnecessary calculations. | [ItsThosea](https://github.com/ItsThosea) |
+| [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Optimizes the game by removing many unnecessary calculations. | [ItsThosea](https://github.com/ItsThosea) |
 
 ### Other Performance Mods
 
