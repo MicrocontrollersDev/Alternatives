@@ -192,7 +192,7 @@ that you avoid using it if possible.
 * ShinyPots - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 * SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
 * SoundPlayer - ?
-* Spotify - [Cbyrneee's MediaMod](https://github.com/MediaModMC/MediaMod/releases/latest) / [ThatGravyBoat's Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify)  
+* Spotify - [ThatGravyBoat's Craftify](https://modrinth.com/mod/craftify)
 * TeamSpeak - ?
 * Toggle Sneak (Sneak & Sprint) - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * ToggleTab - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
