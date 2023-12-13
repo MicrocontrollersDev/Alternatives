@@ -27,7 +27,7 @@ alternatives that still get updated.
 * Dragon Tracker - ?
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Treasure Hunter Waypoints / Solver - ?
-* Show Cake Year as Stack Size - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Cake Year as Stack Size - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Skyblock Updates - ?
 
 ### QOL
@@ -37,7 +37,7 @@ alternatives that still get updated.
 ### Rendering
 
 * Stop Rendering Players with Customizable Whitelist - ? ([Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) has a similar feature that consequently removes players, but does not have a whitelist)
-* Stop Rendering Player Armor - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Stop Rendering Player Armor - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Create Hitboxes Around your Arrows - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Show Hitboxes of Special Zealots - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Show Hitboxes of Drags & Golems - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
@@ -48,7 +48,7 @@ alternatives that still get updated.
 
 ### General
 
-* Shorten/Remove Teleport Pad Names - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Shorten/Remove Teleport Pad Names - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Misc
 
@@ -58,7 +58,7 @@ alternatives that still get updated.
 ### Dungeons
 
 * Stop Opening Chests - ?
-* Clean Ending of Dungeons - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Clean Ending of Dungeons - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Bonzo Mask Alert - [Sychic and Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (custom alerts)
 * Hide Guided Sheeps - ?
 * Watcher Ready Reminder - [Sychic and Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (custom alerts)
@@ -82,7 +82,7 @@ alternatives that still get updated.
 * Slayer Info - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Sven Pups - ?
 * Maddox Clickable Message - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Reminder to Start New Slayer - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Reminder to Start New Slayer - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Fishing
 
@@ -116,7 +116,7 @@ alternatives that still get updated.
 
 ### Combat
 
-* Ghost Loot Tracker - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Ghost Loot Tracker - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### General
 
@@ -140,7 +140,7 @@ alternatives that still get updated.
 
 * Hub Overlay - ?
 * Hide villagers in Hub - ?
-* Overlay Uncollected Jacob’s Contests - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Overlay Uncollected Jacob’s Contests - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Sounds
 

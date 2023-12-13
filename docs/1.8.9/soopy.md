@@ -45,7 +45,7 @@ Feel free to make a pull request to add them.
 * Show Score Calculation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Blaze Puzzle Solver - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Terracotta Respawn Timer - ?
-* Spirit And Bonzo Mask Timer - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Spirit And Bonzo Mask Timer - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Change Withermancer Death Messages - ?
 * Unfinished Terms/Devices Waypoints - ?
 * Term/Device Count Per Party Member - ?
@@ -55,18 +55,18 @@ Feel free to make a pull request to add them.
 
 ### Events
 
-* Load Burials From Particles - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Estimate Burial Location - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Load Burials From Particles - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Estimate Burial Location - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Synced Inquisitor Locations - ?
-* Show Title On Shared Inquisitor - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Show Inquisitors Locations From Party Members - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Share Inquisitors Locations To Party Members - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Title On Shared Inquisitor - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Inquisitors Locations From Party Members - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Share Inquisitors Locations To Party Members - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Render Mythological Mob HP On Screen - ?
-* Tia Relay Helper - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Warp To Closest Warp To Burrow - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Tia Relay Helper - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Warp To Closest Warp To Burrow - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Shiny Block Highlighter - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Glowing Mushroom Highlighter - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Trevor Theodite Solver - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Trevor Theodite Solver - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Block Zapper Cooldown - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Use Mana Reminder (Bingo) - ?
 
@@ -93,11 +93,11 @@ Feel free to make a pull request to add them.
 
 * FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenHUD)
 * CPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenHUD)
-* Show Current Pet - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Current Pet - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Current Location - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenHUD)
 * Show Soulflow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* TPS Display - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Wither Impact Cooldown - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* TPS Display - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Wither Impact Cooldown - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Current Spotify Song - [ThatGravyBoat's Craftify](https://modrinth.com/mod/craftify)
 * Current Lobby Day - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenHUD)
 * Current Day Only Under Day 30 - ?
@@ -134,9 +134,9 @@ Feel free to make a pull request to add them.
 
 ### Rng Meter
 
-* Rng Meter Display - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Slayer Rng Meter Reset Alert - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Slayer Rng Drop Title - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Rng Meter Display - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Slayer Rng Meter Reset Alert - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Slayer Rng Drop Title - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Slayer
 
@@ -152,9 +152,9 @@ Feel free to make a pull request to add them.
 * List Nearby Miniboss HP On Screen - ?
 * Hide Dead Mob Nametags - ?
 * Box Enderman Slayer Bosses - ?
-* Box And Line to Enderman Beacon - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Box And Line to Enderman Beacon - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Beacon Spawn Sound - ?
-* Display Enderman Eyes - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Display Enderman Eyes - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Enderman HP On Screen - ?
 * Enderman Lazer Phase Timer - ?
 * Sound For Blaze Towers - ?
@@ -162,39 +162,39 @@ Feel free to make a pull request to add them.
 * Show Slayer Progress On Screen When Close - ?
 * Sync Other Boss Locations - ?
 * Disable Enderman Teleporting - ?
-* Outline Arachne Keeper - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Outline Arachne Keeper - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Arachne Keeper Spawn Alert - ?
 * Nested Endermite Spawn Warning - ?
 
 ### Summonings
 
-* Hide Summoning Nametags - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Hide Summoning Nametags - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Warn When Summoning HP Is Low - ?
 * Render HP Of Summons On Screen - ?
 
 ### Spam Hider
 
-* Hide Some Messages - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Hide Some Messages - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Move Messages To Spam Hider Chat - ?
 * Show Friend Join/Leave Messages - /f notifications
 * Show Guild Join/Leave Messages - /g notifications
 * Show Pet Level Messages - ?
 * Hide "There are blocks in the way!" Message - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (need to use custom spam hider)
-* Hide Autopet Messages - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Hide Autopet Messages - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Special Mining 
 
 * Compact Powder Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Fix x2 Powder Messages - ?
-* Powder Info On HUD - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases) / [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Powder Per Hour - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
-* Chests Per Hour - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Powder Info On HUD - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni) / [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Powder Per Hour - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Chests Per Hour - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Reset Data On Leaving Ch - ?
 * Chest Dug Alert - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Gemstone Message Hider - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Gemstone Message Hider - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Wishing Compass Message Hider - ?
 * Ascension Rope Message Hider - ?
-* Show Area Treasure - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Area Treasure - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Scatha Counter HUD - ?
 * Scatha Health HUD - ?
 * Worm/Scatha Spawn Alert - ?

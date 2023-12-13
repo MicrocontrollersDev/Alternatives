@@ -156,9 +156,9 @@ or a discussion.
 
 ### The Garden
 
-* Visitor List - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Visitor List - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Visitor Warning (Full Queue) - ?
-* Composter Warning - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Composter Warning - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### End Island
 
@@ -248,7 +248,7 @@ or a discussion.
 * Ping Nearby Particles - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Red Footsteps - ?
 * Show Red Gaias - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (shows when you can hit)
-* Show Diana Waypoints - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Show Diana Waypoints - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Miscellaneous
 
@@ -379,7 +379,7 @@ or a discussion.
 * Show Builder's Wand Overlay - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Hide WitherBorn Shadows - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (properly scales shadows) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (for bossbar)
 * Hide Displayed Armor - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Modify Visual Words - [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
+* Modify Visual Words - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### BINGO
 
