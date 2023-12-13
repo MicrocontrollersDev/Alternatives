@@ -91,15 +91,15 @@ Feel free to make a pull request to add them.
 
 ### HUD
 
-* FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenHUD)
-* CPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenHUD)
+* FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* CPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Show Current Pet - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Show Current Location - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenHUD)
+* Show Current Location - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Show Soulflow - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * TPS Display - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Wither Impact Cooldown - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Current Spotify Song - [ThatGravyBoat's Craftify](https://modrinth.com/mod/craftify)
-* Current Lobby Day - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenHUD)
+* Current Lobby Day - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Current Day Only Under Day 30 - ?
 * God Potion Expiration Timer - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Specific Stats On HUD - ?
