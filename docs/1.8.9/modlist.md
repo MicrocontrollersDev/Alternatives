@@ -18,13 +18,16 @@ TODO
 | --- | --- | --- | --- |
 | [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | One of the oldest performance mods for Minecraft. Required for many resource packs as well. | [sp614x](https://github.com/sp614x) |
 | [Patcher](https://sk1er.club/mods/patcher) | Patcher fixes several Minecraft bugs, adds many performance improvements, and adds many quality of life features. | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| [Ksyxis](https://modrinth.com/mod/ksyxis) | Reduces world loading times. | [VidTu](https://github.com/VidTu) |
 
 ### Other (needs to be sorted better eventually)
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | TODO | [tr7zw](https://github.com/tr7zw) |
+| [Better Hurt Cam](https://modrinth.com/mod/forge-betterhurtcam) | TODO | [Scherso](https://github.com/Scherso) |
 | [Block overlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar) | TODO | [Aycy](https://www.youtube.com/@aycyy) | No Source or official download available. The provided download is hosted on SkyClient. |
 | [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9) | TODO | [tterag](https://github.com/tterrag1098) | Add `net.optifine.gui.GuiChatOF` to exclusions list to fix blur on chat window. |
+| [Canalex Keystrokes Revamp](https://modrinth.com/mod/keystrokes) | TODO | [Canalex](https://www.youtube.com/@canelex) & [Polyfrost](https://github.com/Polyfrost) |
 | [Chatting](https://modrinth.com/mod/chatting) | Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying. | [Polyfrost](https://github.com/Polyfrost) |
 | [ChatTriggers](https://modrinth.com/mod/chattriggers) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. | [ChatTriggers Team](https://github.com/ChatTriggers) | Modules can be found on [their site](https://www.chattriggers.com/modules), and depending on their quality may substantially decrease FPS. |
 | [Controlling](https://modrinth.com/mod/controlling) | TODO | [jaredlll08](https://github.com/jaredlll08) |
@@ -32,7 +35,9 @@ TODO
 | [CrashPatch](https://github.com/Polyfrost/CrashPatch/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) | CrashPatch is meant for simpler crashes and may lead to a broken gamestate. Restart your game should this happen. |
 | [DamageTilt](https://github.com/Charles445/DamageTilt/releases/latest) | TODO | [Name](https://github.com/) | GitHub release has a ton of versions, make sure to get the right one. |
 | [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | TODO | [isXander](https://github.com/isXander) & [Polyfrost](https://github.com/Polyfrost) |
-| [Canalex Keystrokes Revamp](https://modrinth.com/mod/keystrokes) | TODO | [Canalex](https://www.youtube.com/@canelex) & [Polyfrost](https://github.com/Polyfrost) |
+| [Glint Colorizer](https://modrinth.com/mod/glintcolorizer) | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9) | Makes dropped items land on the ground realistically instead of falling straight and floating. | [CreativeMD](https://github.com/CreativeMD) |
+| [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | TODO | [The-Fireplace](https://github.com/The-Fireplace) |
 | [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | TODO | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://sk1er.club/mods/refractionoof) | TODO | [powns](https://github.com/pownsgg) |
@@ -40,9 +45,12 @@ TODO
 | [OverflowAnimations](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) |
 | [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | TODO | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [PolyBlur](https://modrinth.com/mod/polyblur) | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [PolyTime](https://modrinth.com/mod/polytime) | TODO | [Polyfrost](https://github.com/Polyfrost) |
 | [PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest) | PolySprint is a simple yet feature-versatile toggle sprint / sneak mod for 1.8.9 and 1.12.2. | [Polyfrost](https://github.com/Polyfrost) |
+| [PolyWeather](https://modrinth.com/mod/polyweather) | TODO | [Polyfrost](https://github.com/Polyfrost) |
 | [Raw Input](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) | TODO | [xCuri0](https://github.com/xCuri0), [Mixces](https://github.com/Mixces), & [Erymanthus](https://github.com/RayDeeUx) |
-| [REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) | Redaction adds HUDs to your game that are normally classified as "cheat-client" modules. | [Polyfrost](https://github.com/Polyfrost) |
+| [Redaction](https://modrinth.com/mod/redaction) | Redaction adds HUDs to your game that are normally classified as "cheat-client" modules. | [Polyfrost](https://github.com/Polyfrost) |
+| [ReplayMod](https://modrinth.com/mod/replaymod) | TODO | [CrushedPixel](https://github.com/CrushedPixel) & [johni0702](https://github.com/Johni0702) |
 | [Resource Pack Manager](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar) | TODO | [Aycy](https://www.youtube.com/@aycyy) |
 | [Resourcify](https://modrinth.com/mod/resourcify) | TODO | [DeDiamondPro](https://github.com/DeDiamondPro) |
 | [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll) | TODO | [Sk1erLLC](https://github.com/Sk1erLLC) |
