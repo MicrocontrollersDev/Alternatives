@@ -22,7 +22,7 @@
 * Chat Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
 * Chat Size - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
 * Emphasize Username in Chat - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
-* New Chat - [Polyfrost's Chatting](https://modrinth.com/mod/chatting) (adds search bar, ability to screenshot chatbox and chat messages, ability to copy chat messages, and smooth chat animations)
+* New Chat - [Polyfrost's Chatting](https://modrinth.com/mod/chatting) (adds search bar, ability to screenshot chatbox and chat messages, ability to copy chat messages, chat heads, and smooth chat animations)
 
 ### Hypixel Mods
 
@@ -66,12 +66,12 @@
 
 ### Visual Mods
 
-* Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
+* Block Overlay - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
     * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)
 * Enchant Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
-* FOV - [Sk1er's Patcher (/patcher fov)](https://sk1er.club/mods/patcher)
+* FOV - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (/patcher fov)
 * Fullbright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Hitboxes - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Inventory Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
@@ -89,7 +89,7 @@
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Ghost Liquid Fix - Don't use
 * JEI - [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files?version=1.8.9)
-* ResourcePack 24 - [Aycy's Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI)
+* ResourcePack 24 - [Aycy's Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) or [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 * Toggle Sneak - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * Toggle Sprint - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695)

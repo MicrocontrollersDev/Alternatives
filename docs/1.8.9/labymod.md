@@ -151,7 +151,7 @@ that you avoid using it if possible.
 * Color Correction - ?
 * ConnectionHistory - ?
 * Controller - ?
-* Custom Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
+* Custom Block Overlay - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
 * Custom Crosshair Mod - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Custom Hitboxes - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * CustomFilterSounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -186,7 +186,7 @@ that you avoid using it if possible.
 * NoBob - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * OptiFine - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Rainbow GUI - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
-* ResourcePack 24 - [Aycy's Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI)
+* ResourcePack 24 - [Aycy's Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) or [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 * Send To Server - ?
 * Settings Profile Mod - [leduyquang753's Controls Saved](https://drive.google.com/uc?authuser=0&id=1di1XQ_JNcVOt2RyCyZncsua7Vi5ar_fo&export=download)
 * ShinyPots - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)

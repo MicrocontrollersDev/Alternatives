@@ -14,7 +14,7 @@ mod authors and it is advised against supporting them.
 ### Visuals
 
 * Animations - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
-* Block Overlay - [Aycy's BlockOverlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar)
+* Block Overlay - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - [Sk1er's Patcher](https://sk1er.club/mods/patcher)

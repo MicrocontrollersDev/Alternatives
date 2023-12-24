@@ -25,7 +25,7 @@ TODO
 | --- | --- | --- | --- |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | TODO | [tr7zw](https://github.com/tr7zw) |
 | [Better Hurt Cam](https://modrinth.com/mod/forge-betterhurtcam) | TODO | [Scherso](https://github.com/Scherso) |
-| [Block overlay](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar) | TODO | [Aycy](https://www.youtube.com/@aycyy) | No Source or official download available. The provided download is hosted on SkyClient. |
+| [Block overlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar) | TODO | [Aycy](https://www.youtube.com/@aycyy) | No Source or official download available. The provided download is hosted on SkyClient. |
 | [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9) | TODO | [tterag](https://github.com/tterrag1098) | Add `net.optifine.gui.GuiChatOF` to exclusions list to fix blur on chat window. |
 | [Canalex Keystrokes Revamp](https://modrinth.com/mod/keystrokes) | TODO | [Canalex](https://www.youtube.com/@canelex) & [Polyfrost](https://github.com/Polyfrost) |
 | [Chatting](https://modrinth.com/mod/chatting) | Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying. | [Polyfrost](https://github.com/Polyfrost) |
@@ -41,7 +41,7 @@ TODO
 | [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | TODO | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://sk1er.club/mods/refractionoof) | TODO | [powns](https://github.com/pownsgg) |
-| [Optibye](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Optibye-1.0.0-dep.jar) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | No Source or official download available. The provided download is hosted on SkyClient. |
+| [Optibye](https://skyclient-files.pages.dev/Optibye-1.0.0-dep.jar) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | No Source or official download available. The provided download is hosted on SkyClient. |
 | [OverflowAnimations](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) |
 | [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | TODO | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [PolyBlur](https://modrinth.com/mod/polyblur) | TODO | [Polyfrost](https://github.com/Polyfrost) |
@@ -51,7 +51,7 @@ TODO
 | [Raw Input](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) | TODO | [xCuri0](https://github.com/xCuri0), [Mixces](https://github.com/Mixces), & [Erymanthus](https://github.com/RayDeeUx) |
 | [Redaction](https://modrinth.com/mod/redaction) | Redaction adds HUDs to your game that are normally classified as "cheat-client" modules. | [Polyfrost](https://github.com/Polyfrost) |
 | [ReplayMod](https://modrinth.com/mod/replaymod) | TODO | [CrushedPixel](https://github.com/CrushedPixel) & [johni0702](https://github.com/Johni0702) |
-| [Resource Pack Manager](https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar) | TODO | [Aycy](https://www.youtube.com/@aycyy) |
+| [Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) | TODO | [Aycy](https://www.youtube.com/@aycyy) |
 | [Resourcify](https://modrinth.com/mod/resourcify) | TODO | [DeDiamondPro](https://github.com/DeDiamondPro) |
 | [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll) | TODO | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [Serverlist Buffer Fixer](https://modrinth.com/mod/serverlistbufferfixer) | TODO | [Nixuge](https://github.com/Nixuge) |

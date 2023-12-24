@@ -93,7 +93,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Discord Rich Presence - [CDAGaming's CraftPresence](https://modrinth.com/mod/craftpresence)
 * Ghost Liquid Fix - Don't use
 * JEI - [Shedaniel's RoughlyEnoughItems](https://modrinth.com/mod/roughly-enough-items)
-* ResourcePack 24 - ?
+* ResourcePack 24 - [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 * Toggle Sneak - Vanilla
 * Toggle Sprint - Vanilla
 * Waypoints - [xaero96's Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
