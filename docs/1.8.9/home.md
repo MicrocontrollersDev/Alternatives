@@ -26,3 +26,7 @@
 ## Modpacks
 
 - [Refraction V4](https://alternatives.microcontrollers.dev/1.8.9/refraction_v4)
+
+# Other
+
+- [Mod List](https://alternatives.microcontrollers.dev/1.8.9/modlist)
