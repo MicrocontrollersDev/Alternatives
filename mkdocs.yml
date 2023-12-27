@@ -67,6 +67,8 @@ nav:
           - "Wyvtils": "1.8.9/wyvtils.md"
       - "Modpacks":
           - "Refraction v4": "1.8.9/refraction_v4.md"
+      - "Other":
+          - "Mod List": "1.8.9/modlist.md"
   - "Latest":
       - "Home": "latest/home.md"
       - "Clients":

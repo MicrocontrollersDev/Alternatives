@@ -2,7 +2,7 @@
 
 WIP list of 1.8.9 mods.
 
-| [Mod]() | TODO | [Name](https://github.com/) |
+| [Mod]() | TODO | [Name](https://github.com/) | Note |
 
 ### How to install
 
@@ -19,46 +19,48 @@ TODO
 | [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | One of the oldest performance mods for Minecraft. Required for many resource packs as well. | [sp614x](https://github.com/sp614x) |
 | [Patcher](https://sk1er.club/mods/patcher) | Patcher fixes several Minecraft bugs, adds many performance improvements, and adds many quality of life features. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | Reduces world loading times. | [VidTu](https://github.com/VidTu) |
+| [QuickQuit](https://modrinth.com/mod/quickquit) | Allows closing Minecraft during the Forge resource loading screen when starting the game. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
 
 ### Other (needs to be sorted better eventually)
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | TODO | [tr7zw](https://github.com/tr7zw) |
-| [Better Hurt Cam](https://modrinth.com/mod/forge-betterhurtcam) | TODO | [Scherso](https://github.com/Scherso) |
-| [Block overlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar) | TODO | [Aycy](https://www.youtube.com/@aycyy) | No Source or official download available. The provided download is hosted on SkyClient. |
-| [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9) | TODO | [tterag](https://github.com/tterrag1098) | Add `net.optifine.gui.GuiChatOF` to exclusions list to fix blur on chat window. |
-| [Canalex Keystrokes Revamp](https://modrinth.com/mod/keystrokes) | TODO | [Canalex](https://www.youtube.com/@canelex) & [Polyfrost](https://github.com/Polyfrost) |
+| [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Replaces the standard flat second layer of player skins with a 3D modeled version. | [tr7zw](https://github.com/tr7zw) |
+| [Better Hurt Cam](https://modrinth.com/mod/forge-betterhurtcam) | Lets you customize the hurtcam when hit. | [Scherso](https://github.com/Scherso) |
+| [Block overlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar) | Allows you to customize the select overlay on blocks. | [Aycy](https://www.youtube.com/@aycyy) | No Source or official download available. The provided download is hosted on SkyClient. |
+| [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9) | Adds a customizable blur effect to all your GUIs. | [tterag](https://github.com/tterrag1098) | Add `net.optifine.gui.GuiChatOF` to exclusions list to fix blur on chat window. |
+| [Canalex Keystrokes Revamp](https://modrinth.com/mod/keystrokes) | Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen. | [Canalex](https://www.youtube.com/@canelex) & [Polyfrost](https://github.com/Polyfrost) |
 | [Chatting](https://modrinth.com/mod/chatting) | Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying. | [Polyfrost](https://github.com/Polyfrost) |
 | [ChatTriggers](https://modrinth.com/mod/chattriggers) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. | [ChatTriggers Team](https://github.com/ChatTriggers) | Modules can be found on [their site](https://www.chattriggers.com/modules), and depending on their quality may substantially decrease FPS. |
-| [Controlling](https://modrinth.com/mod/controlling) | TODO | [jaredlll08](https://github.com/jaredlll08) |
+| [Controlling](https://modrinth.com/mod/controlling) | Adds more options in controls menu to make it easier to navigate. | [jaredlll08](https://github.com/jaredlll08) |
 | [Craftify](https://modrinth.com/mod/craftify) | Craftify allows you to connect to music services to display and control them in-game. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | Supports Spotify, Apple Music, YouTube, Foobar, and DeaDBeeF. |
-| [CrashPatch](https://github.com/Polyfrost/CrashPatch/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) | CrashPatch is meant for simpler crashes and may lead to a broken gamestate. Restart your game should this happen. |
-| [DamageTilt](https://github.com/Charles445/DamageTilt/releases/latest) | TODO | [Name](https://github.com/) | GitHub release has a ton of versions, make sure to get the right one. |
-| [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | TODO | [isXander](https://github.com/isXander) & [Polyfrost](https://github.com/Polyfrost) |
-| [Glint Colorizer](https://modrinth.com/mod/glintcolorizer) | TODO | [Polyfrost](https://github.com/Polyfrost) |
+| [CrashPatch](https://github.com/Polyfrost/CrashPatch/releases/latest) | Attempts to stops crashes from closing your game and provides a solution if found. | [Polyfrost](https://github.com/Polyfrost) | CrashPatch is meant for simpler crashes and may lead to a broken gamestate. Restart your game should this happen. |
+| [DamageTilt](https://github.com/Charles445/DamageTilt/releases/latest) | Makes your camera tilt in a different direction based on the origin of damage. | [Name](https://github.com/) | GitHub release has a ton of versions, make sure to get the right one. |
+| [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | Adds many popular HUD elements not included in other mods. | [isXander](https://github.com/isXander) & [Polyfrost](https://github.com/Polyfrost) |
+| [Glint Colorizer](https://modrinth.com/mod/glintcolorizer) | Lets you customize the glint color of items. | [Polyfrost](https://github.com/Polyfrost) |
 | [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9) | Makes dropped items land on the ground realistically instead of falling straight and floating. | [CreativeMD](https://github.com/CreativeMD) |
 | [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | TODO | [The-Fireplace](https://github.com/The-Fireplace) |
 | [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. |
-| [Not So Essential](https://modrinth.com/mod/notsoessential) | TODO | [Scherso](https://github.com/Scherso) |
-| [OofMod](https://sk1er.club/mods/refractionoof) | TODO | [powns](https://github.com/pownsgg) |
+| [Not So Essential](https://modrinth.com/mod/notsoessential) | Removes many things that Essential adds that you may not want. | [Scherso](https://github.com/Scherso) |
+| [OofMod](https://sk1er.club/mods/refractionoof) | Plays custom sounds when you kill other players. | [powns](https://github.com/pownsgg) |
 | [Optibye](https://skyclient-files.pages.dev/Optibye-1.0.0-dep.jar) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | No Source or official download available. The provided download is hosted on SkyClient. |
-| [OverflowAnimations](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest) | TODO | [Polyfrost](https://github.com/Polyfrost) |
-| [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | TODO | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [PolyBlur](https://modrinth.com/mod/polyblur) | TODO | [Polyfrost](https://github.com/Polyfrost) |
-| [PolyTime](https://modrinth.com/mod/polytime) | TODO | [Polyfrost](https://github.com/Polyfrost) |
-| [PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest) | PolySprint is a simple yet feature-versatile toggle sprint / sneak mod for 1.8.9 and 1.12.2. | [Polyfrost](https://github.com/Polyfrost) |
-| [PolyWeather](https://modrinth.com/mod/polyweather) | TODO | [Polyfrost](https://github.com/Polyfrost) |
-| [Raw Input](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) | TODO | [xCuri0](https://github.com/xCuri0), [Mixces](https://github.com/Mixces), & [Erymanthus](https://github.com/RayDeeUx) |
+| [OverflowAnimations](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest) | Extremely precise and advanced old animations mod for 1.8.9. Also adds many other features such as backporting features and new features. | [Polyfrost](https://github.com/Polyfrost) |
+| [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | Adds many particle features such as fade out and customizable critical and sharpness particles. | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
+| [PolyBlur](https://modrinth.com/mod/polyblur) | Apply motion blur in-game in various customizable ways. | [Polyfrost](https://github.com/Polyfrost) |
+| [PolyTime](https://modrinth.com/mod/polytime) | Allows the user to configure what client-side time is displayed. | [Polyfrost](https://github.com/Polyfrost) |
+| [PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest) | PolySprint is a simple yet feature-versatile toggle sprint/sneak mod. | [Polyfrost](https://github.com/Polyfrost) |
+| [PolyWeather](https://modrinth.com/mod/polyweather) | Allows the user to configure what client-side weather is displayed. | [Polyfrost](https://github.com/Polyfrost) |
+| [QuickConfig](https://modrinth.com/mod/quickconfig) | Replaces Forge's mod config screen with the OneConfig menu. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Very buggy in the main menu as OneConfig expects a world to be loaded. |
+| [Raw Input](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) | Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system. Fixes high polling rate issues. | [xCuri0](https://github.com/xCuri0), [Mixces](https://github.com/Mixces), & [Erymanthus](https://github.com/RayDeeUx) |
 | [Redaction](https://modrinth.com/mod/redaction) | Redaction adds HUDs to your game that are normally classified as "cheat-client" modules. | [Polyfrost](https://github.com/Polyfrost) |
-| [ReplayMod](https://modrinth.com/mod/replaymod) | TODO | [CrushedPixel](https://github.com/CrushedPixel) & [johni0702](https://github.com/Johni0702) |
-| [Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) | TODO | [Aycy](https://www.youtube.com/@aycyy) |
-| [Resourcify](https://modrinth.com/mod/resourcify) | TODO | [DeDiamondPro](https://github.com/DeDiamondPro) |
-| [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll) | TODO | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| [Serverlist Buffer Fixer](https://modrinth.com/mod/serverlistbufferfixer) | TODO | [Nixuge](https://github.com/Nixuge) |
+| [ReplayMod](https://modrinth.com/mod/replaymod) | ReplayMod lets you record your gameplay to watch back later. | [CrushedPixel](https://github.com/CrushedPixel) & [johni0702](https://github.com/Johni0702) |
+| [Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) | Makes the resource pack menu load faster and adds some more useful features. | [Aycy](https://www.youtube.com/@aycyy) |
+| [Resourcify](https://modrinth.com/mod/resourcify) | Adds an in-game downloader and updater for Modrinth resource packs and shaders. | [DeDiamondPro](https://github.com/DeDiamondPro) |
+| [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll) | Let's you scroll tooltips up and down, as well as left and right. | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| [Serverlist Buffer Fixer](https://modrinth.com/mod/serverlistbufferfixer) | Fixes the server data in the multiplayer menu from infinitely loading. | [Nixuge](https://github.com/Nixuge) |
 | [Sound Subtitles](https://sk1er.club/mods/subtitles_mod) | Backports the subtitles HUD from newer MC versions. | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files?version=1.8.9) | TODO | [shedaniel](https://github.com/shedaniel) |
-| [VanillaHUD](https://modrinth.com/mod/vanillahud) | TODO | [Polyfrost](https://github.com/Polyfrost) |
-| [WaveyCapes](https://modrinth.com/mod/wavey-capes) | TODO | [tr7zw](https://github.com/tr7zw) |
+| [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files?version=1.8.9) | Adds smoother scrolling to GUIs that allow you to scroll. | [shedaniel](https://github.com/shedaniel) |
+| [VanillaHUD](https://modrinth.com/mod/vanillahud) | A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar. | [Polyfrost](https://github.com/Polyfrost) |
+| [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Makes the cape wavey, similar to the cloth capes in Lunar Client. | [tr7zw](https://github.com/tr7zw) |
 
 ### Hypixel
 | Mod | Description | Author | Notes |
@@ -82,7 +84,7 @@ TODO
 | [BazaarNotifier](https://github.com/symt/BazaarNotifier/releases/latest) | Mod for Hypixel Skyblock that helps with tracking bazaar sell offer and buy order movements. | [symt](https://github.com/symt) |
 | [Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) | A collection of various features and enhancements mainly focused on Hypixel Skyblock with other features like log searching and stalking. | [Cow](https://github.com/cow-mc) |
 | [Danker's Skyblock Mod](https://github.com/bowser0000/SkyblockMod/releases/latest) | DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself. | [bowser0000](https://github.com/bowser0000) |
-| [Dulkir Mod](https://github.com/inglettronald/DulkirMod/releases) | TODO | [inglettronald](https://github.com/inglettronald) | Some features currently broken with OverflowAnimations. |
+| [Dulkir Mod](https://github.com/inglettronald/DulkirMod/releases) | TODO | [inglettronald](https://github.com/inglettronald) | Use OverflowAnimations for item transformations instead. |
 | [Dungeons Guide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) | A highly advanced Hypixel Skyblock dungeons mod, with secrets pathfinding, among other features. | [Dungeons Guide Team](https://github.com/Dungeons-Guide)
 | [Dungeon Rooms Mod](https://github.com/Quantizr/DungeonRoomsMod/releases/latest) | Displays information about the dungeon room you are currently in and adds waypoints for secrets. | [Quantizr](https://github.com/Quantizr) |
 | [Fancy Warp Menu](https://modrinth.com/mod/fancy-warp-menu) | A prettier warp menu for Skyblock, Fancy Warp Menu replaces the vanilla container warp GUI with a proper map.| [TirelessTraveler](https://github.com/ILikePlayingGames) | Turn off the custom warp menu in SkyblockAddons. |
