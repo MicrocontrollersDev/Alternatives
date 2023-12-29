@@ -21,7 +21,7 @@
 * Chat Messages Notifications - ?
 * Chat Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
 * Chat Size - [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
-* Emphasize Username in Chat - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Emphasize Username in Chat - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
 * New Chat - [Polyfrost's Chatting](https://modrinth.com/mod/chatting) (adds search bar, ability to screenshot chatbox and chat messages, ability to copy chat messages, chat heads, and smooth chat animations)
 
 ### Hypixel Mods
@@ -89,7 +89,7 @@
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Ghost Liquid Fix - Don't use
 * JEI - [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files?version=1.8.9)
-* ResourcePack 24 - [Aycy's Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) or [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
+* ResourcePack 24 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) or [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 * Toggle Sneak - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * Toggle Sprint - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
 * Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695)

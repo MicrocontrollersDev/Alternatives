@@ -17,7 +17,7 @@ This list is based off of the latest version of 5zig Reborn.
 ### Noncategorized
 
 * Show More Chat Symbols - ?
-* Show Last Server - [Polyfrost's Redaction](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Show Last Server - [Polyfrost's Redaction](https://modrinth.com/mod/redaction)
 * Show Custom Item Models - OptiFine Setting
 * Static FOV - Minecraft Setting
 * Time in Chat Messages - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -36,7 +36,7 @@ This list is based off of the latest version of 5zig Reborn.
 
 ### General
 
-* Notify on Chat-Mention - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Notify on Chat-Mention - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
 * Automatically Reconnect - ?
 * Use CMD-Key - ?
 * Show Compass Target - ?
@@ -63,7 +63,7 @@ This list is based off of the latest version of 5zig Reborn.
 * TeamSpeak - ?
 * Discord Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Friends and Chat System - [Sk1er's Essential](https://essential.gg/download)
-* Cosmetics - [Cosmetica-cc's Arcmetica](https://cosmetica.cc/docs/installing-arcmetica)
+* Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
 
 # Contributors
 

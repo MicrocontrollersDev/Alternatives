@@ -59,7 +59,7 @@ that you avoid using it if possible.
 ### Menu GUI
 
 * Menu Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Server Information at Direct Connect - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Server Information at Direct Connect - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
 * Confirm Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Quickplay - [Buggyfroggy's Quickplay](https://github.com/QuickplayMod/quickplay/releases/latest)
 * Public Server List - [Sk1er's Essential](https://essential.gg)
@@ -80,7 +80,7 @@ that you avoid using it if possible.
 * Sign Search - ?
 * Left Hand - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Discord Rich Presence - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-* Custom Name Tags - ? ([Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest) for highlighting names)
+* Custom Name Tags - ? ([Polyfrost's REDACTION](https://modrinth.com/mod/redaction) for highlighting names)
 
 ### Cosmetics
 
@@ -171,7 +171,7 @@ that you avoid using it if possible.
 * GUI Blur Mod - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 * HDSkins - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files?version=1.8.9)
 * HeadOwner - ?
-* Hotbar - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Hotbar - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
 * Hypixel Quick Play - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 * HyPlus - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) (somewhat)
 * I Love Music - ?
@@ -186,7 +186,7 @@ that you avoid using it if possible.
 * NoBob - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * OptiFine - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Rainbow GUI - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
-* ResourcePack 24 - [Aycy's Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) or [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
+* ResourcePack 24 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) or [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 * Send To Server - ?
 * Settings Profile Mod - [leduyquang753's Controls Saved](https://drive.google.com/uc?authuser=0&id=1di1XQ_JNcVOt2RyCyZncsua7Vi5ar_fo&export=download)
 * ShinyPots - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)

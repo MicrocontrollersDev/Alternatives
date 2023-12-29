@@ -103,10 +103,10 @@ mod authors and it is advised against supporting them.
 
 ### Mentions
 
-* Highlight - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
-* Color - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
-* Bold - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
-* Own Messages - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Highlight - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
+* Color - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
+* Bold - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
+* Own Messages - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
 
 ## Performance
 
@@ -140,13 +140,13 @@ mod authors and it is advised against supporting them.
 * [Dungeons Guide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 * [Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * [BazaarNotifier](https://github.com/symt/BazaarNotifier/releases/latest)
-* [ResourcePack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+* [ResourcePack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar)
 * [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://optifine.net)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 * [HD Skins](https://www.hdskins.de/)
-* [ResourcePack Organizer](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar) (Aycy's Resource Pack Manager instead)
+* [ResourcePack Organizer](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Aycy's Resource Pack Manager instead)
 
 # Contributors
 

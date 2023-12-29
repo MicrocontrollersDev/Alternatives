@@ -21,7 +21,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 * Chat Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Chat Height Fix - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Highlighted Name - [Polyfrost's REDACTION](https://github.com/Polyfrost/REDACTION/releases/latest)
+* Highlighted Name - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
 * Background Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Hide Incoming Messages - ?
 * Stack Spam Messages - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -109,7 +109,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * FOV Mod - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Menu Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* Chunk Borders - ?
+* Chunk Borders - [tildejustin & MicrocontrollerDev's Legacy Chunk Borders](https://modrinth.com/mod/legacy-chunk-borders-forge)
 * Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695)
 * Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
 * Scoreboard - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
@@ -168,7 +168,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 #### Texture Pack Options
 
-* Transparent Background - [Aycy's Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar)
+* Transparent Background - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar)
 * Red String - ? (can be accomplished via a texture pack)
 
 ### Performance
@@ -194,7 +194,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 ## Other
 
 * Vanilla Bug Fixes - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Resource Pack Menu - [Aycy's Resource Pack Manager](https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar)
+* Resource Pack Menu - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar)
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * In Game Account Switcher - [Sk1er's Essential](https://essential.gg)
 * In Game Server Switcher - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
