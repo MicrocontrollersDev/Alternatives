@@ -79,7 +79,7 @@
 * Motion Blur - [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
 * Nick Hider - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
 * Particle Mod - [isXander & Microcontrollers's Particles Enhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest)
-* Perspective Mod **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
+* Perspective Mod **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * ShinyPots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
 * Time Changer - [Polyfrost's PolyTime](https://modrinth.com/mod/polytime)
 * Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
