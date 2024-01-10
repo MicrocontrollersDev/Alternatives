@@ -67,6 +67,7 @@
 ### Visual Mods
 
 * Block Overlay - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
+* Chunk Borders - [tildejustin & MicrocontrollerDev's Legacy Chunk Borders](https://modrinth.com/mod/legacy-chunk-borders-forge)
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
     * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)
