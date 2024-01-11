@@ -2,7 +2,7 @@
 
 I do not have Badlion and don't intend on downloading it.
 If you know how to categorize these mods, please PR or make an issue!
-This currently uses the list from [their support site](https://support.badlion.net/hc/en-us/categories/360002557839-Mod-Section)
+This currently uses the list from [their support site](https://support.badlion.net/hc/en-us/categories/360002557839-Mod-Section).
 
 ## Mods
 
@@ -158,7 +158,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 
 ### Other
 
-These are mods that Badlion has but are not mentioned in their support for one reason or another
+These are mods that Badlion has but are not mentioned in their support for one reason or another.
 
 * Clan Wars - Irrelevant
 * Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
