@@ -26,22 +26,22 @@ mod authors and it is advised against supporting them.
 * Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
-* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Armor Status - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Boss Bar - ?
-* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Combo Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* CPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Combo Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Direction - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* FPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Counter - ?
 * Item Info - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Pack Display - ?
-* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Potion Effects - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Saturation - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Potion Effects - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Reach Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Saturation - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Scoreboard - ?
-* Time - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Time - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Hypixel
 * AutoFriend - ?
@@ -58,9 +58,9 @@ mod authors and it is advised against supporting them.
 * Perspective - [Cynosphere's Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux/files?version=1.12.2)
 * Screenshot - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
-* Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Server Address - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Snaplook - ?
-* Toggle Sprint - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
+* Toggle Sprint - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
 * Voice - ?
 
 ## General

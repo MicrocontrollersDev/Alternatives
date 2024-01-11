@@ -34,13 +34,13 @@ if the features you use can be replaced.
 * Disable Block Particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Fix Skyblock Enchant Tag - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 * Disable Night Vision - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Display Realtime Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Display Realtime Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Miscellaneous
 
 * Right Click to Add Party - [Am4nso's MiddleClickParty](https://hypixel.net/threads/forge-1-8-9-middleclickparty-invite-players-to-your-party-by-middle-clicking.3349916/)
 * Sneak to Open Inventory While Fighting Dragon - ?
-* Lobby Player Count - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Lobby Player Count - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Show Obtained Date - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
 ### Global Config

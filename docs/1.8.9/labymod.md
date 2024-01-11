@@ -13,7 +13,7 @@ that you avoid using it if possible.
     * Show Language Flags - ?
 * Permission Changes - Irrelevant
 * LabyMod User Indicator - Irrelevant
-* Out of Memory Warning - ? (Check F3 / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud) for current memory usage)
+* Out of Memory Warning - ? (Check F3 / [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) for current memory usage)
 
 ### Animations
 
@@ -91,28 +91,28 @@ that you avoid using it if possible.
 
 ### Information
 
-* FPS Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Direction - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* FPS Counter - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Direction - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Clock - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Date - ?
-* Biome - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Entity Count - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Biome - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Entity Count - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Chunk Caching Info - Irrelevant, servers must have support for Chunk Caching anyways
-* Memory - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Online Players - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Memory - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Online Players - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Server Address - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Support - Irrelevant
 * Potion Effects - [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
 * Scoreboard - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-* Combo - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Range - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Speed - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Combo - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Range - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Speed - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Items
 
-* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Armor Status - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### External Services
 
@@ -124,9 +124,9 @@ that you avoid using it if possible.
 * AFK Time - ?
 * Click Test -  ?
 * Lava Challenge Time - ?
-* ToggleSneak Info - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
+* ToggleSneak Info - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
 * Laby's MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files?version=1.8.9) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9)
-* DirectionHUD - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* DirectionHUD - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Other
 
@@ -160,7 +160,7 @@ that you avoid using it if possible.
 * CustomTime - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
 * DamageIndicator **(BANNABLE ON HYPIXEL)** - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files?version=1.8.9)
 * Direct Connect History - ?
-* DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * EmoteChat - [Kokeria's ChatEmotes](https://www.curseforge.com/minecraft/mc-mods/chatemotes/files?version=1.8.9) (doesn't work exactly like laby's but the emotes are the same)
 * FastJoin - ?
 * Focus Movement Fix - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
@@ -194,7 +194,7 @@ that you avoid using it if possible.
 * SoundPlayer - ?
 * Spotify - [ThatGravyBoat's Craftify](https://modrinth.com/mod/craftify)
 * TeamSpeak - ?
-* Toggle Sneak (Sneak & Sprint) - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
+* Toggle Sneak (Sneak & Sprint) - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
 * ToggleTab - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Transulcent Skins - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Twitter - ?

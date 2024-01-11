@@ -22,15 +22,15 @@
     * Canalex's keystrokes are old and no longer maintained. Polyfrost's revamp will continue to receive updates.
 * [Spiderfrog's old animations with Polyfrost's OverflowAnimationsV2](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest)
     * Spiderfrog's OAM causes many issues with other mods, is bloated, and causes crashes. Polyfrost's is more accurate to 1.7 with better compatibility and no bloat, along with even more features and animations missing from Spiderfrog's.
-* [Powns' ToggleSneak with Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
+* [Powns' ToggleSneak with Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
     * Powns' ToggleSneak is no longer maintained and has some small issues that Polyfrost's fixes.
 * [SkyWars Stats mod with HyStats](https://cdn.discordapp.com/attachments/796895966414110751/1062109449810092142/HyStats-v4.0_1.8.9.jar)
     * KAD7's more recent HyStats now supports multiple game-modes and has much more to offer compared to the discontinued SkyWars Stats mod.
 * [Pown's Potion Effect HUD with Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
     * Powns's mods are no longer maintained.
-* [Powns's Coords HUD with isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* [Powns's Coords HUD with Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
     * Powns's mods are no longer maintained.
-* [Powns's Armor Status HUD with isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* [Powns's Armor Status HUD with Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
     * Powns's mods are no longer maintained.
 
 ## Remove

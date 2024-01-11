@@ -65,7 +65,7 @@
 * ToggleChat - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Popup Events - [Sk1er's Popup Events](https://sk1er.club/mods/popup_events)
-* (Hyperium's) Reach Display - None ([isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud) for a regular reach display)
+* (Hyperium's) Reach Display - None ([Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) for a regular reach display)
 * Numeric Ping - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Show amount of currently held item - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Show enchantments above hotbar - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -77,7 +77,7 @@
 * Disable Portal Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Disable Achievements - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Rear Cam - [Polyfrost's BehindYouV3](https://modrinth.com/mod/behindyou)
-* ToggleSprint - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
+* ToggleSprint - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
 * Name History - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 

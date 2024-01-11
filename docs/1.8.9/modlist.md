@@ -47,7 +47,7 @@ TODO
 | [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | Adds many particle features such as fade out and customizable critical and sharpness particles. | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [PolyBlur](https://modrinth.com/mod/polyblur) | Apply motion blur in-game in various customizable ways. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyTime](https://modrinth.com/mod/polytime) | Allows the user to configure what client-side time is displayed. | [Polyfrost](https://github.com/Polyfrost) |
-| [PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest) | PolySprint is a simple yet feature-versatile toggle sprint/sneak mod. | [Polyfrost](https://github.com/Polyfrost) |
+| [PolySprint](https://modrinth.com/mod/polysprint) | PolySprint is a simple yet feature-versatile toggle sprint/sneak mod. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyWeather](https://modrinth.com/mod/polyweather) | Allows the user to configure what client-side weather is displayed. | [Polyfrost](https://github.com/Polyfrost) |
 | [QuickConfig](https://modrinth.com/mod/quickconfig) | Replaces Forge's mod config screen with the OneConfig menu. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Very buggy in the main menu as OneConfig expects a world to be loaded. |
 | [Raw Input](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) | Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system. Fixes high polling rate issues. | [xCuri0](https://github.com/xCuri0), [Mixces](https://github.com/Mixces), & [Erymanthus](https://github.com/RayDeeUx) |

@@ -64,27 +64,27 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 ### HUD Mods
 
-* Armor Status - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Clock - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Combo Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Coordinates - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* CPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Day Counter - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Armor Status - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Clock - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Combo Counter - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* CPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Day Counter - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * DirectionHUD - [ReflxctionDev's Bspkrs DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex's Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
-* FPS - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* FPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Tracker - ?
 * Key Strokes - [Polyfrost's Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes)
-* Memory Usage - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Momentum Mod - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Memory Usage - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Momentum Mod - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
-* Ping - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Playtime - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Playtime - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Potion Effects - [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
 * Potion Counter - ?
-* Stopwatch - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Server Address - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Stopwatch - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Server Address - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
-* Reach Display - [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Reach Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Team View - Irrelevant
 * WAILA - [profmobius's WAILA](https://www.curseforge.com/minecraft/mc-mods/waila/files?version=1.8.9)
 
@@ -127,7 +127,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 ### Other Mods
 
-* Toggle Sneak/Sprint - [Lily & Polyfrost's PolySprint](https://github.com/Polyfrost/PolySprint/releases/latest)
+* Toggle Sneak/Sprint - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
 * WorldEdit CUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files?version=1.8.9)
 * Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod)
