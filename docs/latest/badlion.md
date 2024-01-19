@@ -79,7 +79,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Fullbright - [Serilum's Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle)
 * Hitboxes - [ErrorGamer2000's Pretty Hitboxes](https://modrinth.com/mod/pretty-hitboxes)
 * Inventory Blur - [Motschen's Blur](https://modrinth.com/mod/blur-fabric)
-* Motion Blur - [Noryea's Motion Blur](https://modrinth.com/mod/motionbl
+* Motion Blur - [Noryea's Motion Blur](https://modrinth.com/mod/motionblur)
 * Nick Hider - ?
 * Particle Mod - ?
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
