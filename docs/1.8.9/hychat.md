@@ -22,7 +22,7 @@ The mod is no longer supported by its developer, Moulberry.
 ### Appearance
 
 * Text Shadow - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
-* Tab Text Shadow - Irrelevant ([Polyfrost's Chatting](https://modrinth.com/mod/chatting))
+* Tab Text Shadow - Irrelevant [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
 
 ### Screenshot and Copying
 

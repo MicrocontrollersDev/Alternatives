@@ -2,13 +2,13 @@
 
 **MAY NOT ALWAYS BE UP-TO-DATE, LATEST MEANS LATEST AT CURRENT EDITING TIME**
 
-- Click the links below or use the sidebar navigation to find the list you want.
+Click the links below or use the sidebar navigation to find the list you want.
 
 ## Clients
 
-- [Badlion Client](https://alternatives.microcontrollers.dev/latest/badlion_client)
-- [Feather "Client"](https://alternatives.microcontrollers.dev/latest/feather_client)
-- [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar_client)
+- [Badlion Client](https://alternatives.microcontrollers.dev/latest/badlion)
+- [Feather "Client"](https://alternatives.microcontrollers.dev/latest/feather)
+- [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar)
 
 ## Mods
 

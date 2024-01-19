@@ -72,9 +72,9 @@ nav:
   - "Latest":
       - "Home": "latest/home.md"
       - "Clients":
-          - "Badlion Client": "latest/badlion_client.md"
-          - "Feather Client": "latest/feather_client.md"
-          - "Lunar Client": "latest/lunar_client.md"
+          - "Badlion Client": "latest/badlion.md"
+          - "Feather Client": "latest/feather.md"
+          - "Lunar Client": "latest/lunar.md"
       - "Mods":
           - "OptiFine": "latest/optifine.md"
           - "Patcher": "latest/patcher.md"

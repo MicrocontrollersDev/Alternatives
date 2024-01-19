@@ -23,7 +23,7 @@ This list is based off of the latest version of 5zig Reborn.
 * Time in Chat Messages - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Transparent Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Transparent Pause Menu - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Show Own Nametag - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Show Own Nametag - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Ping on Tablist - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Ping on Server List - ?
 

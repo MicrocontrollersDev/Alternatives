@@ -11,21 +11,11 @@ and modpacks.
 
 </div>
 
-## Changes
-
-The Markdown documents for this repo
-have been moved to their own site
-built using [MkDocs](https://www.mkdocs.org).
-
-The website will now be the primary
-way this will be used. To access it,
-click [here](https://microcontrollers.dev).
-
 ## Contributors
 
 [![GitHub Contributors](https://contrib.rocks/image?repo=MicrocontrollersDev/Alternatives)](https://alternatives.microcontrollers.dev/contributors)
 
-## Whatever this is
+## Reviews
 
 ![image](https://user-images.githubusercontent.com/66657148/233866045-91740fb6-47f9-4715-95a1-189bf4221e82.png)
 

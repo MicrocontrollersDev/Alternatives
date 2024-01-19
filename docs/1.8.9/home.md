@@ -1,9 +1,10 @@
 # 1.8.9
 
-- Click the links below or use the sidebar navigation to find the list you want.
+Click the links below or use the sidebar navigation to find the list you want.
 
 ## Clients
 
+- [CheatBreaker](https://alternatives.microcontrollers.dev/1.8.9/cheatbreaker)
 - [Badlion Client](https://alternatives.microcontrollers.dev/1.8.9/badlion_client)
 - [Feather "Client"](https://alternatives.microcontrollers.dev/1.8.9/feather_client)
 - [Hyperium](https://alternatives.microcontrollers.dev/1.8.9/hyperium)

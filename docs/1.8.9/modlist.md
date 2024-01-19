@@ -27,7 +27,7 @@ TODO
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Replaces the standard flat second layer of player skins with a 3D modeled version. | [tr7zw](https://github.com/tr7zw) |
 | [Better Hurt Cam](https://modrinth.com/mod/forge-betterhurtcam) | Lets you customize the hurtcam when hit. | [Scherso](https://github.com/Scherso) |
 | [Block overlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar) | Allows you to customize the select overlay on blocks. | [Aycy](https://www.youtube.com/@aycyy) | No Source or official download available. The provided download is hosted on SkyClient. |
-| [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9) | Adds a customizable blur effect to all your GUIs. | [tterag](https://github.com/tterrag1098) | Add `net.optifine.gui.GuiChatOF` to exclusions list to fix blur on chat window. |
+| [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9) | Adds a customizable blur effect to all your GUIs. | [tterag](https://github.com/tterrag1098) | Add `net.optifine.gui.GuiChatOF` to exclusions list to fix blur on chat window when using OptiFine. |
 | [Canalex Keystrokes Revamp](https://modrinth.com/mod/keystrokes) | Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen. | [Canalex](https://www.youtube.com/@canelex) & [Polyfrost](https://github.com/Polyfrost) |
 | [Chatting](https://modrinth.com/mod/chatting) | Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying. | [Polyfrost](https://github.com/Polyfrost) |
 | [ChatTriggers](https://modrinth.com/mod/chattriggers) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. | [ChatTriggers Team](https://github.com/ChatTriggers) | Modules can be found on [their site](https://www.chattriggers.com/modules), and depending on their quality may substantially decrease FPS. |
@@ -38,7 +38,7 @@ TODO
 | [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | Adds many popular HUD elements not included in other mods. | [isXander](https://github.com/isXander) & [Polyfrost](https://github.com/Polyfrost) |
 | [Glint Colorizer](https://modrinth.com/mod/glintcolorizer) | Lets you customize the glint color of items. | [Polyfrost](https://github.com/Polyfrost) |
 | [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9) | Makes dropped items land on the ground realistically instead of falling straight and floating. | [CreativeMD](https://github.com/CreativeMD) |
-| [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | TODO | [The-Fireplace](https://github.com/The-Fireplace) |
+| [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Lets you log into and switch accounts without needing to relaunch the game or log into other accounts in your launcher. | [The-Fireplace](https://github.com/The-Fireplace) |
 | [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | Removes many things that Essential adds that you may not want. | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://sk1er.club/mods/refractionoof) | Plays custom sounds when you kill other players. | [powns](https://github.com/pownsgg) |
@@ -46,6 +46,7 @@ TODO
 | [OverflowAnimations](https://github.com/Polyfrost/OverflowAnimationsV2/releases/latest) | Extremely precise and advanced old animations mod for 1.8.9. Also adds many other features such as backporting features and new features. | [Polyfrost](https://github.com/Polyfrost) |
 | [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | Adds many particle features such as fade out and customizable critical and sharpness particles. | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [PolyBlur](https://modrinth.com/mod/polyblur) | Apply motion blur in-game in various customizable ways. | [Polyfrost](https://github.com/Polyfrost) |
+| [PolyNametag](https://modrinth.com/mod/polynametag) | An extremely customizable nametag mod. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyTime](https://modrinth.com/mod/polytime) | Allows the user to configure what client-side time is displayed. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolySprint](https://modrinth.com/mod/polysprint) | PolySprint is a simple yet feature-versatile toggle sprint/sneak mod. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyWeather](https://modrinth.com/mod/polyweather) | Allows the user to configure what client-side weather is displayed. | [Polyfrost](https://github.com/Polyfrost) |
@@ -105,10 +106,10 @@ WIP, needs to be table-ized and prettified
     - Discontinued
 - [SBA](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons/)
     - Discontinued
-- Sk1er OAM
-    - Use Overflow V2
+- Sk1er Old Animations Mod
+    - Use Overflow Animations
 - Resource Pack Organizer
-    - Use RPM
+    - Use Resource Pack Manager
 
 # Contributors
 

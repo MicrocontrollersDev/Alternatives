@@ -90,10 +90,10 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 ### Nametags
 
-* Nametag Text Shadow -  [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Third Person Nametag - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Show Nametag Icon - [Sk1er's Essential](https://essential.gg)
-* Nametag Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Nametag Text Shadow -  [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Third Person Nametag - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Show Nametag Icon - Irrelevant
+* Nametag Opacity - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Skyblock
 
@@ -196,7 +196,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Vanilla Bug Fixes - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Resource Pack Menu - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar)
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-* In Game Account Switcher - [Sk1er's Essential](https://essential.gg)
+* In Game Account Switcher - [The-Fireplace's In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 * In Game Server Switcher - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Save Controls Between Versions - [leduyquang753's Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/)
 * Polling Rate Warning - [yukiqt, Mixces, & RayDeeUx's RawInput](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) (This ACTUALLY fixes the problem instead of warning you about it)

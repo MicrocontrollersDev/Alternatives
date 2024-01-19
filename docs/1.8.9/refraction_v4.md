@@ -36,11 +36,11 @@
 ## Remove
 
 * ModCore Container
-    * ModCore Container was a mod meant to give players ModCore before it was packaged in mods that needed it, therefore making ModCore Container no longer in use. ModCore has also now been superseded by Essential.
+    * ModCore is now EOL.
 * Player API
     * Player API is no longer used in any mods.
 * AutoWho
-    * Hypixel removed AutoWho's core functionality a few years ago.
+    * Ranked SkyWars is no longer a gamemode.
 * PerspectiveMod
     * PerspectiveMod is now **bannable** on Hypixel.
 * ChatTriggers (ctjs)

@@ -7,7 +7,7 @@
 * Fire Height - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Persistent Chat Messages - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Roman Numerals - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Show Own Nametag - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Show Own Nametag - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Transparent Container Backgrounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Upload Screenshots - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 

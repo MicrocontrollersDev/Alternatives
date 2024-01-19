@@ -67,7 +67,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 * Motion Blur - [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
 * Mouse Strokes - ?
 * Name History - ?
-* Name Tags - ?
+* Name Tags - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
 * Nick Hider - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
 * Oof - [Refraction's OofMod](https://sk1er.club/mods/refractionoof)
 * Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
@@ -160,6 +160,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 
 These are mods that Badlion has but are not mentioned in their support for one reason or another.
 
+* BehindYou - [Polyfrost's BehindYouV3](https://modrinth.com/mod/behindyou)
 * Clan Wars - Irrelevant
 * Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
     * Emotes - ?

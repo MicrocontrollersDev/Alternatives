@@ -62,7 +62,7 @@ that you avoid using it if possible.
 * Server Information at Direct Connect - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
 * Confirm Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Quickplay - [Buggyfroggy's Quickplay](https://github.com/QuickplayMod/quickplay/releases/latest)
-* Public Server List - [Sk1er's Essential](https://essential.gg)
+* Public Server List - ?
 * Multiplayer Menu Ingame - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Borderless Window - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Improved Skin Customization - ? ([Sk1er's Patcher](https://sk1er.club/mods/patcher) does add 1.9+ skin transparency however)
