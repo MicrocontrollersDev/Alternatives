@@ -22,7 +22,7 @@ The mod is no longer supported by its developer, Moulberry.
 ### Appearance
 
 * Text Shadow - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
-* Tab Text Shadow - Irrelevant [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
+* Tab Text Shadow - [Polyfrost's Chatting](https://modrinth.com/mod/chatting) (maybe)
 
 ### Screenshot and Copying
 
@@ -34,7 +34,7 @@ The mod is no longer supported by its developer, Moulberry.
 ### Visual
 
 * Change Colors - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
-* Change Opacity - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [LlamaLad7's BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat/files?version=1.8.9)
+* Change Opacity - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
 
 # Contributors
 
