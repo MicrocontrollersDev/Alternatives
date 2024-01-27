@@ -214,7 +214,7 @@ These are mods that are more dependant on personal preference than importance.
 | [NoRefreshScroll](https://modrinth.com/mod/norefreshscroll) | Stops the multiplayer screen from scrolling to bottom when refreshing. | [Thatsmusic99](https://github.com/Thatsmusic99) |
 | [Particle Tweaks](https://modrinth.com/mod/particle-tweaks) | Makes particles look nicerby adding growing/fading effects and water physics. | [Lunade_](https://github.com/AViewFromTheTop) |
 | [Particle Rain](https://modrinth.com/mod/particle-rain) | Replaces the rain effect with particles. | [PigCart](https://github.com/PigCart) |
-| [SkinShuffle (No 1.20.4 Yet)](https://modrinth.com/mod/skinshuffle) | Allows you to change, store, and customize your skins in game. | [mineblock11](https://github.com/mineblock11) |
+| [SkinShuffle](https://modrinth.com/mod/skinshuffle) | Allows you to change, store, and customize your skins in game. | [mineblock11](https://github.com/mineblock11) |
 | [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations) | Adds a small animation when holding items similar to old console editions of the game. | [Trivaxy](https://github.com/Trivaxy) |
 | [Draggable Lists](https://modrinth.com/mod/draggable-lists) | Allows you to drag to order resourcepacks, datapacks, worlds, and servers. | [MrMelon54](https://github.com/MrMelon54) |
 | [Highlight (No 1.20.4 Yet)](https://modrinth.com/mod/highlight) | Changes hitboxes to allow them to not be axis alligned, making them look much smoother on some blocks. | [Team Resourceful](https://github.com/Team-Resourceful) |
