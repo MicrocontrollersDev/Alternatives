@@ -49,7 +49,7 @@
 
 ### Mods
 
-* ShinyPots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
+* ShinyPots - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * 1.7 Animations - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 * Auto MyPosition -  ?
 * AutoGG - [Sk1er's AutoGG](https://sk1er.club/mods/autogg)

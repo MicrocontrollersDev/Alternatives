@@ -114,7 +114,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
 * Scoreboard - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Motion Blur - [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
-* Shiny Pots - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
+* Shiny Pots - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 * Particle Mod - [isXander & Microcontrollers's Particles Enhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) + [Powns' Particle Customiser](https://download.powns.dev/particlecustomiser189) + [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Cooldowns - [Canalex's Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)

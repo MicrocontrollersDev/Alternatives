@@ -18,7 +18,7 @@ mod authors and it is advised against supporting them.
 * Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Glint - [Rocco's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest) & [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
+* Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * Hitbox - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)

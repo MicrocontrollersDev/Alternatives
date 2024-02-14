@@ -189,7 +189,7 @@ that you avoid using it if possible.
 * ResourcePack 24 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) or [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 * Send To Server - ?
 * Settings Profile Mod - [leduyquang753's Controls Saved](https://drive.google.com/uc?authuser=0&id=1di1XQ_JNcVOt2RyCyZncsua7Vi5ar_fo&export=download)
-* ShinyPots - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/latest)
+* ShinyPots - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
 * SoundPlayer - ?
 * Spotify - [ThatGravyBoat's Craftify](https://modrinth.com/mod/craftify)
