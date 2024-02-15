@@ -246,7 +246,7 @@ Once this is completed, you can exit back to the main Prism Launcher menu. Click
 
 ### Step 4 - Creating an Instance
 
-This guide will focus on 1.8.9, but steps for other versions should also be obvious.
+This guide will focus on Forge 1.8.9, but steps for other versions should also be obvious.
 
 Once you've clicked on the button on the top left that says "Add Instance", name it whatever you want and giving a group for it is optional, but I do not recommend giving a group name until you need to better organize your instances.
 
@@ -276,17 +276,17 @@ Some CurseForge mods may not allow downloads from third party launchers such as 
 
 #### `The java binary "" couldn't be found. Please fix the java path override in the instance's settings or disable it.`
 
-In the main screen of Prism Launcher, click `Settings` near the top, a popup should appear. From here click `Java`, under `Java Runtime` you should click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx`(xxx symbolizes the newest version of Java at the time of your installation).
+In the main screen of Prism Launcher, click `Settings` near the top, a popup should appear. From here click `Java`, under `Java Runtime` you should click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx`(xxx symbolizes the newest version of Java at the time of your installation), or whatever version of Java you want to use such as 17 for newer versions of Minecraft.
 
-If you do not see any version, [you should redo step 1](#step-1-installing-java)
+If you do not see any version, [you should redo step 1](#step-1-installing-java).
 
 <br>
 
 #### `This instance is not compatabile with Java version x.`
 
-Click your instance and go to edit. click `Settings` on the left. From here click `Java installation` so that the section is ticked and editable. Click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx`(xxx symbolizes the newest version of Java at the time of your installation).
+Click your instance and go to edit. click `Settings` on the left. From here click `Java installation` so that the section is ticked and editable. Click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx` (xxx symbolizes the newest version of Java at the time of your installation).
 
-If you do not see any version, [you should redo step 1](#step-1-installing-java)
+If you do not see any version, [you should redo step 1](#step-1-installing-java).
 
 <br>
 
@@ -294,13 +294,13 @@ If you do not see any version, [you should redo step 1](#step-1-installing-java)
 
 There are 2 common causes for this, click on the instance once then on the right click `Edit`, then in the next popup click `Mods`.
 
-If you do not see any mods in the mods tab, [you should redo step 5](#step-5-installing-our-mods-skyclient)
+If you do not see any mods in the mods tab, [you should redo step 5](#step-5-installing-our-mods-skyclient).
 
 If you see a list of mods here then you should click `Version` and on the right click `Install Forge`, the latest version should be highlighted. Click `OK` and Forge should be installed, and the mods should work.
 
 <br>
 
-If you encounter any issues not shown here you should ask for help in my [discord server](https://discord.gg/rejfv9kFJj)
+If you encounter any issues not shown here you should ask for help in my [discord server](https://discord.gg/rejfv9kFJj).
 
 # Contributors
 
