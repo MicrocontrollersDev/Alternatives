@@ -184,7 +184,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | Prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Color Me Outlines](https://modrinth.com/mod/color-me-outlines) (No 1.20.4 Yet) | Color Me Outlines is a close equivalent to 1.8's block overlay, allowing you to customize the outline when looking at blocks. | [LordDeatHunter](https://github.com/LordDeatHunter) |
-| [Pretty Hitboxes](https://modrinth.com/mod/pretty-hitboxes) (No 1.20.4 Yet) | Allows you to customize hitboxes, similar to 1.8 mods and clients. | [ErrorGamer2000](https://github.com/ErrorGamer2000) |
+| [Pretty Hitboxes](https://github.com/yojan69/PrettyHitboxes-1.20.4/releases/latest) | Allows you to customize hitboxes, similar to 1.8 mods and clients. | [ErrorGamer2000](https://github.com/nexensys) & [yojan69](https://github.com/yojan69) | This is an updated fork for 1.20.4. |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
 | [Perspektive](https://modrinth.com/mod/perspektive) **(BANNABLE ON HYPIXEL)** | A simple 360 degrees perspective mod that lets you move the camera without moving your player's direction. | [r0yzer](https://github.com/r0yzer) |
