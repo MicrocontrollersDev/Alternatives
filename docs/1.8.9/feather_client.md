@@ -70,7 +70,7 @@ mod authors and it is advised against supporting them.
 
 ### Cosmetics
 
-* Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
+* Cosmetics - [Microcontrollers's Mixmetica](https://modrinth.com/mod/mixmetica)
 
 ## General
 

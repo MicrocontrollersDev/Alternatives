@@ -63,7 +63,7 @@ This list is based off of the latest version of 5zig Reborn.
 * TeamSpeak - ?
 * Discord Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Friends and Chat System - [Sk1er's Essential](https://essential.gg/download)
-* Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
+* Cosmetics - [Microcontrollers's Mixmetica](https://modrinth.com/mod/mixmetica)
 
 # Contributors
 

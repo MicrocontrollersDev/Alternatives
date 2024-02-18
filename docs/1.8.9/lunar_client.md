@@ -152,7 +152,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 #### Cosmetic Options
 
-* Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
+* Cosmetics - [Microcontrollers's Mixmetica](https://modrinth.com/mod/mixmetica)
 * Show Tab Icon - Irrelevant
 
 #### Misc Options

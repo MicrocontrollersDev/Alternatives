@@ -162,7 +162,7 @@ These are mods that Badlion has but are not mentioned in their support for one r
 
 * BehindYou - [Polyfrost's BehindYouV3](https://modrinth.com/mod/behindyou)
 * Clan Wars - Irrelevant
-* Cosmetics - [Microcontroller's Mixmetica](https://modrinth.com/mod/mixmetica)
+* Cosmetics - [Microcontrollers's Mixmetica](https://modrinth.com/mod/mixmetica)
     * Emotes - ?
     * Sprays - ?
     * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)

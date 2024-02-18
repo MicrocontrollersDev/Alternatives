@@ -19,7 +19,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 * Animations - Irrelevant
 * Hit Armor Color - [rizecookey's CookeyMod](https://github.com/rizecookey/CookeyMod/releases/latest)
-* Reduced Hurt Animation - [Microcontroller's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+* Reduced Hurt Animation - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 
 ### Chat Mods
 
@@ -84,10 +84,10 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Nametags
 
-* Nametag Text Shadow -  [Microcontroller's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
-* Third Person Nametag - [Microcontroller's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Nametag Text Shadow -  [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Third Person Nametag - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 * Show Nametag Icon - Irrelevant
-* Nametag Opacity - [Microcontroller's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Nametag Opacity - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 
 ### Visual Mods
 
@@ -131,7 +131,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 * Shift Effects in Inventory - Vanilla
 * Show Achievements/Advancements - ?
-* Show Crosshair in Third Person - [Microcontroller's Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
+* Show Crosshair in Third Person - [Microcontrollers's Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 
 #### Cosmetic Options
 
@@ -144,7 +144,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Borderless Fullscreen - [comp500's Borderless Mining](https://modrinth.com/mod/borderless-mining)
 * Disable Weather - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
 * Modern Keybind Handling - Vanilla
-* Minimal View Bobbing - [Microcontroller's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
+* Minimal View Bobbing - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Unfocused FPS Limiter - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
 #### Texture Pack Options
