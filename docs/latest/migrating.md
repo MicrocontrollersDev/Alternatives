@@ -113,7 +113,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Lithium](https://modrinth.com/mod/lithium) | Helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Exordium](https://modrinth.com/mod/exordium) | Caps the FPS of certain HUD elements that do not need to be updated every frame. | [tr7zw](https://github.com/tr7zw) | [Fabric API](https://modrinth.com/mod/fabric-api) | | May break some HUD elements from other mods. |
 | [DashLoader](https://modrinth.com/mod/dashloader) (No 1.20.4 Yet) | Caches all of Minecraft's contents to load the game much faster and provide insanely quick reloads. | [alphaqu](https://github.com/alphaqu) |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe) (No 1.20.4 Yet) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | [Fabric API](https://modrinth.com/mod/fabric-api) |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe) (No 1.20.4 Yet) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | [Fabric API](https://modrinth.com/mod/fabric-api) | | Can be used on 1.20.4 via version overrides or directly modifying the fabric.mod.json using 7zip or similar. |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Helps reduce the amount of memory the game takes up. This may make a big difference for larger modpacks as well. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which entities can be culled. | [tr7zw](https://github.com/tr7zw) |
 | [More Culling](https://modrinth.com/mod/moreculling) | Culls more block faces not already culled by Sodium. Can provide a massive performance boost when many of these blocks are in view. | [fxmorin](https://github.com/fxmorin) | [Cloth Config](https://modrinth.com/mod/cloth-config) |
@@ -218,7 +218,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations) | Adds a small animation when holding items similar to old console editions of the game. | [Trivaxy](https://github.com/Trivaxy) |
 | [Draggable Lists](https://modrinth.com/mod/draggable-lists) | Allows you to drag to order resourcepacks, datapacks, worlds, and servers. | [MrMelon54](https://github.com/MrMelon54) |
 | [Highlight](https://modrinth.com/mod/highlight) (No 1.20.4 Yet) | Changes hitboxes to allow them to not be axis alligned, making them look much smoother on some blocks. | [Team Resourceful](https://github.com/Team-Resourceful) |
-| [Biome Moss](https://modrinth.com/mod/biome-moss) (No 1.20.4 Yet) | Improves the look of moss by adding color biome variation. | [TheDarkCoder](https://github.com/TheDarkCoder) |
+| [Biome Moss](https://modrinth.com/mod/biome-moss) | Improves the look of moss by adding color biome variation. | [TheDarkCoder](https://github.com/TheDarkCoder) | The latest release should work on 1.20.4. |
 | [Fluid Void Fading](https://modrinth.com/mod/fluidvoidfading) (No 1.20.4 Yet) | Makes liquids like water and lava slowly fade out in the void. Looks great in games like Skyblock, Skyways, or similar. | [DaFuqs](https://github.com/DaFuqs) |
 | [Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer) | Makes server pinging smoother and fixes it breaking when refreshing too many times. | [JustAlittleWolf](https://github.com/JustAlittleWolf) |
 | [Axiom](https://modrinth.com/mod/axiom) | An alternative to WorldEdit and VoxelSniper to make building in singleplayer much easier. | [Moulberry](https://github.com/Moulberry) |
@@ -227,6 +227,8 @@ These are mods that are more dependant on personal preference than importance.
 ### OptiFine Replacements
 
 As OptiFine is no longer recommended, here are some replacements for many of it's features. Please note that some mods that have been listed in the above categories may be repeated here.
+
+Additionally, pure performance mods are not listed here. Please check the [performance category](https://alternatives.microcontrollers.dev/latest/migrating/#performance) for those mods.
 
 #### Features
 Features that OptiFine provides that are not resource pack related.
