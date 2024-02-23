@@ -103,8 +103,8 @@ alternatives that still get updated.
 * Show What Fetchur Wants Today - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest)
 * Show if Item's Rarity has been Upgraded - ?
 * Skeleton's Helmet Bones Bar - ?
-* Skill Progress Bar - ?
-* Skill Progress Display - ?
+* Skill Progress Bar - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Skill Progress Display - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Slayer Armor Progress Indicator - ?
 * Slayer Boss Approach Alert - ?
 * Slayer Tracker - Revenant/Zombie - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
@@ -133,4 +133,5 @@ alternatives that still get updated.
 
 * [CalMWolfs](https://github.com/CalMWolfs)
 * [hannibal2](https://github.com/hannibal002)
+* [HiZe](https://github.com/superhize)
 * [NetheriteMiner](https://github.com/NetheriteMiner)
