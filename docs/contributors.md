@@ -22,6 +22,7 @@
 * [Geek](https://github.com/GamingGeek)
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [hannibal2](https://github.com/hannibal002)
+* [HiZe](https://github.com/superhize)
 * [JackedUp21](https://github.com/JackedUp21)
 * [jani270](https://github.com/jani270)
 * [JitterDev](https://github.com/JitterDev)
