@@ -104,7 +104,7 @@ that you avoid using it if possible.
 * Online Players - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Address - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Support - Irrelevant
-* Potion Effects - [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
+* Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Scoreboard - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Combo - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Range - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)

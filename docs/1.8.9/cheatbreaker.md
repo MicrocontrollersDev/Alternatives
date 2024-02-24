@@ -43,7 +43,7 @@ Just for fun.
 * Coordinates - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Zans Minimap **(BANNABLE ON HYPIXEL)** - [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9)
 * ToggleSprint - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
-* Potion Effects - [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
+* Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Armor Status - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Scoreboard - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Cooldowns - [Canalex's Cooldowns](https://cdn.discordapp.com/attachments/778792141932986401/1207183981720637510/Cooldowns_-_1.8.9.jar)

@@ -90,7 +90,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Player Counter - ?
-* Potion Status - [Tellinq's Potion Effects](https://cdn.discordapp.com/attachments/1009757412921708604/1134270520876073031/Potion_Effects_1.8.9-forge-1.0-beta-3.jar)
+* Potion Status - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Protection - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * PvP Info - ?
 * Quickplay - [bugfroggy's Quickplay](https://github.com/QuickplayMod/quickplay/releases/latest)
