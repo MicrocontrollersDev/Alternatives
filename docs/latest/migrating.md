@@ -132,6 +132,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | VMP attempts to alleviate the strain on servers when there are a large amount of players. | [RelativityMC](https://github.com/RelativityMC) |
 | [Early Loading Screen](https://modrinth.com/mod/early-loading-screen) | Allows the game to create a game window earlier, allowing you to stop the game much faster if needed. | [Ishland](https://github.com/ishland) | | | May cause crashes when starting the game. If your game instantly crashes, try disabling this mod. |
 | [Noisium](https://modrinth.com/mod/noisium) | Optimizes world generation when generating new chunks. | [Steveplays](https://github.com/Steveplays28) |
+| [Async Pack Scan](https://modrinth.com/mod/async-pack-scan) | Improves performance of the resource pack menu by loading resource packs asynchronously. | [JFronny](https://git.frohnmeyer-wds.de/JfMods) |
 
 ### Other Performance Mods
 
@@ -166,6 +167,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Log Cleaner](https://modrinth.com/mod/log-cleaner) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) | (Probably) works on 1.20.4 despite not being updated to it. |
 | [Better Selection](https://modrinth.com/mod/better-selection) | Makes it easier to select text by allowing mouse selection and Ctrl + ← and Ctrl + →. | [MDLC01](https://github.com/MDLC01) |
 | [AuthMe](https://modrinth.com/mod/auth-me) | Let's you easily reauthenticate when you are not logged in correctly. Can also be used to switch accounts. | [axieum](https://github.com/axieum) |
+| [Smooth Skies](https://modrinth.com/mod/smooth-skies) | Smooths out the skybox colors on far render distances. This will fix the skybox breaking with Nvidium or similar. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) |
 
 ### Other Cool Mods
 
@@ -179,6 +181,8 @@ These are mods that are more dependant on personal preference than importance.
 | [SuperBetterGrass](https://www.curseforge.com/minecraft/mc-mods/super-better-grass) | Better grass and snow, more customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) & [Dima-Dencep](https://github.com/dima-dencep) | This is a fork of LambdaBetterGrass by LambdAurora |
 | [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) |
 | [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks) | Let's you alter the way nametags are rendered, such as background transparency, text shadow, and custom F1 rules. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) |
+| [Scroll Tweaks](https://modrinth.com/mod/scrolltweaks) | Let's you customize Minecraft hotbar scrolling. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) |
+| [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay) | A simple block overlay mod, with chroma effects. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) |
 | [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a fade-in animation to chunks similar to Bedrock Edition. | [kerudion](https://github.com/kerudion) | Nvidium (chunks don't fade) |
 | [Distant Horizons](https://modrinth.com/mod/distanthorizons) (No 1.20.4 Yet) | Adds LODs to Minecraft, allowing for much further render distances without a big tank on performance. | [James Seibel](https://gitlab.com/jeseibel) | Many shaders may cause LODs to not load or be black. |
 | [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) |
