@@ -104,7 +104,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Particle Multiplier - ?
 * Cooldowns - ?
 * Time Changer - [JuggleStrugger's DaylightChangerStruggle](https://modrinth.com/mod/daylightchangerstruggle)
-* Block Outline - [LordDeatHunter's Color Me Outlines](https://modrinth.com/mod/color-me-outlines)
+* Block Outline - [Microcontrollers's Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * TNT Timer Mod - [shateq's TNTTime](https://modrinth.com/mod/tnttime)
 * Hitbox - [ErrorGamer2000's Pretty Hitboxes](https://modrinth.com/mod/pretty-hitboxes)

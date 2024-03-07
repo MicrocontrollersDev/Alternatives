@@ -14,7 +14,7 @@ mod authors and it is advised against supporting them.
 ### Visuals
 
 * Animations - Irrelevant
-* Block Overlay - [LordDeatHunter's Color Me Outlines](https://modrinth.com/mod/color-me-outlines)
+* Block Overlay - [Microcontrollers's Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
 * Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - Partially in vanilla's accessibility menu

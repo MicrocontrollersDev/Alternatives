@@ -70,7 +70,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Visual Mods
 
-* Block Overlay - [LordDeatHunter's Color Me Outlines](https://modrinth.com/mod/color-me-outlines)
+* Block Overlay - [Microcontrollers's Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
 * Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs)
 * Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with BLC capes)
     * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)

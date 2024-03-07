@@ -30,7 +30,7 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Slowness FOV - ?
 - Better Keybind Handling - Vanilla
 - Separate Sound & Texture Reloading - ?
-- Disable Hotbar Scrolling - [uku's NoWheel](https://modrinth.com/mod/nowheel)
+- Disable Hotbar Scrolling - [Microcontrollers's Scroll Tweaks](https://modrinth.com/mod/scrolltweaks)
 - Crosshair Perspective - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 - Unfocused Sounds - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - Unfocused FPS - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
@@ -97,7 +97,7 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Don't Cull Player Nametags - ?
 - Don't Cull Entity Nametags - ?
 - Don't Cull Armorstand Nametags - ?
-- Check Armorstand Rules - ?
+- Check Armorstand Rules - Irrelevant
 - Entity Back-face Culling - ? 
 - Player Back-face Culling - ?
 - Disable Armorstands - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
