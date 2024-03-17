@@ -8,7 +8,7 @@ alternatives that still get updated.
 
 * "Minion Cannot Reach" Warning - ?
 * Adjust Zoom with +/- Keys - ?
-* Allow Locking Slots - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Allow Locking Slots - [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu)
 * Axe Cooldown Indicator - ?
 * Bal Boss Warning - Useless
 * Birch Park Rainmaker Timer - ?
@@ -17,7 +17,7 @@ alternatives that still get updated.
 * Change Zealot Color - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Color Bow Green When Using Toxic Arrow Poison - ?
 * Compact Tab List - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Dark Auction Timer - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Dark Auction Timer - [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu)
 * Defence Number - ?
 * Defence Percentage - ?
 * Defence Symbol - ?
@@ -30,19 +30,19 @@ alternatives that still get updated.
 * Disable Teleport Pad Messages - Skytils Regex
 * Discord Rich Presence - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest) 
 * Dolphin Pet Tracker - ?
-* Don't Reset Cursor Between Inventories - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Don't Reset Cursor Between Inventories - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu)
 * Dragon Tracker - ?
-* Drill Fuel Bar - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Drill Fuel Bar - [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu)
 * Drill Fuel Number - ?
 * Dungeon Death Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Dungeon Map Display - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Dungeon Map Display - [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Collected Essences Display - ?
 * Dungeons Secret Display - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Teammate Name Overlay - ?
 * Effective Health Number - ?
 * Endstone Protector Display - ?
 * Fancy Warp Menu - [TirelessTraveler's Fancy Warp Menu](https://modrinth.com/mod/fancy-warp-menu)
-* Fishing Particle Overlay - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Fishing Particle Overlay - [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu)
 * Full Inventory Warning - ?
 * Full Minion Warning - ?
 * Glowing Dropped Items  - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
@@ -51,7 +51,7 @@ alternatives that still get updated.
 * Health Number - ?
 * Hide Far Entities in Lobby - ?
 * Hide Food & Armor Bar - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Hide Menu Glass Pane Tooltips - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Hide Menu Glass Pane Tooltips - [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu)
 * Hide Other Player's Presents - ?
 * Hide Pet Health Bar - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Players Near Important NPCs - ?
@@ -79,7 +79,7 @@ alternatives that still get updated.
 * Reforge Filter - ?
 * Replace Roman Numerals on Items - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Rock Pet Tracker - ?
-* Show Backpack Preview - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Show Backpack Preview - [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu)
 * Show Bait List While Holding a Rod - ?
 * Show Base Stat Boost for Dungeon Items - ?
 * Show Broken Dragon Fragments - ?
@@ -88,7 +88,7 @@ alternatives that still get updated.
 * Show Dungeon Healing Circle Wall - ?
 * Show Dungeon Milestone - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Entity Outlines - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Show Experimentation Table Tooltips - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Show Experimentation Table Tooltips - [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu)
 * Show Floor Obtained Dungeon Items - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 * Show Item Anvil Uses - Useless
 * Show Item Cooldowns - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
@@ -111,7 +111,7 @@ alternatives that still get updated.
 * Slayer Tracker - Sven/Wolf - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Slayer Tracker - Tarantula/Spider - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Slayer Tracker - Voidgloom/Enderman - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Sound Indicator for Fishing - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Sound Indicator for Fishing - [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu)
 * Special Zealot Alert - ?
 * Speed Percentage - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni) (in Garden only)
 * Spirit Sceptre/Wither Blade Damage Display - ?
