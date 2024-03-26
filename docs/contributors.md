@@ -27,6 +27,7 @@
 * [jani270](https://github.com/jani270)
 * [JitterDev](https://github.com/JitterDev)
 * [Karmette](https://github.com/karmette)
+* [Kingili](https://github.com/Kingili22)
 * [Koxx12](https://github.com/koxx12-dev)
 * [Lily](https://github.com/My-Name-Is-Jeff)
 * [Lisena](https://github.com/lisenaaaa)

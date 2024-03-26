@@ -308,6 +308,7 @@ Some notes:
 * [Flopgop](https://github.com/Flopgop)
 * [glai](https://github.com/glaicodes)
 * [karmette](https://github.com/karmette)
+* [Kingili](https://github.com/Kingili22)
 * [moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
 * [NoPro2024](https://github.com/NoPro2024)
