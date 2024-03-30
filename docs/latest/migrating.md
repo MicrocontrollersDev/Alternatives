@@ -116,7 +116,6 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) (No 1.20.4 Yet) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | [Fabric API](https://modrinth.com/mod/fabric-api) | | Can be used on 1.20.4 via version overrides or directly modifying the fabric.mod.json using 7zip or similar. |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Helps reduce the amount of memory the game takes up. This may make a big difference for larger modpacks as well. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which entities can be culled. | [tr7zw](https://github.com/tr7zw) |
-| [More Culling](https://modrinth.com/mod/moreculling) | Culls more block faces not already culled by Sodium. Can provide a massive performance boost when many of these blocks are in view. | [fxmorin](https://github.com/fxmorin) | [Cloth Config](https://modrinth.com/mod/cloth-config) |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Improves the immediate mode rendering performance. | [RaphiMC](https://github.com/RaphiMC) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Reduces your FPS when tabbed out of the game, therefore reducing your system load. | [juliand665](https://github.com/juliand665) | [Fabric API](https://modrinth.com/mod/fabric-api) |
 | [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) | Improves loading times when changing your language in game by only reloading the required resources. | [chachy](https://github.com/ChachyDev) |
@@ -282,6 +281,7 @@ These are mods that are not recommended for use. They have either been replaced 
 
 | Mod | Reasoning | Author |
 | --- | --- | --- |
+| More Culling | This mod should help a bit, but its performance improvements haven't been proven to exist, and it has caused several issues and crashes so far for many users. | [fxmorin](https://github.com/fxmorin) |
 | MemoryLeakFix | While this mod does fix some memory leaks, it's rendered almost entirely useless when using FerriteCore and may causes issues and crashes with other mods, and the leaks it fixes are not major enough to be worth it. | [fxmorin](https://github.com/fxmorin) |
 | Starlight | Starlight rewrotes the light engine to make loading chunks much quicker. Mojang has now included this fix in 1.20 and Starlight is no longer needed. Despite the fact that updates are still being made, the developer says there is no point in using them. | [Spottedleaf](https://github.com/Spottedleaf) |
 | Not Enough Crashes | NEC regularly causes the game to be in an invalid state and blames the wrong mods for crashes, making it harder for mod devs to debug. It is also marked incompatible with Iris and possibly other mods. | [natanfudge](https://github.com/natanfudge) |
