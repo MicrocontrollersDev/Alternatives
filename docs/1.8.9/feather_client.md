@@ -1,7 +1,7 @@
 # Feather "Client" Alternatives
 
-WIP - Feather "Client" is a Forge/Fabric
-mod marketing itself as a client, claiming
+Feather "Client" is a Forge/Fabric mod
+marketing itself as a client, claiming
 immense FPS boosts and wide mod support. However,
 Feather, on numerous occasions, has been caught illegally
 stealing code and breaking other mod's licenses. Feather was
