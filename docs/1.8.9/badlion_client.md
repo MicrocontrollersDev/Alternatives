@@ -151,7 +151,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 ### Complex
 
 * Mumble Link - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154/files?version=1.8.9)
-* ResourcePack24 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) or [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
+* ResourcePack24 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) and [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 * Schematica Mod - [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147/files?version=1.8.9)
 * TeamSpeak Mod - ?
 * Timers - [LlamaLad's BLCTimers](https://github.com/LlamaLad7/blctimers/releases/latest)
