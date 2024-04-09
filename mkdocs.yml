@@ -82,6 +82,8 @@ nav:
           - "Migrating to Latest": "latest/migrating.md"
   - "Launcher":
       - "Home": "launcher/home.md" 
+      - "Modrinth App":
+          - "Windows": "launcher/modrinth_win.md"
       - "Prism Launcher":
           - "Windows": "launcher/prism_win.md"
           - "MacOS": "launcher/prism_mac.md"

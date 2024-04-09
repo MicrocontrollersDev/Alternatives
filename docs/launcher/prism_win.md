@@ -2,11 +2,11 @@
 
 Prism Launcher is an incredibly powerful launcher that makes managing your mods and modded instances much easier. It can do everything the official launcher can do, but allows for much more customization and ease of access. The official launcher has had several issues that have taken weeks to fix or are currently still not fixed, despite their severity. For modded and vanilla users alike, it is recommended to switch to Prism Launcher for an issue-less experience.
 
-This guide will explain the install process for Prism, as well as how we can use it for Skyclient. Please take the time after setting up to better learn your way around the launcher, as you may end up using it as your go-to launcher from now on!
+This guide will explain the install process for Prism, as well as how we can use it for SkyClient. Please take the time after setting up to better learn your way around the launcher, as you may end up using it as your go-to launcher from now on!
 
 ## How to Install (Windows)
 
-- Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from Skyclient, but steps will be largely the same, except for the migrating data section.
+- Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from SkyClient, but steps will be largely the same, except for the migrating data section.
 
 ### Step 1 - Installing Java
 
@@ -25,7 +25,7 @@ Once we have chosen our download preferences, we will click the `.msi` download 
 
 ### Step 2 - Installing Prism
 
-[Download Prism Launcher](https://prismlauncher.org/download). You will most likely want to download the `Installer (.exe)` version. Once it is finished downloading, it may give a warning screen saying "Windows protected your PC". Simply press the "More info" button, then "Run anyway"
+[Download Prism Launcher](https://prismlauncher.org/download). You will most likely want to download the `Installer (.exe)` version. Once it is finished downloading, it may give a warning screen saying "Windows protected your PC". Simply press the "More info" button, then "Run anyway".
 
 Continue the installation process until you get to the "Java" screen. Here, you will decide which Java you want to set as the default for new instances. Click on the version that says "1.8" at the beginning of the version and has "Eclipse Foundation" in the path name. This is your Java 8 and it will be the default version of Java for every new instance you create on Prism. Of course, you can always change this later and can still manually specify a different version of Java whenever you want.
 
@@ -49,9 +49,9 @@ Once you've clicked on the button on the top left that says "Add Instance", name
 
 Under the `Version` selector, scroll down till you find 1.8.9 and select it. Then in the `Mod Loader` tab directly underneath, choose Forge (NOTE: this is not the tab on the left that says CurseForge). It will automatically choose the latest version of Forge for 1.8.9 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
 
-### Step 5 - Installing our mods / Skyclient
+### Step 5 - Installing our mods / SkyClient
 
-Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit`. Now, we'll go to the `Mods` tab. On the bottom right, there will be a button called `View Folder`. Click on this and you should be redirected to a File Explorer tab. Now, open a new File Explorer by either pressing `Win + E` on your keyboard or right clicking the file explorer icon and pressing "File Explorer". Navigate to your old .minecraft folder, which is `C:\Users\USER\AppData\Roaming\.minecraft` (change USER to your computer's name, or if you don't know it, press the `Windows` key and `r` at the same time to open up Run, and type `%appdata%` to open your Roaming folder, then open the `.minecraft` folder). Then open the `skyclient` file if you are using Skyclient. Simply move everything in this folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
+Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Folder`. Click on this and you should be redirected to a File Explorer window, where you should open the folder titled `.minecraft`. Now, open a new File Explorer by either pressing `Win + E` on your keyboard or right clicking the file explorer icon and pressing "File Explorer". Navigate to your old .minecraft folder, which is `C:\Users\USER\AppData\Roaming\.minecraft` (change USER to your computer's name, or if you don't know it, press the `Windows` key and `r` at the same time to open up Run, and type `%appdata%` to open your Roaming folder, then open the `.minecraft` folder). Then open the `skyclient` file if you are using SkyClient. Simply move everything in this folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
 
 [A quick video guide explaining this process can be found here.](https://youtu.be/DEGaD-_HFCE)
 
@@ -67,7 +67,7 @@ You can find a list of Prism themes and how to install them on [their website](h
 
 Automatic updating has been added since Prism Launcher 8.0. Simply press the `Update` button in the top toolbar to check for updates.
 
-If you are on a version less than 8.0, you will need to download the installer and run it again (you will not lose your instances/your Skyclient).
+If you are on a version less than 8.0, you will need to download the installer and run it again (you will not lose your instances/your SkyClient).
 
 In some cases (specifically when you are on version 5.x or lower), you may need to uninstall your current Prism Launcher entirely before reinstalling. Your instances will still be safe and will not be deleted.
 
