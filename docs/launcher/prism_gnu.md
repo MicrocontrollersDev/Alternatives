@@ -301,7 +301,9 @@ If you see a list of mods here then you should click `Version` and on the right 
 <br>
 
 If you encounter any issues not shown here you should ask for help in my [discord server](https://discord.gg/rejfv9kFJj).
+If you encounter any issues **unrelated to the guide at all**, or if you want to be in their community or follow for updates, you can ask in the [Prism Community discord server](https://discord.gg/prism-community-1031648380885147709)
 
 # Contributors
 
 * [Shiggy](https://github.com/Shiggy-dev)
+* [KTrain5169](https://github.com/KTrain5169)
