@@ -112,7 +112,7 @@ alternatives that still get updated.
 * Slayer Tracker - Tarantula/Spider - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Slayer Tracker - Voidgloom/Enderman - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Sound Indicator for Fishing - [Moulberry's NotEnoughUpdates](https://skyclient.co/mod/neu)
-* Special Zealot Alert - ?
+* Special Zealot Alert - Irrelevant (This is now a Hypixel function)
 * Speed Percentage - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni) (in Garden only)
 * Spirit Sceptre/Wither Blade Damage Display - ?
 * Spooky Event Candy/Points Counter - ?
@@ -135,3 +135,4 @@ alternatives that still get updated.
 * [hannibal2](https://github.com/hannibal002)
 * [HiZe](https://github.com/superhize)
 * [NetheriteMiner](https://github.com/NetheriteMiner)
+* [KTrain5169](https://github.com/KTrain5169)
