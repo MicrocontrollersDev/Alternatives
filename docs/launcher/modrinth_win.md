@@ -16,7 +16,7 @@ This guide will explain the install process for Modrinth, as well as how we can 
 
 After launching, it will then ask you to log into your Microsoft account so that it can log you into your Minecraft account. Follow the on screen instructions. It may then ask you to sign into Modrinth. You are not tied down to one method, you can link multiple accounts later. Modrinth will now guide you through how to use the app, please pay attention!
 
-### Step 3 - Creating an Profile/Instance
+### Step 3 - Creating a Profile/Instance
 
 This guide will focus on Forge 1.8.9, but steps for other versions should also be obvious.
 
@@ -24,24 +24,26 @@ Click on the green `+` button on the bottom left of the app. Make sure the `Cust
 
 ### Step 4 - Installing our mods / SkyClient
 
-Now that we've installed Forge 1.8.9, we need to move all our mods to the new Modrinth App folder. To do that, we'll right click our new instance and press `Open folder`. A File Explorer window should open, this is the equivalent of your ".minecraft" for this instance. Now, open a new File Explorer by either pressing `Win + E` on your keyboard or right clicking the file explorer icon and pressing "File Explorer". Navigate to your old .minecraft folder, which is `C:\Users\USER\AppData\Roaming\.minecraft` (change USER to your computer's name, or if you don't know it, press the `Windows` key and `r` at the same time to open up Run, and type `%appdata%` to open your Roaming folder, then open the `.minecraft` folder). Then open the `skyclient` file if you are using SkyClient. Simply move everything in this folder into the Modrinth App ".minecraft" folder that you opened earlier. Once this is done, you should be able to see all your mods in the Content tab, and can launch the profile. The Content tab can be opened by clicking on the instance (not the green start arrow), and clicking Content on the sidebar.
+Now that we've installed Forge 1.8.9, we need to move all our mods to the new Modrinth App folder. To do that, we'll right click our new instance and press `Open folder`. A File Explorer window should open, this is the equivalent of your ".minecraft" for this instance. Now, open a new File Explorer by either pressing `Win + E` on your keyboard or right clicking the file explorer icon and pressing "File Explorer". Navigate to your old .minecraft folder, which you can get to by copy and pasting `%appdata%\.minecraft\`. Then open the `skyclient` folder (if you are using SkyClient). Simply move everything in this folder into the Modrinth App ".minecraft" folder that you opened earlier. Once this is done, you should be able to see all your mods in the Content tab, and can launch the profile. The Content tab can be opened by clicking on the instance (not the green start arrow), and clicking Content on the sidebar.
 
-When downloading mods from now on, you can simply drag and drop them into the Mods tab in Prism Launcher. Additionally, if the mod is on Modrinth, you can download them within the launcher using the `Add content` button at the top right of the Content tab.
+When downloading mods from now on, you can simply drag and drop them into the Mods tab in Modrinth. Additionally, if the mod is on Modrinth, you can download them within the launcher using the `Add content` button at the top right of the Content tab.
 
 ### Step 5 - Explore
 
-Modrinth Launcher has a lot of things to offer, such as themes if you don't like the look of it, as well as a lot of options for your instances, including the ability to see all your mods, resource packs, and worlds in the launcher before launching. You can use these menus to install mods and resource packs, and even update mods if they are hosted on Modrinth or CurseForge! Please take the time to actually learn how the launcher works and experiment with it! Prism is an incredibly powerful launcher and it's important to know exactly what you can do with it!
+Modrinth Launcher has a lot of things to offer, such as themes if you don't like the look of it, as well as a lot of options for your instances, including the ability to see all your mods, resource packs, and worlds in the launcher before launching. You can use these menus to install mods and resource packs, and even update mods if they are hosted on Modrinth or CurseForge! Please take the time to actually learn how the launcher works and experiment with it! Modrinth App is an incredibly powerful launcher and it's important to know exactly what you can do with it!
 
 ## Common Issues
 
 #### `My mods arent showing up in-game!`
 
-There are 2 common causes for this, open the profile view (click on it or right click then `View instance`), then check the Content tab. If you do not see any mods here, [you should redo step 4](#step-5-installing-our-mods-skyclient).
+There are 2 common causes for this, open the profile view (click on it or right click then `View instance`), then check the Content tab. If you do not see any mods here, [you should redo step 4](#step-4-installing-our-mods-skyclient).
 
 If you see a list of mods here then you should click the `Options` tab, then `Edit versions`, then make sure to choose Forge. Click `Save changes` and Forge should be installed, and the mods should work.
 
 <br>
 
 If you encounter any issues not shown here you should ask for help in my [discord server](https://discord.gg/rejfv9kFJj).
+If you encounter any issues **unrelated to this guide**, or you simply want to keep up to date with Modrinth, you can join their [discord server](https://discord.gg/modrinth-734077874708938864).
 
 # Contributors
+[KTrain5169](https://github.com/KTrain5169)
