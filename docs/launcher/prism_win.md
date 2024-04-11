@@ -93,16 +93,6 @@ If you do not see any version, [you should redo step 1](#step-1-installing-java)
 
 <br>
 
-#### `A problem occured whilst running the Java Virtual Machine. Program will exit.`
-
-Make sure you have selected the x64 version of Java. You can check by clicking on your instance and go to `Edit`, then click `Settings` on the left side. Then, click the `Java installation` checkbox so that the section can be edited. Click `Auto-detect`, and a new popup will appear, with all the Java versions installed. Here, you should be able to see the first part of the path where Java is installed. Ensure that the Java version you have selected starts with `C:\Program Files` and not `C:\Program Files (x86)`.
-
-If you do not see a valid option, [you should redo step 1](#step-1-installing-java)
-
-#### `SkyClient Updater still shows that it failed to update my mods!`
-
-Make sure you have selected a version of Java newer than `1.8.0_51`. Follow the steps in the [This instance is not compatible with Java version x.](#this-instance-is-not-compatible-with-java-version-x.) to fix the issue, but make sure the version is higher than `1.8.0_51`.
-
 #### `My mods arent showing up in-game!`
 
 There are 2 common causes for this, click on the instance once then on the right click `Edit`, then in the next popup click `Mods`.
@@ -112,6 +102,22 @@ If you do not see any mods in the mods tab, [you should redo step 5](#step-5-ins
 If you see a list of mods here then you should click `Version` and on the right click `Install Forge`, the latest version should be highlighted. Click `OK` and Forge should be installed, and the mods should work.
 
 <br>
+
+#### `A problem occured whilst running the Java Virtual Machine. Program will exit.`
+
+Make sure you have selected the x64 version of Java. You can check by clicking on your instance and go to `Edit`, then click `Settings` on the left side. Then, click the `Java installation` checkbox so that the section can be edited. Click `Auto-detect`, and a new popup will appear, with all the Java versions installed. Here, you should be able to see the first part of the path where Java is installed. Ensure that the Java version you have selected starts with `C:\Program Files` and not `C:\Program Files (x86)`.
+
+If you do not see a valid option, [you should redo step 1](#step-1-installing-java)
+
+<br>
+
+#### `SkyClient Updater still shows that it failed to update my mods!`
+
+Make sure you have selected a version of Java newer than `1.8.0_51`. Follow the steps in the [This instance is not compatible with Java version x.](#this-instance-is-not-compatible-with-java-version-x.) to fix the issue, but make sure the version is higher than `1.8.0_51`.
+
+<br>
+
+## Need More Help?
 
 If you encounter any issues not shown here you should ask for help in my [discord server](https://discord.gg/rejfv9kFJj).
 If you encounter any issues **unrelated to the guide at all**, or if you want to be in their community or follow for updates, you can ask in the [Prism Community discord server](https://discord.gg/prism-community-1031648380885147709)

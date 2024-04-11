@@ -118,9 +118,15 @@ Make sure you have selected the x64 version of Java. You can check by clicking o
 
 If you do not see a valid option, [you should redo step 1](#step-1-installing-java)
 
+<br>
+
 #### `SkyClient Updater still shows that it failed to update my mods!`
 
 Make sure you have selected a version of Java newer than `1.8.0_51`. Follow the steps in the [This instance is not compatible with Java version x.](#this-instance-is-not-compatible-with-java-version-x.) to fix the issue, but make sure the version is higher than `1.8.0_51`.
+
+<br>
+
+## Need More Help?
 
 If you encounter any issues not shown here you should ask for help in my [discord server](https://discord.gg/rejfv9kFJj).
 If you encounter any issues **unrelated to the guide at all**, or if you want to be in their community or follow for updates, you can ask in the [Prism Community discord server](https://discord.gg/prism-community-1031648380885147709)
