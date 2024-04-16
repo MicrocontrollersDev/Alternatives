@@ -85,7 +85,7 @@ If you do not see any version, [you should redo step 1](#step-1-installing-java)
 
 <br>
 
-#### `This instance is not compatabile with Java version x.`
+#### `This instance is not compatible with Java version x.`
 
 Click your instance and go to `Edit`. click `Settings` on the left. From here click `Java installation` so that the section is ticked and editable. Click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx` (xxx symbolizes the newest version of Java at the time of your installation), or whatever version of Java you want to use such as 17 for newer versions of Minecraft.
 
@@ -113,7 +113,7 @@ If you do not see a valid option, [you should redo step 1](#step-1-installing-ja
 
 #### `SkyClient Updater still shows that it failed to update my mods!`
 
-Make sure you have selected a version of Java newer than `1.8.0_51`. Follow the steps in the [This instance is not compatible with Java version x.](#this-instance-is-not-compatible-with-java-version-x.) to fix the issue, but make sure the version is higher than `1.8.0_51`.
+Make sure you have selected a version of Java newer than `1.8.0_51`. Follow the steps in the [This instance is not compatible with Java version x](#this-instance-is-not-compatible-with-java-version-x). to fix the issue, but make sure the version is higher than `1.8.0_51`.
 
 <br>
 
