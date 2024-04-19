@@ -2,7 +2,7 @@
 
 - Click the links below or use the sidebar navigation to find the list you want.
 
-## Modrinth App
+## Modrinth App (Recommended)
 
 - [Windows](https://alternatives.microcontrollers.dev/launcher/modrinth_win)
 - MacOS coming soon
