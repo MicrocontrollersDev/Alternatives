@@ -72,7 +72,7 @@ alternatives that still get updated.
 * Outbid Alert Sound - ?
 * Outline Dungeon Teammates - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Overflow Mana Number - ?
-* Parse Enchant Tooltips - ?
+* Parse Enchant Tooltips - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Potion and Powerup Timers - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Power Orb Display - ?
 * Prevent Walking After Death - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
