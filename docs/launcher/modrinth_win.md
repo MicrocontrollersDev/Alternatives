@@ -46,4 +46,4 @@ If you encounter any issues not shown here you should ask for help in my [discor
 If you encounter any issues **unrelated to this guide**, or you simply want to keep up to date with Modrinth, you can join their [discord server](https://discord.gg/modrinth-734077874708938864).
 
 # Contributors
-* [KTrain5169](https://github.com/KTrain5169)
+* [KTrain5169](https://github.com/KTrain5169) --signed KTrain
