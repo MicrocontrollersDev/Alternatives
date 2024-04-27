@@ -160,7 +160,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Full Bright - [Sjouwer's Gamma Utils](https://modrinth.com/mod/gamma-utils)
 * Show Enchantment Glint - ?
 * Lazy Chunk Loading - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
-* Disable block breaking particles - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
+* Disable Block Breaking Particles - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
 
 #### Entity Options
 
@@ -169,8 +169,8 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Tile Entities - ?
 * Show Ground Arrows - ?
 * Show Stuck Arrows - [PanJohnny's No Arrows In You!](https://modrinth.com/mod/naiy)
-* Hide grass/foliage - ?
-* Hide placed skulls - ?
+* Hide Grass/Foliage - ?
+* Hide Placed Skulls - ?
 
 ## Other
 
