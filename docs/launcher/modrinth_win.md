@@ -30,7 +30,7 @@ When downloading mods from now on, you can simply drag and drop them into the Mo
 
 ### Step 5 - Explore
 
-Modrinth Launcher has a lot of things to offer, such as themes if you don't like the look of it, as well as a lot of options for your instances, including the ability to see all your mods, resource packs, and worlds in the launcher before launching. You can use these menus to install mods and resource packs, and even update mods if they are hosted on Modrinth or CurseForge! Please take the time to actually learn how the launcher works and experiment with it! Modrinth App is an incredibly powerful launcher and it's important to know exactly what you can do with it!
+Modrinth Launcher has a lot of things to offer, such as lots of options for your instances, and the ability to see all your mods & resource packs in the launcher before launching. You can use these menus to install mods and resource packs, and even update them if they are hosted on Modrinth! Please take the time to actually learn how the launcher works and experiment with it! Modrinth App is an incredibly powerful launcher and it's important to know exactly what you can do with it!
 
 ## Common Issues
 
