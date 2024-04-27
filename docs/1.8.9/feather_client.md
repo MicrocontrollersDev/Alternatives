@@ -132,7 +132,7 @@ mod authors and it is advised against supporting them.
 
 * [Patcher](https://sk1er.club/mods/patcher)
 * SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
-* [NotEnoughUpdates](https://skyclient.co/mod/neu)
+* [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * [ChatTriggers](https://github.com/ChatTriggers/ChatTriggers/releases/latest)
 * [Apec](https://github.com/BananaFructa/Apec/releases/latest)
 * [Danker's Skyblock Mod](https://github.com/bowser0000/SkyblockMod/releases/latest)
