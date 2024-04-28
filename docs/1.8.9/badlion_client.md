@@ -76,7 +76,7 @@ This currently uses the list from [their support site](https://support.badlion.n
     * Transparent UI - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     * Hide Pumpkin Overlay - ?
     * Visible Tripwires - ?
-    * Fishing Line Color - [Moulberry's Not Enough Updates](https://skyclient.co/mod/neu)
+    * Fishing Line Color - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
     * Fishing Line Width - ?
     * Trip Wire Color - ? (and yes for some reason BLC has not grouped this with Visible Tripwires and they separated the word)
     * Water Opacity - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) (clear water to an extent)
@@ -102,10 +102,10 @@ This currently uses the list from [their support site](https://support.badlion.n
 * Shiny Pots - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * StopWatch - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Survival
-    * Lock Items in Inventory - [Moulberry's Not Enough Updates](https://skyclient.co/mod/neu)
+    * Lock Items in Inventory - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
     * Anti Breaking Tools - ?
     * Show Ender Chest Inventory - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-    * Inventory Search Bar - [Moulberry's Not Enough Updates](https://skyclient.co/mod/neu)
+    * Inventory Search Bar - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
 * Tab
     * Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     * Rows - ?

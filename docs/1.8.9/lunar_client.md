@@ -98,7 +98,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 ### Skyblock
 
 * SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
-* NotEnoughUpdates - [Moulberry's Not Enough Updates](https://skyclient.co/mod/neu)
+* NotEnoughUpdates - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
 * Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Cowlection - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
 
@@ -179,7 +179,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Full Bright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Show Enchantment Glint - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Lazy Chunk Loading - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Disable block breaking particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Disable Block Breaking Particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 #### Entity Options
 
@@ -188,8 +188,8 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Tile Entities - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Show Ground Arrows - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Show Stuck Arrows - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Hide grass/foliage - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Hide placed skulls - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Hide Grass/Foliage - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Hide Placed Skulls - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ## Other
 

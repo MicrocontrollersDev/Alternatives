@@ -12,14 +12,14 @@ This guide will explain the install process for Prism, as well as how we can use
 
 First, we need to download and setup Java to be able to use Prism Launcher. Unlike the default Minecraft launcher, Prism does not come bundled with a default Java, and so we must install it ourselves.
 
-Minecraft 1.16 and below all use Java 8, while 1.17 and above use Java 17+. I recommend installing both to make it simpler to use different versions of Minecraft whenever you want.
+Minecraft 1.16 and below all use Java 8, 1.17-1.20.4 use Java 17, and 1.20.5+ use Java 21. I recommend installing all to make it simpler to use different versions of Minecraft whenever you want.
 
 In order to download Java, we will first head to the [Adoptium download page](https://adoptium.net/temurin/releases). Adoptium is an open source Java that does not require a paid account to install, and is made by the Eclipse Foundation, a very reputable source. To install, we will use the dropdown boxes to make it easier to find the versions of Java we need
 
 - Operating System: Windows
 - Architecture: x64
 - Package Type: JDK or JRE (it does not matter)
-- Version: 8 and 17 (download one of them, then download the other after)
+- Version: 8, 17, and 21 (download one of them, then download the others after)
 
 Once we have chosen our download preferences, we will click the `.msi` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
 
