@@ -39,7 +39,7 @@ mod authors and it is advised against supporting them.
 * FPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Counter - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Info - [Sk1er's Patcher](https://www.sk1er.club/mods/patcher)
-* Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
+* Pack Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Reach Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)

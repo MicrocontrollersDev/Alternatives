@@ -76,7 +76,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Key Strokes - [Polyfrost's Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes)
 * Memory Usage - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Momentum Mod - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
+* Pack Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Playtime - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
