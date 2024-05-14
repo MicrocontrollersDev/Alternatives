@@ -293,12 +293,12 @@ These are mods that are not recommended for use. They have either been replaced 
 Join my [Discord server](https://discord.gg/rejfv9kFJj) for news regarding the development of this repository!
 
 If you would like to contribute, please make a PR.  
-Some notes:
-- Leave your name and GitHub link in the contributors credits section in alphabetical order, even for a tiny change
-- Please try to use Modrinth or GitHub over CurseForge when possible (Modrinth is the preferred platform)
-- Please use a GitHub link instead of a Modrinth/CurseForge link for Author credit when possible
-    - If the GitHub profile is an organization, use that instead of one of the owners / person credited on Modrinth/CurseForge
-- Make sure that the option to allow me to make changes to your PR is enabled
+Notes:
+* Leave your name and GitHub link in the contributors credits section in alphabetical order, even for a tiny change
+* Please try to use Modrinth/GitHub links over CurseForge links whenever possible (Modrinth is preferred over GitHub).
+* When crediting authors, please use a GitHub link instead of a Modrinth/CurseForge author page if possible.
+    * Credit the GitHub organization if the GitHub profile that owns the repository is an organization profile, don't use the person credited on Modrinth/CurseForge 
+* Make sure "Allow edits by maintainers" is enabled in your PRs.
 
 ## Contributors
 
@@ -308,6 +308,7 @@ Some notes:
 * [glai](https://github.com/glaicodes)
 * [karmette](https://github.com/karmette)
 * [Kingili](https://github.com/Kingili22)
+* [KTrain5169](https://github.com/KTrain5169)
 * [moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
 * [NoPro2024](https://github.com/NoPro2024)
