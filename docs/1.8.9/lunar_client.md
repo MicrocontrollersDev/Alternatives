@@ -76,7 +76,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Key Strokes - [Polyfrost's Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes)
 * Memory Usage - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Momentum Mod - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display)
+* Pack Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Playtime - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
@@ -122,7 +122,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Block Outline - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * TNT Timer Mod - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
-* Hitbox - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar) (need a GitHub account to download artifact)
+* Hitbox - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Reduced Hurt Animation - [Scherso's BetterHurtCam](https://github.com/Scherso/BetterHurtCam/releases/latest)
 
 ### Other Mods

