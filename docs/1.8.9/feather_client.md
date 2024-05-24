@@ -15,7 +15,7 @@ mod authors and it is advised against supporting them.
 
 * Animations - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 * Block Overlay - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
-* Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+* Clear Water - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
@@ -26,7 +26,7 @@ mod authors and it is advised against supporting them.
 * Time Changer - [Polyfrost's PolyTime](https://github.com/Polyfrost/PolyTime/releases/latest)
 * Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695267197857922/Waypoints_1.0.jar)
 * Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
-* Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Zoom - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
 
@@ -112,7 +112,7 @@ mod authors and it is advised against supporting them.
 
 ### Rendering Settings
 
-* Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+* Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Use Direct Memory Access - ?
 * Use Fast Font Rendering - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Use Static Particle Color - [Sk1er's Patcher](https://sk1er.club/mods/patcher)

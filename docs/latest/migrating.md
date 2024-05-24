@@ -181,6 +181,9 @@ These are mods that are more dependant on personal preference than importance.
 | [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
 | [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks) | Let's you alter the way nametags are rendered, such as background transparency, text shadow, and custom F1 rules. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
 | [Scroll Tweaks](https://modrinth.com/mod/scrolltweaks) | Let's you customize Minecraft hotbar scrolling. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
+| [Title Tweaks](https://modrinth.com/mod/titletweaks) | Improvements and customization for Minecraft's Titles. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
+| [Tab Tweaks](https://modrinth.com/mod/tabtweaks) | Improvements and customization for Minecraft's Tab / Player List HUD. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
+| [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks) | A small QOL mod that lets you alter the vanilla crosshair in small ways. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
 | [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay) | A simple block overlay mod, with chroma effects. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
 | [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a fade-in animation to chunks similar to Bedrock Edition. | [kerudion](https://github.com/kerudion) | | Nvidium (chunks don't fade) |
 | [Distant Horizons](https://modrinth.com/mod/distanthorizons) (No 1.20.4 Yet) | Adds LODs to Minecraft, allowing for much further render distances without a big tank on performance. | [James Seibel](https://gitlab.com/jeseibel) | | | Many shaders may cause LODs to not load or be black. |
@@ -204,7 +207,6 @@ These are mods that are more dependant on personal preference than importance.
 | [Extended Clouds](https://modrinth.com/mod/extended-clouds) (No 1.20.4 Yet) | Changes cloud render distance to be same as your set render distance. | [alphaqu](https://github.com/alphaqu) |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [vlad2305m](https://github.com/vlad2305m), [thedocruby](https://github.com/thedocruby) & [henkelmax](https://github.com/henkelmax)|
 | [Screencapper](https://modrinth.com/mod/screencapper) (No 1.20.4 Yet) | Improves the way you share and view screenshots. | [Deftu](https://github.com/Deftu) |
-| [Better TaskBar](https://modrinth.com/mod/better-taskbar) (**Windows Only**) | Small mod that applies the windows progress animation to the Minecraft icon in the taskbar whenever loading resources or a world. | [MORIMORI0317](https://github.com/MORIMORI0317) |
 | [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui) | Improves the command block user interface by allowing for visual newlining . | [Tectato](https://github.com/Tectato) |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats) | A visual overhaul to the statistics screen, giving useful information in a much more visually appealing format. | [TheCSDev](https://github.com/TheCSDev) |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | Shows a player's head next to their chat message in game. | [dzwdz](https://github.com/dzwdz) |
@@ -225,6 +227,15 @@ These are mods that are more dependant on personal preference than importance.
 | [Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer) | Makes server pinging smoother and fixes it breaking when refreshing too many times. | [JustAlittleWolf](https://github.com/JustAlittleWolf) |
 | [Axiom](https://modrinth.com/mod/axiom) | An alternative to WorldEdit and VoxelSniper to make building in singleplayer much easier. | [Moulberry](https://github.com/Moulberry) |
 | [Sounds](https://modrinth.com/mod/sound) | Adds many more sounds to Minecraft for things that did not previously have sounds. | [mineblock11](https://github.com/mineblock11) |
+
+### Skyblock Mods
+
+These are mods for Hypixel Skyblock.
+
+| Mod | Description | Author | Dependencies | Incompatabilities | Notes |
+| --- | --- | --- | --- | --- | --- |
+| [Skyblocker](https://modrinth.com/mod/skyblocker-liap) | A general purpose Hypixel Skyblock utility mod. | [SkyblockerMod Team](https://github.com/SkyblockerMod) | [Fabric API](https://modrinth.com/mod/fabric-api) |
+| [Firmament](https://modrinth.com/mod/firmament) | An NEU inspired Skyblock mod. | [nea890](https://github.com/nea89o) | [Fabric API](https://modrinth.com/mod/fabric-api), [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin), & [RoughlyEnoughItems](https://modrinth.com/mod/rei) |
 
 ### OptiFine Replacements
 

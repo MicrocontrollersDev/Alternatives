@@ -183,7 +183,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 
 #### Entity Options
 
-* Shadow - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+* Shadow - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Entities - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Tile Entities - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Show Ground Arrows - [Sk1er's Patcher](https://sk1er.club/mods/patcher)

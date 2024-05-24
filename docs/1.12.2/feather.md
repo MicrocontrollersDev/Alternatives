@@ -12,7 +12,7 @@ mod authors and it is advised against supporting them.
 ### Visuals
 * Animations - Irrelevant
 * Block Overlay - ?
-* Clear Water - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
+* Clear Water - [sp614x's OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar)
 * Custom Crosshair - [Sparkless' Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
@@ -23,7 +23,7 @@ mod authors and it is advised against supporting them.
 * Time Changer - [Polyfrost's PolyTime](https://modrinth.com/mod/polytime)
 * Waypoints - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files?version=1.12.2)
 * Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
-* Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Zoom - [sp614x's OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### HUD
 * Armor Status - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
@@ -103,7 +103,7 @@ mod authors and it is advised against supporting them.
 
 ### Rendering Settings
 
-* Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar)
+* Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar)
 * Use Direct Memory Access - ?
 * Use Fast Font Rendering - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Use Static Particle Color - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -138,7 +138,7 @@ mod authors and it is advised against supporting them.
 ## External Mods
 
 * [Replay Mod](https://modrinth.com/mod/replaymod)
-* [OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
+* [OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files?version=1.12.2)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 * [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files?version=1.12.2)

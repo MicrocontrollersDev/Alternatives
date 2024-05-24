@@ -79,11 +79,11 @@ This currently uses the list from [their support site](https://support.badlion.n
     * Fishing Line Color - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
     * Fishing Line Width - ?
     * Trip Wire Color - ? (and yes for some reason BLC has not grouped this with Visible Tripwires and they separated the word)
-    * Water Opacity - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) (clear water to an extent)
+    * Water Opacity - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) (clear water to an extent)
     * Water Fog - ?
     * Bigger Items - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
-    * Custom Skies - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
-    * Biome Blending - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+    * Custom Skies - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+    * Biome Blending - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
     * XP Orb Colors - ?
     * Ore Overlays - Use a resource pack
 * Particles - [isXander & Microcontrollers's Particles Enhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest)
@@ -98,7 +98,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files?version=1.8.9)
 * Scoreboard - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Server Address - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Shaders - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+* Shaders - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Shiny Pots - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * StopWatch - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Survival
@@ -146,7 +146,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 * ToggleSneak - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
 * ToggleSprint - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
 * Waypoints - ?
-* Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Zoom - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 ### Complex
 

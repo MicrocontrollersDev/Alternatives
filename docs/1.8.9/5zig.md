@@ -52,7 +52,7 @@ This list is based off of the latest version of 5zig Reborn.
 
 ### Other
 
-* Zoom - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Zoom - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Highlight Words - ?
 * 2nd Chat - ?
 * Chat Messages Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)

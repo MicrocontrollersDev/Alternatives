@@ -23,7 +23,7 @@ that you avoid using it if possible.
 
 * Lava Optimization - Don't use!
 * Optimize Soup & Potion Refill **(BANNABLE ON HYPIXEL)** - ?
-* Synchronised Crosshair - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+* Synchronised Crosshair - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Blockhit - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 * Particle Optimization - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
@@ -53,7 +53,7 @@ that you avoid using it if possible.
 
 ### PvP
 
-* Speed FOV - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+* Speed FOV - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Swap Bow - ?
 
 ### Menu GUI
@@ -184,7 +184,7 @@ that you avoid using it if possible.
 * More Particles - [isXander & Microcontrollers's Particles Enhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest)
 * Motion Blur - [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
 * NoBob - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* OptiFine - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+* OptiFine - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Rainbow GUI - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
 * ResourcePack 24 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) and [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 * Send To Server - ?
