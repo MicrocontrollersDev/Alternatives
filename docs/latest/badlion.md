@@ -45,7 +45,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Crosshair Mod - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Direction - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * FPS Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Keystrokes - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Keystrokes - [Spyxar's TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Ingame Server Switcher - ?
 * Item Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
 * Item Info - ?

@@ -70,7 +70,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * DirectionHUD - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
 * FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
 * Item Tracker - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Key Strokes - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Key Strokes - [Spyxar's TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Memory Usage - ?
 * Pack Display - ?
 * Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)

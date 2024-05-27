@@ -227,6 +227,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer) | Makes server pinging smoother and fixes it breaking when refreshing too many times. | [JustAlittleWolf](https://github.com/JustAlittleWolf) |
 | [Axiom](https://modrinth.com/mod/axiom) | An alternative to WorldEdit and VoxelSniper to make building in singleplayer much easier. | [Moulberry](https://github.com/Moulberry) |
 | [Sounds](https://modrinth.com/mod/sound) | Adds many more sounds to Minecraft for things that did not previously have sounds. | [mineblock11](https://github.com/mineblock11) |
+| [TipTapShow](https://modrinth.com/mod/tiptapshow) | A keystrokes mod for modern fabric. | [Spyxar](https://github.com/Spyxar) | [Fabric API](https://modrinth.com/mod/fabric-api) |
 
 ### Skyblock Mods
 
