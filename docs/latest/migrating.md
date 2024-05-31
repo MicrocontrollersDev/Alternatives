@@ -22,6 +22,8 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     Forge has always been less than ideal for performance due to its large overhead for server-sided modding, which is not necessary for users wishing for a vanilla compatible experience. Fabric on the other hand is extremely lightweight and is practically identical to vanilla. It's also considered to be much easier to make mods for.
 
+    Unlike Fabric, which aims to modify vanilla as little as possible, Forge makes a lot of changes that simply are not beneficial for our usecases. For example, for several months and spanning several Minecraft versions, there was a [bug in Forge](https://github.com/MinecraftForge/MinecraftForge/issues/9309) that gave the player 4-5 block reach in survival mode, effectively banning every Forge player playing on any server with an anticheat at that time. Due to Fabric's goal of being as uninvasive as possible, issues like this won't arise with Fabric Loader, and if they did, would be fixed much quicker.
+
     ### Installing Fabric
 
     Due to many issues with the official Minecraft launcher, we will not be using it. We will be using Prism Launcher instead, which is a much improved launcher that has many more features than the official Minecraft launcher and is made with mods in mind.
@@ -162,7 +164,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | Adds several QOL features to Minecraft's chat to make it more usable. | [mrbuilder1961](https://github.com/mrbuilder1961) |
 | [MixinTrace](https://modrinth.com/mod/mixintrace) | Makes it easier for mod developers to debug crash reports. | [comp500](https://github.com/comp500) |
 | [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips) (No 1.20.4 Yet) | Makes tooltips more readable by preventing them from going off screen and allowing for tooltip scrolling, as well as more customization options such as custom transparency. | [isXander](https://github.com/isXander) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
-| [Persistent Stuff](https://modrinth.com/mod/persistent-stuff) (No 1.20.4 Yet) | Saves your toggle sprint (sprinting/walking), hitboxes' (enabled/disabled), chunk borders' (enabled/disabled) states across Minecraft restarts. Never toggle these at startup again. | [Andy Russo](https://github.com/AndyRusso) |
+| [Persistent Stuff](https://modrinth.com/mod/persistent-stuff) | Saves your toggle sprint (sprinting/walking), hitboxes' (enabled/disabled), chunk borders' (enabled/disabled) states across Minecraft restarts. Never toggle these at startup again. | [Andy Russo](https://github.com/AndyRusso) | | | The mod author has not updated the supported Minecraft versions on the Modrinth page, but it should work with no issues regardless. |
 | [Log Cleaner](https://modrinth.com/mod/log-cleaner) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) | | | (Probably) works on 1.20.4 despite not being updated to it. |
 | [Better Selection](https://modrinth.com/mod/better-selection) | Makes it easier to select text by allowing mouse selection and Ctrl + ← and Ctrl + →. | [MDLC01](https://github.com/MDLC01) |
 | [AuthMe](https://modrinth.com/mod/auth-me) | Let's you easily reauthenticate when you are not logged in correctly. Can also be used to switch accounts. | [axieum](https://github.com/axieum) |
