@@ -26,22 +26,11 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     ### Installing Fabric
 
-    Due to many issues with the official Minecraft launcher, we will not be using it. We will be using Prism Launcher instead, which is a much improved launcher that has many more features than the official Minecraft launcher and is made with mods in mind.
+    Due to many issues with the official Minecraft launcher, we will not be using it. We will be using the ModrinthApp instead, which is a much improved launcher that has many more features than the official Minecraft launcher and is made with mods in mind.
 
-    First let's install the correct version of Java. In order to download Java, we will first head to the [Adoptium download page](https://adoptium.net/temurin/releases/). Adoptium is an open source Java that does not require a paid account to install, and is made by the Eclipse Foundation, a very reputable source. To install, we will use the dropdown boxes to make it easier to find the versions of Java we need
+    Install the app from the [Modrinth page](https://modrinth.com/app) and continue on with the installation. The Modrinth app should walk you through how to log in, create profiles, and install mods.
 
-    - Operating System: (Your OS)
-    - Architecture: (Your architecture, most likely x64, but check)
-    - Package Type: JRE
-    - Version: 17
-
-    First install from [Prism Launcher](https://prismlauncher.org) and make sure to install the correct version. Do not download the "Portable" version unless you specifically want it. Continue the installation process until you get to the "Java" screen. Here, you will decide which Java you want to set as the default for new instances. Click on the version that says "17" at the beginning of the version and has "Eclipse Foundation" in the path name. This is your Java 17 and it will be the default version of Java for every new instance you create on Prism. Of course, you can always change this later and can still manually specify a different version of Java whenever you want.
-
-    Now that we've installed Prism, let's log in. Once Prism has launched, you should see a Steve head and "Profiles" text in the top right. Click on this and press "Manage Accounts". From here, click "Add Microsoft" on the right side menu. This will open a popup window, which will have a button to open the link to verify yourself and also copy the code. Simply paste the code into the window that opens up. Note, you may need to sign in to your Microsoft account first.
-
-    Once this is completed, you can exit back to the main Prism Launcher menu. Click on the button at the top left that says "Add Instance". Name it whatever you want and giving a group for it is optional, but I do not recommend giving a group name until you need to better organize your instances.
-
-    Under the `Version` selector, find 1.20.4 and select it. Then in the `Mod Loader` tab directly underneath, choose Fabric. It will automatically choose the latest version of Fabric for 1.20.4 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
+    Once this is completed and you are back at the main home page, press the create profile button on the bottom left (the green plus sign). Select any icon and give it any name you want, set the loader to Fabric, and select the game version to 1.20.6.
 
     ### Downloading and Installing Mods for Fabric
 
@@ -49,11 +38,9 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     #### Automatic Installation:
     
-    - If you are using Prism Launcher, you can simply go to the mods menu for your instance and press the "Download Mods" button in the top right to search Modrinth and CurseForge directly inside the launcher.
+    - You can simply click on the instance go to the Content tab and press the "Add content" button in the top right to search Modrinth directly inside the launcher.
 
-    - Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. This can be bypassed by opening Prism settings, going to `APIs`, then `API Keys` and entering `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm` into the CurseForge Core API.
-
-    - GitHub or non-Modrinth/CurseForge mods will require manual installation.
+    - GitHub and CurseForge mods will require manual installation. The Content tab has a dropdown next to the Add content button to add from file. Use that to add the mods you have downloaded.
 
     #### Manual Download
 
@@ -63,19 +50,9 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
     - GitHub:
         - For your convenience, all GitHub links lead directly to the latest version of the mod. From here, click on the `Assets` drop down if needed, then download the jar that does not include `-sources` or `-dev` in the name.
             - If a link does not redirect you to the latest version but rather the main page, on the right side of the page, you should find a tag icon with the latest version.
-        - Mods downloaded this way will not automatically be installed to your instance. See the "[Manually Installing Mods on Fabric](https://alternatives.microcontrollers.dev/latest/migrating/#manually-installing-mods-on-fabric)" section on how to install these mods.
 
     - CurseForge:
         - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric mod loader, and download the latest one. You can also press the `View All` button, then sort by mod loader or Minecraft version to make finding the correct jar easier.
-
-    #### Manually Installing Mods
-
-    0. Close Minecraft if open.
-    1. Click on your Prism Instance.
-    2. Click `Edit`.
-    3. Go to the `Mods` tab.
-    4. Either drag and drop files into this menu, or you can press `View Folder` to drag and drop mods directly into your mods folder.
-    5. You can now launch the instance.
 
     ### Still Need Help?
 
