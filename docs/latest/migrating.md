@@ -110,6 +110,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Early Loading Screen](https://modrinth.com/mod/early-loading-screen) | Allows the game to create a game window earlier, allowing you to stop the game much faster if needed. | [Ishland](https://github.com/ishland) | | | May cause crashes when starting the game. If your game instantly crashes, try disabling this mod. |
 | [Noisium](https://modrinth.com/mod/noisium) | Optimizes world generation when generating new chunks. | [Steveplays](https://github.com/Steveplays28) |
 | [Particle Core](https://modrinth.com/mod/particle-core) | Several optimizations to particles in Minecraft and customization of particle rendering, i.e., being able to turn them on/off individually and putting them in a reduced state. | [fzzyhmstrs](https://github.com/fzzyhmstrs) | [Fabric API](https://modrinth.com/mod/fabric-api), [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) |
+| [Force Close Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen) | Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration. | [kennytv](https://github.com/kennytv) |
 
 ### Other Performance Mods
 
@@ -143,7 +144,8 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Persistent Stuff](https://modrinth.com/mod/persistent-stuff) | Saves your toggle sprint (sprinting/walking), hitboxes' (enabled/disabled), chunk borders' (enabled/disabled) states across Minecraft restarts. Never toggle these at startup again. | [Andy Russo](https://github.com/AndyRusso) | | | The mod author has not updated the supported Minecraft versions on the Modrinth page, but it should work with no issues regardless. |
 | [Log Cleaner](https://modrinth.com/mod/log-cleaner) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) | | | (Probably) works on 1.20.6 despite not being updated to it. |
 | [Better Selection](https://modrinth.com/mod/better-selection) | Makes it easier to select text by allowing mouse selection and Ctrl + ← and Ctrl + →. | [MDLC01](https://github.com/MDLC01) |
-| [AuthMe](https://modrinth.com/mod/auth-me) | Let's you easily reauthenticate when you are not logged in correctly. Can also be used to switch accounts. | [axieum](https://github.com/axieum) |
+| [Auto ReAuth](https://modrinth.com/mod/auto-reauth) | Automatically reauthenticates your session when you are not logged in correctly. | [connorslade](https://github.com/connorslade) | [Fabric API](https://modrinth.com/mod/fabric-api) |
+| [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Adds an in game account switcher that lets you switch accounts without having to restart the game. | [The-Fireplace](https://github.com/The-Fireplace) | [Fabric API](https://modrinth.com/mod/fabric-api) |
 | [Smooth Skies](https://modrinth.com/mod/smooth-skies) | Smooths out the skybox colors on far render distances. This will fix the skybox breaking with Nvidium or similar. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
 
 ### Other Cool Mods
