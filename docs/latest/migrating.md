@@ -109,7 +109,6 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | VMP attempts to alleviate the strain on servers when there are a large amount of players. | [RelativityMC](https://github.com/RelativityMC) |
 | [Early Loading Screen](https://modrinth.com/mod/early-loading-screen) | Allows the game to create a game window earlier, allowing you to stop the game much faster if needed. | [Ishland](https://github.com/ishland) | | | May cause crashes when starting the game. If your game instantly crashes, try disabling this mod. |
 | [Noisium](https://modrinth.com/mod/noisium) | Optimizes world generation when generating new chunks. | [Steveplays](https://github.com/Steveplays28) |
-| [Async Pack Scan](https://modrinth.com/mod/async-pack-scan) | Improves performance of the resource pack menu by loading resource packs asynchronously. | [JFronny](https://git.frohnmeyer-wds.de/JfMods) |
 | [Particle Core](https://modrinth.com/mod/particle-core) | Several optimizations to particles in Minecraft and customization of particle rendering, i.e., being able to turn them on/off individually and putting them in a reduced state. | [fzzyhmstrs](https://github.com/fzzyhmstrs) | [Fabric API](https://modrinth.com/mod/fabric-api), [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) |
 
 ### Other Performance Mods
