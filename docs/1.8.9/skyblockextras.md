@@ -410,9 +410,9 @@ or a discussion.
 * Use Default Chat Filters - ?
 * Hide Hub Messages - ?
 * Notify Scam Messages - ?
-* Auto Confirm Reports - ?
+* Auto Confirm Reports - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Hide Sea Creature Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Hide Coop Chat -[Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases)
+* Hide Coop Chat - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases)
 * Hide Dicer Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Random Parties - ?
 * Hide [PLAYER INFORMATION] - ?
