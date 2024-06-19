@@ -75,7 +75,7 @@ Dependencies are going through a makeover where along with a giant list at the t
 | [Architectury](https://modrinth.com/mod/architectury-api) | Several mods | [Shedaniel](https://github.com/shedaniel) |
 | [Cloth Config](https://modrinth.com/mod/cloth-config) | Several mods | [Shedaniel](https://github.com/shedaniel) |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | Several mods | [isXander](https://github.com/isXander)
-| [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | Litematica, MiniHUD | [Matti Ruohonen](https://github.com/maruohon) |
+| [MaLiLib](https://modrinth.com/mod/malilib) | Litematica, MiniHUD | [Matti Ruohonen](https://github.com/maruohon) |
 | [Ash API](https://modrinth.com/mod/ash-api) | Transparent. | [Trikzon](https://github.com/Trikzon) |
 | [Searchables](https://modrinth.com/mod/searchables) | Controlling | [Jaredllll08](https://github.com/jaredlll08) |
 | [DarkKore](https://modrinth.com/mod/darkkore) (No 1.20.6 Yet) | KronHUD | [DarkKronicle](https://github.com/DarkKronicle) |
@@ -157,7 +157,7 @@ These are mods that are more dependant on personal preference than importance.
 | [World Host](https://modrinth.com/mod/world-host) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [Gaming32](https://github.com/Gaming32) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
-| [SuperBetterGrass](https://www.curseforge.com/minecraft/mc-mods/super-better-grass) | Better grass and snow, more customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) & [Dima-Dencep](https://github.com/dima-dencep) | This is a fork of LambdaBetterGrass by LambdAurora |
+| [SuperBetterGrass](https://github.com/dima-dencep/super-better-grass/releases) | Better grass and snow, more customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) & [Dima-Dencep](https://github.com/dima-dencep) | This is a fork of LambdaBetterGrass by LambdAurora |
 | [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
 | [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks) | Let's you alter the way nametags are rendered, such as background transparency, text shadow, and custom F1 rules. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
 | [Scroll Tweaks](https://modrinth.com/mod/scrolltweaks) | Let's you customize Minecraft hotbar scrolling. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
@@ -169,7 +169,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a fade-in animation to chunks similar to Bedrock Edition. | [kerudion](https://github.com/kerudion) | | Nvidium (chunks don't fade) |
 | [Distant Horizons](https://modrinth.com/mod/distanthorizons) (No 1.20.6 Yet) | Adds LODs to Minecraft, allowing for much further render distances without a big tank on performance. | [James Seibel](https://gitlab.com/jeseibel) | | | Many shaders may cause LODs to not load or be black. |
 | [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) |
-| [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | Prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
+| [CleanView](https://github.com/zlainsama/CleanView/releases) | Prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Pretty Hitboxes](https://modrinth.com/mod/pretty-hitboxes) (No 1.20.6 Yet)  | Allows you to customize hitboxes, similar to 1.8 mods and clients. | [ErrorGamer2000](https://github.com/nexensys) |
 | [Blur+](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
@@ -233,7 +233,7 @@ Features that OptiFine provides that are not resource pack related.
 | [Iris](https://irisshaders.github.io) | Shaders. More customizable than OptiFine's. | [IrisShaders](https://github.com/IrisShaders) |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
-| [SuperBetterGrass](https://www.curseforge.com/minecraft/mc-mods/super-better-grass) | Better grass and snow, more customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) & [Dima-Dencep](https://github.com/dima-dencep) | This is a fork of LambdaBetterGrass by LambdAurora. |
+| [SuperBetterGrass](https://github.com/dima-dencep/super-better-grass/releases) | Better grass and snow, more customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) & [Dima-Dencep](https://github.com/dima-dencep) | This is a fork of LambdaBetterGrass by LambdAurora. |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://github.com/ramidzkh) |
 
