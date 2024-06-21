@@ -53,7 +53,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 * Hit Color - [Polyfrost's DamageTint](https://modrinth.com/mod/damagetint)
 * Hitboxes - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
 * Inventory Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
-* Item Counter - [DoKM's Item Counter](https://hypixel.net/threads/1-8-9-item-counter-mod.3683685/) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Item Counter - [ImToggles's Item Counter](https://modrinth.com/mod/item-counter-mod)
 * Item Info - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * Item Tracker - ?

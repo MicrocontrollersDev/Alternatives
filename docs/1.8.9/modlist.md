@@ -19,6 +19,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
+| [20-20-20](https://github.com/MicrocontrollersDev/20-20-20/releases/latest) | A mod that reminds users to take a short break to avoid eye strain. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Microcontrollers](https://github.com/MicrocontrollersDev) | This is a fork of the original mod, but utilizing OneConfig. |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Replaces the standard flat second layer of player skins with a 3D modeled version. | [tr7zw](https://github.com/tr7zw) |
 | [Better Hurt Cam](https://modrinth.com/mod/forge-betterhurtcam) | Lets you customize the hurtcam when hit. | [Scherso](https://github.com/Scherso) |
 | [Block Overlay](https://skyclient.co/mod/blockoverlay) | Allows you to customize the select overlay on blocks. | [Aycy](https://www.youtube.com/@aycyy) | No source or official download available. The provided download is hosted on SkyClient. |
@@ -34,6 +35,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Glint Colorizer](https://modrinth.com/mod/glintcolorizer) | Lets you customize the glint color of items. | [Polyfrost](https://github.com/Polyfrost) |
 | [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9) | Makes dropped items land on the ground realistically instead of falling straight and floating. | [CreativeMD](https://github.com/CreativeMD) |
 | [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Lets you log into and switch accounts without needing to relaunch the game or log into other accounts in your launcher. | [The-Fireplace](https://github.com/The-Fireplace) |
+| [Item Counter](https://modrinth.com/mod/item-counter-mod) | Show the amount of items you have on screen, easily configurable. Read the project description for instructions. | [ImToggle](https://github.com/ImToggle) |
 | [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | Removes many things that Essential adds that you may not want. | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://sk1er.club/mods/refractionoof) | Plays custom sounds when you kill other players. | [powns](https://github.com/pownsgg) |

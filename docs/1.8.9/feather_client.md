@@ -37,7 +37,7 @@ mod authors and it is advised against supporting them.
 * Coordinates - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Direction - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * FPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Item Counter - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Item Counter - [ImToggles's Item Counter](https://modrinth.com/mod/item-counter-mod)
 * Item Info - [Sk1er's Patcher](https://www.sk1er.club/mods/patcher)
 * Pack Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)

@@ -80,7 +80,7 @@ I do not have LunarClient and don't intend on downloading it. If you know where 
 * Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Playtime - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
-* Potion Counter - ?
+* Potion Counter - [ImToggles's Item Counter](https://modrinth.com/mod/item-counter-mod)
 * Stopwatch - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Server Address - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
