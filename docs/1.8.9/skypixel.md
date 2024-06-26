@@ -12,7 +12,7 @@ the game.
 * Cancel Item Damage - ?
 * Cancel Inventory Drag - NEU?
 * Keybinds - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Client Command Fix - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Client Command Fix - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Show Skyblock Item ID in Debug Tooltip - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 # Contributors

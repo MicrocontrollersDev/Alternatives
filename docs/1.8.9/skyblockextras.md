@@ -74,7 +74,7 @@ or a discussion.
 
 ### Miscellaneous
 
-* Timestamps - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Timestamps - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Show Milestones - ?
 * Show NPC Sell Price - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Auction Data - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -176,8 +176,8 @@ or a discussion.
 * Hide Beam Attack - ?
 * Hide Enderman Hurt Effects - ?
 * Stop Enderman Teleportation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Mute Enderman Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Mute Player Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Mute Enderman Sounds - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Mute Player Sounds - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Approximate Ender Nodes - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 
 ### Etherwarp Display
@@ -298,7 +298,7 @@ or a discussion.
 * Show Frag Counter - SkyblockHud?
 * Show Door Opener - ?
 * Show Dungeon Map - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Remove Armor Stands - [Sk1er's Patcher](https://sk1er.club/mods/patcher) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Remove Armor Stands - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Crypts Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Spirit Bear Timer - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
@@ -377,7 +377,7 @@ or a discussion.
 * Hide Fire Display - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Lightning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Builder's Wand Overlay - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Hide WitherBorn Shadows - [Sk1er's Patcher](https://sk1er.club/mods/patcher) (properly scales shadows) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (for bossbar)
+* Hide WitherBorn Shadows - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher) (properly scales shadows) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (for bossbar)
 * Hide Displayed Armor - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Modify Visual Words - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
@@ -391,7 +391,7 @@ or a discussion.
 * Search Bar - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Middle Click SB Menu - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Item Durability - ?
-* Better Crop Hitboxes - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Better Crop Hitboxes - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Show Cultivating Count - ?
 * Show Compact Count - ?
 * Left Click Zapper Undo - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -421,7 +421,7 @@ or a discussion.
 ### Performance
 
 * Hide Non Crits - ?
-* Hide Block Destroy Particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Hide Block Destroy Particles - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
 * Hide Staff Falling Blocks - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Hurt Effects - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 

@@ -11,8 +11,8 @@ Just for fun.
 ### FPS Boost
 
 * Enable FPS Boost - [See performance mods](https://alternatives.microcontrollers.dev/1.8.9/modlist/#performance)
-* Slow Chunk Loading - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Fullbright - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Slow Chunk Loading - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Fullbright - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Enchantment Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 
 ### Team View
@@ -32,11 +32,11 @@ Just for fun.
 * Show HUD While in Debug View - Irrelevant
 * Shiny Pots - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * Red String - Use a resource pack
-* Transparent Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Transparent Background - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### Crosshair
 
-* All Crosshair Settings - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
+* All Crosshair Settings - [Polyfrost's PolyCrosshair](https://modrinth.com/mod/crosshair)
 
 ## Mods
 

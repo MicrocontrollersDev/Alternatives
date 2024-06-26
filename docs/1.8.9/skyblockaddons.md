@@ -77,7 +77,7 @@ alternatives that still get updated.
 * Power Orb Display - ?
 * Prevent Walking After Death - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Reforge Filter - ?
-* Replace Roman Numerals on Items - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Replace Roman Numerals on Items - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Rock Pet Tracker - ?
 * Show Backpack Preview - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Bait List While Holding a Rod - ?
@@ -98,9 +98,9 @@ alternatives that still get updated.
 * Show Reforge Overlay - ?
 * Show SBA Button in Pause Menu - Irrelevant
 * Show Skyblock Item ID on Hover - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Show Stacking Enchant Progress - [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Stacking Enchant Progress - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Sword Kills - ?
-* Show What Fetchur Wants Today - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/latest)
+* Show What Fetchur Wants Today - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show if Item's Rarity has been Upgraded - ?
 * Skeleton's Helmet Bones Bar - ?
 * Skill Progress Bar - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)

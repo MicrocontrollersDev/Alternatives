@@ -11,10 +11,10 @@ The mod is no longer supported by its developer, Wyvest.
 ### Everything else
 * Bossbar Customization - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Action Bar Customization - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-* Title Customization - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Title Customization - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Name Highlight - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
 * Sidebar Customization - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-* Hitbox Customization - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
+* Hitbox Customization - [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
 * Pack GUI Modifier - [aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar)
 
 # Contributors

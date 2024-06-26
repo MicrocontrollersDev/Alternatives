@@ -4,13 +4,13 @@ The mod is no longer supported by its developer, Moulberry.
 
 ### Tweaks
 
-* Compact Chat - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Consecutive Compact Char - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Compact Chat Count - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Compact Chat - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Consecutive Compact Char - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Compact Chat Count - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Fix Centered Text - ?
 * Smart Dividers - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Connect Dividers - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
-* Stack Empty Lines - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Stack Empty Lines - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Filter Bad Words - ?
 * Replace Homoglyphs - ?
 

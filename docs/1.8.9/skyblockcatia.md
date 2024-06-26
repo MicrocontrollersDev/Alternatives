@@ -31,7 +31,7 @@ if the features you use can be replaced.
 * Make Special Zealot Held Gold Block - ?
 * Hitbox Render Mode - ([Polyfrost's REDACTION](https://modrinth.com/mod/redaction)) ?
 * Glowing Dragon Armor - ?
-* Disable Block Particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Disable Block Particles - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
 * Fix Skyblock Enchant Tag - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)
 * Disable Night Vision - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Display Realtime Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
@@ -45,7 +45,7 @@ if the features you use can be replaced.
 
 ### Global Config
 
-* Enable Confirm to Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Enable Confirm to Disconnect - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Enable Skin Rendering Fix - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) via custom models
 * Disable Hurt Camera Effect - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Enable Shortcut Game Button - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)

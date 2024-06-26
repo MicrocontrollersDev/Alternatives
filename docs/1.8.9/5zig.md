@@ -20,11 +20,11 @@ This list is based off of the latest version of 5zig Reborn.
 * Show Last Server - [Polyfrost's Redaction](https://modrinth.com/mod/redaction)
 * Show Custom Item Models - OptiFine Setting
 * Static FOV - Minecraft Setting
-* Time in Chat Messages - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Transparent Chat Background - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Transparent Pause Menu - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Show Own Nametag - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-* Ping on Tablist - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Time in Chat Messages - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Transparent Chat Background - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Transparent Pause Menu - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Show Own Nametag - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Ping on Tablist - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Ping on Server List - ?
 
 ### Customize Display
@@ -42,7 +42,7 @@ This list is based off of the latest version of 5zig Reborn.
 * Show Compass Target - ?
 * Show Large Killstreaks - ?
 * Show Mojang Satus - [GamingGeek's MojangStatus](https://github.com/GamingGeek/MojangStatus/releases/latest)
-* Confirm Disconnect - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Confirm Disconnect - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### Hypixel
 
@@ -52,7 +52,7 @@ This list is based off of the latest version of 5zig Reborn.
 
 ### Other
 
-* Zoom - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Zoom - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Highlight Words - ?
 * 2nd Chat - ?
 * Chat Messages Filter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)

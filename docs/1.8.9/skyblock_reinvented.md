@@ -15,7 +15,7 @@ alternatives that still get updated.
 
 ### Sounds
 
-* Remove Creeper Sounds from Veil - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Remove Creeper Sounds from Veil - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 
 ## General
 
@@ -38,10 +38,10 @@ alternatives that still get updated.
 
 * Stop Rendering Players with Customizable Whitelist - ? ([Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) has a similar feature that consequently removes players, but does not have a whitelist)
 * Stop Rendering Player Armor - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Create Hitboxes Around your Arrows - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
-* Show Hitboxes of Special Zealots - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
-* Show Hitboxes of Drags & Golems - [Nox's Hitboxes](https://cdn.discordapp.com/attachments/1009757412921708604/1133170184337764372/hitboxes-1.8.9-forge-1.0.0.jar)
-* Hide Other People's Arrows - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Create Hitboxes Around your Arrows - [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
+* Show Hitboxes of Special Zealots - [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
+* Show Hitboxes of Drags & Golems - [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
+* Hide Other People's Arrows - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Stop Power Orb Nametags / Particles from Rendering - ?
 
 ## Your Island
@@ -52,7 +52,7 @@ alternatives that still get updated.
 
 ### Misc
 
-* Disable Farm Block Breaking Particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Disable Farm Block Breaking Particles - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
 * Remove Item Frame Names - ?
 
 ### Dungeons
@@ -94,7 +94,7 @@ alternatives that still get updated.
 
 ### Farming
 
-* Disable Farm Block Particles - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Disable Farm Block Particles - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
 
 ### Bestiary
 
@@ -144,7 +144,7 @@ alternatives that still get updated.
 
 ### Sounds
 
-* Stop Reforge Sounds - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+* Stop Reforge Sounds - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 
 ## Spam
 
