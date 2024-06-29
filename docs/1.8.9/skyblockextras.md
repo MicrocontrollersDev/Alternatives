@@ -305,7 +305,7 @@ or a discussion.
 ### Display
 
 * Show Run Overview - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Wither Doors - ?
+* Show Wither Doors - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Score Approximation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Change Portal Color - ?
 * Blood Camp Helper - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -349,7 +349,7 @@ or a discussion.
 ### Solvers
 
 * Dungeon Puzzle Timer - ?
-* All solvers - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+* All Solvers - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
 
 ## Quality of Life
 
