@@ -485,5 +485,6 @@ or a discussion.
 * [stef-the](https://github.com/stef-the)
 * [Stekerser](https://github.com/Stekerser)
 * [Sychic](https://github.com/Sychic)
+* [thatonecoder](https://github.com/Coccocoahelper)
 * [Wyvest](https://github.com/Wyvest)
 * [Yan](https://github.com/yanNotDev)
