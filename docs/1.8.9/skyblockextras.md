@@ -383,8 +383,8 @@ or a discussion.
 
 ### BINGO
 
-* Show Bingo List - ?
-* Show Community Goals - ?
+* Show Bingo List - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Community Goals - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### General
 
@@ -478,6 +478,7 @@ or a discussion.
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
 * [moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
+* [ooffyy](https://github.com/realooffyy)
 * [Pengu](https://github.com/pengubear)
 * [Proudmuslim](https://github.com/proudmuslim-dev)
 * [RayDeeUx](https://github.com/RayDeeUx)
