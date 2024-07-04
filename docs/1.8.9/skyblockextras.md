@@ -141,7 +141,7 @@ or a discussion.
 * Metal Detector Locator - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Metal Detector Waypoint - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Auto Renew Mining Pass - ?
-* Worm Notifier Warning - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (Regex: `§r§7§oYou hear the sound of something approaching\.\.\.§r` Text: `§7§lScatha/worm`)
+* Worm Notifier Warning - [NamelessJu's Scatha-Pro](https://modrinth.com/mod/scatha-pro)
 
 ### Spider's Den
 
