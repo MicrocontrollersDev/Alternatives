@@ -56,7 +56,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [PolyWeather](https://modrinth.com/mod/polyweather) | Allows the user to configure what client-side weather is displayed. | [Polyfrost](https://github.com/Polyfrost) |
 | [Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest) | A highly customizable potion effects HUD. | [Tellinq](https://github.com/Tellinq) |
 | [QuickConfig](https://modrinth.com/mod/quickconfig) | Replaces Forge's mod config screen with the OneConfig menu. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Very buggy in the main menu as OneConfig and mods expect a world to be loaded. Works fine in the escape menu. |
-| [Raw Input](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) | Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system. Fixes high polling rate issues. | [xCuri0](https://github.com/xCuri0), [Mixces](https://github.com/Mixces), & [Erymanthus](https://github.com/RayDeeUx) |
+| [Raw Input](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) | Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system. Fixes high polling rate issues. | [xCuri0](https://github.com/xCuri0), [Mixces](https://github.com/Mixces), & [Erymanthus](https://github.com/RayDeeUx) | This may cause your mouse to be completely unresponsive in Minecraft. Simply remove the mod if that is the case. |
 | [Redaction](https://modrinth.com/mod/redaction) | Redaction adds HUDs to your game that are normally classified as "cheat-client" modules. | [Polyfrost](https://github.com/Polyfrost) |
 | [ReplayMod](https://modrinth.com/mod/replaymod) | ReplayMod lets you record your gameplay to watch back later. | [CrushedPixel](https://github.com/CrushedPixel) & [johni0702](https://github.com/Johni0702) |
 | [Resource Pack Manager](https://skyclient.co/mod/rpm) | Makes the resource pack menu load faster and adds some more useful features such as searching and folder/grouping support. | [Aycy](https://www.youtube.com/@aycyy) | Can mess up order of packs upon launching game if multiple packs are enabled. |
@@ -120,8 +120,6 @@ WIP, needs to be table-ized and prettified
     - Use PolyPatcher
 - Scrollable Tooltips
     - Use VanillaHUD
-- [SBA](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons/)
-    - Discontinued
 - Sk1er Old Animations Mod
     - Use Overflow Animations
 - [Soopy](https://alternatives.microcontrollers.dev/1.8.9/soopy)
