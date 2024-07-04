@@ -75,7 +75,7 @@ or a discussion.
 ### Miscellaneous
 
 * Timestamps - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Show Milestones - ?
+* Show Milestones - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Show NPC Sell Price - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Auction Data - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Duplicate Items - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -107,7 +107,7 @@ or a discussion.
 * Show Target Waypoints - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Notify Ability Cooldown - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (/trackcooldown)
 * Show Fuel Display - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
-* Show Compact Features - ?
+* Show Compact Features - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Show Forge Timer - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Commissions Tracker - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Mining Tracker - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
@@ -195,7 +195,7 @@ or a discussion.
 * Show Miniboss Spawn - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Maddox Dial - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Inactive Quest Warning - ?
-* Boss Soon Warning - ?
+* Boss Soon Warning - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Boss Spawn Warning - ?
 * Show Boss Slain Time - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
@@ -231,7 +231,7 @@ or a discussion.
 
 ### Skills
 
-* Revert EXP Display - ?
+* Revert EXP Display - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Show Custom Skill Display - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Skill Trackers - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Show EXP Rate - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
@@ -253,7 +253,7 @@ or a discussion.
 ### Miscellaneous
 
 * Show Golem Counter - ?
-* Show Dragon Counter - ?
+* Show Dragon Counter - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Show Farming Counter - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Ghost Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 
@@ -274,7 +274,7 @@ or a discussion.
 * Hide Pet Names - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide AutoPet Messages - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Pet Candies - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-* Mute Rat Pet - ?
+* Mute Rat Pet - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Fix Candy Lore - ?
 
 ### Pet Menu
@@ -361,7 +361,7 @@ or a discussion.
 * Show Trapper Hides - ?
 * Show Champion EXP - ?
 * Show Hetacomb Runs - ?
-* Freeze Previews - ?
+* Freeze Previews - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Show Storage Previews - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Cache Backpack Data - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Custom Backpack Name - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
@@ -383,8 +383,8 @@ or a discussion.
 
 ### BINGO
 
-* Show Bingo List - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Show Community Goals - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Bingo List - ?
+* Show Community Goals - ?
 
 ### General
 
@@ -392,7 +392,7 @@ or a discussion.
 * Middle Click SB Menu - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Item Durability - ?
 * Better Crop Hitboxes - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Show Cultivating Count - ?
+* Show Cultivating Count - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Show Compact Count - ?
 * Left Click Zapper Undo - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Item Cooldown - ?
@@ -478,13 +478,11 @@ or a discussion.
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
 * [moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
-* [ooffyy](https://github.com/realooffyy)
 * [Pengu](https://github.com/pengubear)
 * [Proudmuslim](https://github.com/proudmuslim-dev)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [stef-the](https://github.com/stef-the)
 * [Stekerser](https://github.com/Stekerser)
 * [Sychic](https://github.com/Sychic)
-* [thatonecoder](https://github.com/Coccocoahelper)
 * [Wyvest](https://github.com/Wyvest)
 * [Yan](https://github.com/yanNotDev)

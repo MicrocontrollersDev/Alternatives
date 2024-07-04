@@ -23,10 +23,10 @@ alternatives that still get updated.
 
 * Hide Ironman in Scoreboard - ?
 * Pickup Stash Keybind / Reminder - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Dark Auction Reminder - ?
-* Dragon Tracker - ?
+* Dark Auction Reminder - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
+* Dragon Tracker - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-* Treasure Hunter Waypoints / Solver - ?
+* Treasure Hunter Waypoints / Solver - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Show Cake Year as Stack Size - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Skyblock Updates - ?
 
@@ -80,7 +80,7 @@ alternatives that still get updated.
 ### Slayer
 
 * Slayer Info - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Remove Sven Pups - ?
+* Remove Sven Pups - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Maddox Clickable Message - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Reminder to Start New Slayer - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
@@ -139,7 +139,7 @@ alternatives that still get updated.
 ### Rendering
 
 * Hub Overlay - ?
-* Hide villagers in Hub - ?
+* Hide villagers in Hub - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Overlay Uncollected Jacob’s Contests - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Sounds

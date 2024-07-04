@@ -11,8 +11,8 @@ if the features you use can be replaced.
 
 ### QoL
 
-* Jungle Axe Cooldown - ?
-* Grappling Hook Cooldown - ?
+* Jungle Axe Cooldown - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
+* Grappling Hook Cooldown - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Zealot Respawn Cooldown - ?
 * Placed Summoning Eye Tracker - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Leave Party when Last Eye Placed - ?
@@ -28,7 +28,7 @@ if the features you use can be replaced.
 * Fancy Color for Supporters - Irrelevant ([Polyfrost's REDACTION](https://modrinth.com/mod/redaction) allows you to change the color of your name as well)
 * Show Item Rarity - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Item Rarity Opacity - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Make Special Zealot Held Gold Block - ?
+* Make Special Zealot Held Gold Block - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Hitbox Render Mode - ([Polyfrost's REDACTION](https://modrinth.com/mod/redaction)) ?
 * Glowing Dragon Armor - ?
 * Disable Block Particles - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)

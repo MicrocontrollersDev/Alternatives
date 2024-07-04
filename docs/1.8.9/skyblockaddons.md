@@ -1,5 +1,8 @@
 # SkyblockAddons Alternatives
 
+Due to the existance of the updated [fork](https://modrinth.com/mod/skyblockaddons-unofficial), this list is no longer being updated and is only still here for archival purposes.
+
+
 This mod is now end of life and 
 will no longer have updates, which 
 could lead to many features breaking 

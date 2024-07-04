@@ -10,7 +10,7 @@ creator and he recommends using alternatives.
 * Blaze Solver - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Party Kicker - ? (Not very useful nowadays, many people switch classes after joining)
 * Riddle Solver - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Better Glowing Effect - ?
+* Better Glowing Effect - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Loot Tracker - ?
 
 # Contributors

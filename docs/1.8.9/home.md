@@ -16,7 +16,6 @@ Click the links below or use the sidebar navigation to find the list you want.
 - [5zig](https://alternatives.microcontrollers.dev/1.8.9/5zig)
 - [Dungeon Utilities](https://alternatives.microcontrollers.dev/1.8.9/dungeon_utilities)
 - [HyChat](https://alternatives.microcontrollers.dev/1.8.9/hychat)
-- [SkyblockAddons](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
 - [SkyblockCatia](https://alternatives.microcontrollers.dev/1.8.9/skyblockcatia)
 - [SkyblockExtras](https://alternatives.microcontrollers.dev/1.8.9/skyblockextras)
 - [Skyblock Reinvented](https://alternatives.microcontrollers.dev/1.8.9/skyblock_reinvented)
