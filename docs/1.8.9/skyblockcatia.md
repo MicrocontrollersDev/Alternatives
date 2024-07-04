@@ -11,7 +11,7 @@ if the features you use can be replaced.
 
 ### QoL
 
-* Jungle Axe Cooldown - ?
+* Jungle Axe Cooldown - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Grappling Hook Cooldown - ?
 * Zealot Respawn Cooldown - ?
 * Placed Summoning Eye Tracker - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -66,6 +66,7 @@ if the features you use can be replaced.
 * [Lisena](https://github.com/lisenaaaa)
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
 * [moisty](https://github.com/Mqisty)
+* [ooffyy](https://github.com/realooffyy)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
 * [Wyvest](https://github.com/Wyvest)
