@@ -10,10 +10,12 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
+| [Ksyxis](https://modrinth.com/mod/ksyxis) | Reduces world loading times. | [VidTu](https://github.com/VidTu) | This will disable spawn chunks for single player worlds. |
 | [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | One of the oldest performance mods for Minecraft. Required for many resource packs as well. | [sp614x](https://github.com/sp614x) | This is a direct download that skips OptiFine's ads. |
 | [PolyPatcher](https://sk1er.club/mods/patcher) | Patcher fixes several Minecraft bugs, adds many performance improvements, and adds many quality of life features. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Polyfrost](https://github.com/Polyfrost) | This is a fork of the original Patcher mod by Sk1er. It removes one-off features that have been improved in other mods, adds a few more QOL changes, and has several new bug fixes, crash fixes, and performance enhancements. |
-| [Ksyxis](https://modrinth.com/mod/ksyxis) | Reduces world loading times. | [VidTu](https://github.com/VidTu) | This will disable spawn chunks for single player worlds. |
+| [Redirector / Redirectionor](https://github.com/MCTeamPotato/Redirector/releases/latest) | Decreases memory usage by replacing enum value calls with static final field references. | [MCTeamPotato](https://github.com/MCTeamPotato) |
 | [QuickQuit](https://modrinth.com/mod/quickquit) | Allows closing Minecraft during the Forge resource loading screen when starting the game. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
+| [Velox Caelo](https://modrinth.com/mod/veloxcaelo) | Caches some OptiFine CIT calculations. | [nea89o](https://github.com/nea89o) | Requires OptiFine. |
 
 ### Other (needs to be sorted better eventually)
 
@@ -41,7 +43,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | Removes many things that Essential adds that you may not want. | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://sk1er.club/mods/refractionoof) | Plays custom sounds when you kill other players. | [powns](https://github.com/pownsgg) |
-| [Optibye](https://skyclient.co/mod/optibye) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | No source or official download available. The provided download is hosted on SkyClient. |
+| [Optibye](https://modrinth.com/mod/optibye) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | No source or official download available. The provided download is hosted on SkyClient. |
 | [OverflowAnimations](https://modrinth.com/mod/animationsatest) | Extremely precise and advanced old animations mod for 1.8.9. Also adds many other features such as backporting features and new features, as well as first person held item transformations. | [Polyfrost](https://github.com/Polyfrost) |
 | [OverflowParticles](https://modrinth.com/mod/overflowparticles) | Extremely precise and advanced particle mod for 1.8.9. | [Polyfrost](https://github.com/Polyfrost) |
 | [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | Adds many particle features such as fade out and customizable critical and sharpness particles. | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
@@ -71,10 +73,12 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [AutoGG](https://sk1er.club/mods/autogg) | Automatically say a selected phrase after a game has ended on supported servers. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [AutoTip](https://sk1er.club/mods/autotip) | An easy way to get experience and coins for free, automatically. | [Semx11](https://github.com/Semx11) & [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [BedWar Mod](https://modrinth.com/mod/bedwar-mod) | Multifeature mod for Hypixel Bedwars. | [CalMWolfs](https://github.com/CalMWolfs) |
+| [Height Limit Mod](https://modrinth.com/mod/hlm) | Shows the build limit of bedwars maps. | [catsonluna](https://github.com/catsonluna) |
 | [Hypixel Autocomplete](https://sk1er.club/mods/hypixel_auto_complete) | Allows you to autocomplete Hypixel commands to player names on your friends list, guild, and local players. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [Hytils Reborn](https://modrinth.com/mod/hytils) | Adds tons of Quality of Life features that you would want while on Hypixel, such as an advertisement blocker, auto queue, auto GL, height overlay, game status restyle, command auto complete for /play, and plenty other of features. | [Polyfrost](https://github.com/Polyfrost) |
 | [LevelHead](https://sk1er.club/mods/level_head) | Levelhead is built for the Hypixel server. The mod displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [Nick Hider](https://sk1er.club/mods/nick_hider) | Attempts to hides your identity on Hypixel when streaming. | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| [Not Enough Zombies](https://modrinth.com/mod/nez) | Utility mod for Hypixel Zombies. | [PingIsFun](https://github.com/mod/PingIsFun) |
 | [Popup Events](https://sk1er.club/mods/popup_events) | Popup Events allows you to swiftly accept any supported event on Hypixel. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [Quickjoin](https://modrinth.com/mod/quickjoin) | Quickly join any game on Hypixel via a custom GUI. | [QWERTZexe](https://github.com/QWERTZexe) |
 | [ReportPlus](https://github.com/ThatGravyBoat/ReportPlus/releases/latest) | Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
