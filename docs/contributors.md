@@ -12,7 +12,7 @@
 * [ChachyDev](https://github.com/ChachyDev)
 * [Coolbird1234](https://www.youtube.com/c/Bird69)
 * [De-Snail](https://github.com/De-Snail)
-* [Deftu](https://deftu.xyz)
+* [Deftu](https://github.com/Deftu)
 * [Digux](https://github.com/Diguhxe)
 * [DJtheRedstoner](https://github.com/DJtheRedstoner)
 * [Feel65](https://github.com/Feel65)
