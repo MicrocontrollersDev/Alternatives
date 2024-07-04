@@ -118,7 +118,7 @@ Feel free to make a pull request to add them.
 * Current Session Compact Progress - ?
 * $/hr From Gemstone Mining - ?
 * Forge NPC Price - ?
-* Current And Next CH Events - ?
+* Current And Next CH Events - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Metal Detector Solver - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Alert When All 4 Tools Found - ?
 
@@ -161,7 +161,7 @@ Feel free to make a pull request to add them.
 * Box For Blaze Towers - ?
 * Show Slayer Progress On Screen When Close - ?
 * Sync Other Boss Locations - ?
-* Disable Enderman Teleporting - ?
+* Disable Enderman Teleporting - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Outline Arachne Keeper - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Arachne Keeper Spawn Alert - ?
 * Nested Endermite Spawn Warning - ?
@@ -195,11 +195,11 @@ Feel free to make a pull request to add them.
 * Wishing Compass Message Hider - ?
 * Ascension Rope Message Hider - ?
 * Show Area Treasure - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Scatha Counter HUD - ?
+* Scatha Counter HUD - [NamelessJu's Scatha-Pro](https://modrinth.com/mod/scatha-pro)
 * Scatha Health HUD - ?
-* Worm/Scatha Spawn Alert - ?
+* Worm/Scatha Spawn Alert - [NamelessJu's Scatha-Pro](https://modrinth.com/mod/scatha-pro)
 * Worm/Scatha Spawn Message - ?
-* Scatha Pet Dropped Alert - ?
+* Scatha Pet Dropped Alert - [NamelessJu's Scatha-Pro](https://modrinth.com/mod/scatha-pro)
 
 ### Other
 
@@ -211,3 +211,4 @@ Feel free to make a pull request to add them.
 # Contributors
 
 * [CalMWolfs](https://github.com/CalMWolfs)
+* [ooffyy](https://github.com/realooffyy)
