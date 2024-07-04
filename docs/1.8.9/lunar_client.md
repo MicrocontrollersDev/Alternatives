@@ -97,10 +97,7 @@ I do not have Lunar Client and don't intend on downloading it. If you know where
 
 ### Skyblock
 
-* SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
-* NotEnoughUpdates - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
-* Skytils - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Cowlection - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
+For a list of Skyblock mods please see my other list [here](https://alternatives.microcontrollers.dev/1.8.9/modlist/#skyblock).
 
 ### Visual Mods
 

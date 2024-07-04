@@ -190,7 +190,7 @@ that you avoid using it if possible.
 * Send To Server - ?
 * Settings Profile Mod - [leduyquang753's Controls Saved](https://drive.google.com/uc?authuser=0&id=1di1XQ_JNcVOt2RyCyZncsua7Vi5ar_fo&export=download)
 * ShinyPots - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
-* SkyblockAddons - [See alternatives](https://alternatives.microcontrollers.dev/1.8.9/skyblockaddons)
+* SkyblockAddons - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * SoundPlayer - ?
 * Spotify - [ThatGravyBoat's Craftify](https://modrinth.com/mod/craftify)
 * TeamSpeak - ?
