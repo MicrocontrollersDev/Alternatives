@@ -21,7 +21,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [20-20-20](https://github.com/MicrocontrollersDev/20-20-20/releases/latest) | A mod that reminds users to take a short break to avoid eye strain. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Microcontrollers](https://github.com/MicrocontrollersDev) | This is a fork of the original mod, but utilizing OneConfig. |
+| [20-20-20](https://modrinth.com/mod/20-20-20) | A mod that reminds users to take a short break to avoid eye strain. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Microcontrollers](https://github.com/MicrocontrollersDev) | This is a fork of the original mod, but utilizing OneConfig. |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Replaces the standard flat second layer of player skins with a 3D modeled version. | [tr7zw](https://github.com/tr7zw) |
 | [BehindYouV3](https://modrinth.com/mod/behindyou) | A modern, non-2018 take on the BehindYou mod. Allows looking behind you without pressing F5 twice. Also adds camera animations. | [Polyfrost](https://github.com/Polyfrost) |
 | [Better Hurt Cam](https://modrinth.com/mod/forge-betterhurtcam) | Lets you customize the hurtcam when hit. | [Scherso](https://github.com/Scherso) |
