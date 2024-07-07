@@ -10,7 +10,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [Ksyxis](https://modrinth.com/mod/ksyxis) | Reduces world loading times. | [VidTu](https://github.com/VidTu) | This will disable spawn chunks for single player worlds. |
+| [Ksyxis](https://modrinth.com/mod/ksyxis) | Reduces world loading times. | [VidTu](https://github.com/VidTu) | This mod only works in single player and will disable spawn chunks entirely. |
 | [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | One of the oldest performance mods for Minecraft. Required for many resource packs as well. | [sp614x](https://github.com/sp614x) | This is a direct download that skips OptiFine's ads. |
 | [PolyPatcher](https://sk1er.club/mods/patcher) | Patcher fixes several Minecraft bugs, adds many performance improvements, and adds many quality of life features. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Polyfrost](https://github.com/Polyfrost) | This is a fork of the original Patcher mod by Sk1er. It removes one-off features that have been improved in other mods, adds a few more QOL changes, and has several new bug fixes, crash fixes, and performance enhancements. |
 | [Redirector / Redirectionor](https://github.com/MCTeamPotato/Redirector/releases/latest) | Decreases memory usage by replacing enum value calls with static final field references. | [MCTeamPotato](https://github.com/MCTeamPotato) |
