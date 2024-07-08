@@ -70,7 +70,6 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [AutoGG](https://sk1er.club/mods/autogg) | Automatically say a selected phrase after a game has ended on supported servers. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [AutoTip](https://sk1er.club/mods/autotip) | An easy way to get experience and coins for free, automatically. | [Semx11](https://github.com/Semx11) & [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [BedWar Mod](https://modrinth.com/mod/bedwar-mod) | Multifeature mod for Hypixel Bedwars. | [CalMWolfs](https://github.com/CalMWolfs) |
 | [Height Limit Mod](https://modrinth.com/mod/hlm) | Shows the build limit of bedwars maps. | [catsonluna](https://github.com/catsonluna) |
