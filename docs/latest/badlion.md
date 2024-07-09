@@ -30,34 +30,34 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Hypixel Mods
 
-* AutoGG - [ZtereoHYPE's AutoTechno](https://modrinth.com/mod/autotechno)
+* AutoGG - ?
 * AutoTip - ?
 * Levelhead - ?
 * HyStats - ?
 
 ### HUD Mods
 
-* Armor Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Bossbar - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* CPS Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Combo Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Coordinates - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Armor Status - ?
+* Bossbar - ?
+* CPS Counter - ?
+* Combo Counter - ?
+* Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
 * Crosshair Mod - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* Direction - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* FPS Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Direction - [madjoel's Where Am I Going](https://modrinth.com/mod/waig)
+* FPS Counter - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
 * Keystrokes - [Spyxar's TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Ingame Server Switcher - ?
-* Item Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Item Counter - ?
 * Item Info - ?
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * MiniMap **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * Pack Display - ?
-* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Potion Status - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Reach Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Ping - ?
+* Potion Status - ?
+* Reach Display - ?
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
-* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Server Address HUD - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Scoreboard - [Microcontrolers's Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
+* Server Address HUD - ?
 * Stopwatch - ?
 * Timers - ?
 
@@ -76,9 +76,9 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
     * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)
 * Enchant Glint - ?
 * FOV - ?
-* Fullbright - [Serilum's Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle)
-* Hitboxes - [ErrorGamer2000's Pretty Hitboxes](https://modrinth.com/mod/pretty-hitboxes)
-* Inventory Blur - [Motschen's Blur](https://modrinth.com/mod/blur-fabric)
+* Fullbright - [AnOpenSauceDev's Methane](https://modrinth.com/mod/methane)
+* Hitboxes - ?
+* Inventory Blur - [Motschen's Blur+](https://modrinth.com/mod/blur-fabric)
 * Motion Blur - [Noryea's Motion Blur](https://modrinth.com/mod/motionblur)
 * Nick Hider - ?
 * Particle Mod - ?

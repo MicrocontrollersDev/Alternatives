@@ -19,7 +19,7 @@ mod authors and it is advised against supporting them.
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - Partially in vanilla's accessibility menu
 * Glint - ?
-* Hitbox - [ErrorGamer2000's Pretty Hitboxes](https://modrinth.com/mod/pretty-hitboxes)
+* Hitbox - ?
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * Nick Hider - ?
 * Particles - ?
@@ -32,27 +32,27 @@ mod authors and it is advised against supporting them.
 
 * Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
 * Attack Indicator - [Minenash's Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
-* Boss Bar - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* CPS - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Combo Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Boss Bar - ?
+* CPS - ?
+* Combo Display - ?
 * Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* Direction - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Direction - [madjoel's Where Am I Going](https://modrinth.com/mod/waig)
 * FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
-* Item Counter - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Item Counter - ?
 * Item Info - ?
 * Pack Display - ?
-* Ping - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Potion Effects - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Reach Display - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Ping - ?
+* Potion Effects - ?
+* Reach Display - ?
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
-* Scoreboard - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
-* Time - [DarkKronicle's KronHUD](https://modrinth.com/mod/kronhud)
+* Scoreboard - [Microcontrolers's Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
+* Time - ?
 
 ### Hypixel
 
 * AutoFriend - ?
 * Auto Tip - ?
-* Auto GG - [ZtereoHYPE's AutoTechno](https://modrinth.com/mod/autotechno)
+* Auto GG - ?
 * Anti GG - ?
 * LevelHead - ?
 
@@ -73,8 +73,8 @@ mod authors and it is advised against supporting them.
 
 ### Blur Settings
 
-* Inventory - [Motschen's Blur](https://modrinth.com/mod/blur-fabric)
-* Menu - [Motschen's Blur](https://modrinth.com/mod/blur-fabric)
+* Inventory - [Motschen's Blur+](https://modrinth.com/mod/blur-fabric)
+* Menu - [Motschen's Blur+](https://modrinth.com/mod/blur-fabric)
 
 ### Sound
 
@@ -134,7 +134,7 @@ mod authors and it is advised against supporting them.
 ## External Mods
 
 * [Replay Mod](https://modrinth.com/mod/replaymod)
-* [OptiFine](https://optifine.net)
+* [OptiFine](https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements) <- see alternatives
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * [MumbleLink](https://modrinth.com/mod/mumble-link)
 * [HD Skins](https://www.hdskins.de/)

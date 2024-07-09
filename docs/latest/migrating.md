@@ -187,7 +187,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Clear Skies](https://modrinth.com/mod/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) | | | The 1.19 version works on 1.20.6. |
 | [Extended Clouds](https://modrinth.com/mod/extended-clouds) (No 1.20.6 Yet) | Changes cloud render distance to be same as your set render distance. | [alphaqu](https://github.com/alphaqu) |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [vlad2305m](https://github.com/vlad2305m), [thedocruby](https://github.com/thedocruby) & [henkelmax](https://github.com/henkelmax)|
-| [Screencapper](https://modrinth.com/mod/screencapper) (No 1.20.6 Yet) | Improves the way you share and view screenshots. | [Deftu](https://github.com/Deftu) |
+| [Screencapper](https://modrinth.com/mod/screencapper) | Improves the way you share and view screenshots. | [isXander](https://github.com/isXander) & [Deftu](https://github.com/Deftu) | [Fabric API](https://modrinth.com/mod/fabric-api), [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin), [DeftuLib](https://modrinth.com/mod/deftulib) |
 | [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui) | Improves the command block user interface by allowing for visual newlining . | [Tectato](https://github.com/Tectato) |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats) | A visual overhaul to the statistics screen, giving useful information in a much more visually appealing format. | [TheCSDev](https://github.com/TheCSDev) |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | Shows a player's head next to their chat message in game. | [dzwdz](https://github.com/dzwdz) |
@@ -209,6 +209,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Axiom](https://modrinth.com/mod/axiom) | An alternative to WorldEdit and VoxelSniper to make building in singleplayer much easier. | [Moulberry](https://github.com/Moulberry) |
 | [Sounds](https://modrinth.com/mod/sound) | Adds many more sounds to Minecraft for things that did not previously have sounds. | [mineblock11](https://github.com/mineblock11) |
 | [TipTapShow](https://modrinth.com/mod/tiptapshow) | A keystrokes mod for modern fabric. | [Spyxar](https://github.com/Spyxar) | [Fabric API](https://modrinth.com/mod/fabric-api) |
+| [Favorita](https://modrinth.com/mod/favorita) | A basic item favoriting mod, allowing you to stop yourself from discarding of important items. | [Deftu](https://github.com/Deftu) | [Fabric API](https://modrinth.com/mod/fabric-api), [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin), [TextileLib](https://modrinth.com/mod/textile-lib), [OmniCore](https://modrinth.com/mod/omnicore) |
 
 ### Skyblock Mods
 

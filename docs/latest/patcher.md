@@ -31,7 +31,7 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Better Keybind Handling - Vanilla
 - Separate Sound & Texture Reloading - ?
 - Disable Hotbar Scrolling - [Microcontrollers's Scroll Tweaks](https://modrinth.com/mod/scrolltweaks)
-- Crosshair Perspective - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- Crosshair Perspective - [Microcontrollers's Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 - Unfocused Sounds - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - Unfocused FPS - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - Unfocused FPS Amount - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
@@ -55,7 +55,7 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Simplify FPS Counter - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
 - Use Vanilla Metrics Renderer - Irrelevant
 - Nausea Effect - Vanilla
-- Disable Achievements - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- Disable Achievements - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - Fire Overlay Height - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 - Fire Overlay Opacity - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 - Hide Fire Overlay with Fire Resistance - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
@@ -71,7 +71,7 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Translate Unknown Roman Numerals - ?
 - Clean View - [LainMI's CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric)
 - Disable Breaking Particles - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
-- Disable Lightning Bolts - ?
+- Disable Lightning Bolts - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 - Alternate Text Shadow - ?
 - Add Text Shadow to Nametags - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 - Add Text Shadow to Actionbar - [isXander's Debugify](https://modrinth.com/mod/debugify)
@@ -79,12 +79,12 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Disable Text Shadow - [Microcontrollers's Sciophobia](https://modrinth.com/mod/sciophobia)
 - Left Hand in First Person - Vanilla
 - Toggle Tab - ?
-- Number Ping - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Disable Titles - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Title Scale - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Automatically Scale Title - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Title Opacity - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Windowed Fullscreen - [comp500's Borderless Mining](https://modrinth.com/mod/borderless-mining)
+- Number Ping - [Microcontrollers's Tab Tweaks](https://modrinth.com/mod/tabtweaks)
+- Disable Titles - [Microcontrollers's Title Tweaks](https://modrinth.com/mod/titletweaks)
+- Title Scale - [Microcontrollers's Title Tweaks](https://modrinth.com/mod/titletweaks)
+- Automatically Scale Title - [Microcontrollers's Title Tweaks](https://modrinth.com/mod/titletweaks)
+- Title Opacity - [Microcontrollers's Title Tweaks](https://modrinth.com/mod/titletweaks)
+- Windowed Fullscreen - [Kir_Antipov's Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
 - Instant Fullscreen - ?
 - Fix Action Bar Overlap - ?
 
@@ -146,14 +146,14 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Chat Timestamps Format - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 - Show Seconds on Timestamps - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 - Safe Chat Clicks - ?
-- Damage Glance - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- Damage Glance - ?
 - Item Count Glance - ?
-- Enchantment Glance - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- Enchantment Glance - ?
 - Protection Percentage - ?
 - Projectile Protection Percentage - ?
 - Container Backgrounds - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 - Container Opacity - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- GUI Crosshair - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- GUI Crosshair - [Microcontrollers's Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 - Startup Notification - ?
 - Clean Main Menu - Irrelevant
 - Open to LAN Replacement - ?
@@ -163,22 +163,17 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Inventory Position - Vanilla
 - Click Out of Containers - ?
 - Inventory Scale - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Tab Opacity - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Tab Height - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Set Tab Height - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- Tab Opacity - [Microcontrollers's Tab Tweaks](https://modrinth.com/mod/tabtweaks)
+- Tab Height - [Microcontrollers's Tab Tweaks](https://modrinth.com/mod/tabtweaks)
+- Set Tab Height - [Microcontrollers's Tab Tweaks](https://modrinth.com/mod/tabtweaks)
 
 ### Screenshots
 
-- No Feedback - ?
-- Compact Response - ?
 - Favorite Screenshot - ?
-- Delete Screenshot - ?
-- Upload Screenshot - ?
-- Copy Screenshot - ?
-- Open Screenshots Folder - ?
-- Screenshot Manager - ?
-- Auto Copy Screenshot - ?
-- Screenshot Preview - ?
-- Preview Time - ?
-- Preview Animation - ?
-- Preview Scale - ?
+- Delete Screenshot - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
+- Upload Screenshot - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
+- Copy Screenshot - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
+- Open Screenshots Folder - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
+- Screenshot Manager - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
+- Auto Copy Screenshot - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
+- Screenshot Preview - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
