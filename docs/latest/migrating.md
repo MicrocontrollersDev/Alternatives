@@ -274,8 +274,8 @@ These are mods that are not recommended for use. They have either been replaced 
 
 | Mod | Reasoning | Author |
 | --- | --- | --- |
-| More Culling | This mod should help a bit, but its performance improvements haven't been proven to exist, and it has caused several issues and crashes so far for many users. | [fxmorin](https://github.com/fxmorin) |
-| MemoryLeakFix | While this mod does fix some memory leaks, it's rendered almost entirely useless when using FerriteCore and may causes issues and crashes with other mods, and the leaks it fixes are not major enough to be worth it. | [fxmorin](https://github.com/fxmorin) |
+| More Culling | This mod is made by a user who was been exposed for making malware. Additionally, it causes many weird crashes. | [fxmorin](https://github.com/fxmorin) |
+| MemoryLeakFix | This mod is made by a user who was been exposed for making malware. Additionally, it too causes many weird crashes. | [fxmorin](https://github.com/fxmorin) |
 | Starlight | Starlight rewrotes the light engine to make loading chunks much quicker. Mojang has now included this fix in 1.20 and Starlight is no longer needed. Despite the fact that updates are still being made, the developer says there is no point in using them. | [Spottedleaf](https://github.com/Spottedleaf) |
 | Not Enough Crashes | NEC regularly causes the game to be in an invalid state and blames the wrong mods for crashes, making it harder for mod devs to debug. It is also marked incompatible with Iris and possibly other mods. | [natanfudge](https://github.com/natanfudge) |
 | Better Beds | BetterBeds has been replaced by Enhanced Block Entities. Feel free to use if Enhanced Block Entities is not yet updated to the current version.| [Motschen](https://github.com/Motschen) |
