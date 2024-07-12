@@ -77,7 +77,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Enchant Glint - ?
 * FOV - ?
 * Fullbright - [AnOpenSauceDev's Methane](https://modrinth.com/mod/methane)
-* Hitboxes - ?
+* Hitboxes - [PingIsFun's HitBox+](https://modrinth.com/mod/hitboxplus)
 * Inventory Blur - [Motschen's Blur+](https://modrinth.com/mod/blur-fabric)
 * Motion Blur - [Noryea's Motion Blur](https://modrinth.com/mod/motionblur)
 * Nick Hider - ?

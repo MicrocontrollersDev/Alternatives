@@ -107,7 +107,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Block Outline - [Microcontrollers's Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * TNT Timer Mod - [shateq's TNTTime](https://modrinth.com/mod/tnttime)
-* Hitbox - ?
+* Hitbox - [PingIsFun's HitBox+](https://modrinth.com/mod/hitboxplus)
 * 3D Skin Layers - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 
 ### Other Mods

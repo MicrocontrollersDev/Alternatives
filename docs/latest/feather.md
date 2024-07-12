@@ -19,7 +19,7 @@ mod authors and it is advised against supporting them.
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - Partially in vanilla's accessibility menu
 * Glint - ?
-* Hitbox - ?
+* Hitbox - [PingIsFun's HitBox+](https://modrinth.com/mod/hitboxplus)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * Nick Hider - ?
 * Particles - ?
