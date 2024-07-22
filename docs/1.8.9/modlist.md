@@ -77,11 +77,11 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Hytils Reborn](https://modrinth.com/mod/hytils) | Adds tons of Quality of Life features that you would want while on Hypixel, such as an advertisement blocker, auto queue, auto GL, height overlay, game status restyle, command auto complete for /play, and plenty other of features. | [Polyfrost](https://github.com/Polyfrost) |
 | [LevelHead](https://sk1er.club/mods/level_head) | Levelhead is built for the Hypixel server. The mod displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [Nick Hider](https://sk1er.club/mods/nick_hider) | Attempts to hides your identity on Hypixel when streaming. | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| [Not Enough Zombies](https://modrinth.com/mod/nez) | Utility mod for Hypixel Zombies. | [PingIsFun](https://github.com/mod/PingIsFun) |
 | [Popup Events](https://sk1er.club/mods/popup_events) | Popup Events allows you to swiftly accept any supported event on Hypixel. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [Quickjoin](https://modrinth.com/mod/quickjoin) | Quickly join any game on Hypixel via a custom GUI. | [QWERTZexe](https://github.com/QWERTZexe) |
 | [ReportPlus](https://github.com/ThatGravyBoat/ReportPlus/releases/latest) | Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
 | [Reward Claim](https://modrinth.com/mod/reward-claim) | Reward Claim allows you to claim your Hypixel rewards in-game rather than on their website. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
+| [Zombies-Utils](https://github.com/Stachelbeere1248/zombies-utils/releases/latest) | Utility mod for Hypixel Zombies. | [Stachelbeere1248](https://github.com/Stachelbeere1248) |
 
 ### SkyBlock
 
