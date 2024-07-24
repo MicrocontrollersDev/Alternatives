@@ -12,7 +12,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | --- | --- | --- | --- |
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | Reduces world loading times. | [VidTu](https://github.com/VidTu) | This mod only works in single player and will disable spawn chunks entirely. |
 | [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | One of the oldest performance mods for Minecraft. Required for many resource packs as well. | [sp614x](https://github.com/sp614x) | This is a direct download that skips OptiFine's ads. |
-| [PolyPatcher](https://sk1er.club/mods/patcher) | Patcher fixes several Minecraft bugs, adds many performance improvements, and adds many quality of life features. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Polyfrost](https://github.com/Polyfrost) | This is a fork of the original Patcher mod by Sk1er. It removes one-off features that have been improved in other mods, adds a few more QOL changes, and has several new bug fixes, crash fixes, and performance enhancements. |
+| [PolyPatcher](https://modrinth.com/mod/patcher) | Patcher fixes several Minecraft bugs, adds many performance improvements, and adds many quality of life features. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Polyfrost](https://github.com/Polyfrost) | This is a fork of the original Patcher mod by Sk1er. It removes one-off features that have been improved in other mods, adds a few more QOL changes, and has several new bug fixes, crash fixes, and performance enhancements. |
 | [QuickQuit](https://modrinth.com/mod/quickquit) | Allows closing Minecraft during the Forge resource loading screen when starting the game. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [Redirector / Redirectionor](https://github.com/MCTeamPotato/Redirector/releases/latest) | Decreases memory usage by replacing enum value calls with static final field references. | [MCTeamPotato](https://github.com/MCTeamPotato) |
 | [Velox Caelo](https://modrinth.com/mod/veloxcaelo) | Caches some OptiFine CIT calculations. | [nea89o](https://github.com/nea89o) | Requires OptiFine. |
@@ -44,7 +44,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | Removes many things that Essential adds that you may not want. | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://sk1er.club/mods/refractionoof) | Plays custom sounds when you kill other players. | [powns](https://github.com/pownsgg) |
 | [Optibye](https://modrinth.com/mod/optibye) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | No source or official download available. The provided download is hosted on SkyClient. |
-| [OverflowAnimations](https://modrinth.com/mod/animationsatest) | Extremely precise and advanced old animations mod for 1.8.9. Also adds many other features such as backporting features and new features, as well as first person held item transformations. | [Polyfrost](https://github.com/Polyfrost) |
+| [OverflowAnimations](https://modrinth.com/mod/animations) | Extremely precise and advanced old animations mod for 1.8.9. Also adds many other features such as backporting features and new features, as well as first person held item transformations. | [Polyfrost](https://github.com/Polyfrost) |
 | [OverflowParticles](https://modrinth.com/mod/overflowparticles) | Extremely precise and advanced particle mod for 1.8.9. | [Polyfrost](https://github.com/Polyfrost) |
 | [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | Adds many particle features such as fade out and customizable critical and sharpness particles. | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [PolyCrosshair](https://modrinth.com/mod/crosshair) | An extremely customizable crosshair mod. | [Polyfrost](https://github.com/Polyfrost) |
@@ -109,24 +109,41 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 
 ### Do Not Use (need a better name)
 
-WIP, needs to be table-ized and prettified
-
-- AutoGG
-    - Use Hytils Reborn
-- Lobby Sounds
-    - Use Hytils Reborn
-- Patcher
-    - Use PolyPatcher
-- Scrollable Tooltips
-    - Use VanillaHUD
-- Sk1er Old Animations Mod
-    - Use Overflow Animations
-- Soopy
-    - Discontinued, [see alternatives](https://alternatives.microcontrollers.dev/1.8.9/soopy)
-- Smooth Scrolling Everywhere
-    - Use PolyPatcher
-- Resource Pack Organizer
-    - Use Resource Pack Manager
+| Mod | Reason | Author |
+| --- | --- | --- |
+| AutoGG | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | Sk1erLLC | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Better Night Vision | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Microcontrollers](https://github.com/MicrocontrollerseDev) |
+| BetterScaledGui | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Moulberry](https://github.com/Moulberry) |
+| Case Commands | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Command Patcher | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Compact Chat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Clean View | Use [OverflowParticles](https://modrinth.com/mod/overflowparticles) | [LianMI](https://github.com/zlainsama) |
+| Cross Chat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Fullbright | Use [PolyPatcher](https://modrinth.com/mod/patcher) | Unknown |
+| InputFix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [LianMI](https://github.com/zlainsama) |
+| Item Optimizations | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Lobby Sounds | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| MCHudCaching | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Moulberry](https://github.com/Moulberry) |
+| Memory Fix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Mouse Delay Fix | Use [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Mouse Bind Fix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| NoCloseMyChat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| NoScroll | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Revxrsal](https://hypixel.net/members/revxrsal.1109532) |
+| OldAnimationsMod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [spiderfrog](https://www.youtube.com/channel/UC0Cz31K6IE09o8LF5Hpzymw) |
+| Patcher | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| PortalInputFix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | Asbyth |
+| QuickPlay | Use [Quickjoin](https://modrinth.com/mod/quickjoin) & [Reward Claim](https://modrinth.com/mod/reward-claim) | [bugfroggy](https://github.com/robere2) |
+| Resource Exploit Fix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Resource Pack Organizer | Use [Resource Pack Manager](https://skyclient.co/mod/rpm) | [chylex](https://github.com/chylex) |
+| Scrollable Tooltips | Use [VanillaHUD](https://modrinth.com/mod/vanillahud) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| ServerListBufferFixer | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Sk1er Old Animations Mod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [Sk1erLLC](https://github.com/Sk1erLLC)
+| Soopy | Discontinued, [see alternatives](https://alternatives.microcontrollers.dev/1.8.9/soopy) |
+| Smooth Scrolling Everywhere | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| TCPNoDelay | This issue was fixed in vanilla Minecraft 1.8.1 | [prplz](https://github.com/prplz) |
+| Vanilla Enhancements | Use [PolyPatcher](https://modrinth.com/mod/patcher) & [Chatting](https://modrinth.com/mod/chatting) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
+| Void Chat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [skyerzz](https://github.com/skyerzz) |
+| Windowed Fullscreen | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 
 # Contributors
 
