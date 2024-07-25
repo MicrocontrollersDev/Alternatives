@@ -34,7 +34,8 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Controlling](https://modrinth.com/mod/controlling) | Adds more options in controls menu to make it easier to navigate. | [jaredlll08](https://github.com/jaredlll08) |
 | [Craftify](https://modrinth.com/mod/craftify) | Craftify allows you to connect to music services to display and control them in-game. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | Supports Spotify, Apple Music, YouTube, Foobar, and DeaDBeeF. |
 | [CrashPatch](https://modrinth.com/mod/crashpatch) | Attempts to stops crashes from closing your game and provides a solution if found. | [Polyfrost](https://github.com/Polyfrost) | CrashPatch is meant for simpler crashes and may lead to a broken gamestate. Restart your game should this happen. |
-| [DamageTilt](https://skyclient.co/mod/damagetilt) | Makes your camera tilt in a different direction based on the origin of damage. | [Charles445](https://github.com/Charles445) | Provided download is from SkyClient due to the GitHub release containing many binaries for different versions and potentially being confusing. Official downloads can be found ]here](https://github.com/Charles445/DamageTilt/releases/latest) |
+| [DamageTilt](https://skyclient.co/mod/damagetilt) | Makes your camera tilt in a different direction based on the origin of damage. | [Charles445](https://github.com/Charles445) | Provided download is from SkyClient due to the GitHub release containing many binaries for different versions and potentially being confusing. Official downloads can be found [here](https://github.com/Charles445/DamageTilt/releases/latest) |
+| [Entity Glow](https://modrinth.com/mod/entity-glow) | Backports 1.9+'s entity glow/outline feature to 1.8.9. | [Microcontrollers](https://github.com/MicrocontrollersDev)
 | [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | Adds many popular HUD elements not included in other mods. | [isXander](https://github.com/isXander) & [Polyfrost](https://github.com/Polyfrost) |
 | [Glint Colorizer](https://modrinth.com/mod/glintcolorizer) | Lets you customize the glint color of items. | [Polyfrost](https://github.com/Polyfrost) |
 | [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9) | Makes dropped items land on the ground realistically instead of falling straight and floating. | [CreativeMD](https://github.com/CreativeMD) |
@@ -122,6 +123,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | Fullbright | Use [PolyPatcher](https://modrinth.com/mod/patcher) | Unknown |
 | InputFix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [LianMI](https://github.com/zlainsama) |
 | Item Optimizations | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| LobbyGlow | Use [Entity Glow](https://modrinth.com/mod/entity-glow) | [Biscuut](https://github.com/biscuut) |
 | Lobby Sounds | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | MCHudCaching | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Moulberry](https://github.com/Moulberry) |
 | Memory Fix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
