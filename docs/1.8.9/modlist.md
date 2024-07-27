@@ -108,7 +108,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Synthesis](https://github.com/SynthesisMod/Synthesis/releases/latest) | Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else. | [Antonio32A](https://github.com/Antonio32A), [ComplexOrigin](https://github.com/complexorigin), [Desco1](https://github.com/Desco1), [RayDeeUx](https://github.com/RayDeeUx) |
 | [WaterSolver](https://github.com/Desco1/WaterSolver) | A simple Water Board solver. Solves all 40 Water Board layouts in a single water flow, considerably faster than other solvers. | [Desco1](https://github.com/Desco1) |
 
-### Do Not Use (need a better name)
+### Not Recommended
 
 | Mod | Reason | Author |
 | --- | --- | --- |
