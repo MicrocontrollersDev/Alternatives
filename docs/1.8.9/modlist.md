@@ -114,6 +114,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | --- | --- | --- |
 | AutoGG | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Better Night Vision | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Microcontrollers](https://github.com/MicrocontrollerseDev) |
+| BetterFPS | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Guichaguri](https://github.com/Guichaguri) |
 | BetterScaledGui | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Moulberry](https://github.com/Moulberry) |
 | Case Commands | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Command Patcher | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
