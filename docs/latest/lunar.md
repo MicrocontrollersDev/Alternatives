@@ -150,7 +150,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 #### Texture Pack Options
 
 * Transparent Background - ?
-* Red String - Texture Pack
+* Red String - Use a resource pack
 
 ### Performance
 
@@ -184,5 +184,5 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 # Contributors
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)
 * [Tricked](https://github.com/Tricked-dev)

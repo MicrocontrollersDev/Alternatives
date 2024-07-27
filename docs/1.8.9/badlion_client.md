@@ -192,4 +192,4 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 * [Salmon](https://github.com/Scherso)
 * [Solonovamax](https://github.com/solonovamax)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)

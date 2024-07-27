@@ -19,4 +19,4 @@ the game.
 
 * [CalMWolfs](https://github.com/CalMWolfs)
 * [moisty](https://github.com/Mqisty)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)

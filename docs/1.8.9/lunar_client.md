@@ -166,7 +166,7 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 #### Texture Pack Options
 
 * Transparent Background - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar)
-* Red String - ? (can be accomplished via a texture pack)
+* Red String - Use a resource pack
 
 ### Performance
 
@@ -195,7 +195,7 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 * Discord Rich Presence - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * In Game Account Switcher - [The-Fireplace's In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 * In Game Server Switcher - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Save Controls Between Versions - [leduyquang753's Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/)
+* Save Controls Between Versions - [leduyquang753's Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689)
 * Polling Rate Warning - [yukiqt, Mixces, & RayDeeUx's RawInput](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) (This ACTUALLY fixes the problem instead of warning you about it)
 
 # Contributors
@@ -214,4 +214,4 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 * [Salmon](https://github.com/Scherso)
 * [Solonovamax](https://github.com/solonovamax)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)

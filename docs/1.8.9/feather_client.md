@@ -144,8 +144,8 @@ mod authors and it is advised against supporting them.
 * [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://optifine.net)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-* [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
-* [HD Skins](https://www.hdskins.de/)
+* [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410)
+* [HD Skins](https://www.hdskins.de)
 * [ResourcePack Organizer](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Aycy's Resource Pack Manager instead)
 
 # Contributors
@@ -161,4 +161,4 @@ mod authors and it is advised against supporting them.
 * [Systemless](https://github.com/SystemlessDev)
 * [Tricked](https://github.com/Tricked-dev)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)

@@ -69,4 +69,4 @@ This list is based off of the latest version of 5zig Reborn.
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [moisty](https://github.com/Mqisty)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)

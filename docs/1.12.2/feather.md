@@ -140,9 +140,9 @@ mod authors and it is advised against supporting them.
 * [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files?version=1.12.2)
-* [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
+* [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410)
 * [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files?version=1.12.2)
-* [HD Skins](https://www.hdskins.de/)
+* [HD Skins](https://www.hdskins.de)
 * [ResourcePack Organizer](https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer/files?version=1.12.2)
 
 # Contributors
@@ -157,4 +157,4 @@ mod authors and it is advised against supporting them.
 * [Systemless](https://github.com/SystemlessDev)
 * [Tricked](https://github.com/Tricked-dev)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)

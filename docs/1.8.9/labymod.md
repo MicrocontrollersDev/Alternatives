@@ -79,7 +79,7 @@ that you avoid using it if possible.
 * Show Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
 * Sign Search - ?
 * Left Hand - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Discord Rich Presence - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
+* Discord Rich Presence - [connorlinfoot's DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606) / [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * Custom Name Tags - ? ([Polyfrost's REDACTION](https://modrinth.com/mod/redaction) for highlighting names)
 
 ### Cosmetics
@@ -172,7 +172,7 @@ that you avoid using it if possible.
 * HDSkins - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files?version=1.8.9)
 * HeadOwner - ?
 * Hotbar - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
-* Hypixel Quick Play - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
+* Hypixel Quick Play - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410)
 * HyPlus - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) (somewhat)
 * I Love Music - ?
 * Instagram - ?
@@ -221,4 +221,4 @@ that you avoid using it if possible.
 * [ToggledX](https://github.com/ToggledX)
 * [usb](https://github.com/U5B)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)

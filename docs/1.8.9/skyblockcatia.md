@@ -38,7 +38,7 @@ if the features you use can be replaced.
 
 ### Miscellaneous
 
-* Right Click to Add Party - [Am4nso's MiddleClickParty](https://hypixel.net/threads/forge-1-8-9-middleclickparty-invite-players-to-your-party-by-middle-clicking.3349916/)
+* Right Click to Add Party - [Am4nso's MiddleClickParty](https://hypixel.net/threads/forge-1-8-9-middleclickparty-invite-players-to-your-party-by-middle-clicking.3349916)
 * Sneak to Open Inventory While Fighting Dragon - ?
 * Lobby Player Count - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Show Obtained Date - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest)
@@ -70,4 +70,4 @@ if the features you use can be replaced.
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)

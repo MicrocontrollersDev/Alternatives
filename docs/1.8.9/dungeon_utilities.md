@@ -16,4 +16,4 @@ creator and he recommends using alternatives.
 # Contributors
 
 * [RayDeeUx](https://github.com/RayDeeUx)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)

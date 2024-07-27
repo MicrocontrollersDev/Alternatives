@@ -4,7 +4,7 @@ A work-in-progress list of 1.8.9 mods. Please feel free to contribute!
 
 ### How to Install
 
-To install Forge for 1.8.9, please read the [guides for installing Modrinth or Prism Launcher](https://alternatives.microcontrollers.dev/launcher/home/). You can install either one. Installing Forge for the official Minecraft launcher is not recommended and will not be supported by this guide.
+To install Forge for 1.8.9, please read the [guides for installing Modrinth or Prism Launcher](https://alternatives.microcontrollers.dev/launcher/home). You can install either one. Installing Forge for the official Minecraft launcher is not recommended and will not be supported by this guide.
 
 ### Performance
 
@@ -32,7 +32,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [ChatTriggers](https://modrinth.com/mod/chattriggers) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. | [ChatTriggers Team](https://github.com/ChatTriggers) | Modules can be found on [their site](https://www.chattriggers.com/modules), and depending on their quality may substantially decrease FPS. |
 | [ColorSaturation](https://modrinth.com/mod/colorsaturation) | Simple color saturation mod for 1.8.9. | [Polyfrost](https://github.com/Polyfrost) |
 | [Controlling](https://modrinth.com/mod/controlling) | Adds more options in controls menu to make it easier to navigate. | [jaredlll08](https://github.com/jaredlll08) |
-| [Craftify](https://modrinth.com/mod/craftify) | Craftify allows you to connect to music services to display and control them in-game. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | Supports Spotify, Apple Music, YouTube, Foobar, and DeaDBeeF. |
+| [Craftify](https://modrinth.com/mod/craftify) | Craftify allows you to connect to music services to display and control them in-game. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | Supports Spotify, Apple Music, YouTube, Foobar, and DeaDBeeF. | Uses Essential. |
 | [CrashPatch](https://modrinth.com/mod/crashpatch) | Attempts to stops crashes from closing your game and provides a solution if found. | [Polyfrost](https://github.com/Polyfrost) | CrashPatch is meant for simpler crashes and may lead to a broken gamestate. Restart your game should this happen. |
 | [DamageTilt](https://skyclient.co/mod/damagetilt) | Makes your camera tilt in a different direction based on the origin of damage. | [Charles445](https://github.com/Charles445) | Provided download is from SkyClient due to the GitHub release containing many binaries for different versions and potentially being confusing. Official downloads can be found [here](https://github.com/Charles445/DamageTilt/releases/latest) |
 | [Entity Glow](https://modrinth.com/mod/entity-glow) | Backports 1.9+'s entity glow/outline feature to 1.8.9. | [Microcontrollers](https://github.com/MicrocontrollersDev)
@@ -44,7 +44,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | Removes many things that Essential adds that you may not want. | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://sk1er.club/mods/refractionoof) | Plays custom sounds when you kill other players. | [powns](https://github.com/pownsgg) |
-| [Optibye](https://modrinth.com/mod/optibye) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | No source or official download available. The provided download is hosted on SkyClient. |
+| [Optibye](https://modrinth.com/mod/optibye) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
 | [OverflowAnimations](https://modrinth.com/mod/animations) | Extremely precise and advanced old animations mod for 1.8.9. Also adds many other features such as backporting features and new features, as well as first person held item transformations. | [Polyfrost](https://github.com/Polyfrost) |
 | [OverflowParticles](https://modrinth.com/mod/overflowparticles) | Extremely precise and advanced particle mod for 1.8.9. | [Polyfrost](https://github.com/Polyfrost) |
 | [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | Adds many particle features such as fade out and customizable critical and sharpness particles. | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
@@ -56,7 +56,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [PolySprint](https://modrinth.com/mod/polysprint) | PolySprint is a simple yet feature-versatile toggle sprint/sneak mod. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyWeather](https://modrinth.com/mod/polyweather) | Allows the user to configure what client-side weather is displayed. | [Polyfrost](https://github.com/Polyfrost) |
 | [Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest) | A highly customizable potion effects HUD. | [Tellinq](https://github.com/Tellinq) |
-| [QuickConfig](https://modrinth.com/mod/quickconfig) | Replaces Forge's mod config screen with the OneConfig menu. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Very buggy in the main menu as OneConfig and mods expect a world to be loaded. Works fine in the escape menu. |
+| [QuickConfig](https://modrinth.com/mod/quickconfig) | Replaces Forge's mod config screen with the OneConfig menu. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Very buggy in the main menu as OneConfig and mods expect a world to be loaded. Works fine in the pause menu. |
 | [Raw Input](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) | Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system. Fixes high polling rate issues. | [xCuri0](https://github.com/xCuri0), [Mixces](https://github.com/Mixces), & [Erymanthus](https://github.com/RayDeeUx) | This may cause your mouse to be completely unresponsive in Minecraft. Simply remove the mod if that is the case. |
 | [Redaction](https://modrinth.com/mod/redaction) | Redaction adds HUDs to your game that are normally classified as "cheat-client" modules. | [Polyfrost](https://github.com/Polyfrost) |
 | [ReplayMod](https://modrinth.com/mod/replaymod) | ReplayMod lets you record your gameplay to watch back later. | [CrushedPixel](https://github.com/CrushedPixel) & [johni0702](https://github.com/Johni0702) |
@@ -71,17 +71,17 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [AutoTip](https://sk1er.club/mods/autotip) | An easy way to get experience and coins for free, automatically. | [Semx11](https://github.com/Semx11) & [Sk1erLLC](https://github.com/Sk1erLLC) |
+| [AutoTip](https://sk1er.club/mods/autotip) | An easy way to get experience and coins for free, automatically. | [Semx11](https://github.com/Semx11) & [Sk1erLLC](https://github.com/Sk1erLLC) | Uses Essential. |
 | [BedWar Mod](https://modrinth.com/mod/bedwar-mod) | Multifeature mod for Hypixel Bedwars. | [CalMWolfs](https://github.com/CalMWolfs) |
 | [Height Limit Mod](https://modrinth.com/mod/hlm) | Shows the build limit of bedwars maps. | [catsonluna](https://github.com/catsonluna) |
-| [Hypixel Autocomplete](https://sk1er.club/mods/hypixel_auto_complete) | Allows you to autocomplete Hypixel commands to player names on your friends list, guild, and local players. | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| [Hypixel Autocomplete](https://sk1er.club/mods/hypixel_auto_complete) | Allows you to autocomplete Hypixel commands to player names on your friends list, guild, and local players. | [Sk1erLLC](https://github.com/Sk1erLLC) | Uses Essential. |
 | [Hytils Reborn](https://modrinth.com/mod/hytils) | Adds tons of Quality of Life features that you would want while on Hypixel, such as an advertisement blocker, auto queue, auto GL, height overlay, game status restyle, command auto complete for /play, and plenty other of features. | [Polyfrost](https://github.com/Polyfrost) |
-| [LevelHead](https://sk1er.club/mods/level_head) | Levelhead is built for the Hypixel server. The mod displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab. | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| [Nick Hider](https://sk1er.club/mods/nick_hider) | Attempts to hides your identity on Hypixel when streaming. | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| [Popup Events](https://sk1er.club/mods/popup_events) | Popup Events allows you to swiftly accept any supported event on Hypixel. | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| [LevelHead](https://sk1er.club/mods/level_head) | Levelhead is built for the Hypixel server. The mod displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab. | [Sk1erLLC](https://github.com/Sk1erLLC) | Uses Essential. |
+| [Nick Hider](https://sk1er.club/mods/nick_hider) | Attempts to hides your identity on Hypixel when streaming. | [Sk1erLLC](https://github.com/Sk1erLLC) | Uses Essential. |
+| [Popup Events](https://sk1er.club/mods/popup_events) | Popup Events allows you to swiftly accept any supported event on Hypixel. | [Sk1erLLC](https://github.com/Sk1erLLC) | Uses Essential. |
 | [Quickjoin](https://modrinth.com/mod/quickjoin) | Quickly join any game on Hypixel via a custom GUI. | [QWERTZexe](https://github.com/QWERTZexe) |
-| [ReportPlus](https://github.com/ThatGravyBoat/ReportPlus/releases/latest) | Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
-| [Reward Claim](https://modrinth.com/mod/reward-claim) | Reward Claim allows you to claim your Hypixel rewards in-game rather than on their website. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
+| [ReportPlus](https://github.com/ThatGravyBoat/ReportPlus/releases/latest) | Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | Uses Essential. |
+| [Reward Claim](https://modrinth.com/mod/reward-claim) | Reward Claim allows you to claim your Hypixel rewards in-game rather than on their website. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | Uses Essential. |
 | [Zombies-Utils](https://github.com/Stachelbeere1248/zombies-utils/releases/latest) | Utility mod for Hypixel Zombies. | [Stachelbeere1248](https://github.com/Stachelbeere1248) |
 
 ### SkyBlock
@@ -104,7 +104,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest) | A mod with a lot of customizability and a large variety of features including auto teleport to Garry, disable mining messages, disable specific messages, and showing player's dungeons stats with more for the user to discover. | [Cobble8](https://github.com/Cobble8) |
 | [SkyGuide](https://modrinth.com/mod/skyguide) | A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way. Current features include a map of SkyBlock and NPC locations. | [DeDiamondPro](https://github.com/DeDiamondPro) |
 | [SkyHanni](https://modrinth.com/mod/skyhanni) | A Skyblock mod with a lot of features, especially for the garden. | [hannibal2](https://github.com/hannibal002) | Requires NotEnoughUpdates. |
-| [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) | Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future. | [Skytils Team](https://github.com/Skytils) |
+| [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) | Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future. | [Skytils Team](https://github.com/Skytils) | Uses Essential. |
 | [Synthesis](https://github.com/SynthesisMod/Synthesis/releases/latest) | Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else. | [Antonio32A](https://github.com/Antonio32A), [ComplexOrigin](https://github.com/complexorigin), [Desco1](https://github.com/Desco1), [RayDeeUx](https://github.com/RayDeeUx) |
 | [WaterSolver](https://github.com/Desco1/WaterSolver) | A simple Water Board solver. Solves all 40 Water Board layouts in a single water flow, considerably faster than other solvers. | [Desco1](https://github.com/Desco1) |
 

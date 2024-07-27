@@ -137,7 +137,7 @@ mod authors and it is advised against supporting them.
 * [OptiFine](https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements) <- see alternatives
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * [MumbleLink](https://modrinth.com/mod/mumble-link)
-* [HD Skins](https://www.hdskins.de/)
+* [HD Skins](https://www.hdskins.de)
 * [Recursive Resources (Fabric version of Resourcepack Organizer)](https://modrinth.com/mod/recursiveresources)
 * OptiFabric - Do not use.
 * [Iris](https://modrinth.com/mod/iris)
@@ -174,4 +174,4 @@ mod authors and it is advised against supporting them.
 * [Systemless](https://github.com/SystemlessDev)
 * [Tricked](https://github.com/Tricked-dev)
 * [Wyvest](https://github.com/Wyvest)
-* [Zetvue](https://zetvue.github.io/)
+* [Zetvue](https://zetvue.github.io)
