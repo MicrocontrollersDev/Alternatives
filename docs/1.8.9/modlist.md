@@ -73,7 +73,6 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | --- | --- | --- | --- |
 | [AutoTip](https://sk1er.club/mods/autotip) | An easy way to get experience and coins for free, automatically. | [Semx11](https://github.com/Semx11) & [Sk1erLLC](https://github.com/Sk1erLLC) | Uses Essential. |
 | [BedWar Mod](https://modrinth.com/mod/bedwar-mod) | Multifeature mod for Hypixel Bedwars. | [CalMWolfs](https://github.com/CalMWolfs) |
-| [Height Limit Mod](https://modrinth.com/mod/hlm) | Shows the build limit of bedwars maps. | [catsonluna](https://github.com/catsonluna) |
 | [Hypixel Autocomplete](https://sk1er.club/mods/hypixel_auto_complete) | Allows you to autocomplete Hypixel commands to player names on your friends list, guild, and local players. | [Sk1erLLC](https://github.com/Sk1erLLC) | Uses Essential. |
 | [Hytils Reborn](https://modrinth.com/mod/hytils) | Adds tons of Quality of Life features that you would want while on Hypixel, such as an advertisement blocker, auto queue, auto GL, height overlay, game status restyle, command auto complete for /play, and plenty other of features. | [Polyfrost](https://github.com/Polyfrost) |
 | [LevelHead](https://sk1er.club/mods/level_head) | Levelhead is built for the Hypixel server. The mod displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab. | [Sk1erLLC](https://github.com/Sk1erLLC) | Uses Essential. |
@@ -122,6 +121,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | Clean View | Use [OverflowParticles](https://modrinth.com/mod/overflowparticles) | [LianMI](https://github.com/zlainsama) |
 | Cross Chat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Fullbright | Use [PolyPatcher](https://modrinth.com/mod/patcher) | Unknown |
+| Height Limit Mod | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [catsonluna](https://github.com/catsonluna) |
 | InputFix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [LianMI](https://github.com/zlainsama) |
 | Item Optimizations | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | LobbyGlow | Use [Entity Glow](https://modrinth.com/mod/entity-glow) | [Biscuut](https://github.com/biscuut) |
