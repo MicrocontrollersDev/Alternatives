@@ -140,7 +140,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | Resource Pack Organizer | Use [Resource Pack Manager](https://skyclient.co/mod/rpm) | [chylex](https://github.com/chylex) |
 | Scrollable Tooltips | Use [VanillaHUD](https://modrinth.com/mod/vanillahud) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | ServerListBufferFixer | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| Sk1er Old Animations Mod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [Sk1erLLC](https://github.com/Sk1erLLC)
+| Sk1er Old Animations Mod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Soopy | Discontinued, [see alternatives](https://alternatives.microcontrollers.dev/1.8.9/soopy) |
 | Smooth Scrolling Everywhere | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | TCPNoDelay | This issue was fixed in vanilla Minecraft 1.8.1 | [prplz](https://github.com/prplz) |
