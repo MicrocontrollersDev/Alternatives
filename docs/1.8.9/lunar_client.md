@@ -57,7 +57,7 @@ I do not have Lunar Client and don't intend on downloading it. If you know where
 #### Bedwars
 
 * Stats - [KAD7's HyStats](https://cdn.discordapp.com/attachments/1009757412921708604/1134269972877676574/HyStats-v4.0_1.8.9.jar)
-* Height Limit - [pinkulu's HeightLimitMod](https://modrinth.com/mod/hlm)
+* Height Limit - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Resource Counter - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Colored Beds - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Hardcore Hearts - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
