@@ -42,6 +42,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Lets you log into and switch accounts without needing to relaunch the game or log into other accounts in your launcher. | [The-Fireplace](https://github.com/The-Fireplace) |
 | [Item Counter](https://modrinth.com/mod/item-counter-mod) | Show the amount of items you have on screen, easily configurable. Read the project description for instructions. | [ImToggle](https://github.com/ImToggle) |
 | [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. |
+| [NoBreakThatBlock](https://www.cecer1.com/mods/nobreakthatblock/nobreakthatblock-1.8.9-1.0.1.0.jar) | Stops you from punching or moving mouse when clicking back into an alt tabbed Minecraft with F3+P enabled. | [Cecer](https://hypixel.net/members/cecer.61889) |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | Removes many things that Essential adds that you may not want. | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://sk1er.club/mods/refractionoof) | Plays custom sounds when you kill other players. | [powns](https://github.com/pownsgg) |
 | [Optibye](https://modrinth.com/mod/optibye) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
@@ -112,6 +113,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | Mod | Reason | Author |
 | --- | --- | --- |
 | AutoGG | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| BedwarsHearts | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [Moulberry](https://github.com/Moulberry) |
 | Better Night Vision | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Microcontrollers](https://github.com/MicrocontrollerseDev) |
 | BetterFPS | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Guichaguri](https://github.com/Guichaguri) |
 | BetterScaledGui | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Moulberry](https://github.com/Moulberry) |
@@ -120,8 +122,11 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | Compact Chat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Clean View | Use [OverflowParticles](https://modrinth.com/mod/overflowparticles) | [LianMI](https://github.com/zlainsama) |
 | Cross Chat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| Entity Culling | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [tr7zw](https://github.com/tr7zw) |
 | Fullbright | Use [PolyPatcher](https://modrinth.com/mod/patcher) | Unknown |
 | Height Limit Mod | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [catsonluna](https://github.com/catsonluna) |
+| HitDelayFix | This mod is bannable on all 1.8+ only servers. It is not a fix, it is a cheat. | [ghast](https://github.com/ghast) |
+| Hychat | Use [Chatting](https://modrinth.com/mod/chatting) & [Hytils Reborn](https://modrinth.com/mod/hytils) | [Moulberry](https://github.com/Moulberry) |
 | InputFix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [LianMI](https://github.com/zlainsama) |
 | Item Optimizations | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | LobbyGlow | Use [Entity Glow](https://modrinth.com/mod/entity-glow) | [Biscuut](https://github.com/biscuut) |
@@ -130,7 +135,8 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | Memory Fix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Mouse Delay Fix | Use [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Mouse Bind Fix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| NoCloseMyChat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| NoCloseMyChat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Cecer](https://hypixel.net/members/cecer.61889) |
+| NoHitFix | This mod is bannable on all 1.8+ only servers. It is not a fix, it is a cheat. | [Moulberry](https://github.com/Moulberry) |
 | NoScroll | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Revxrsal](https://hypixel.net/members/revxrsal.1109532) |
 | OldAnimationsMod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [spiderfrog](https://www.youtube.com/channel/UC0Cz31K6IE09o8LF5Hpzymw) |
 | Patcher | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
@@ -140,6 +146,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | Resource Pack Organizer | Use [Resource Pack Manager](https://skyclient.co/mod/rpm) | [chylex](https://github.com/chylex) |
 | Scrollable Tooltips | Use [VanillaHUD](https://modrinth.com/mod/vanillahud) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | ServerListBufferFixer | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
+| SimpleToggleSprint | Use [PolySprint](https://modrinth.com/mod/polysprint) | [My-Name-Is-Jeff](https://github.com/My-Name-Is-Jeff) |
 | Sk1er Old Animations Mod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Soopy | Discontinued, [see alternatives](https://alternatives.microcontrollers.dev/1.8.9/soopy) |
 | Smooth Scrolling Everywhere | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
