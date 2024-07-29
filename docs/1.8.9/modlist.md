@@ -148,7 +148,8 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | ServerListBufferFixer | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | SimpleToggleSprint | Use [PolySprint](https://modrinth.com/mod/polysprint) | [My-Name-Is-Jeff](https://github.com/My-Name-Is-Jeff) |
 | Sk1er Old Animations Mod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| Soopy | Discontinued, [see alternatives](https://alternatives.microcontrollers.dev/1.8.9/soopy) |
+| SkyblockAddons | Use [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial) | [Biscuut](https://github.com/biscuut) |
+| Soopy | Discontinued, [see alternatives](https://alternatives.microcontrollers.dev/1.8.9/soopy) | [SoopyBoo32](https://github.com/Soopyboo32) |
 | Smooth Scrolling Everywhere | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | TCPNoDelay | This issue was fixed in vanilla Minecraft 1.8.1 | [prplz](https://github.com/prplz) |
 | Vanilla Enhancements | Use [PolyPatcher](https://modrinth.com/mod/patcher) & [Chatting](https://modrinth.com/mod/chatting) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
