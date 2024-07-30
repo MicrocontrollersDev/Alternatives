@@ -123,6 +123,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | Clean View | Use [OverflowParticles](https://modrinth.com/mod/overflowparticles) | [LianMI](https://github.com/zlainsama) |
 | Cross Chat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Entity Culling | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [tr7zw](https://github.com/tr7zw) |
+| FoamFix | The 1.8 port has issues. Use [PolyPatcher](https://modrinth.com/mod/patcher) for memory improvements. | [asiekierka](https://github.com/asiekierka) |
 | Fullbright | Use [PolyPatcher](https://modrinth.com/mod/patcher) | Unknown |
 | Height Limit Mod | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [catsonluna](https://github.com/catsonluna) |
 | HitDelayFix | This mod is bannable on all 1.8+ only servers. It is not a fix, it is a cheat. | [ghast](https://github.com/ghast) |
