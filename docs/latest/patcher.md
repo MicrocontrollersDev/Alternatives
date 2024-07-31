@@ -39,9 +39,9 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Log Optimizer Amount - [altrisi's Log Cleaner](https://modrinth.com/mod/log-cleaner)
 - Better Camera - Vanilla
 - Better F1 - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
-- Remove Screen Bobbing - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Remove Map Bobbing - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Static Items - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- Remove Screen Bobbing - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
+- Remove Map Bobbing - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
+- Static Items - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 - Modify Every Sound - ?
 - Zoom Adjustment - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
 - Remove Smooth Camera While Zoomed - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
@@ -60,7 +60,7 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Fire Overlay Opacity - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 - Hide Fire Overlay with Fire Resistance - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 - Remove Water Overlay - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Remove Inverted Colors from Crosshair - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- Remove Inverted Colors from Crosshair - [Microcontrollers's Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 - Fullbright - [AnOpenSauceDev's Methane](https://modrinth.com/mod/methane)
 - Smart Fullbright - [AnOpenSauceDev's Methane](https://modrinth.com/mod/methane)
 - Show Own Nametag - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
@@ -162,7 +162,7 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Image Preview Width - ?
 - Inventory Position - Vanilla
 - Click Out of Containers - ?
-- Inventory Scale - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- Inventory Scale - [Microcontrollers's Inventory Scale](https://modrinth.com/mod/inventoryscale)
 - Tab Opacity - [Microcontrollers's Tab Tweaks](https://modrinth.com/mod/tabtweaks)
 - Tab Height - [Microcontrollers's Tab Tweaks](https://modrinth.com/mod/tabtweaks)
 - Set Tab Height - [Microcontrollers's Tab Tweaks](https://modrinth.com/mod/tabtweaks)
