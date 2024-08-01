@@ -19,7 +19,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 * Animations - Irrelevant
 * Hit Armor Color - ?
-* Reduced Hurt Animation - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+* Reduced Hurt Animation - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 
 ### Chat Mods
 
@@ -104,7 +104,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Particle Multiplier - ?
 * Cooldowns - ?
 * Time Changer - [Motschen's Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
-* Block Outline - [Microcontrollers's Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
+* Block Outline - [Tektonikal's Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * TNT Timer Mod - [shateq's TNTTime](https://modrinth.com/mod/tnttime)
 * Hitbox - [PingIsFun's HitBox+](https://modrinth.com/mod/hitboxplus)
@@ -144,7 +144,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Borderless Fullscreen - [Kir_Antipov's Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
 * Disable Weather - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
 * Modern Keybind Handling - Vanilla
-* Minimal View Bobbing - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+* Minimal View Bobbing - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Unfocused FPS Limiter - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
 #### Texture Pack Options

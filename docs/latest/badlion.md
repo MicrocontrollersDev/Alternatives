@@ -21,7 +21,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Fancy Fonts - ?
 * Filter DMs - ?
 * Vanilla Background - Irrelevant
-* Timestamps - ?
+* Timestamps - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 * Chat Messages Notifications - ?
 * Chat Opacity - Vanilla
 * Chat Size - ?
@@ -70,7 +70,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Visual Mods
 
-* Block Overlay - [Microcontrollers's Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
+* Block Overlay - [Tektonikal's Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight)
 * Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs)
 * Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with BLC capes)
     * Wavey Capes - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)

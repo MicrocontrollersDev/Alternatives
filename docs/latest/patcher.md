@@ -41,7 +41,7 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Better F1 - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 - Remove Screen Bobbing - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 - Remove Map Bobbing - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
-- Static Items - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
+- Static Items - [Microcontrollers's Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
 - Modify Every Sound - ?
 - Zoom Adjustment - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
 - Remove Smooth Camera While Zoomed - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
@@ -65,14 +65,14 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Smart Fullbright - [AnOpenSauceDev's Methane](https://modrinth.com/mod/methane)
 - Show Own Nametag - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 - Clean Projectiles - Vanilla
-- Ridden Horse Opacity - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- Ridden Horse Opacity - [Microcontrollers's Mount Opacity](https://modrinth.com/mod/mountopacity)
 - Hide Aura on Invisible Withers - Vanilla
 - Numerical Enchantments - ?
 - Translate Unknown Roman Numerals - ?
-- Clean View - [LainMI's CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric)
+- Clean View - [LainMI's CleanView](https://github.com/zlainsama/CleanView/releases/latest)
 - Disable Breaking Particles - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
-- Disable Lightning Bolts - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-- Alternate Text Shadow - ?
+- Disable Lightning Bolts - [Microcontrollers's Render Tweaks](https://modrinth.com/mod/rendertweaks)
+- Alternate Text Shadow - [Microcontrollers's Sciophobia](https://modrinth.com/mod/sciophobia)
 - Add Text Shadow to Nametags - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 - Add Text Shadow to Actionbar - [isXander's Debugify](https://modrinth.com/mod/debugify)
 - Add Background to Actionbar - ?
@@ -109,7 +109,7 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Disable Attached Arrows - ?
 - Disable Skulls - ?
 - Disable Nametags Boxes - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
-- Unstacked Items - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+- Unstacked Items - [Microcontrollers's Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
 - Entity Render Distance Toggle - ?
 - Hostile Entity Render Distance - ?
 - Passive Entity Render Distance - ?
