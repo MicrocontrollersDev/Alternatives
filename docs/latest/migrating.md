@@ -256,8 +256,9 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [Translucency Fix](https://modrinth.com/mod/translucencyfix) | Fixes semitranslucent textures. | 🚧 | Not sure if OptiFine even does this. | [ruvaldk](https://github.com/ruvaldak) |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) (No 1.21 Yet)| Custom item textures. | ✅ | | [SHsuperCM](https://github.com/SHsuperCM) |
 | [Polytone](https://modrinth.com/mod/polytone) | Custom colors, sounds, particles, GUI elements, and more. | ✅ | More customizable. | [MehVahdJukaar](https://github.com/MehVahdJukaar)  |
-| [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. | ✅ | More customizable. | [Traben](https://github.com/btrab1) |
-| [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures.| ✅ | More customizable. | [Traben](https://github.com/btrab1) |
+| [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
+| [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
+| [Entity Sound Features](https://modrinth.com/mod/esf) | Entity sound variation. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
 | [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models. | ⛔ | | [FoundationGames](https://github.com/FoundationGames) |
 | [Transparent](https://modrinth.com/mod/transparent) | Transparent/translucent entities. | ✅ | | [Trikzon](https://github.com/Trikzon) |
 | [Puzzle](https://modrinth.com/mod/puzzle) | Custom splash screen, better logo blending, unlimited model rotations, and bigger custom models. | ✅ | | [PuzzleMC](https://github.com/PuzzleMC) |
