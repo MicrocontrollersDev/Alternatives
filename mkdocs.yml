@@ -39,16 +39,12 @@ extra:
       link: https://modrinth.com/user/Microcontrollers
     - icon: fontawesome/brands/github
       link: https://github.com/MicrocontrollersDev/Alternatives
-    - icon: simple/revolt.chat
-      link: https://rvlt.gg/vNMTy2bw
     - icon: fontawesome/brands/discord
       link: https://discord.gg/rejfv9kFJj
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@Microcontrollers
     - icon: fontawesome/brands/patreon
       link: https://www.patreon.com/Microcontrollers
-    - icon: simple/ko-fi
-      link: https://ko-fi.com/microcontrollers
 
 nav:
   - "Home":
