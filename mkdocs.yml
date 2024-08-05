@@ -45,7 +45,7 @@ extra:
       link: https://www.youtube.com/@Microcontrollers
     - icon: fontawesome/brands/patreon
       link: https://www.patreon.com/Microcontrollers
-    - icon: simple/ko-fi
+    - icon: simple/kofi
       link: https://ko-fi.com/microcontrollers
 
 nav:
