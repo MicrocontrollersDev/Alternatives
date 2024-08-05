@@ -100,7 +100,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Scoreboard - [Microcontrolers's Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
 * Motion Blur - [Noryea's Motion Blur](https://modrinth.com/mod/motionblur)
 * Shiny Pots - ?
-* Scrollable Tooltips - [isXander's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
+* Scrollable Tooltips - [isXander's Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips)
 * Particle Multiplier - ?
 * Cooldowns - ?
 * Time Changer - [Motschen's Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)

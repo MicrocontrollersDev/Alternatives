@@ -63,7 +63,7 @@ mod authors and it is advised against supporting them.
 * Oof Mod - ?
 * Perspective - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
 * Screenshot - ?
-* Scrollable Tooltips - [isXander's Adaptive ToolTips](https://modrinth.com/mod/adaptive-tooltips)
+* Scrollable Tooltips - [isXander's Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips)
 * Server Address - ?
 * Snaplook - ?
 * Toggle Sprint - Vanilla (Accessibility Options)
