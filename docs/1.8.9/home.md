@@ -2,7 +2,7 @@
 
 Click the links below or use the sidebar navigation to find the list you want.
 
-## Other
+## Mod List
 
 - [Mod List](https://alternatives.microcontrollers.dev/1.8.9/modlist)
 
