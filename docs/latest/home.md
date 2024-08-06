@@ -4,6 +4,11 @@
 
 Click the links below or use the sidebar navigation to find the list you want.
 
+## Mod List
+
+- [Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)
+    - This is a comprehensive list of mods for Fabric 1.20 and guide on installing them
+
 ## Clients
 
 - [Badlion Client](https://alternatives.microcontrollers.dev/latest/badlion)
@@ -14,8 +19,3 @@ Click the links below or use the sidebar navigation to find the list you want.
 
 - [OptiFine](https://alternatives.microcontrollers.dev/latest/optifine)
 - [Patcher](https://alternatives.microcontrollers.dev/latest/patcher)
-
-## Other
-
-- [Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)
-    - This is a comprehensive list of mods for Fabric 1.20 and guide on installing them

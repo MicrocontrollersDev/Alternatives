@@ -54,6 +54,8 @@ nav:
       - "Contributors": "contributors.md"
   - "1.8.9":
       - "Home": "1.8.9/home.md"
+      - "Mod List":
+          - "Mod List": "1.8.9/modlist.md"
       - "Clients":
         - "Badlion Client": "1.8.9/badlion_client.md"
         - "Feather Client": "1.8.9/feather_client.md"
@@ -72,10 +74,10 @@ nav:
           - "Wyvtils": "1.8.9/wyvtils.md"
       - "Modpacks":
           - "Refraction v4": "1.8.9/refraction_v4.md"
-      - "Other":
-          - "Mod List": "1.8.9/modlist.md"
   - "Latest":
       - "Home": "latest/home.md"
+      - "Mod List":
+          - "Migrating to Latest": "latest/migrating.md"
       - "Clients":
           - "Badlion Client": "latest/badlion.md"
           - "Feather Client": "latest/feather.md"
@@ -83,8 +85,6 @@ nav:
       - "Mods":
           - "OptiFine": "latest/optifine.md"
           - "Patcher": "latest/patcher.md"
-      - "Other":
-          - "Migrating to Latest": "latest/migrating.md"
   - "Launcher":
       - "Home": "launcher/home.md" 
       - "Modrinth App":
