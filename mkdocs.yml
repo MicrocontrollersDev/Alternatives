@@ -20,14 +20,14 @@ theme:
     primary: purple
     accent: indigo
     toggle:
-      icon: material/toggle-switch-off-outline
+      icon: material/weather-sunny
       name: Switch to dark mode
   - media: "(prefers-color-scheme: dark)"
     scheme: slate
     primary: purple
     accent: indigo
     toggle:
-      icon: material/toggle-switch
+      icon: material/weather-night
       name: Switch to light mode
 
 repo_name: Alternatives
