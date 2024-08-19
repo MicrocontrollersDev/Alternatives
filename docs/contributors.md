@@ -11,6 +11,7 @@
 * [CalMWolfs](https://github.com/CalMWolfs)
 * [ChachyDev](https://github.com/ChachyDev)
 * [Coolbird1234](https://www.youtube.com/c/Bird69)
+* [dayssky](https://github.com/dayssky)
 * [De-Snail](https://github.com/De-Snail)
 * [Deftu](https://github.com/Deftu)
 * [Digux](https://github.com/Diguhxe)
