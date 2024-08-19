@@ -15,9 +15,9 @@ Feel free to make a pull request to add them.
 ### Waypoints
 
 * Waypoints - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Ordered Waypoints - ?
+* Ordered Waypoints - [Ninjune's ColeWeight](https://github.com/Ninjune/coleweight/releases/latest) (Requires ChatTriggers)
 * Crystal Hollows Waypoints From Chat - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Synced Crystal Hollows Waypoints - ?
+* Synced Crystal Hollows Waypoints - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ### Bestiary
 
@@ -39,19 +39,19 @@ Feel free to make a pull request to add them.
 * Box Correct Livid - ?
 * Hide Incorrect Livid Nametags - ?
 * Spirit Bow Destruction Timer - ?
-* Spirit Bear Spawn Timer - ?
-* Assist Blood Camp - ?
+* Spirit Bear Spawn Timer - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Assist Blood Camp - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * Show Run Speed And Exp Rates - ?
 * Show Score Calculation - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Blaze Puzzle Solver - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Terracotta Respawn Timer - ?
+* Terracotta Respawn Timer - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * Spirit And Bonzo Mask Timer - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Change Withermancer Death Messages - ?
-* Unfinished Terms/Devices Waypoints - ?
-* Term/Device Count Per Party Member - ?
+* Unfinished Terms/Devices Waypoints - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
+* Term/Device Count Per Party Member - Not useful anymore as meta changed.
 * Ice Spray Drop Ping - ?
 * M3/F3 Guardian HP - ?
-* Stair Stonk Helper - ?
+* Stair Stonk Helper - Not useful anymore as meta changed.
 
 ### Events
 
@@ -72,18 +72,18 @@ Feel free to make a pull request to add them.
 
 ### Global Settings
 
-* Hide Falling Blocks - ?
+* Hide Falling Blocks - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * In-game Twitch Bot Commands - ?
-* Replace [hand] With Currently Held Item - ?
+* Replace [hand] With Currently Held Item - Hypixel's new /show command
 * Approximate Item Worth In Lore - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Hetacomb Enchant Info In Lore - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Champion Enchant Info In Lore - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Thunder Bottle Progress Display - ?
-* Thunder Bottle Full Alert - ?
+* Thunder Bottle Full Alert - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Use Old Master Stars - ?
-* Item Pickup Log - ?
-* Vanquisher Spawn Alert - ?
-* Sea Creature Catch Alert - ?
+* Item Pickup Log - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Vanquisher Spawn Alert - [zhenga8533's VolcAddons](https://github.com/zhenga8533/VolcAddons/releases/latest)
+* Sea Creature Catch Alert - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Guild
 
@@ -114,9 +114,9 @@ Feel free to make a pull request to add them.
 * Bal Respawn Timer - ?
 * Bal Pet Alert - ?
 * Show Unlocked Gemstone Slots - ?
-* Show Contained Gemstones - ?
+* Show Contained Gemstones - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Current Session Compact Progress - ?
-* $/hr From Gemstone Mining - ?
+* $/hr From Gemstone Mining - [Ninjune's ColeWeight](https://github.com/Ninjune/coleweight/releases/latest) (Requires ChatTriggers)
 * Forge NPC Price - ?
 * Current And Next CH Events - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Metal Detector Solver - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
@@ -151,11 +151,11 @@ Feel free to make a pull request to add them.
 * Box Area Minibosses - ?
 * List Nearby Miniboss HP On Screen - ?
 * Hide Dead Mob Nametags - ?
-* Box Enderman Slayer Bosses - ?
+* Box Enderman Slayer Bosses - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Box And Line to Enderman Beacon - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Beacon Spawn Sound - ?
 * Display Enderman Eyes - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Show Enderman HP On Screen - ?
+* Show Enderman HP On Screen - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Enderman Lazer Phase Timer - ?
 * Sound For Blaze Towers - ?
 * Box For Blaze Towers - ?
@@ -175,7 +175,7 @@ Feel free to make a pull request to add them.
 ### Spam Hider
 
 * Hide Some Messages - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Move Messages To Spam Hider Chat - ?
+* Move Messages To Spam Hider Chat - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Friend Join/Leave Messages - /f notifications
 * Show Guild Join/Leave Messages - /g notifications
 * Show Pet Level Messages - ?
@@ -192,8 +192,8 @@ Feel free to make a pull request to add them.
 * Reset Data On Leaving Ch - ?
 * Chest Dug Alert - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Gemstone Message Hider - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Wishing Compass Message Hider - ?
-* Ascension Rope Message Hider - ?
+* Wishing Compass Message Hider - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (need to use custom spam hider)
+* Ascension Rope Message Hider - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (need to use custom spam hider)
 * Show Area Treasure - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Scatha Counter HUD - [NamelessJu's Scatha-Pro](https://modrinth.com/mod/scatha-pro)
 * Scatha Health HUD - ?
@@ -205,10 +205,11 @@ Feel free to make a pull request to add them.
 
 * Stat Next To Name - ?
 * Networth Viewer - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Networth Leaderboard - ?
-* Stat Graphs - ?
+* Networth Leaderboard - Disallowed with Hypixel's new API changes.
+* Stat Graphs - Disallowed with Hypixel's new API changes.
 
 # Contributors
 
 * [CalMWolfs](https://github.com/CalMWolfs)
 * [ooffyy](https://github.com/realooffyy)
+* [dayssky](https://github.com/dayssky)
