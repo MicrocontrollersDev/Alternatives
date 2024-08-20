@@ -56,4 +56,4 @@ Just for fun.
 
 ## Other
 
-- Account Switcher - [The-Fireplace's In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
+* Account Switcher - [The-Fireplace's In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)

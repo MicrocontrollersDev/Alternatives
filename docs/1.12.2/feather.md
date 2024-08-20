@@ -116,8 +116,8 @@ mod authors and it is advised against supporting them.
 
 ### Advanced Settings
 
-- Use Culling - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-- Cull Nametags - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Use Culling - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Cull Nametags - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 
 # Too lazy to download mods yourself?
 

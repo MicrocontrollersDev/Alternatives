@@ -6,7 +6,7 @@ This guide will explain the install process for Prism, as well as how we can use
 
 ## How to Install (Windows)
 
-- Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from SkyClient, but steps will be largely the same, except for the migrating data section.
+* Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from SkyClient, but steps will be largely the same, except for the migrating data section.
 
 ### Step 1 - Installing Java
 
@@ -16,10 +16,10 @@ Minecraft 1.16 and below all use Java 8, 1.17-1.20.4 use Java 17, and 1.20.5+ us
 
 In order to download Java, we will first head to the [Adoptium download page](https://adoptium.net/temurin/releases). Adoptium is an open source Java that does not require a paid account to install, and is made by the Eclipse Foundation, a very reputable source. To install, we will use the dropdown boxes to make it easier to find the versions of Java we need
 
-- Operating System: Windows
-- Architecture: x64
-- Package Type: JDK or JRE (it does not matter)
-- Version: 8, 17, and 21 (download one of them, then download the others after)
+* Operating System: Windows
+* Architecture: x64
+* Package Type: JDK or JRE (it does not matter)
+* Version: 8, 17, and 21 (download one of them, then download the others after)
 
 Once we have chosen our download preferences, we will click the `.msi` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
 

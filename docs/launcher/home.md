@@ -6,12 +6,12 @@ In case you are not sure which to use, you should use Modrinth, as it is much ea
 
 ## Modrinth App (Recommended)
 
-- [Windows](https://alternatives.microcontrollers.dev/launcher/modrinth_win)
-- MacOS coming soon
-- Linux coming later
+* [Windows](https://alternatives.microcontrollers.dev/launcher/modrinth_win)
+* MacOS coming soon
+* Linux coming later
 
 ## Prism Launcher
 
-- [Windows](https://alternatives.microcontrollers.dev/launcher/prism_win)
-- [MacOS](https://alternatives.microcontrollers.dev/launcher/prism_mac)
-- [Linux](https://alternatives.microcontrollers.dev/launcher/prism_gnu)
+* [Windows](https://alternatives.microcontrollers.dev/launcher/prism_win)
+* [MacOS](https://alternatives.microcontrollers.dev/launcher/prism_mac)
+* [Linux](https://alternatives.microcontrollers.dev/launcher/prism_gnu)

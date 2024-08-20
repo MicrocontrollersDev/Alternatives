@@ -6,7 +6,7 @@ This guide will explain the install process for Modrinth, as well as how we can 
 
 ## How to Install (Windows)
 
-- Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from SkyClient, but steps will be largely the same, except for the migrating data section.
+* Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from SkyClient, but steps will be largely the same, except for the migrating data section.
 
 ### Step 1 - Installing Modrinth
 
