@@ -27,7 +27,7 @@ This list is based off features that exist in PolyPatcher or Patcher, as some fe
 * 1.12 Farm Selection Boxes - Vanilla
 * Exclude Cacti from 1.12 Boxes - ?
 * Remove Water FOV - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-* FOV Modifier - ?
+* FOV Modifier - ? (All FOV's can be changed in Vanilla's Accessibility screen, but they can't be modified individually)
 * Sprinting FOV - ?
 * Flying FOV - ?
 * Bow FOV - ?
@@ -98,7 +98,7 @@ This list is based off features that exist in PolyPatcher or Patcher, as some fe
 * Automatically Scale Title - [Microcontrollers's Title Tweaks](https://modrinth.com/mod/titletweaks)
 * Title Opacity - [Microcontrollers's Title Tweaks](https://modrinth.com/mod/titletweaks)
 * Windowed Fullscreen - [Kir_Antipov's Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
-* Instant Fullscreen - ?
+* Instant Fullscreen - [Kir_Antipov's Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
 * Fix Action Bar Overlap - ?
 
 ### Performance
@@ -149,7 +149,7 @@ This list is based off features that exist in PolyPatcher or Patcher, as some fe
 
 * 1.11 Chat Length - Vanilla
 * Remove Chat Message Limit - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
-* Transparent Chat - Vanilla
+* Transparent Chat - Vanilla (Affect's all text backgrounds)
 * Transparent Chat Input Field - Vanilla
 * Extend Chat Background - ?
 * Compact Chat - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
