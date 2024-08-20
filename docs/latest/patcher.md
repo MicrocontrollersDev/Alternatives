@@ -67,8 +67,8 @@ There is no 1.20+ version, and so this is not a real alternatives list in the us
 - Clean Projectiles - Vanilla
 - Ridden Horse Opacity - [Microcontrollers's Mount Opacity](https://modrinth.com/mod/mountopacity)
 - Hide Aura on Invisible Withers - Vanilla
-- Numerical Enchantments - ?
-- Translate Unknown Roman Numerals - ?
+- Numerical Enchantments - [Microcontrollers's Numerical Enchantments](https://modrinth.com/mod/numerical-enchantments)
+- Translate Unknown Roman Numerals - [Microcontrollers's Numerical Enchantments](https://modrinth.com/mod/numerical-enchantments)
 - Clean View - [LainMI's CleanView](https://github.com/zlainsama/CleanView/releases/latest)
 - Disable Breaking Particles - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - Disable Lightning Bolts - [Microcontrollers's Render Tweaks](https://modrinth.com/mod/rendertweaks)
