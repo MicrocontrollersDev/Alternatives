@@ -14,12 +14,18 @@ This list is based off features that exist in PolyPatcher or Patcher, as some fe
 * Layers In Tab - Vanilla
 * Player Void Rendering - Vanilla
 * Alex Arm Position - Vanilla
+* Add Background to Book GUI - Vanilla
 * Resource Exploit Fix - Vanilla
 * Forge Chest Behavior - Irrelevant
+* Vanilla Held Item Lighting - Irrelevant
+* OptiFine Custom Sky Fix - Irrelevant
 
 ### Experimental
 
+* Entry Point Caching - Irrelevant
 * HUD Caching - [tr7zw's Exordium](https://modrinth.com/mod/exordium)
+* Cache FPS - [tr7zw's Exordium](https://modrinth.com/mod/exordium)
+* Improved Skin Rendering - ?
 
 ### Miscellaneous
 
@@ -27,12 +33,12 @@ This list is based off features that exist in PolyPatcher or Patcher, as some fe
 * 1.12 Farm Selection Boxes - Vanilla
 * Exclude Cacti from 1.12 Boxes - ?
 * Remove Water FOV - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-* FOV Modifier - ? (All FOV's can be changed in Vanilla's Accessibility screen, but they can't be modified individually)
-* Sprinting FOV - ?
-* Flying FOV - ?
-* Bow FOV - ?
-* Speed FOV - ?
-* Slowness FOV - ?
+* FOV Modifier - Vanilla (All FOV's can be changed in Vanilla's accessibility menu, but they can't be modified individually)
+* Sprinting FOV - Vanilla
+* Flying FOV - Vanilla
+* Bow FOV - Vanilla
+* Speed FOV - Vanilla
+* Slowness FOV - Vanilla
 * Better Keybind Handling - Vanilla
 * Separate Sound & Texture Reloading - ?
 * Disable Hotbar Scrolling - [Microcontrollers's Scroll Tweaks](https://modrinth.com/mod/scrolltweaks)
@@ -150,7 +156,7 @@ This list is based off features that exist in PolyPatcher or Patcher, as some fe
 * 1.11 Chat Length - Vanilla
 * Remove Chat Message Limit - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 * Transparent Chat - Vanilla (Affect's all text backgrounds)
-* Transparent Chat Input Field - Vanilla
+* Transparent Chat Input Field - Vanilla (Affect's all text backgrounds)
 * Extend Chat Background - ?
 * Compact Chat - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
 * Consecutive Compact Chat - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
