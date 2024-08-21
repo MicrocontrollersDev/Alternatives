@@ -140,8 +140,8 @@ This list is based off features that exist in PolyPatcher or Patcher, as some fe
 * Global Entity Render Distance - [Patbox's Entity View Distance](https://modrinth.com/mod/entity-view-distance)
 * Disable End Portals - ?
 * Disable Enchantment Glint - ?
-* Static Particle Color - Irrelevant
-* Max Particle Limit - ?
+* Static Particle Color - [fzzyhmstrs's Particle Core](https://modrinth.com/mod/particle-core) (Improves performance of brightness calculations to make it not an issue instead of removing it entirely)
+* Max Particle Limit - [fzzyhmstrs's Particle Core](https://modrinth.com/mod/particle-core)
 * Downscale Pack Images - ?
 * Optimized Font Renderer - [RaphiMC's ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * Cache Font Data - [RaphiMC's ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
