@@ -55,7 +55,7 @@ This list is based off features that exist in PolyPatcher or Patcher, as some fe
 * Remove Screen Bobbing - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Remove Map Bobbing - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Static Items - [Microcontrollers's Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
-* Modify Every Sound - ?
+* Modify Every Sound - [BVengo's Sound Controller](https://modrinth.com/mod/sound-controller)
 * Natural Capes - ?
 * Smooth Scrolling - [JustALittleWolf's Smooth Scrolling Refurbished](https://modrinth.com/mod/smooth-scrolling-refurbished)
 * Zoom Adjustment - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
