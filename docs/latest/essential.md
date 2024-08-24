@@ -16,6 +16,10 @@ Essential sucks. This is a WIP list.
 
 * Account Switcher - [The-Fireplace's In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 
+### Skin Changer
+
+* Skin Changer - [IMB11's Skin Shuffle](https://modrinth.com/mod/skinshuffle)
+
 ### Chat Peak
 
 * Chat Peak - ?
