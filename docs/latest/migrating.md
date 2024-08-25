@@ -290,6 +290,7 @@ These are mods that are not recommended for use. They have either been replaced 
 | Better Beds | BetterBeds has been replaced by Enhanced Block Entities. Feel free to use if Enhanced Block Entities is not yet updated to the current version.| [Motschen](https://github.com/Motschen) |
 | ToolTipFix | ToolTipFix has been replaced by Adaptive Tooltips. | [kyrptonaught](https://github.com/kyrptonaught) |
 | Animatica | Animatica has been replaced by MoreMcMeta. | [FoundationGames](https://github.com/FoundationGames) |
+| Clear Void | Clear Void has been replaced by Smooth Skies. | [yezhiyi9670](https://github.com/yezhiyi9670) |
 
 # Notes
 
