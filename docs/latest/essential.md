@@ -20,9 +20,9 @@ Essential sucks. This is a WIP list.
 
 * Skin Changer - [IMB11's Skin Shuffle](https://modrinth.com/mod/skinshuffle)
 
-### Chat Peak
+### Chat Peek
 
-* Chat Peak - ?
+* Chat Peek - ?
 
 ## Essential Settings
 
