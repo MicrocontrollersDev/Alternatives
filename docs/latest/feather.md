@@ -114,7 +114,7 @@ mod authors and it is advised against supporting them.
 * Use Fast Rendering - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
 * Use Direct Memory Access - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
 * Use Fast Font Rendering - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
-* Use Static Particle Color - ?
+* Use Static Particle Color - [fzzyhmstrs's Particle Core](https://modrinth.com/mod/particle-core) (Improves performance of brightness calculations to make it not an issue instead of removing it entirely)
 * Lazy Chunk Loading - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
 
 ### Light Settings
