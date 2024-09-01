@@ -92,7 +92,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### Visual Mods
 
 * 2D Items - ?
-* UHC Overlay - ? (Resourcepacks work instead)
+* UHC Overlay - [Microcontrollers's Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
 * FOV Mod - ?
 * Menu Blur - [Motschen's Blur+](https://modrinth.com/mod/blur-fabric)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
