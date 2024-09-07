@@ -23,7 +23,8 @@
     before its release. Additionally, the features Essential currently has are purposefully made to be worse than
     other mods. Most obvious of this is their built in zoom, which despite some of its features being copied from
     Patcher, most of its functionality and customization was not adeded to make it "less intimidating and easier
-    for new players".
+    for new players". Instead of using these half-baked and random features that can easily break with other mods,
+    you should just use the free and open alternatives that have more features and are able to provide more support.
 
 Don't feel forced to use Essential!
 
