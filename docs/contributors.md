@@ -7,6 +7,7 @@
 * [asbyth](https://github.com/asbyth)
 * [AzuredBlue](https://github.com/AzuredBlue)
 * [BobIsMyManager](https://github.com/BobIsMyManager)
+* [Blurryface](https://blurry.gay)
 * [bumble](https://github.com/itsbumble)
 * [CalMWolfs](https://github.com/CalMWolfs)
 * [ChachyDev](https://github.com/ChachyDev)
