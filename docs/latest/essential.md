@@ -10,11 +10,14 @@
     
     Essential also tries to market itself as a mod library. Because of this, if another mod wants to use something
     Essential offers, all users of the mod are forced to install Essential alongside the original mod. There is no way
-    around this. If you are a mod developer, please look elsewhere for the features Essential offers. I especially
-    recommend avoiding vigialnce, due to its myriad of issues that have been known but not fixed for years.
+    around this. If you are a mod developer, please look elsewhere for the features Essential offers. Their libraries,
+    Elementa, Vigilance, and UniversalCraft can all be used individually without the need of Essential, should you
+    need to use them. However, Polyfrost has alternative libraries that may be more useful, such as their
+    UniversalCraft fork, OneConfig (Vigilance competitor), and PolyUI (Elementa competitor). I especially recommend
+    avoiding Vigialnce in general, due to its myriad of issues that have been known but not fixed for years.
     
-    Essential has tracking and data collection. This information may be shared to third parties as can be read in their
-    [privacy policy](https://essential.gg/privacy-policy), as well as what data they collect.
+    Essential has tracking and data collection. This information may be shared to third parties as can be read in
+    their [privacy policy](https://essential.gg/privacy-policy), as well as what data they collect.
     
     Lastly, Essential is a half-baked mod. Almost every promise for new features has yet to be delivered since and
     before its release. Additionally, the features Essential currently has are purposefully made to be worse than
