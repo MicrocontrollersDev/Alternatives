@@ -6,6 +6,7 @@
 * [Angry_Pineapple](https://github.com/Angry-Pineapple3121)
 * [asbyth](https://github.com/asbyth)
 * [AzuredBlue](https://github.com/AzuredBlue)
+* [Blurryface](https://blurry.gay)
 * [BobIsMyManager](https://github.com/BobIsMyManager)
 * [bumble](https://github.com/itsbumble)
 * [CalMWolfs](https://github.com/CalMWolfs)
