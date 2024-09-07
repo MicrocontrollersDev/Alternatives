@@ -84,5 +84,6 @@ Don't feel forced to use Essential!
 * Show Username and Avatar on Discord - [CDAGaming_'s CraftPresence](https://modrinth.com/mod/craftpresence)
 * Show Joined Server on Discord - [CDAGaming_'s CraftPresence](https://modrinth.com/mod/craftpresence)
 
+# Contributors
 
-
+* [Blurryface](https://blurry.gay)
