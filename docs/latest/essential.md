@@ -58,7 +58,7 @@ Don't feel forced to use Essential!
 
 ## Emotes
 
-* Emotes - [KosmX's Emotecraft](https://modrinth.com/mod/emotecraft) (Official version has not had updates for a while, but [TheMek0's NoEmotecraft](https://modrinth.com/plugin/noemotecraft) updates it to 1.21.x)
+* Emotes - [TheMek0's NoEmotecraft](https://modrinth.com/plugin/noemotecraft) (this is a fork of [KosmX's Emotecraft](https://modrinth.com/mod/emotecraft) but updated to 1.21.x until the official version gets updated)
 
 ## Cosmetics
 
