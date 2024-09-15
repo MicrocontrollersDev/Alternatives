@@ -78,7 +78,6 @@ Dependencies are going through a makeover where along with a giant list at the t
 | [MaLiLib](https://github.com/sakura-ryoko/malilib/releases/latest) | Litematica, MiniHUD | [Matti Ruohonen](https://github.com/maruohon) |
 | [Ash API](https://modrinth.com/mod/ash-api) | Transparent. | [Trikzon](https://github.com/Trikzon) |
 | [Searchables](https://modrinth.com/mod/searchables) | Controlling | [Jaredllll08](https://github.com/jaredlll08) |
-| [Lilac](https://modrinth.com/mod/lilac) | OptiGUI | [opekope2](https://github.com/opekope2) |
 
 ### Performance
 
