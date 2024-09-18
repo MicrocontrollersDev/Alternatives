@@ -144,6 +144,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Auto ReAuth](https://modrinth.com/mod/auto-reauth) | Automatically reauthenticates your session when you are not logged in correctly. | [connorslade](https://github.com/connorslade) | [Fabric API](https://modrinth.com/mod/fabric-api) |
 | [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Adds an in game account switcher that lets you switch accounts without having to restart the game. | [The-Fireplace](https://github.com/The-Fireplace) | [Fabric API](https://modrinth.com/mod/fabric-api) |
 | [Smooth Skies](https://modrinth.com/mod/smooth-skies) | Smooths out the skybox colors on far render distances. This will fix the skybox breaking with Nvidium or similar. | [MicrocontrollersDev](https://github.com/MicrocontrollersDev) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
+| [Better Mipmaps](https://modrinth.com/mod/better-mipmaps) | Unlocks mipmap levels higher than 4 to reduce visual arifacts with high resolution resource packs. | [sidit77](https://github.com/sidit77) | | | Not listed as 1.21.1 compatible, but should work with dependency modification. |
 | [Fix Keyboard on Linx](https://modrinth.com/mod/fix-keyboard-on-linux) | Fix several issues regarding key input on Linux. | [Ishland](https://github.com/ishland) | | | Works on Linux only, will do nothing for other OS's. Has not been listed as compatible for 1.21+, but it should work with no changes. |
 | [MacOS Input Fixes](https://modrinth.com/mod/macos-input-fixes) | Fix several issues regarding key input on MacOS. | [hamarb123](https://github.com/hamarb123) | | | Not listed as 1.21.1 compatible, but should work regardless. |
 
@@ -188,7 +189,6 @@ These are mods that are more dependant on personal preference than importance.
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | Clear Despawn makes it more obvious on which items are about to despawn by making them blink exponentially faster after a certain time. | [StrikerRockers](https://github.com/StrikerRockers-Mods) |
 | [Litematica](https://github.com/sakura-ryoko/litematica/releases/latest) | A schematic mod that allows you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
 | [MiniHUD](https://github.com/sakura-ryoko/minihud/releases/latest) | A customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
-| [Clear Skies](https://modrinth.com/mod/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) | | | The 1.19 version works on 1.21. |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [vlad2305m](https://github.com/vlad2305m), [thedocruby](https://github.com/thedocruby) & [henkelmax](https://github.com/henkelmax)|
 | [Sound Controller](https://modrinth.com/mod/sound-controller) | Provides complete control over the volume of every sound in the game. | [BVengo](https://github.com/BVengo) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
 | [Screencapper](https://modrinth.com/mod/screencapper) | Improves the way you share and preview screenshots. | [isXander](https://github.com/isXander) & [Deftu](https://github.com/Deftu) | [Fabric API](https://modrinth.com/mod/fabric-api), [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin), [DeftuLib](https://modrinth.com/mod/deftulib) |
@@ -289,6 +289,7 @@ These are mods that are not recommended for use. They have either been replaced 
 | ToolTipFix | ToolTipFix has been replaced by Adaptive Tooltips. | [kyrptonaught](https://github.com/kyrptonaught) |
 | Animatica | Animatica has been replaced by MoreMcMeta. | [FoundationGames](https://github.com/FoundationGames) |
 | Clear Void | Clear Void has been replaced by Smooth Skies. | [yezhiyi9670](https://github.com/yezhiyi9670) |
+| Clear Skies | Clear Skies has been replaced by Smooth Skies. | [grondag](https://github.com/grondag) |
 
 # Notes
 
@@ -296,6 +297,7 @@ Join my [Discord server](https://discord.gg/rejfv9kFJj) for news regarding the d
 
 If you would like to contribute, please make a PR.  
 Notes:
+
 * Leave your name and GitHub link in the contributors credits section in alphabetical order, even for a tiny change
 * Please try to use Modrinth/GitHub links over CurseForge links whenever possible (Modrinth is preferred over GitHub).
 * When crediting authors, please use a GitHub link instead of a Modrinth/CurseForge author page if possible.
