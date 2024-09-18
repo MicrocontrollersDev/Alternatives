@@ -52,7 +52,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | Adds many particle features such as fade out and customizable critical and sharpness particles. | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [PolyCrosshair](https://modrinth.com/mod/crosshair) | An extremely customizable crosshair mod. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyBlur](https://modrinth.com/mod/polyblur) | Apply motion blur in-game in various customizable ways. | [Polyfrost](https://github.com/Polyfrost) |
-| [PolyHitbox](https://modrinth.com/mod/hitbox) | An extremely customizable hitbox mod. [Polyfrost](https://github.com/Polyfrost) |
+| [PolyHitbox](https://modrinth.com/mod/hitbox) | An extremely customizable hitbox mod. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyNametag](https://modrinth.com/mod/polynametag) | An extremely customizable nametag mod. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyTime](https://modrinth.com/mod/polytime) | Allows the user to configure what client-side time is displayed. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolySprint](https://modrinth.com/mod/polysprint) | PolySprint is a simple yet feature-versatile toggle sprint/sneak mod. | [Polyfrost](https://github.com/Polyfrost) |
@@ -96,7 +96,6 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Dulkir Mod](https://github.com/inglettronald/DulkirMod/releases) | A general quality of life mod for SkyBlock. | [inglettronald](https://github.com/inglettronald) | Use OverflowAnimations for item transformations instead. |
 | [Dungeons Guide](https://modrinth.com/mod/dungeons-guide) | A highly advanced Hypixel Skyblock dungeons mod, with secrets pathfinding, among other features. | [Dungeons Guide Team](https://github.com/Dungeons-Guide)
 | [Dungeon Rooms Mod](https://github.com/Quantizr/DungeonRoomsMod/releases/latest) | Displays information about the dungeon room you are currently in and adds waypoints for secrets. | [Quantizr](https://github.com/Quantizr) |
-| [Fancy Warp Menu](https://modrinth.com/mod/fancy-warp-menu) | A prettier warp menu for Skyblock, Fancy Warp Menu replaces the vanilla container warp GUI with a proper map.| [TirelessTraveler](https://github.com/ILikePlayingGames) | Turn off the custom warp menu in SkyblockAddons. |
 | [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) | NEU is the essential modification for playing Skyblock, featuring locking slots, fishing notifications, a giant list of every Skyblock item in the game, and an in-game wiki page renderer for the items in the list. There are many, many more features than these, and new features are always being added. | [NEU Team](https://github.com/NotEnoughUpdates) |
 | [Partly Sane Skies](https://modrinth.com/mod/partly-sane-skies) | PSS is a QoL mod to ease the boring and repetitive parts of Skyblock, such as spotting cheap auctions, finding best prices, and much more. We're constantly developing and we aim to be a mod designed by the community, for the community. | [PartlySaneStudios](https://github.com/PartlySaneStudios) |
 | [Scatha-Pro](https://modrinth.com/mod/scatha-pro) | A mod for improved Scatha farming on Hypixel Skyblock - adds several alerts, a UI overlay, Scatha related achievements and more. | [NamelessJu's](https://github.com/NamelessJu)
@@ -106,7 +105,6 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [SkyGuide](https://modrinth.com/mod/skyguide) | A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way. Current features include a map of SkyBlock and NPC locations. | [DeDiamondPro](https://github.com/DeDiamondPro) |
 | [SkyHanni](https://modrinth.com/mod/skyhanni) | A Skyblock mod with a lot of features, especially for the garden. | [hannibal2](https://github.com/hannibal002) | Requires NotEnoughUpdates. |
 | [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) | Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future. | [Skytils Team](https://github.com/Skytils) | Uses Essential. |
-| [Synthesis](https://github.com/SynthesisMod/Synthesis/releases/latest) | Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else. | [Antonio32A](https://github.com/Antonio32A), [ComplexOrigin](https://github.com/complexorigin), [Desco1](https://github.com/Desco1), [RayDeeUx](https://github.com/RayDeeUx) |
 | [WaterSolver](https://github.com/Desco1/WaterSolver) | A simple Water Board solver. Solves all 40 Water Board layouts in a single water flow, considerably faster than other solvers. | [Desco1](https://github.com/Desco1) |
 
 ### Not Recommended
@@ -124,6 +122,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | Clean View | Use [OverflowParticles](https://modrinth.com/mod/overflowparticles) | [LianMI](https://github.com/zlainsama) |
 | Cross Chat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Entity Culling | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [tr7zw](https://github.com/tr7zw) |
+| Fancy Warp Menu | Use [SkyblockAddons Unofficial]() | [TirelessTraveler](https://github.com/ILikePlayingGames) |
 | FoamFix | The 1.8 port has issues. Use [PolyPatcher](https://modrinth.com/mod/patcher) for memory improvements. | [asiekierka](https://github.com/asiekierka) |
 | Fullbright | Use [PolyPatcher](https://modrinth.com/mod/patcher) | Unknown |
 | Height Limit Mod | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [catsonluna](https://github.com/catsonluna) |
@@ -141,8 +140,11 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | NoHitFix | This mod is bannable on all 1.8+ only servers. It is not a fix, it is a cheat. | [Moulberry](https://github.com/Moulberry) |
 | NoScroll | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Revxrsal](https://hypixel.net/members/revxrsal.1109532) |
 | OldAnimationsMod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [spiderfrog](https://www.youtube.com/channel/UC0Cz31K6IE09o8LF5Hpzymw) |
+| Orange's 1.7 Animations | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
+| Orange's Simple Mods | Use [EvergreenHUD](https://modrinth.com/mod/evergreenhud) & [Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
 | Patcher | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | PortalInputFix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | Asbyth |
+| ProjectL | Use [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
 | QuickPlay | Use [Quickjoin](https://modrinth.com/mod/quickjoin) & [Reward Claim](https://modrinth.com/mod/reward-claim) | [bugfroggy](https://github.com/robere2) |
 | Resource Exploit Fix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | Resource Pack Organizer | Use [Resource Pack Manager](https://skyclient.co/mod/rpm) | [chylex](https://github.com/chylex) |
@@ -150,8 +152,9 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | ServerListBufferFixer | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | SimpleToggleSprint | Use [PolySprint](https://modrinth.com/mod/polysprint) | [My-Name-Is-Jeff](https://github.com/My-Name-Is-Jeff) |
 | Sk1er Old Animations Mod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| SkyblockAddons | Use [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial) | [Biscuut](https://github.com/biscuut) |
+| SkyblockAddons | Use [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial) | [Biscuit](https://github.com/BiscuitDevelopment) |
 | Soopy | Discontinued, [see alternatives](https://alternatives.microcontrollers.dev/1.8.9/soopy) | [SoopyBoo32](https://github.com/Soopyboo32) |
+| Synthesis | Discontinued | [Antonio32A](https://github.com/Antonio32A), [ComplexOrigin](https://github.com/complexorigin), [Desco1](https://github.com/Desco1), [RayDeeUx](https://github.com/RayDeeUx) |
 | Smooth Scrolling Everywhere | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | TCPNoDelay | This issue was fixed in vanilla Minecraft 1.8.1 | [prplz](https://github.com/prplz) |
 | Vanilla Enhancements | Use [PolyPatcher](https://modrinth.com/mod/patcher) & [Chatting](https://modrinth.com/mod/chatting) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
