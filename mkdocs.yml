@@ -37,12 +37,18 @@ extra:
   social:
     - icon: simple/modrinth
       link: https://modrinth.com/user/Microcontrollers
+    - icon: simple/codeberg
+      link: https://codeberg.org/MicrocontrollersDev
     - icon: fontawesome/brands/github
-      link: https://github.com/MicrocontrollersDev/Alternatives
+      link: https://github.com/MicrocontrollersDev
+    - icon: simple/matrix
+      link: https://matrix.to/#/!axTNrRSaDlwHtQznCp:matrix.org
     - icon: simple/revoltdotchat
       link: https://rvlt.gg/vNMTy2bw
     - icon: fontawesome/brands/discord
       link: https://discord.gg/rejfv9kFJj
+    - icon: simple/mastodon
+      link: https://sakurajima.social/@microcontrollers
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@Microcontrollers
     - icon: simple/kofi
