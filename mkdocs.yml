@@ -37,6 +37,8 @@ extra:
   social:
     - icon: simple/modrinth
       link: https://modrinth.com/user/Microcontrollers
+    - icon: simple/curseforge
+      link: https://legacy.curseforge.com/members/microcontrollerstv/projects
     - icon: simple/codeberg
       link: https://codeberg.org/MicrocontrollersDev
     - icon: fontawesome/brands/github
