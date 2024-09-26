@@ -214,6 +214,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Sounds](https://modrinth.com/mod/sound) | Adds many more sounds to Minecraft for things that did not previously have sounds. | [mineblock11](https://github.com/mineblock11) |
 | [TipTapShow](https://modrinth.com/mod/tiptapshow) | A keystrokes mod for modern fabric. | [Spyxar](https://github.com/Spyxar) | [Fabric API](https://modrinth.com/mod/fabric-api) |
 | [Favorita](https://modrinth.com/mod/favorita) | A basic item favoriting mod, allowing you to stop yourself from discarding of important items. | [Deftu](https://github.com/Deftu) | [Fabric API](https://modrinth.com/mod/fabric-api), [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin), [TextileLib](https://modrinth.com/mod/textile-lib), [OmniCore](https://modrinth.com/mod/omnicore) |
+| [SaveMyKeybinds](https://modrinth.com/mod/savemykeybinds) | Allows you to save and load keybind presets. | [MisterCheezeCake](https://github.com/MisterCheezeCake) |
 
 ### Skyblock Mods
 
