@@ -1,6 +1,6 @@
 # Essential Alternatives
 
-??? note "Essential sucks"
+??? note "Essential sucks, click here to read why"
 
     Essential's new microtransaction system is predatory, purposefully designed to charge you more than what it would
     cost you prior to the new currency update. Essential now uses a new in-game currency in order to buy cosmetics,
@@ -17,7 +17,8 @@
     Elementa, Vigilance, and UniversalCraft can all be used individually without the need of Essential, should you
     need to use them. However, Polyfrost has alternative libraries that may be more useful, such as their
     UniversalCraft fork, OneConfig (Vigilance competitor), and PolyUI (Elementa competitor). I especially recommend
-    avoiding Vigilance in general, due to its myriad of issues that have been known but not fixed for years.
+    avoiding Vigilance in general, due to its myriad of issues that are known and acknowledged by the Essential devs,
+    yet have not been fixed even years later.
     
     Essential has tracking and data collection. This information may be shared to third parties as can be read in
     their [privacy policy](https://essential.gg/privacy-policy), as well as what data they collect.
