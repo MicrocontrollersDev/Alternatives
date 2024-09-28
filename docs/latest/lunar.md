@@ -1,5 +1,9 @@
 # Lunar Client Alternatives
 
+Lunar, despite having the option to add Fabric mods, is not very compatible due to the nature of Lunar Client being closed sourced and heavily obfuscated, making it impossible for mod authors to properly add support. Additionally, despite Lunar advertising their use of Sodium and admitting that it allows for most of their performance improvements, they pay no money to the developers of these mods while making money from selling cosmetics. It's better to use the Fabric alternatives and cut Lunar out altogether.
+
+![image](https://github.com/user-attachments/assets/a7a4a132-62e9-4f15-9f6d-1dd462ae5f65)
+
 Please note that this page may be outdated due to Minecraft update cycles.
 
 It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all dependencies and recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
@@ -9,7 +13,6 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### OptiFine
 
 * [List of OptiFine alternatives](https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements)
-
 
 ### Performance
 
