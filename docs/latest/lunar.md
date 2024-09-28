@@ -67,7 +67,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Armor Status - ?
 * Clock - ?
 * Combo Counter - ?
-* Coordinates - ?
+* Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
 * CPS - ?
 * Day Counter - ?
 * DirectionHUD - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
@@ -133,7 +133,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 #### HUD Options
 
 * Shift Effects in Inventory - Vanilla
-* Show Achievements/Advancements - ?
+* Show Achievements/Advancements - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Show Crosshair in Third Person - [Microcontrollers's Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 
 #### Cosmetic Options
@@ -152,7 +152,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 #### Texture Pack Options
 
-* Transparent Background - ?
+* Transparent Background - Vanilla
 * Red String - Use a resource pack
 
 ### Performance
