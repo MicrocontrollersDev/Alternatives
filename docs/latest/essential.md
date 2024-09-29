@@ -6,10 +6,8 @@
     cost you prior to the new currency update. Essential now uses a new in-game currency in order to buy cosmetics,
     similar to Fortnite's V-Bucks. The amount of currency you can buy and the price of cosmetics is strategically
     placed so that you always have to buy more coins than you need to buy an item, forcing you to spend extra. This
-    business practice is incredibly anticonsumer and profit driven.
-
-    Several users have also reported having their worlds/save files get completely corrupted due to Essential. While
-    this seems to be rare, it's better to use the safer alternatives than risk getting your worlds deleted.
+    business practice is incredibly anticonsumer and profit driven, and is much different from their previous,
+    respectable scheme where you paid directly for the item you wanted.
     
     Essential also tries to market itself as a mod library. Because of this, if another mod wants to use something
     Essential offers, all users of the mod are forced to install Essential alongside the original mod. There is no way
@@ -30,6 +28,10 @@
     for new players". Instead of using these half-baked and random features that can easily break with other mods,
     you should just use the free and open alternatives that have more features and are able to provide better
     support.
+
+    Essential goes against the spirit of modern modding. There is no point for a mod loader when a singular mod tries
+    to do everything, especially when it breaks everything else along the way. Using a mod loader means you have the
+    freedom to use whatever mods you want. Don't feel tied down by Essential!
 
 Don't feel forced to use Essential!
 
