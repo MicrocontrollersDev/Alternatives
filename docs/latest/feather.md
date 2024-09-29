@@ -11,6 +11,10 @@ Feather, on numerous occasions, has been caught illegally
 stealing code and breaking other mod's licenses. It is also unsupported by many
 mod authors and it is advised against supporting them.
 
+![image](https://github.com/user-attachments/assets/ff8c5079-70e6-4d2e-9c40-78d2658338f3)
+![image](https://github.com/user-attachments/assets/6c6f396c-ec98-4bb4-8f7d-fd0b751579d4)
+
+
 ### Visuals
 
 * Animations - Irrelevant
