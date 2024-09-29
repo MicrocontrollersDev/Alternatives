@@ -4,16 +4,13 @@ Please note that this page may be outdated due to Minecraft update cycles.
 
 It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all dependencies and recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
 
-WIP - Feather "Client" is a Forge/Fabric
-mod marketing itself as a client, claiming
-immense FPS boosts and wide mod support. However,
-Feather, on numerous occasions, has been caught illegally
-stealing code and breaking other mod's licenses. It is also unsupported by many
-mod authors and it is advised against supporting them.
+WIP - Feather "Client" is a Forge/Fabric mod marketing itself as a client, claiming immense FPS boosts and wide mod support.
+However, Feather, on numerous occasions, has been caught illegallystealing code and breaking other mod's licenses. It is
+also unsupported by many mod authors, as Feather is closed source and obfuscated, and so incompatibilies cannot be fixed by
+mod authors. It is not recommended to use Feather or support the developers behind the "client".
 
 ![image](https://github.com/user-attachments/assets/ff8c5079-70e6-4d2e-9c40-78d2658338f3)
 ![image](https://github.com/user-attachments/assets/6c6f396c-ec98-4bb4-8f7d-fd0b751579d4)
-
 
 ### Visuals
 
