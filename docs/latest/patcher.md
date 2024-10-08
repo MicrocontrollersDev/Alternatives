@@ -3,7 +3,7 @@
 PolyPatcher is a fork of Patcher and is a 1.8.9-1.12.2 performance, bug fix, and QOL mod
 There is no 1.20+ version, and so this is not a real alternatives list in the usual sense.
 
-This list is based off features that exist in PolyPatcher or Patcher, as some features may only exist in one but not the other.
+This list is based off features that exist in PolyPatcher and/or Patcher, as some features may only exist in one but not the other.
 
 ### Bug Fixes
 
@@ -19,6 +19,7 @@ This list is based off features that exist in PolyPatcher or Patcher, as some fe
 * Forge Chest Behavior - Irrelevant
 * Vanilla Held Item Lighting - Irrelevant
 * OptiFine Custom Sky Fix - Irrelevant
+* Sky Height - [Microcontrollers's Smooth Skies](https://modrinth.com/mod/smooth-skies)
 
 ### Experimental
 
