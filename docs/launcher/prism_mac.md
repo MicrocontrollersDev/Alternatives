@@ -12,11 +12,11 @@ This guide will explain the install process for Prism, as well as how we can use
 
 First, we need to download and setup Java to be able to use Prism Launcher. Unlike the default Minecraft launcher, Prism does not come bundled with a default Java, and so we must install it ourselves.
 
-Minecraft 1.16 and below all use Java 8, 1.17-1.20.4 use Java 17, and 1.20.5+ use Java 21. I recommend installing all to make it simpler to use different versions of Minecraft whenever you want.
+Minecraft 1.16 and below all use Java 8, 1.17-1.20.4 use Java 17, and 1.20.5+ use Java 21. I recommend installing all to make it simpler to use different versions of Minecraft whenever you want, however if you don't plan on playing 1.17-1.20.4, just Java 8 and 21.
 
 In order to download Java, we will first need to choose our distribution.
 
-??? note "Apple Silicon - M1/M2/M3"
+??? note "Apple Silicon - M1/M2/M3/M4"
 
     Head to the [Zulu download page](https://www.azul.com/downloads/#downloads-table-zulu). Adoptium is an open source Java distribution that does not require a paid account to install, and is made by the Eclipse Foundation, a very reputable source. To install, we will use the dropdown boxes to make it easier to find the versions of Java we need
 
@@ -25,18 +25,18 @@ In order to download Java, we will first need to choose our distribution.
     - Architecture: Arm x64
     - Java Package: JDK
 
-    If it asks if you want to allow downloads, click "Allow". Once we have chosen our download preferences, we will click the `.pkg` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
+    If it asks if you want to allow downloads, click "Allow". Once we have chosen our download preferences, we will click the `.dmg` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
 
 ??? note "Intel CPU (not Apple silicon)"
 
-    Head to the [Adoptium download page](https://adoptium.net/temurin/releases). Adoptium is an open source Java distribution that does not require a paid account to install, and is made by the Eclipse Foundation, a very reputable source. To install, we will use the dropdown boxes to make it easier to find the versions of Java we need
+    Below are downloads for for Java 8, 17, and 21. When downloading, choose the `.pkg` download option. If it asks if you want to allow downloads, click "Allow". Once it's downloaded, run it and follow the installation process. Do this for all versions of Java.
 
-    - Operating System: macOS
-    - Architecture: x64
-    - Package Type: JDK
-    - Version: 8, 17, and 21 (download one of them, then download the others after)
+    - [Java 8](https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jdk&version=8)
+    - [Java 17](https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jdk&version=17)
+    - [Java 21](https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jdk&version=21)
 
-    If it asks if you want to allow downloads, click "Allow". Once we have chosen our download preferences, we will click the `.pkg` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
+
+Note: The above links default to x64. If you are on a 32 bit computer, you can use the `Architecture` dropdown to change to x86.
 
 ### Step 2 - Installing Prism
 
