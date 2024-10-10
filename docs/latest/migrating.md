@@ -241,7 +241,7 @@ Features that OptiFine provides that are not resource pack related.
 | [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) (No 1.21 Yet) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
 | [SuperBetterGrass](https://github.com/dima-dencep/super-better-grass/releases) | Better grass and snow, more customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) & [Dima-Dencep](https://github.com/dima-dencep) | This is a fork of LambdaBetterGrass by LambdAurora. |
-| [RyoamicLights](https://modrinth.com/mod/ryoamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) & [ThinkingStudios](https://github.com/ThinkingStudios) |
+| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://github.com/ramidzkh) |
 
 #### Resource Packs
