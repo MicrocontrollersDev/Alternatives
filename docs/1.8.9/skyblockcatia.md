@@ -46,7 +46,7 @@ if the features you use can be replaced.
 ### Global Config
 
 * Enable Confirm to Disconnect - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Enable Skin Rendering Fix - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) via custom models
+* Enable Skin Rendering Fix - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Disable Hurt Camera Effect - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Enable Shortcut Game Button - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Enable 1.15 Armor Enchanted Glint - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
