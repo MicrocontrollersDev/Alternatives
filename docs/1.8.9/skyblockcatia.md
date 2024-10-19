@@ -29,7 +29,7 @@ if the features you use can be replaced.
 * Show Item Rarity - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Item Rarity Opacity - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Make Special Zealot Held Gold Block - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
-* Hitbox Render Mode - ([Polyfrost's REDACTION](https://modrinth.com/mod/redaction)) ?
+* Hitbox Render Mode - [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
 * Glowing Dragon Armor - ?
 * Disable Block Particles - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
 * Fix Skyblock Enchant Tag - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/latest)

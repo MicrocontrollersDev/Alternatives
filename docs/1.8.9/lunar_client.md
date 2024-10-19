@@ -90,10 +90,10 @@ I do not have Lunar Client and don't intend on downloading it. If you know where
 
 ### Nametags
 
-* Nametag Text Shadow -  [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Third Person Nametag - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Nametag Text Shadow -  [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
+* Third Person Nametag - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
 * Show Nametag Icon - Irrelevant
-* Nametag Opacity - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Nametag Opacity - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
 
 ### Skyblock
 

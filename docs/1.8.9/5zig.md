@@ -23,7 +23,7 @@ This list is based off of the latest version of 5zig Reborn.
 * Time in Chat Messages - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Transparent Chat Background - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Transparent Pause Menu - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Show Own Nametag - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag) / [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Show Own Nametag - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
 * Ping on Tablist - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Ping on Server List - ?
 

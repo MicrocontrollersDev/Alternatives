@@ -127,7 +127,7 @@ alternatives that still get updated.
 
 ### Rendering
 
-* Remove Ghost Titles - ?
+* Remove Ghost Titles - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Remove Titles from Raffles - ?
 
 ## Hub
