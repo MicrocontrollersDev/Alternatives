@@ -292,12 +292,12 @@ or a discussion.
 
 * Show Dungeon Counter - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Edit Dungeon Floor - [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
-* Show Dungeon Profit - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+* Show Dungeon Profit - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide)
 * Display Master Souls - ?
 * Cata EXP Tracker - ?
 * Show Frag Counter - SkyblockHud?
 * Show Door Opener - ?
-* Show Dungeon Map - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Dungeon Map - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove Armor Stands - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Crypts Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Spirit Bear Timer - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -318,11 +318,11 @@ or a discussion.
 
 ### Party Finder
 
-* Show Player Info - [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Party Finder Menu - [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Cata Level Lower Bound - [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Class Level Lower Bound - [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Draw Player Count - [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Player Info - [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Party Finder Menu - [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Cata Level Lower Bound - [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Class Level Lower Bound - [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Draw Player Count - [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ### Miscellaneous
 
@@ -330,7 +330,7 @@ or a discussion.
 * Fix Spirit Boots - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Copy Fails - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Armor Color - ?
-* Show Item Quality - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+* Show Item Quality - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/latest) / [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide)
 * Show Names in Guis - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Mage Beams From Other Players - ?
 
@@ -349,7 +349,7 @@ or a discussion.
 ### Solvers
 
 * Dungeon Puzzle Timer - ?
-* All Solvers - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+* All Solvers - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide)
 
 ## Quality of Life
 
@@ -451,10 +451,10 @@ or a discussion.
 
 ### Use At Your Own Risk
 
-* Allow Reparty Command - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
+* Allow Reparty Command - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide) / [Cobble8's SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest) / [Danker's DSM](https://github.com/bowser0000/SkyblockMod/releases/latest)
 * Prevent Orb Placement - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Auto Reparty - Irrelevant
-* Auto Join Party - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest)
+* Auto Join Party - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide)
 * Party Rejoin Filter - ?
 
 ### Custom Wardrobe

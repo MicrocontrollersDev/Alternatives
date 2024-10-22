@@ -38,7 +38,7 @@ alternatives that still get updated.
 * Drill Fuel Bar - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Drill Fuel Number - ?
 * Dungeon Death Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Dungeon Map Display - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Dungeon Map Display - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [syeyoung's Dungeons Guide](https://modrinth.com/mod/dungeons-guide) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Collected Essences Display - ?
 * Dungeons Secret Display - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Teammate Name Overlay - ?

@@ -120,12 +120,12 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * TNT Timer Mod - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
 * Hitbox - [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
-* Reduced Hurt Animation - [Scherso's BetterHurtCam](https://github.com/Scherso/BetterHurtCam/releases/latest)
+* Reduced Hurt Animation - [Scherso's BetterHurtCam](https://modrinth.com/mod/forge-betterhurtcam)
 
 ### Other Mods
 
 * Toggle Sneak/Sprint - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
-* Nick Hider - [Sk1er's NickHider](https://sk1er.llc/mods/nick_hider)
+* Nick Hider - [Sk1er's NickHider](https://sk1er.club/mods/nick_hider)
 * WorldEdit CUI - [Mumfrey's WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files?version=1.8.9)
 * Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod)
 * Screenshot Uploader - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)

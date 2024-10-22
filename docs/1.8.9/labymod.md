@@ -163,7 +163,7 @@ that you avoid using it if possible.
 * DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * EmoteChat - [Kokeria's ChatEmotes](https://www.curseforge.com/minecraft/mc-mods/chatemotes/files?version=1.8.9) (doesn't work exactly like laby's but the emotes are the same)
 * FastJoin - ?
-* Focus Movement Fix - [Sk1er's Patcher](https://sk1er.llc/mods/patcher)
+* Focus Movement Fix - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Friend Tags - [Reflxction's NameModifier](https://github.com/ReflxctionDev/NameModifier/releases/latest)
 * FriendViewer - [Sk1er's Essential](https://essential.gg)
 * FullBright - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
@@ -172,7 +172,7 @@ that you avoid using it if possible.
 * HDSkins - [xflo3's CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files?version=1.8.9)
 * HeadOwner - ?
 * Hotbar - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
-* Hypixel Quick Play - [Bugfroggy's QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410)
+* Hypixel Quick Play - [QWERTZexe's Quickjoin](https://modrinth.com/mod/quickjoin)
 * HyPlus - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) (somewhat)
 * I Love Music - ?
 * Instagram - ?
@@ -185,7 +185,7 @@ that you avoid using it if possible.
 * Motion Blur - [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
 * NoBob - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * OptiFine - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
-* Rainbow GUI - [Sk1er's ChromaHUD](https://sk1er.club/mods/ChromaHUD)
+* Rainbow GUI - [Polyfrost's OneConfig](https://modrinth.com/mod/oneconfig)
 * ResourcePack 24 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) and [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 * Send To Server - ?
 * Settings Profile Mod - [leduyquang753's Controls Saved](https://drive.google.com/uc?authuser=0&id=1di1XQ_JNcVOt2RyCyZncsua7Vi5ar_fo&export=download)

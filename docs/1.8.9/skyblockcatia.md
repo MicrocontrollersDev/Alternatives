@@ -53,7 +53,7 @@ if the features you use can be replaced.
 * Enable Enchanted Glint for Skulls - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Enable Overwrite Sign Editing - ?
 * Enable Sign Selection List - ?
-* Enable Chat in Container Screen - [SirDesco's Synthesis](https://github.com/SynthesisMod/Synthesis) 
+* Enable Chat in Container Screen - ?
 * Disable Error Log - ?
 
 ### Toast Config
