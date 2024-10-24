@@ -15,13 +15,13 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
   
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
 * Clear Chat - Vanilla
-* Compact Chat - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Compact Chat - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Text Shadow - ?
 * 24 Hour Timestamps - ?
 * Fancy Fonts - ?
 * Filter DMs - ?
 * Vanilla Background - Irrelevant
-* Timestamps - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Timestamps - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Chat Messages Notifications - ?
 * Chat Opacity - Vanilla
 * Chat Size - ?

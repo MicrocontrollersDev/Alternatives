@@ -25,15 +25,15 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### Chat Mods
 
 * Chat Filter - ?
-* Chat Height Fix - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
-* Don't Clear Chat History - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Chat Height Fix - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Don't Clear Chat History - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Highlighted Name - [uku3lig's ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * Background Opacity - Vanilla (Accessibility Options)
 * Hide Incoming Messages - ?
-* Stack Spam Messages - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Stack Spam Messages - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Stop Servers from Closing Chat - ?
 * Text Shadow - ?
-* Unlimited Chat - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Unlimited Chat - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Chat Animation - ?
 
 ### Hypixel Mods

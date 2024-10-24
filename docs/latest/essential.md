@@ -55,7 +55,7 @@ Don't feel forced to use Essential!
 
 ### Chat Peek
 
-* Chat Peek - ?
+* Chat Peek - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 
 ## Essential Settings
 

@@ -96,8 +96,8 @@ mod authors. It is not recommended to use Feather or support the developers behi
 
 ### Stack Messages
 
-* Stack Messages - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
-* Consecutive Messages Only - [OBro1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Stack Messages - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Consecutive Messages Only - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 
 ### Mentions
 
