@@ -155,21 +155,21 @@ This list is based off features that exist in PolyPatcher and/or Patcher, as som
 ### Screens
 
 * 1.11 Chat Length - Vanilla
-* Remove Chat Message Limit - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Remove Chat Message Limit - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Transparent Chat - Vanilla (Affect's all text backgrounds)
 * Transparent Chat Input Field - Vanilla (Affect's all text backgrounds)
 * Extend Chat Background - ?
-* Compact Chat - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
-* Consecutive Compact Chat - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
-* Compact Chat Time - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Compact Chat - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Consecutive Compact Chat - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Compact Chat Time - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Remove Blank Messages - ?
-* Shift Chat - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Shift Chat - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Chat Delay - Vanilla
-* Chat Position - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
-* Chat Timestamps - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
-* Chat Timestamps Style - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
-* Chat Timestamps Format - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
-* Show Seconds on Timestamps - [mrbuilder1961's Chat Patches](https://modrinth.com/mod/chatpatches)
+* Chat Position - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Chat Timestamps - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Chat Timestamps Style - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Chat Timestamps Format - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Show Seconds on Timestamps - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Safe Chat Clicks - ?
 * Damage Glance - ?
 * Item Count Glance - ?
