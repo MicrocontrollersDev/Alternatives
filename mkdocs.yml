@@ -5,11 +5,14 @@ theme:
   favicon: assets/images/logo.png
   features:
     - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
     - navigation.expand
     - toc.integrate
     - content.code.annotate
+    - content.action.edit
   name: material
   logo: assets/images/logo.png
   icon:
