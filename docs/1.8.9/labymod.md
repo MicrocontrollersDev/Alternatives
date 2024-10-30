@@ -151,7 +151,7 @@ that you avoid using it if possible.
 * Color Correction - [Polyfrost's ColorSaturation](https://modrinth.com/mod/colorsaturation)
 * ConnectionHistory - ?
 * Controller - ?
-* Custom Block Overlay - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
+* Custom Block Overlay - [Aycy's BlockOverlay](https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/files/mods/Block_Overlay_4.0.3.jar)
 * Custom Crosshair Mod - [Polyfrost's PolyCrosshair](https://modrinth.com/mod/crosshair)
 * Custom Hitboxes - [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
 * CustomFilterSounds - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)

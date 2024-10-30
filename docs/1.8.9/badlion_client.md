@@ -16,7 +16,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 * Bedwars Beds - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Bedwars Upgrade Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Block Counter - ?
-* Block Overlay - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
+* Block Overlay - [Aycy's BlockOverlay](https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/files/mods/Block_Overlay_4.0.3.jar)
 * BlockInfo - [Profmobius's What Am I Looking At](https://www.curseforge.com/minecraft/mc-mods/waila/files?version=1.8.9)
 * Bossbar - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Chat

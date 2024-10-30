@@ -116,7 +116,7 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 * Particle Mod - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
 * Cooldowns - [Canalex's Cooldowns](https://cdn.discordapp.com/attachments/778792141932986401/1207183981720637510/Cooldowns_-_1.8.9.jar)
 * Time Changer - [Polyfrost's PolyTime](https://modrinth.com/mod/polytime)
-* Block Outline - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
+* Block Outline - [Aycy's BlockOverlay](https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/files/mods/Block_Overlay_4.0.3.jar)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * TNT Timer Mod - [Sk1er's TNT Time](https://sk1er.club/mods/tnttime)
 * Hitbox - [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
