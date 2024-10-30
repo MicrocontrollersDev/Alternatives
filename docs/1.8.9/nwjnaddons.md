@@ -44,8 +44,8 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 
 ### QOL
 
-* Toggle Block Highlight - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
-* Highlight Color - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
+* Toggle Block Highlight - [Aycy's BlockOverlay](https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/files/mods/Block_Overlay_4.0.3.jar)
+* Highlight Color - [Aycy's BlockOverlay](https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/files/mods/Block_Overlay_4.0.3.jar)
 * Remove Boss Dialouge - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Remove NPC Dialouge on Garden - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Remove Discord Warnings - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
