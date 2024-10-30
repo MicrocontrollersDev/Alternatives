@@ -2,7 +2,7 @@
 
 ## Update
 
-* [BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
+* [BlockOverlay](https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/files/mods/Block_Overlay_4.0.3.jar)
 * [Levelhead](https://sk1er.club/mods/level_head)
 * [ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
 * [Nick Hider](https://sk1er.club/mods/nick_hider)
