@@ -48,7 +48,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Show Composter Upgrades as Stack Size - ?
 
 #### Render
-* Hide Falling Blocks - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
+* Hide Falling Blocks - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Hide P5 Armorstands - ?
 * Hide P5 Particles - ?
 
@@ -129,13 +129,12 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Waypoint Color - ?
 * Chat Type Waypoint Rendering - ?
 * Waypoint Beacon Height - ?
-* Party Commands - ?
-* ➤ Leader Commands - ?
+* Party Commands - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * Rend Arrows - ?
 * Detect Reaper Armor - ?
-* Stops Entity Death Animation - ?
-* Skyblock XP Gain Message - ?
-* Treecap Timer - ?
+* Stops Entity Death Animation - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
+* Skyblock XP Gain Message - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Treecap Timer - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 
 #### Bestiary
 
@@ -166,8 +165,8 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 
 * Toggle Block Highlight - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
 * Highlight Color - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
-* Remove Boss Dialouge - ?
-* Remove NPC Dialouge on Garden - ?
+* Remove Boss Dialouge - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Remove NPC Dialouge on Garden - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Remove Discord Warnings - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 
 #### Beta (WIP)
