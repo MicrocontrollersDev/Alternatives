@@ -62,7 +62,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 #### General / QoL
 
 * Chat Editor - ?
-* Hide Lightning - ?
+* Hide Lightning - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Block Useless/Spammy Messages - ?
 * Bridge Chat - ?
 * Auto Transfer - ?
