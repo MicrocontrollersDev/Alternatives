@@ -63,7 +63,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 
 * Chat Editor - ?
 * Hide Lightning - ?
-* Block Usemess/Spammy Messages - ?
+* Block Useless/Spammy Messages - ?
 * Bridge Chat - ?
 * Auto Transfer - ?
 * Auto rejoin reparty - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
