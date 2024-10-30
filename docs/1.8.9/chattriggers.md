@@ -4,9 +4,6 @@ ChatTriggers may cause many performance issues depending on your modules and mos
 
 List is a WIP but should have all features just is missing some alternatives. Feel free to make a pull request to add them.
 
-I do not have ChatTriggers and don't intend on downloading it. If you know have any more info please pull request it.
-All this data is from the modules's information page
-
 ### AzuredClient
 
 #### General
