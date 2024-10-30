@@ -40,6 +40,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Customizable colors - ?
 
 #### Garden
+
 * Visitor List Display - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Milestone Display - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show crop milestones as stack size - ?
