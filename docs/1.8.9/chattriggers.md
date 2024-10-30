@@ -44,8 +44,8 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 
 * Visitor List Display - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Milestone Display - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Show crop milestones as stack size - ?
-* Show composter upgrades as stack size - ?
+* Show Crop Milestones as Stack Size - ?
+* Show Composter Upgrades as Stack Size - ?
 
 #### Render
 * Hide Falling Blocks - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
