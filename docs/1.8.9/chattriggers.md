@@ -91,9 +91,9 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Blaze Timer - ?
 * Player Logging - ?
 * RNG Meter Display - ?
-* Terminal Splits - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
-* Terminal Tracker - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
-* Terminal Timer - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
+* Terminal Splits - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)/ [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
+* Terminal Tracker - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)/ [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
+* Terminal Timer - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)/ [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * Hide Soulweaver Skulls - ?
 * Show Secret Clicks - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Dungeon Chest Profit - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
