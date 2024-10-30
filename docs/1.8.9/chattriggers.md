@@ -19,7 +19,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Announce Melody Progress - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * Terminal Timer (Saves your PBs for each terminal) - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * Relic Timer - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
-* Send message on Dungeon Death (customizable) - ?
+* Send Message on Dungeon Death (customizable) - ?
 
 * Invincibility Timers - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * Bonzo and Phoenix Announce - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
