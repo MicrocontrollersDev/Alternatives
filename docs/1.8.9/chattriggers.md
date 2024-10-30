@@ -168,7 +168,6 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Remove NPC Dialouge on Garden - ?
 * Remove Discord Warnings - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 
-
 #### Beta (WIP)
 
 * Tracks Damage Armor Stands - ?
