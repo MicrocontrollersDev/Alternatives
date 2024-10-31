@@ -36,10 +36,10 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Blaze Timer - ?
 * Player Logging - ?
 * RNG Meter Display - ?
-* Terminal Splits - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)/ [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
-* Terminal Tracker - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)/ [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
-* Terminal Timer - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)/ [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
-* Hide Soulweaver Skulls - ?
+* Terminal Splits - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni) / [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
+* Terminal Tracker - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni) / [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
+* Terminal Timer - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni) / [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
+* Hide Soulweaver Skulls - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Secret Clicks - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Dungeon Chest Profit - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 

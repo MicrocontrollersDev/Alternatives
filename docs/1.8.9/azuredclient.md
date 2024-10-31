@@ -27,8 +27,8 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Highlight on Leap Menu (based on class) - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 
 ### HUD
-* Ping Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
-* TPS Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
+* Ping Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* TPS Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * FPS Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * BPS Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * Customizable colors - ?

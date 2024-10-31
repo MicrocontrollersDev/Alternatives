@@ -84,7 +84,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Move GUIs - Irrelevant
 * Bobber Overlay - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Legion Overlay - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Detect Patcher Cords - ?
+* Detect Patcher Cords - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Hide Own Waypoints - ?
 
 ### Kuudra
@@ -102,7 +102,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Fossil Solver - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Fossil Overlay - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Highlight All Possible Fossils - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Create Exit Waypoint - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Create Exit Waypoint - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
 * Speed Boost Title - ?
 
 ### Customization

@@ -32,7 +32,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Disable waypoints on death - Irrelevant
 
 ### Gui
-* Alloy Tracker - ?
+* Alloy Tracker - Irrelevant
 * Change Alloy Tracker Position - Irrelevant
 * Coin Tracker - ?
 * Force NPC - Irrelevant
@@ -90,7 +90,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 
 ### Other
 * Creeper Waypoints - ?
-* M3 timer - ?
+* M3 timer - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Change Fire Freeze Position - Irrelevant
 * Treecap Timer - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Cells Alignment Tracker - ?

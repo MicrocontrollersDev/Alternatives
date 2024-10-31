@@ -6,7 +6,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 
 ### General
 
-* Draw Chat Waypoints - ?
+* Draw Chat Waypoints - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Waypoint Color - ?
 * Chat Type Waypoint Rendering - ?
 * Waypoint Beacon Height - ?
@@ -26,7 +26,7 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Player Highlight - ?
 * Player Highlight Color - ?
 * Matcho - ?
-* Arachnes Keeper - ?
+* Arachnes Keeper - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Crimson Isle
 
@@ -39,8 +39,8 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 
 ### Mining
 
-* Mineshaft Waypoints - ?
-* Mineshaft Pity - ?
+* Mineshaft Waypoints - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Mineshaft Pity - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### QOL
 
@@ -59,10 +59,10 @@ List is a WIP but should have all features just is missing some alternatives. Fe
 * Agro Range - ?
 * Agro Range Color - ?
 * Agro Color Opacity - ?
-* Totem Range - ?
-* Totem Range Color - ?
-* Totem Color Opacity - ?
-* Totem Range Options - ?
+* Totem Range - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Totem Range Color - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Totem Color Opacity - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Totem Range Options - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 # Contributors
 
