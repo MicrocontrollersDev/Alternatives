@@ -1,21 +1,15 @@
 # SoopyAddons Alternatives
 
-SoopyAddons is a mod that is made for 
-ChatTriggers and can no longer be
-developed by Soopy. This means that as 
-time goes on more features will break or
-not work as intended. It also requires
-ChatTriggers to run the mod which can 
-cause performance issues.
+SoopyAddons is a mod that is made for ChatTriggers and is no longer being developed by Soopy. This means that as
+time goes on more features will break or not work as intended. It also requires ChatTriggers to run the mod which
+can cause performance issues.
 
-List is a WIP but should have all 
-features just is missing some alternatives. 
-Feel free to make a pull request to add them.
+At the time of writing, many of the features no longer work.
 
 ### Waypoints
 
 * Waypoints - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Ordered Waypoints - [Ninjune's ColeWeight](https://github.com/Ninjune/coleweight/releases/latest) (Requires ChatTriggers)
+* Ordered Waypoints - ?
 * Crystal Hollows Waypoints From Chat - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Synced Crystal Hollows Waypoints - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
@@ -30,7 +24,7 @@ Feel free to make a pull request to add them.
 * Custom Museum GUI - ?
 * Custom Dungeon Ready GUI - ?
 * Inventory Search Bar - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Custom HP And Mana Bar - ?
+* Custom HP And Mana Bar - [Biscuit & Fix3dll's SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 
 ### Dungeons Solvers
 
@@ -72,9 +66,9 @@ Feel free to make a pull request to add them.
 
 ### Global Settings
 
-* Hide Falling Blocks - [odtheking's Odin(Legit Version)](https://github.com/odtheking/Odin/releases/latest)
+* Hide Falling Blocks - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * In-game Twitch Bot Commands - ?
-* Replace [hand] With Currently Held Item - Hypixel's new /show command
+* Replace [hand] With Currently Held Item - Hypixel's /show command
 * Approximate Item Worth In Lore - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Hetacomb Enchant Info In Lore - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Champion Enchant Info In Lore - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -82,7 +76,7 @@ Feel free to make a pull request to add them.
 * Thunder Bottle Full Alert - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Use Old Master Stars - ?
 * Item Pickup Log - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Vanquisher Spawn Alert - [zhenga8533's VolcAddons](https://github.com/zhenga8533/VolcAddons/releases/latest)
+* Vanquisher Spawn Alert - ?
 * Sea Creature Catch Alert - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Guild
@@ -116,7 +110,7 @@ Feel free to make a pull request to add them.
 * Show Unlocked Gemstone Slots - ?
 * Show Contained Gemstones - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Current Session Compact Progress - ?
-* $/hr From Gemstone Mining - [Ninjune's ColeWeight](https://github.com/Ninjune/coleweight/releases/latest) (Requires ChatTriggers)
+* $/hr From Gemstone Mining - ?
 * Forge NPC Price - ?
 * Current And Next CH Events - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 * Metal Detector Solver - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
@@ -132,11 +126,11 @@ Feel free to make a pull request to add them.
 * Show Timer Over Rods - ?
 * Show Nether Boss Nametag On HUD - ?
 
-### Rng Meter
+### RNG Meter
 
-* Rng Meter Display - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Slayer Rng Meter Reset Alert - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
-* Slayer Rng Drop Title - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* RNG Meter Display - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Slayer RNG Meter Reset Alert - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Slayer RNG Drop Title - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Slayer
 
