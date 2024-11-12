@@ -80,7 +80,7 @@ mod authors. It is not recommended to use Feather or support the developers behi
 
 ### Sound
 
-* Portal Sounds - [Vanilla Tweaks Resourcepack / Peace and Quiet](https://vanillatweaks.net/picker/resource-packs/)
+* Portal Sounds - [BVengo's Sound Controller](https://modrinth.com/mod/sound-controller)
 
 ### Keybinds
 
