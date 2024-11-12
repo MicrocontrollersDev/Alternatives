@@ -1,9 +1,9 @@
-# Patcher "Alternatives"
+# (Poly)Patcher "Alternatives"
 
-PolyPatcher is a fork of Patcher and is a 1.8.9-1.12.2 performance, bug fix, and QOL mod
-There is no 1.20+ version, and so this is not a real alternatives list in the usual sense.
+PolyPatcher is a fork of Patcher and is a 1.8.9/1.12.2 performance, bug fix, and QOL mod.
+There is no version for newer Minecrafts, and so this is not a real alternatives list in the usual sense.
 
-This list is based off features that exist in PolyPatcher and/or Patcher, as some features may only exist in one but not the other.
+This list is based off all features that exist in PolyPatcher and/or Patcher, as some features may only exist in one but not the other.
 
 ### Bug Fixes
 
