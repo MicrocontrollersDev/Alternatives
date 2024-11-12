@@ -91,7 +91,7 @@ mod authors. It is not recommended to use Feather or support the developers behi
 ### Chat Settings
 
 * Toggle Chat - ?
-* Unlimited Scrollbar - [JackFred's More Chat History](https://modrinth.com/mod/morechathistory)
+* Unlimited Scrollbar - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Background Color - ?
 * Text Shadow - ?
 
