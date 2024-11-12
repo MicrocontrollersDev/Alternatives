@@ -16,10 +16,10 @@ mod authors. It is not recommended to use Feather or support the developers behi
 
 * Animations - Irrelevant
 * Block Overlay - [Tektonikal's Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight)
-* Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs)
+* Clear Water - [Vanilla Tweaks Resourcepack / Terrain](https://vanillatweaks.net/picker/resource-packs)
 * Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - Partially in vanilla's accessibility menu
-* Glint - ?
+* Glint - [Vanilla Tweaks Resourcepack / World of Color > Enchantment Glints](https://vanillatweaks.net/picker/resource-packs)
 * Hitbox - [PingIsFun's HitBox+](https://modrinth.com/mod/hitboxplus)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * Nick Hider - ?
@@ -32,17 +32,18 @@ mod authors. It is not recommended to use Feather or support the developers behi
 ### HUD
 
 * Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
+* Armor HUD - [RedLime's Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)
 * Attack Indicator - [Minenash's Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
 * Boss Bar - ?
 * CPS - ?
 * Combo Display - ?
 * Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
 * Direction - [madjoel's Where Am I Going](https://modrinth.com/mod/waig)
-* FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
+* FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay) / [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra) / [Losterixx's SimpleHUD](https://modrinth.com/mod/simplehud)
 * Item Counter - ?
-* Item Info - ?
+* Item Info - [A5b84's Held Item Info](https://modrinth.com/mod/held-item-info)
 * Pack Display - ?
-* Ping - ?
+* Ping - [Losterixx's SimpleHUD](https://modrinth.com/mod/simplehud)
 * Potion Effects - ?
 * Reach Display - ?
 * Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
@@ -64,11 +65,11 @@ mod authors. It is not recommended to use Feather or support the developers behi
 * Oof Mod - ?
 * Perspective - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
 * Screenshot - ?
-* Scrollable Tooltips - [isXander's Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips)
+* Scrollable Tooltips - [isXander's Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips) / [kyrptonaught's ToolTipFix](https://modrinth.com/mod/tooltipfix)
 * Server Address - ?
 * Snaplook - ?
 * Toggle Sprint - Vanilla (Accessibility Options)
-* Voice - ?
+* Voice - [henkelmax's Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 ## General
 
@@ -79,7 +80,7 @@ mod authors. It is not recommended to use Feather or support the developers behi
 
 ### Sound
 
-* Portal Sounds - ?
+* Portal Sounds - [BVengo's Sound Controller](https://modrinth.com/mod/sound-controller)
 
 ### Keybinds
 
@@ -90,7 +91,7 @@ mod authors. It is not recommended to use Feather or support the developers behi
 ### Chat Settings
 
 * Toggle Chat - ?
-* Unlimited Scrollbar - ?
+* Unlimited Scrollbar - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Background Color - ?
 * Text Shadow - ?
 
@@ -163,6 +164,7 @@ mod authors. It is not recommended to use Feather or support the developers behi
 * [Starlight](https://www.modrinth.com/mod/starlight)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Entity Culling](https://modrinth.com/mod/entityculling)
+* [Litematica](https://modrinth.com/mod/litematica)
 
 # Contributors
 
