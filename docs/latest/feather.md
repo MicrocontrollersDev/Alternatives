@@ -91,7 +91,7 @@ mod authors. It is not recommended to use Feather or support the developers behi
 ### Chat Settings
 
 * Toggle Chat - ?
-* Unlimited Scrollbar - ?
+* Unlimited Scrollbar - [JackFred's More Chat History](https://modrinth.com/mod/morechathistory)
 * Background Color - ?
 * Text Shadow - ?
 
@@ -164,6 +164,7 @@ mod authors. It is not recommended to use Feather or support the developers behi
 * [Starlight](https://www.modrinth.com/mod/starlight)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Entity Culling](https://modrinth.com/mod/entityculling)
+* [Litematica](https://modrinth.com/mod/litematica)
 
 # Contributors
 
