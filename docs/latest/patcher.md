@@ -156,8 +156,8 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 
 * 1.11 Chat Length - Vanilla
 * Remove Chat Message Limit - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
-* Transparent Chat - Vanilla (Affect's all text backgrounds)
-* Transparent Chat Input Field - Vanilla (Affect's all text backgrounds)
+* Transparent Chat - Vanilla (Affects all text backgrounds)
+* Transparent Chat Input Field - Vanilla (Affects all text backgrounds)
 * Extend Chat Background - ?
 * Compact Chat - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Consecutive Compact Chat - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
