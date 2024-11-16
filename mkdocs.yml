@@ -52,8 +52,8 @@ extra:
       link: https://rvlt.gg/vNMTy2bw
     - icon: fontawesome/brands/discord
       link: https://discord.gg/rejfv9kFJj
-    - icon: simple/mastodon
-      link: https://sakurajima.social/@microcontrollers
+    - icon: simple/bluesky
+      link: https://bsky.app/profile/microcontrollers.bsky.social
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@Microcontrollers
     - icon: simple/kofi
