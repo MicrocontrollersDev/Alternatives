@@ -1,15 +1,19 @@
 # Feather "Client" Alternatives
 
-WIP - Feather "Client" is a Forge/Fabric
-mod marketing itself as a client, claiming
-immense FPS boosts and wide mod support. However,
-Feather, on numerous occasions, has been caught illegally
-stealing code and breaking other mod's licenses. Feather was
-also previously in a paid beta testing period, in a sense putting
-numerous free mods behind a paywall. It is also unsupported by many
-mod authors and it is advised against supporting them.
+Feather "Client" is a Forge/Fabric mod marketing itself as a client, claiming immense FPS boosts and wide mod support.
+However, Feather, on numerous occasions, has been caught illegally stealing code and breaking other mod's licenses.
+Despite the overwhelming amount of evidence, their admins and moderators refuse to acknowledge it and avoid it.
+Feather is also unsupported by many mod authors, as Feather is closed source and obfuscated, and so incompatibilies cannot
+be fixed by mod authors. It is not recommended to use Feather or support the developers behind the "client". All major
+performance improvements can be gotten from using the original mods that Feather leeches off.
+
+Additionally, I do not personally trust them. If they are unable to write their own code for their features, I do not trust
+them to write proper security measures as by using Feather you are essentially giving them access to your Microsoft/Minecraft
+account. Their Discord server also refuses to ban scammers, as on several occasions myself and others have been told that it
+is not their problem.
 
 ### Visuals
+
 * Animations - Irrelevant
 * Block Overlay - ?
 * Clear Water - [sp614x's OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar)
@@ -26,6 +30,7 @@ mod authors and it is advised against supporting them.
 * Zoom - [sp614x's OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar) / [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### HUD
+
 * Armor Status - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Boss Bar - ?
 * CPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
@@ -44,6 +49,7 @@ mod authors and it is advised against supporting them.
 * Time - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Hypixel
+
 * AutoFriend - ?
 * Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
 * Auto GG - ?
