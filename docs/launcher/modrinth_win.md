@@ -20,7 +20,7 @@ After launching, it will then ask you to log into your Microsoft account so that
 
 This guide will focus on Forge 1.8.9, but steps for other versions should also be obvious.
 
-Click on the green `+` button on the bottom left of the app. Make sure the `Custom` tag is selected. Give it an icon if you wish, any name you want, and set the Loader to `Forge`, and Game version to `1.8.9`. Then press `+ Create`.
+Click on the green `+` button on the bottom left of the app. Make sure the `Custom` tag is selected. Give it an icon if you wish, any name you want, and set the Loader to `Forge`, and Game version to `1.8.9`. Then press `+ Create`, click on it `not the green arrow`, and press "folder".
 
 ### Step 4 - Installing our mods / SkyClient
 
