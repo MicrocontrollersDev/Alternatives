@@ -7,8 +7,8 @@ In case you are not sure which to use, you should use Modrinth, as it is much ea
 ## Modrinth App (Recommended)
 
 * [Windows](https://alternatives.microcontrollers.dev/launcher/modrinth_win)
-* MacOS coming soon
-* Linux coming later
+* [MacOS](https://alternatives.microcontrollers.dev/launcher/modrinth_mac)
+* [Linux](https://alternatives.microcontrollers.dev/launcher/modrinth_gnu)
 
 ## Prism Launcher
 
