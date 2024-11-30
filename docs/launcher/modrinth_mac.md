@@ -10,6 +10,7 @@ This guide will explain the install process for Modrinth, as well as how we can 
 
 ### Step 1 - Installing Modrinth
 
-[Download Modrinth App](https://modrinth.com/app). It should automatically recommend the correct version to download (a `.dmg`). Once it is finished downloading, run it. It may warn you that it is an executable file and could be malicious. If so, follow to the next step.
+[Download Modrinth App](https://modrinth.com/app). It should automatically recommend the correct version to download (a `.dmg`). Once it is finished downloading, run it. It may warn you that it is an executable file and could be malicious. If so, Go to System Settings > Privacy & Security > Security, and click "Open Anyway".
+
 
 
