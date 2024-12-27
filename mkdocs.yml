@@ -101,6 +101,8 @@ nav:
       - "Home": "launcher/home.md" 
       - "Modrinth App":
           - "Windows": "launcher/modrinth_win.md"
+          - "MacOS": "launcher/morinth_mac.md"
+          - "Linux": : "launcher/modrinth_gnu.md"
       - "Prism Launcher":
           - "Windows": "launcher/prism_win.md"
           - "MacOS": "launcher/prism_mac.md"
