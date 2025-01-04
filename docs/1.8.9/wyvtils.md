@@ -4,7 +4,7 @@ The mod is no longer supported by its developer, Wyvest.
 
 ### General
 
-* Reverse Inventory Scrolling - ?
+* Reverse Inventory Scrolling - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
 * Hide Locraw Messages - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 
