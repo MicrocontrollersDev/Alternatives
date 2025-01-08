@@ -20,7 +20,7 @@ After launching, it will then ask you to log into your Microsoft account so that
 
 This guide will focus on Forge 1.8.9, but steps for other versions should also be obvious.
 
-Click on the green `+` button on the bottom left of the app. Make sure the `Custom` tag is selected. Give it an icon if you wish, any name you want, and set the Loader to `Forge`, and Game version to `1.8.9`. Then press `+ Create`, click on it `not the green arrow`, and press "folder".
+Click on the green `+` button on the bottom left of the app. Make sure the `Custom` tag is selected. Give it an icon if you wish, any name you want, and set the Loader to `Forge`, and Game version to `1.8.9`. Then press `+ Create`, click on the new profile (not the green arrow), and press "folder".
 
 ### Step 4 - Installing our mods / SkyClient
 
@@ -46,4 +46,6 @@ If you encounter any issues not shown here you should ask for help in my [discor
 If you encounter any issues **unrelated to this guide**, or you simply want to keep up to date with Modrinth, you can join their [discord server](https://discord.gg/modrinth-734077874708938864).
 
 # Contributors
-* [KTrain5169](https://github.com/KTrain5169) --signed KTrain
+
+* [Axuras](https://github.com/Axuras)
+* [KTrain5169](https://github.com/KTrain5169)

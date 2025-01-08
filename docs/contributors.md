@@ -5,6 +5,7 @@
 * [Absterge](https://github.com/Absterge)
 * [Angry_Pineapple](https://github.com/Angry-Pineapple3121)
 * [asbyth](https://github.com/asbyth)
+* [Axuras](https://github.com/Axuras)
 * [AzuredBlue](https://github.com/AzuredBlue)
 * [Blurryface](https://blurry.gay)
 * [BobIsMyManager](https://github.com/BobIsMyManager)
