@@ -82,7 +82,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Quickjoin](https://modrinth.com/mod/quickjoin) | Quickly join any game on Hypixel via a custom GUI. | [QWERTZexe](https://github.com/QWERTZexe) |
 | [ReportPlus](https://github.com/ThatGravyBoat/ReportPlus/releases/latest) | Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | Uses Essential. |
 | [Reward Claim](https://modrinth.com/mod/reward-claim) | Reward Claim allows you to claim your Hypixel rewards in-game rather than on their website. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | Uses Essential. |
-| [Zombies-Utils](https://github.com/Stachelbeere1248/zombies-utils/releases/latest) | Utility mod for Hypixel Zombies. | [Stachelbeere1248](https://github.com/Stachelbeere1248) |
+| [Zombies-Utils](https://modrinth.com/mod/zombies-utils) | Utility mod for Hypixel Zombies. | [Stachelbeere1248](https://github.com/Stachelbeere1248) |
 
 ### SkyBlock
 
