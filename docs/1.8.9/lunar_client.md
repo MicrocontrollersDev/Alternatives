@@ -209,6 +209,7 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
 * [moisty](https://github.com/Mqisty)
+* [ooTruffle](https://github.com/ooTruffle)
 * [oyMarcel](https://github.com/oyMarcel)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Salmon](https://github.com/Scherso)
