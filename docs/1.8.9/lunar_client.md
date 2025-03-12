@@ -114,7 +114,7 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 * Shiny Pots - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 * Particle Mod - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
-* Cooldowns - ?
+* Cooldowns - [Canalex's Cooldowns](https://github.com/MicrocontrollersDev/ModArchive/blob/main/Cooldowns%20-%201.8.9.jar)
 * Time Changer - [Polyfrost's PolyTime](https://modrinth.com/mod/polytime)
 * Block Outline - [Aycy's BlockOverlay](https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/files/mods/Block_Overlay_4.0.3.jar)
 * Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
