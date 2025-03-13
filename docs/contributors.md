@@ -3,6 +3,7 @@
 * [8KCoffeeWizard](https://github.com/8KCoffeeWizard)
 * [Abd](https://github.com/BrahR)
 * [Absterge](https://github.com/Absterge)
+* [Abuse](https://github.com/abuserightclick)
 * [Angry_Pineapple](https://github.com/Angry-Pineapple3121)
 * [asbyth](https://github.com/asbyth)
 * [Axuras](https://github.com/Axuras)
