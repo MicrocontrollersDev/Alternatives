@@ -106,7 +106,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Title Opacity - [Microcontrollers's Title Tweaks](https://modrinth.com/mod/titletweaks)
 * Windowed Fullscreen - [Kir_Antipov's Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
 * Instant Fullscreen - [Kir_Antipov's Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
-* Fix Action Bar Overlap - ?
+* Fix Action Bar Overlap - Vanilla
 
 ### Performance
 
@@ -158,7 +158,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Remove Chat Message Limit - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Transparent Chat - Vanilla (Affects all text backgrounds)
 * Transparent Chat Input Field - Vanilla (Affects all text backgrounds)
-* Extend Chat Background - ?
+* Extend Chat Background - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Compact Chat - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Consecutive Compact Chat - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
 * Compact Chat Time - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
@@ -179,7 +179,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Container Backgrounds / Container Background Opacity - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * Container Opacity - [Microcontrollers's Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * GUI Crosshair - [Microcontrollers's Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
-* Startup Notification - ?
+* Startup Notification - [ZhuRuoLing's Startup Time](https://modrinth.com/mod/startup-time)
 * Clean Main Menu - Irrelevant
 * Open to LAN Replacement - ?
 * Smart Disconnect - ?
