@@ -48,4 +48,4 @@ If you encounter any issues **unrelated to this guide**, or you simply want to k
 # Contributors
 
 * [Axuras](https://github.com/Axuras)
-* [KTrain5169](https://github.com/KTrain5169)
+* [KTrain](https://github.com/KTrain5169)

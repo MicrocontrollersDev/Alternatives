@@ -6,14 +6,14 @@ the game.
 
 ## Features
 
-* Custom Enchant Menu - [Moulberry's NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Custom Enchant Menu - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Anvil Uses - Useless on Skyblock now
-* Show Item Tier - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Item Tier - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Cancel Item Damage - ?
 * Cancel Inventory Drag - NEU?
-* Keybinds - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Client Command Fix - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Show Skyblock Item ID in Debug Tooltip - [hannibal2's SkyHanni](https://modrinth.com/mod/skyhanni)
+* Keybinds - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Client Command Fix - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Show Skyblock Item ID in Debug Tooltip - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 # Contributors
 

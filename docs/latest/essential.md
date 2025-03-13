@@ -38,29 +38,29 @@ Don't feel forced to use Essential!
 
 ### World Host
 
-* Host World - [Gaming32's World Host](https://modrinth.com/mod/world-host) (does not require other people to use the mod, only the person hosting)
+* Host World - [World Host](https://modrinth.com/mod/world-host) (does not require other people to use the mod, only the person hosting)
 
 ### Pictures
 
-* Pictures / Screenshot Manager - [Spirit Studios's Snapper](https://modrinth.com/mod/snapper)
+* Pictures / Screenshot Manager - [Snapper](https://modrinth.com/mod/snapper)
 
 ### Account Switcher
 
-* Account Switcher - [The-Fireplace's In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
+* Account Switcher - [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 
 ### Skin Changer
 
-* Skin Changer - [IMB11's Skin Shuffle](https://modrinth.com/mod/skinshuffle)
+* Skin Changer - [Skin Shuffle](https://modrinth.com/mod/skinshuffle)
 
 ### Chat Peek
 
-* Chat Peek - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Chat Peek - [Chat Plus](https://modrinth.com/mod/chat-plus)
 
 ## Essential Settings
 
 ### Session
 
-* Automatically Refresh Session - [connorslade's Auto Reauth](https://modrinth.com/mod/auto-reauth)
+* Automatically Refresh Session - [Auto Reauth](https://modrinth.com/mod/auto-reauth)
 
 ## Emotes
 
@@ -68,32 +68,33 @@ Don't feel forced to use Essential!
 
 ## Cosmetics
 
-* Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica)
+* Cosmetics - [Cosmetica](https://modrinth.com/mod/cosmetica)
 
 ## Quality of Life
 
 ### Screenshots
 
-* Screenshot Preview - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
-* Quick Actions - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
-* Post Screenshot Action - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
-* Screenshot Preview Duration - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
-* Screenshot Sounds - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
-* Screenshot Message - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
+* Screenshot Preview - [Screencapper](https://modrinth.com/mod/screencapper)
+* Quick Actions - [Screencapper](https://modrinth.com/mod/screencapper)
+* Post Screenshot Action - [Screencapper](https://modrinth.com/mod/screencapper)
+* Screenshot Preview Duration - [Screencapper](https://modrinth.com/mod/screencapper)
+* Screenshot Sounds - [Screencapper](https://modrinth.com/mod/screencapper)
+* Screenshot Message - [Screencapper](https://modrinth.com/mod/screencapper)
 
 ### Zoom
 
-* Smooth Zoomed Camera - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
-* Smooth Zoming - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
-* Toggle To Zoom - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
+* Smooth Zoomed Camera - [Zoomify](https://modrinth.com/mod/zoomify)
+* Smooth Zoming - [Zoomify](https://modrinth.com/mod/zoomify)
+* Toggle To Zoom - [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### Discord Integration
 
-* Activity Status on Discord - [CDAGaming_'s CraftPresence](https://modrinth.com/mod/craftpresence)
-* Join Requests through Discord - [CDAGaming_'s CraftPresence](https://modrinth.com/mod/craftpresence)
-* Show Username and Avatar on Discord - [CDAGaming_'s CraftPresence](https://modrinth.com/mod/craftpresence)
-* Show Joined Server on Discord - [CDAGaming_'s CraftPresence](https://modrinth.com/mod/craftpresence)
+* Activity Status on Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
+* Join Requests through Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
+* Show Username and Avatar on Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
+* Show Joined Server on Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
 
 # Contributors
 
 * [Blurryface](https://blurry.gay)
+* [KTrain](https://github.com/KTrain5169)

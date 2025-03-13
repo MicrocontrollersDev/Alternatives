@@ -20,20 +20,20 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 * Animations - Irrelevant
 * Hit Armor Color - ?
-* Reduced Hurt Animation - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
+* Reduced Hurt Animation - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 
 ### Chat Mods
 
 * Chat Filter - ?
-* Chat Height Fix - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
-* Don't Clear Chat History - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
-* Highlighted Name - [uku3lig's ChatHighlighter](https://modrinth.com/mod/chathighlighter)
+* Chat Height Fix - [Chat Plus](https://modrinth.com/mod/chat-plus)
+* Don't Clear Chat History - [Chat Plus](https://modrinth.com/mod/chat-plus)
+* Highlighted Name - [ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * Background Opacity - Vanilla (Accessibility Options)
 * Hide Incoming Messages - ?
-* Stack Spam Messages - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Stack Spam Messages - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Stop Servers from Closing Chat - ?
 * Text Shadow - ?
-* Unlimited Chat - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Unlimited Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Chat Animation - ?
 
 ### Hypixel Mods
@@ -44,7 +44,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Short Chat Channel Messages - ?
 * Auto Friend - ?
 * Auto Tip - ?
-* Auto GG - [ZtereoHYPE's AutoTechno](https://modrinth.com/mod/autotechno)
+* Auto GG - [AutoTechno](https://modrinth.com/mod/autotechno)
 * Anti GG - ?
 * Auto Who - No longer works on Hypixel
 * Level Head - ?
@@ -65,63 +65,63 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Armor Status - ?
 * Clock - ?
 * Combo Counter - ?
-* Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display)
 * CPS - ?
 * Day Counter - ?
-* DirectionHUD - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay)
+* DirectionHUD - [Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay)
 * Item Tracker - ?
-* Key Strokes - [Spyxar's TipTapShow](https://modrinth.com/mod/tiptapshow)
+* Key Strokes - [TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Memory Usage - ?
 * Pack Display - ?
 * Ping - ?
 * Potion Effects - ?
-* Potion Counter - [uku's PotionCounter](https://modrinth.com/mod/potioncounter)
+* Potion Counter - [PotionCounter](https://modrinth.com/mod/potioncounter)
 * Stopwatch - ?
 * Server Address -  ?
-* Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
+* Saturation - [AppleSkin](https://modrinth.com/mod/appleskin)
 * Reach Display - ?
 * Team View - Irrelevant
 
 ### Nametags
 
-* Nametag Text Shadow -  [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
-* Third Person Nametag - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Nametag Text Shadow -  [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Third Person Nametag - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 * Show Nametag Icon - Irrelevant
-* Nametag Opacity - [Microcontrollers's Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Nametag Opacity - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 
 ### Visual Mods
 
 * 2D Items - ?
-* UHC Overlay - [Microcontrollers's Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
+* UHC Overlay - [Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
 * FOV Mod - ?
-* Menu Blur - [Motschen's Blur+](https://modrinth.com/mod/blur-fabric)
-* Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* Waypoints - [xaero96's Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (BANNABLE ON HYPIXEL!)
-* Scoreboard - [Microcontrolers's Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
-* Motion Blur - [Noryea's Motion Blur](https://modrinth.com/mod/motionblur)
+* Menu Blur - [Blur+](https://modrinth.com/mod/blur-fabric)
+* Custom Crosshair - [Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
+* Waypoints - [Minimap](https://modrinth.com/mod/xaeros-minimap) (BANNABLE ON HYPIXEL!)
+* Scoreboard - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
+* Motion Blur - [Motion Blur](https://modrinth.com/mod/motionblur)
 * Shiny Pots - ?
-* Scrollable Tooltips - [isXander's Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips)
+* Scrollable Tooltips - [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips)
 * Particle Multiplier - ?
 * Cooldowns - ?
-* Time Changer - [Motschen's Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
-* Block Outline - [Tektonikal's Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight)
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
-* TNT Timer Mod - [shateq's TNTTime](https://modrinth.com/mod/tnttime)
-* Hitbox - [PingIsFun's HitBox+](https://modrinth.com/mod/hitboxplus)
-* 3D Skin Layers - [tr7zw's 3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
+* Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
+* Block Outline - [Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight)
+* Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
+* TNT Timer Mod - [TNTTime](https://modrinth.com/mod/tnttime)
+* Hitbox - [HitBox+](https://modrinth.com/mod/hitboxplus)
+* 3D Skin Layers - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 
 ### Other Mods
 
 * Toggle Sneak/Sprint - Vanilla (Accessible in Controls and Accessibility Settings menus)
-* Nick Hider - [FoxOnTop's NameProtect](https://modrinth.com/mod/nameprotect)
-* WorldEdit CUI - [EngineHub's WorldEdit CUI](https://curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
-* Replay Mod - [CrushedPixel & johni0702's Replay Mod](https://modrinth.com/mod/replaymod)
-* Screenshot Uploader - [Deftu's Screencapper](https://modrinth.com/mod/screencapper)
-* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [GGCrosby's Simple Macros](https://www.curseforge.com/minecraft/mc-mods/fabric-simple-macros)
+* Nick Hider - [NameProtect](https://modrinth.com/mod/nameprotect)
+* WorldEdit CUI - [WorldEdit CUI](https://curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
+* Replay Mod - [Replay Mod](https://modrinth.com/mod/replaymod)
+* Screenshot Uploader - [Screencapper](https://modrinth.com/mod/screencapper)
+* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [Simple Macros](https://www.curseforge.com/minecraft/mc-mods/fabric-simple-macros)
 * Mumble Link - ?
 * Boss Bar - ?
-* Freelook **(BANNABLE ON HYPIXEL)** - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
+* Freelook **(BANNABLE ON HYPIXEL)** - [Perspektive](https://modrinth.com/mod/perspektive)
 * Quickplay - ?
 
 ## Settings
@@ -131,21 +131,21 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 #### HUD Options
 
 * Shift Effects in Inventory - Vanilla
-* Show Achievements/Advancements - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
-* Show Crosshair in Third Person - [Microcontrollers's Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
+* Show Achievements/Advancements - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+* Show Crosshair in Third Person - [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 
 #### Cosmetic Options
 
-* Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
+* Cosmetics - [Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
 * Show Tab Icon - Irrelevant
 
 #### Misc Options
 
 * Smart Disconnect - ?
-* Borderless Fullscreen - [Kir_Antipov's Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
-* Disable Weather - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
+* Borderless Fullscreen - [Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
+* Disable Weather - [Weather Changer](https://modrinth.com/mod/weather-changer)
 * Modern Keybind Handling - Vanilla
-* Minimal View Bobbing - [Microcontrollers's Shake Tweaks](https://modrinth.com/mod/shaketweaks)
+* Minimal View Bobbing - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Unfocused FPS Limiter - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
 #### Texture Pack Options
@@ -158,10 +158,10 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 #### General
 
 * Hide Enderportals - ?
-* Full Bright - [AnOpenSauceDev's Methane](https://modrinth.com/mod/methane)
+* Full Bright - [Methane](https://modrinth.com/mod/methane)
 * Show Enchantment Glint - ?
-* Lazy Chunk Loading - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
-* Disable Block Breaking Particles - [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra)
+* Lazy Chunk Loading - [Sodium](https://modrinth.com/mod/sodium)
+* Disable Block Breaking Particles - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 
 #### Entity Options
 
@@ -175,10 +175,10 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ## Other
 
-* Vanilla Bug Fixes - [isXander's Debugify](https://modrinth.com/mod/debugify)
+* Vanilla Bug Fixes - [Debugify](https://modrinth.com/mod/debugify)
 * Resource Pack Menu - [enjarai's Recursive Resources](https://modrinth.com/mod/recursiveresources)
 * Custom Main Menu - [Keksuccino's FancyMenu](https://modrinth.com/mod/fancymenu)
-* Discord Rich Presence - [CDAGaming_'s CraftPresence](https://modrinth.com/mod/craftpresence)
+* Discord Rich Presence - [CraftPresence](https://modrinth.com/mod/craftpresence)
 * In Game Account Switcher - [The_Fireplace's In Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 * In Game Server Switcher - ?
 

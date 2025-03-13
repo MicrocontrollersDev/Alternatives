@@ -16,37 +16,37 @@ is not their problem.
 
 * Animations - Irrelevant
 * Block Overlay - ?
-* Clear Water - [sp614x's OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar)
+* Clear Water - [OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar)
 * Custom Crosshair - [Sparkless' Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* FOV Changer - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
+* FOV Changer - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Glint - [GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * Hitbox - ?
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.12.2)
+* Item Physics - [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.12.2)
 * Nick Hider - ?
 * Particles - ?
-* Time Changer - [Polyfrost's PolyTime](https://modrinth.com/mod/polytime)
-* Waypoints - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files?version=1.12.2)
-* Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
-* Zoom - [sp614x's OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar) / [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Time Changer - [PolyTime](https://modrinth.com/mod/polytime)
+* Waypoints - [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files?version=1.12.2)
+* Weather Changer - [PolyWeather](https://modrinth.com/mod/polyweather)
+* Zoom - [OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar) / [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### HUD
 
-* Armor Status - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Armor Status - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Boss Bar - ?
-* CPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Combo Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Coordinates - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Direction - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* FPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* CPS - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Combo Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Direction - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* FPS - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Counter - ?
-* Item Info - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Item Info - [PolyPatcher](https://modrinth.com/mod/patcher)
 * Pack Display - ?
-* Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Potion Effects - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Reach Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Saturation - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Ping - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Potion Effects - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Reach Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Saturation - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Scoreboard - ?
-* Time - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Time - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Hypixel
 
@@ -54,49 +54,49 @@ is not their problem.
 * Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
 * Auto GG - ?
 * Anti GG - ?
-* LevelHead - [Sk1er's LevelHead](https://sk1er.club/mods/level_head)
+* LevelHead - [LevelHead](https://sk1er.club/mods/level_head)
 
 ### Other
 
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
-* Discord - [CDAGaming's CraftPresence](https://modrinth.com/mod/craftpresence)
+* Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
 * Oof Mod - ?
 * Perspective - [Cynosphere's Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux/files?version=1.12.2)
-* Screenshot - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
-* Server Address - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Screenshot - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Scrollable Tooltips - [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
+* Server Address - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Snaplook - ?
-* Toggle Sprint - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
+* Toggle Sprint - [PolySprint](https://modrinth.com/mod/polysprint)
 * Voice - ?
 
 ## General
 
 ### Blur Settings
 
-* Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.12.2)
-* Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.12.2)
+* Inventory - [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.12.2)
+* Menu - [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.12.2)
 
 ### Sound
 
-* Portal Sounds - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Portal Sounds - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### Keybinds
 
-* Custom Dropstack - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Custom Dropstack - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ## Chat Options
 
 ### Chat Settings
 
-* Toggle Chat - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Unlimited Scrollbar - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Toggle Chat - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Unlimited Scrollbar - [PolyPatcher](https://modrinth.com/mod/patcher)
 * Background Color - ?
-* Text Shadow - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Text Shadow - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### Stack Messages
 
-* Stack Messages - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Consecutive Messages Only - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Stack Messages - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Consecutive Messages Only - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### Mentions
 
@@ -109,11 +109,11 @@ is not their problem.
 
 ### Rendering Settings
 
-* Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar)
+* Use Fast Rendering - [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar)
 * Use Direct Memory Access - ?
-* Use Fast Font Rendering - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Use Static Particle Color - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Lazy Chunk Loading - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Use Fast Font Rendering - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Use Static Particle Color - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Lazy Chunk Loading - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### Light Settings
 
@@ -122,8 +122,8 @@ is not their problem.
 
 ### Advanced Settings
 
-* Use Culling - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Cull Nametags - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Use Culling - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Cull Nametags - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 # Too lazy to download mods yourself?
 
@@ -145,7 +145,7 @@ is not their problem.
 
 * [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar)
-* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files?version=1.12.2)
+* [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files?version=1.12.2)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410)
 * [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files?version=1.12.2)
 * [HD Skins](https://www.hdskins.de)

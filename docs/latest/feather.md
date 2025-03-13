@@ -22,39 +22,39 @@ is not their problem.
 ### Visuals
 
 * Animations - Irrelevant
-* Block Overlay - [Tektonikal's Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight)
+* Block Overlay - [Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight)
 * Clear Water - [Vanilla Tweaks Resourcepack / Terrain](https://vanillatweaks.net/picker/resource-packs)
-* Custom Crosshair - [Sparkless's Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
+* Custom Crosshair - [Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - Partially in vanilla's accessibility menu
 * Glint - [Vanilla Tweaks Resourcepack / World of Color > Enchantment Glints](https://vanillatweaks.net/picker/resource-packs)
-* Hitbox - [PingIsFun's HitBox+](https://modrinth.com/mod/hitboxplus)
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
+* Hitbox - [HitBox+](https://modrinth.com/mod/hitboxplus)
+* Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * Nick Hider - ?
 * Particles - ?
-* Time Changer - [Motschen's Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
-* Waypoints **(BANNABLE ON HYPIXEL)** - [xaero96's Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
-* Weather Changer - [Lucaslah's Weather Changer](https://modrinth.com/mod/weather-changer)
-* Zoom - [isXander's Zoomify](https://modrinth.com/mod/zoomify)
+* Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
+* Waypoints **(BANNABLE ON HYPIXEL)** - [Minimap](https://modrinth.com/mod/xaeros-minimap)
+* Weather Changer - [Weather Changer](https://modrinth.com/mod/weather-changer)
+* Zoom - [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### HUD
 
-* Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
+* Armor Status - [Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
 * Armor HUD - [RedLime's Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)
 * Attack Indicator - [Minenash's Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
 * Boss Bar - ?
 * CPS - ?
 * Combo Display - ?
-* Coordinates - [Boxadactle's Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* Direction - [madjoel's Where Am I Going](https://modrinth.com/mod/waig)
-* FPS - [Grayray75's FPS - Display](https://modrinth.com/mod/fpsdisplay) / [FlashyReese's Sodium Extra](https://modrinth.com/mod/sodium-extra) / [Losterixx's SimpleHUD](https://modrinth.com/mod/simplehud)
+* Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* Direction - [ Where Am I Going](https://modrinth.com/mod/waig)
+* FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [Sodium Extra](https://modrinth.com/mod/sodium-extra) / [SimpleHUD](https://modrinth.com/mod/simplehud)
 * Item Counter - ?
-* Item Info - [A5b84's Held Item Info](https://modrinth.com/mod/held-item-info)
+* Item Info - [Held Item Info](https://modrinth.com/mod/held-item-info)
 * Pack Display - ?
-* Ping - [Losterixx's SimpleHUD](https://modrinth.com/mod/simplehud)
+* Ping - [SimpleHUD](https://modrinth.com/mod/simplehud)
 * Potion Effects - ?
 * Reach Display - ?
-* Saturation - [squeek502's AppleSkin](https://modrinth.com/mod/appleskin)
-* Scoreboard - [Microcontrolers's Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
+* Saturation - [AppleSkin](https://modrinth.com/mod/appleskin)
+* Scoreboard - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
 * Time - ?
 
 ### Hypixel
@@ -68,26 +68,26 @@ is not their problem.
 ### Other
 
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
-* Discord - [CDAGaming's CraftPresence](https://modrinth.com/mod/craftpresence)
+* Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
 * Oof Mod - ?
-* Perspective - [r0yzer's Perspektive](https://modrinth.com/mod/perspektive)
+* Perspective - [Perspektive](https://modrinth.com/mod/perspektive)
 * Screenshot - ?
-* Scrollable Tooltips - [isXander's Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips) / [kyrptonaught's ToolTipFix](https://modrinth.com/mod/tooltipfix)
+* Scrollable Tooltips - [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips) / [ToolTipFix](https://modrinth.com/mod/tooltipfix)
 * Server Address - ?
 * Snaplook - ?
 * Toggle Sprint - Vanilla (Accessibility Options)
-* Voice - [henkelmax's Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
+* Voice - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 ## General
 
 ### Blur Settings
 
-* Inventory - [Motschen's Blur+](https://modrinth.com/mod/blur-fabric)
-* Menu - [Motschen's Blur+](https://modrinth.com/mod/blur-fabric)
+* Inventory - [Blur+](https://modrinth.com/mod/blur-fabric)
+* Menu - [Blur+](https://modrinth.com/mod/blur-fabric)
 
 ### Sound
 
-* Portal Sounds - [BVengo's Sound Controller](https://modrinth.com/mod/sound-controller)
+* Portal Sounds - [Sound Controller](https://modrinth.com/mod/sound-controller)
 
 ### Keybinds
 
@@ -98,18 +98,18 @@ is not their problem.
 ### Chat Settings
 
 * Toggle Chat - ?
-* Unlimited Scrollbar - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Unlimited Scrollbar - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Background Color - ?
 * Text Shadow - ?
 
 ### Stack Messages
 
-* Stack Messages - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
-* Consecutive Messages Only - [ebicep's Chat Plus](https://modrinth.com/mod/chat-plus)
+* Stack Messages - [Chat Plus](https://modrinth.com/mod/chat-plus)
+* Consecutive Messages Only - [Chat Plus](https://modrinth.com/mod/chat-plus)
 
 ### Mentions
 
-* Highlight - [uku3lig's ChatHighlighter](https://modrinth.com/mod/chathighlighter)
+* Highlight - [ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * Color - ?
 * Bold - ?
 * Own Messages - ?
@@ -120,31 +120,31 @@ is not their problem.
 
 ### Rendering Settings
 
-* Use Fast Rendering - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
-* Use Direct Memory Access - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
-* Use Fast Font Rendering - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
-* Use Static Particle Color - [fzzyhmstrs's Particle Core](https://modrinth.com/mod/particle-core) (Improves performance of brightness calculations to make it not an issue instead of removing it entirely)
-* Lazy Chunk Loading - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
+* Use Fast Rendering - [Sodium](https://modrinth.com/mod/sodium)
+* Use Direct Memory Access - [Sodium](https://modrinth.com/mod/sodium)
+* Use Fast Font Rendering - [Sodium](https://modrinth.com/mod/sodium)
+* Use Static Particle Color - [Particle Core](https://modrinth.com/mod/particle-core) (Improves performance of brightness calculations to make it not an issue instead of removing it entirely)
+* Lazy Chunk Loading - [Sodium](https://modrinth.com/mod/sodium)
 
 ### Light Settings
 
-* Use Fast Block Lighting - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
-* Use Fast Entity Lighting - [CaffeineMC's Sodium](https://modrinth.com/mod/sodium)
+* Use Fast Block Lighting - [Sodium](https://modrinth.com/mod/sodium)
+* Use Fast Entity Lighting - [Sodium](https://modrinth.com/mod/sodium)
 
 ### Advanced Settings
 
-* Use Culling - [tr7zw's Entity Culling](https://modrinth.com/mod/entityculling)
-* Cull Nametags - [tr7zw's Entity Culling](https://modrinth.com/mod/entityculling)
+* Use Culling - [Entity Culling](https://modrinth.com/mod/entityculling)
+* Cull Nametags - [Entity Culling](https://modrinth.com/mod/entityculling)
 
 ### Cosmetics
 
-* Cosmetics - [Cosmetica-cc's Cosmetica](https://modrinth.com/mod/cosmetica)
+* Cosmetics - [Cosmetica](https://modrinth.com/mod/cosmetica)
 
 ## External Mods
 
 * [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements) <- see alternatives
-* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+* [Minimap](https://modrinth.com/mod/xaeros-minimap)
 * [MumbleLink](https://modrinth.com/mod/mumble-link)
 * [HD Skins](https://www.hdskins.de)
 * [Recursive Resources (Fabric version of Resourcepack Organizer)](https://modrinth.com/mod/recursiveresources)

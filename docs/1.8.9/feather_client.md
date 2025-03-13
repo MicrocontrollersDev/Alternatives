@@ -16,110 +16,110 @@ is not their problem.
 
 ### Visuals
 
-* Animations - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
-* Block Overlay - [Aycy's BlockOverlay](https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/files/mods/Block_Overlay_4.0.3.jar)
-* Clear Water - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Custom Crosshair - [Polyfrost's PolyCrosshair](https://modrinth.com/mod/crosshair)
-* FOV Changer - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
-* Hitbox - [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
-* Nick Hider - [Sk1er's NickHider](https://sk1er.club/mods/nick_hider)
-* Particles - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
-* Time Changer - [Polyfrost's PolyTime](https://modrinth.com/mod/polytime)
-* Waypoints - [Aycy's Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695267197857922/Waypoints_1.0.jar)
-* Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
-* Zoom - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Animations - [OverflowAnimations](https://modrinth.com/mod/animations)
+* Block Overlay - [BlockOverlay](https://github.com/SkyblockClient/SkyblockClient-REPO/raw/refs/heads/main/files/mods/Block_Overlay_4.0.3.jar)
+* Clear Water - [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [PolyPatcher](https://modrinth.com/mod/patcher)
+* Custom Crosshair - [PolyCrosshair](https://modrinth.com/mod/crosshair)
+* FOV Changer - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Glint - [GlintColorizer](https://modrinth.com/mod/glintcolorizer)
+* Hitbox - [PolyHitbox](https://modrinth.com/mod/hitbox)
+* Item Physics - [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
+* Nick Hider - [NickHider](https://sk1er.club/mods/nick_hider)
+* Particles - [OverflowParticles](https://modrinth.com/mod/overflowparticles)
+* Time Changer - [PolyTime](https://modrinth.com/mod/polytime)
+* Waypoints - [Waypoints](https://cdn.discordapp.com/attachments/796895966414110751/1060695267197857922/Waypoints_1.0.jar)
+* Weather Changer - [PolyWeather](https://modrinth.com/mod/polyweather)
+* Zoom - [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) & [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### HUD
 
-* Armor Status - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Boss Bar - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-* CPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Combo Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Coordinates - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Direction - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* FPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Item Counter - [ImToggles's Item Counter](https://modrinth.com/mod/item-counter-mod)
-* Item Info - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Pack Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) (disabled for now)
-* Potion Effects - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
-* Reach Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
-* Scoreboard - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-* Time - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Armor Status - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Boss Bar - [VanillaHUD](https://modrinth.com/mod/vanillahud)
+* CPS - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Combo Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Direction - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* FPS - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Item Counter - [Item Counter](https://modrinth.com/mod/item-counter-mod)
+* Item Info - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Pack Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Ping - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) (disabled for now)
+* Potion Effects - [Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
+* Reach Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Saturation - [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2530880)
+* Scoreboard - [VanillaHUD](https://modrinth.com/mod/vanillahud)
+* Time - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Hypixel
 
-* Auto Friend - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Auto Friend - [Hytils Reborn](https://modrinth.com/mod/hytils)
 * Auto Tip - [Semx11's AutoTip](https://autotip.pro/download)
-* Auto GG - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
-* Anti GG - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
-* LevelHead - [Sk1er's LevelHead](https://www.sk1er.club/mods/level_head)
+* Auto GG - [Hytils Reborn](https://modrinth.com/mod/hytils)
+* Anti GG - [Hytils Reborn](https://modrinth.com/mod/hytils)
+* LevelHead - [LevelHead](https://www.sk1er.club/mods/level_head)
 
 ### Other
 
-* Auto Text **(BANNABLE ON HYPIXEL)** - [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
-* Discord - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
-* Oof Mod - [Powns & Refraction & Deftu's OofMod](https://github.com/Deftu/OofMod/releases/latest)
+* Auto Text **(BANNABLE ON HYPIXEL)** - [AutoText](https://github.com/RedthMC/AutoText/releases/latest)
+* Discord - [HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
+* Oof Mod - [OofMod](https://github.com/Deftu/OofMod/releases/latest)
 * Perspective **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
-* Screenshot - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Scrollable Tooltips - [Sk1er's Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
-* Server Address - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Snaplook - [Polyfrost's BehindYouV3](https://modrinth.com/mod/behindyou)
-* Toggle Sprint - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
-* Voice - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
+* Screenshot - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Scrollable Tooltips - [Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
+* Server Address - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Snaplook - [BehindYouV3](https://modrinth.com/mod/behindyou)
+* Toggle Sprint - [PolySprint](https://modrinth.com/mod/polysprint)
+* Voice - [HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 
 ### Cosmetics
 
-* Cosmetics - [Microcontrollers's Mixmetica](https://modrinth.com/mod/mixmetica)
+* Cosmetics - [Mixmetica](https://modrinth.com/mod/mixmetica)
 
 ## General
 
 ### Blur Settings
 
-* Inventory - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
-* Menu - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
+* Inventory - [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
+* Menu - [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 
 ### Sound
 
-* Portal Sounds - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Portal Sounds - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### Keybinds
 
-* Custom Dropstack - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Custom Dropstack - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ## Chat Options
 
 ### Chat Settings
 
-* Toggle Chat - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
-* Unlimited Scrollbar - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Background Color - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
-* Text Shadow - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
+* Toggle Chat - [Chatting](https://modrinth.com/mod/chatting)
+* Unlimited Scrollbar - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Background Color - [Chatting](https://modrinth.com/mod/chatting)
+* Text Shadow - [Chatting](https://modrinth.com/mod/chatting)
 
 ### Stack Messages
 
-* Stack Messages - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Consecutive Messages Only - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Stack Messages - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Consecutive Messages Only - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### Mentions
 
-* Highlight - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
-* Color - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
-* Bold - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
-* Own Messages - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
+* Highlight - [REDACTION](https://modrinth.com/mod/redaction)
+* Color - [REDACTION](https://modrinth.com/mod/redaction)
+* Bold - [REDACTION](https://modrinth.com/mod/redaction)
+* Own Messages - [REDACTION](https://modrinth.com/mod/redaction)
 
 ## Performance
 
 ### Rendering Settings
 
-* Use Fast Rendering - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+* Use Fast Rendering - [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Use Direct Memory Access - ?
-* Use Fast Font Rendering - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Use Static Particle Color - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
-* Lazy Chunk Loading - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Use Fast Font Rendering - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Use Static Particle Color - [OverflowParticles](https://modrinth.com/mod/overflowparticles)
+* Lazy Chunk Loading - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ### Light Settings
 
@@ -128,8 +128,8 @@ is not their problem.
 
 ### Advanced Settings
 
-* Use Culling - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
-* Cull Nametags - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* Use Culling - [PolyPatcher](https://modrinth.com/mod/patcher)
+* Cull Nametags - [PolyPatcher](https://modrinth.com/mod/patcher)
 
 ## External Mods
 
@@ -146,10 +146,10 @@ is not their problem.
 * [ResourcePack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar)
 * [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://optifine.net)
-* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+* [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410)
 * [HD Skins](https://www.hdskins.de)
-* [ResourcePack Organizer](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Aycy's Resource Pack Manager instead)
+* [ResourcePack Organizer](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Resource Pack Manager instead)
 
 # Contributors
 

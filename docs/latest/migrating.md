@@ -313,7 +313,7 @@ Notes:
 * [glai](https://github.com/glaicodes)
 * [karmette](https://github.com/karmette)
 * [Kingili](https://github.com/Kingili22)
-* [KTrain5169](https://github.com/KTrain5169)
+* [KTrain](https://github.com/KTrain5169)
 * [moisty](https://github.com/Mqisty)
 * [nacrt](https://github.com/nacrt)
 * [NoPro2024](https://github.com/NoPro2024)

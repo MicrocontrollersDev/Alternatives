@@ -322,4 +322,4 @@ If you encounter any issues **unrelated to the guide at all**, or if you want to
 # Contributors
 
 * [Shiggy](https://github.com/Shiggy-dev)
-* [KTrain5169](https://github.com/KTrain5169)
+* [KTrain](https://github.com/KTrain5169)

@@ -33,7 +33,7 @@
 * [Karmette](https://github.com/karmette)
 * [Kingili](https://github.com/Kingili22)
 * [Koxx12](https://github.com/koxx12-dev)
-* [KTrain5169](https://github.com/KTrain5169)
+* [KTrain](https://github.com/KTrain5169)
 * [Lily](https://github.com/My-Name-Is-Jeff)
 * [Lisena](https://github.com/lisenaaaa)
 * [Lizzy](https://github.com/LizzyMaybeDev)
