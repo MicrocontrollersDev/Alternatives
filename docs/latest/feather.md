@@ -69,7 +69,7 @@ is not their problem.
 
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
 * Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
-* Oof Mod - [Vanilla Tweaks Resourcepack / Retro > Old Damage Sound](https://vanillatweaks.net/picker/resource-packs)
+* Oof Mod - ?
 * Perspective - [Perspektive](https://modrinth.com/mod/perspektive)
 * Screenshot - ?
 * Scrollable Tooltips - [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips) / [ToolTipFix](https://modrinth.com/mod/tooltipfix)
