@@ -51,7 +51,7 @@ is not their problem.
 * Item Info - [Held Item Info](https://modrinth.com/mod/held-item-info)
 * Pack Display - ?
 * Ping - [SimpleHUD](https://modrinth.com/mod/simplehud)
-* Potion Effects - ?
+* Potion Effects - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
 * Reach Display - ?
 * Saturation - [AppleSkin](https://modrinth.com/mod/appleskin)
 * Scoreboard - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
@@ -69,7 +69,7 @@ is not their problem.
 
 * Auto Text **(BANNABLE ON HYPIXEL)** - ?
 * Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
-* Oof Mod - ?
+* Oof Mod - [Vanilla Tweaks Resourcepack / Retro > Old Damage Sound](https://vanillatweaks.net/picker/resource-packs)
 * Perspective - [Perspektive](https://modrinth.com/mod/perspektive)
 * Screenshot - ?
 * Scrollable Tooltips - [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips) / [ToolTipFix](https://modrinth.com/mod/tooltipfix)
@@ -97,9 +97,9 @@ is not their problem.
 
 ### Chat Settings
 
-* Toggle Chat - ?
+* Toggle Chat - In vanilla's chat settings
 * Unlimited Scrollbar - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Background Color - ?
+* Background Color - Opacitiy changable in vanilla's chat settings
 * Text Shadow - ?
 
 ### Stack Messages
@@ -179,6 +179,7 @@ is not their problem.
 * [Geek](https://github.com/GamingGeek)
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [Narwhalism](https://www.twitch.tv/narwhalswim)
+* [RaphyTwin](https://github.com/RaphyTwin)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
 * [Systemless](https://github.com/SystemlessDev)
