@@ -8,8 +8,8 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### 1.7 Visuals
 
-* Animations - ?
-* Hit Color  - ?
+* Animations - [Animatium](https://modrinth.com/mod/animatium)
+* Hit Color  - Included in Animatium
 
 ### Chat Mods
   
@@ -53,7 +53,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * MiniMap **(BANNABLE ON HYPIXEL)** - [Minimap](https://modrinth.com/mod/xaeros-minimap)
 * Pack Display - ?
 * Ping - ?
-* Potion Status - ?
+* Potion Status - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
 * Reach Display - ?
 * Saturation - [AppleSkin](https://modrinth.com/mod/appleskin)
 * Scoreboard - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
@@ -63,7 +63,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Skyblock
 
-* SkyblockAddons - ?
+* SkyblockAddons - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) (Might also have more features, great alternative)
 * NotEnoughUpdates - ?
 * Skytils - ?
 * Cowlection - ?
@@ -98,11 +98,13 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Toggle Sprint - Vanilla
 * Waypoints - [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * Zoom - [Zoomify](https://modrinth.com/mod/zoomify)
-* Emotes - ?
+* Emotes - [Emotecraft](https://modrinth.com/plugin/emotecraft) Also needs to be installed on the server though
 * Sprays - ?
 * Replay Mod - [Replay Mod](https://modrinth.com/mod/replaymod)
-* Schematica Mod - ?
+* Schematica Mod - [Litematica](https://modrinth.com/mod/litematica) (Also need [MaLiLib](https://modrinth.com/mod/malilib))
 * TeamSpeak Mod - ?
 * MumbleLink - ?
 
 # Contributors
+
+* [RaphyTwin](https://github.com/RaphyTwin)
