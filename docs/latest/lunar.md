@@ -19,7 +19,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### 1.7 Visuals
 
 * Animations - [Animatium](https://modrinth.com/mod/animatium)
-* Hit Armor Color - Included in Animatium
+* Hit Armor Color - [Animatium](https://modrinth.com/mod/animatium)
 * Reduced Hurt Animation - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 
 ### Chat Mods
