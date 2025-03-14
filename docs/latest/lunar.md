@@ -18,8 +18,8 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### 1.7 Visuals
 
-* Animations - Irrelevant
-* Hit Armor Color - ?
+* Animations - [Animatium](https://modrinth.com/mod/animatium)
+* Hit Armor Color - [Animatium](https://modrinth.com/mod/animatium)
 * Reduced Hurt Animation - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 
 ### Chat Mods
@@ -39,6 +39,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### Hypixel Mods
 
 
+* Hypixel Skyblock - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Remove Guild MOTD - ?
 * Remove Guild on Tab - ?
 * Short Chat Channel Messages - ?
@@ -185,5 +186,6 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 # Contributors
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
-* [Zetvue](https://zetvue.github.io)
+* [RaphyTwin](https://github.com/RaphyTwin)
 * [Tricked](https://github.com/Tricked-dev)
+* [Zetvue](https://zetvue.github.io)
