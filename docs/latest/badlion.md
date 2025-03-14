@@ -9,7 +9,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### 1.7 Visuals
 
 * Animations - [Animatium](https://modrinth.com/mod/animatium)
-* Hit Color  - Included in Animatium
+* Hit Color - [Animatium](https://modrinth.com/mod/animatium)
 
 ### Chat Mods
   
