@@ -156,8 +156,8 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 
 * 1.11 Chat Length - Vanilla
 * Remove Chat Message Limit - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Transparent Chat - Vanilla (Affects all text backgrounds)
-* Transparent Chat Input Field - Vanilla (Affects all text backgrounds)
+* Transparent Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
+* Transparent Chat Input Field - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Extend Chat Background - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Compact Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Consecutive Compact Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
@@ -186,7 +186,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Image Preview - ?
 * Image Preview Width - ?
 * Inventory Position - Vanilla
-* Click Out of Containers - ?
+* Click Out of Containers - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * Inventory Scale - [Inventory Scale](https://modrinth.com/mod/inventoryscale)
 * Tab Opacity - [Tab Tweaks](https://modrinth.com/mod/tabtweaks)
 * Tab Height - [Tab Tweaks](https://modrinth.com/mod/tabtweaks)
