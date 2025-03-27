@@ -39,13 +39,13 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### Hypixel Mods
 
 
-* Hypixel Skyblock - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Hypixel Skyblock - See Skyblock mods [here](https://alternatives.microcontrollers.dev/latest/migrating/#skyblock-mods)
 * Remove Guild MOTD - ?
 * Remove Guild on Tab - ?
 * Short Chat Channel Messages - ?
 * Auto Friend - ?
 * Auto Tip - ?
-* Auto GG - [AutoTechno](https://modrinth.com/mod/autotechno)
+* Auto GG - [Auto GG](https://modrinth.com/mod/auto-gg)
 * Anti GG - ?
 * Auto Who - No longer works on Hypixel
 * Level Head - ?
@@ -63,7 +63,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### HUD Mods
 
-* Armor Status - ?
+* Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
 * Clock - ?
 * Combo Counter - ?
 * Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display)
@@ -76,7 +76,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Memory Usage - ?
 * Pack Display - ?
 * Ping - ?
-* Potion Effects - ?
+* Potion Effects - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
 * Potion Counter - [PotionCounter](https://modrinth.com/mod/potioncounter)
 * Stopwatch - ?
 * Server Address -  ?
@@ -93,7 +93,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Visual Mods
 
-* 2D Items - ?
+* 2D Items - [Animatium](https://modrinth.com/mod/animatium)
 * UHC Overlay - [Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
 * FOV Mod - ?
 * Menu Blur - [Blur+](https://modrinth.com/mod/blur-fabric)
@@ -119,7 +119,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * WorldEdit CUI - [WorldEdit CUI](https://curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
 * Replay Mod - [Replay Mod](https://modrinth.com/mod/replaymod)
 * Screenshot Uploader - [Screencapper](https://modrinth.com/mod/screencapper)
-* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [Simple Macros](https://www.curseforge.com/minecraft/mc-mods/fabric-simple-macros)
+* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [BindCommands](https://modrinth.com/mod/bindcommands)
 * Mumble Link - ?
 * Boss Bar - ?
 * Freelook **(BANNABLE ON HYPIXEL)** - [Perspektive](https://modrinth.com/mod/perspektive)
@@ -131,7 +131,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 #### HUD Options
 
-* Shift Effects in Inventory - Vanilla
+* Shift Effects in Inventory - Vanilla (use [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) to prevent the recipe book from shifting inventory)
 * Show Achievements/Advancements - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Show Crosshair in Third Person - [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 
@@ -142,7 +142,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 #### Misc Options
 
-* Smart Disconnect - ?
+* Smart Disconnect - [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect)
 * Borderless Fullscreen - [Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
 * Disable Weather - [Weather Changer](https://modrinth.com/mod/weather-changer)
 * Modern Keybind Handling - Vanilla

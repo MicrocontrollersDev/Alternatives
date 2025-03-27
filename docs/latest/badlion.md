@@ -13,31 +13,31 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Chat Mods
   
-* Auto Text **(BANNABLE ON HYPIXEL)** - ?
+* Auto Text **(BANNABLE ON HYPIXEL)** - [BindCommands](https://modrinth.com/mod/bindcommands)
 * Clear Chat - Vanilla
 * Compact Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Text Shadow - ?
-* 24 Hour Timestamps - ?
+* 24 Hour Timestamps - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Fancy Fonts - ?
 * Filter DMs - ?
 * Vanilla Background - Irrelevant
 * Timestamps - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Chat Messages Notifications - ?
 * Chat Opacity - Vanilla
-* Chat Size - ?
+* Chat Size - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Emphasize Username in Chat - [ChatHighlighter](https://modrinth.com/mod/chathighlighter)
-* New Chat - ?
+* New Chat - Irrelevant
 
 ### Hypixel Mods
 
-* AutoGG - ?
+* AutoGG - [Auto GG](https://modrinth.com/mod/auto-gg)
 * AutoTip - ?
 * Levelhead - ?
 * HyStats - ?
 
 ### HUD Mods
 
-* Armor Status - ?
+* Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
 * Bossbar - ?
 * CPS Counter - ?
 * Combo Counter - ?
@@ -63,10 +63,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Skyblock
 
-* SkyblockAddons - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) (Might also have more features, great alternative)
-* NotEnoughUpdates - ?
-* Skytils - ?
-* Cowlection - ?
+* See Skyblock mods [here](https://alternatives.microcontrollers.dev/latest/migrating/#skyblock-mods)
 
 ### Visual Mods
 
