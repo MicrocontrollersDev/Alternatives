@@ -225,6 +225,7 @@ These are mods for Hypixel Skyblock.
 | [Skyblock Tweaks](https://modrinth.com/mod/sbt) | A Hypixel SkyBlock mod for the latest version providing many tweaks and gameplay enhancements. | [MisterCheezeCake](https://github.com/MisterCheezeCake) | [Fabric API](https://modrinth.com/mod/fabric-api), [YACL](https://modrinth.com/mod/yacl) |
 | [Firmament](https://modrinth.com/mod/firmament) | An NEU inspired Skyblock mod. | [nea890](https://github.com/nea89o) | [Fabric API](https://modrinth.com/mod/fabric-api), [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin), & [RoughlyEnoughItems](https://modrinth.com/mod/rei) |
 | [SkyCubed](https://modrinth.com/mod/skycubed) | SkyCubed is a Hypixel SkyBlock UI overhaul mod, changing all aspects of the UI in-game to be more inline into it looking like its own game. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) |
+| [Skylens](https://modrinth.com/mod/skylens) | Skylens is a highly customizable mod that shows missing enchants, has a pet XP overlay, and a compact level display. | [nextrg](https://github.com/nextrg) |
 
 ### OptiFine Replacements
 
