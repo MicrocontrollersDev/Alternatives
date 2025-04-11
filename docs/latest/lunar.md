@@ -86,7 +86,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Nametags
 
-* Nametag Text Shadow -  [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Nametag Text Shadow - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 * Third Person Nametag - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 * Show Nametag Icon - Irrelevant
 * Nametag Opacity - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
@@ -131,7 +131,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 #### HUD Options
 
-* Shift Effects in Inventory - Vanilla (use [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) to prevent the recipe book from shifting inventory)
+* Shift Effects in Inventory - Vanilla (use [No Recipe Book Shift](https://modrinth.com/mod/no-recipe-book-shift) to prevent the recipe book from shifting inventory)
 * Show Achievements/Advancements - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Show Crosshair in Third Person - [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 
