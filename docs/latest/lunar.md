@@ -14,7 +14,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Performance
 
-* Performance Improvements - See my [full list of performance mods](https://alternatives.microcontrollers.dev/latest/migrating/#performance) (as well as the Dependencies section above it)
+* Performance Improvements - See my [full list of performance mods](https://alternatives.microcontrollers.dev/latest/migrating/#performance)
 
 ### 1.7 Visuals
 
