@@ -4,7 +4,7 @@ Lunar, despite having the option to add Fabric mods, is not very compatible due 
 
 Please note that this page may be outdated due to Minecraft update cycles.
 
-It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all dependencies and recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
+It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
 
 ## Mods
 
