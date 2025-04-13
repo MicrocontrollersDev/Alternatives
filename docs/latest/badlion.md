@@ -50,7 +50,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Item Counter - ?
 * Item Info - ?
 * Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
-* MiniMap **(BANNABLE ON HYPIXEL)** - [Minimap](https://modrinth.com/mod/xaeros-minimap)
+* MiniMap **(BANNABLE ON HYPIXEL)** - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * Pack Display - ?
 * Ping - ?
 * Potion Status - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)

@@ -98,7 +98,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * FOV Mod - ?
 * Menu Blur - [Blur+](https://modrinth.com/mod/blur-fabric)
 * Custom Crosshair - [Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* Waypoints - [Minimap](https://modrinth.com/mod/xaeros-minimap) (BANNABLE ON HYPIXEL!)
+* Waypoints - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (MINIMAP FEATURE BANNABLE ON HYPIXEL!)
 * Scoreboard - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
 * Motion Blur - [Motion Blur](https://modrinth.com/mod/motionblur)
 * Shiny Pots - ?

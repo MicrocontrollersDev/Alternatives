@@ -32,7 +32,7 @@ is not their problem.
 * Nick Hider - ?
 * Particles - ?
 * Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
-* Waypoints **(BANNABLE ON HYPIXEL)** - [Minimap](https://modrinth.com/mod/xaeros-minimap)
+* Waypoints - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (MINIMAP FEATURE BANNABLE ON HYPIXEL!)
 * Weather Changer - [Weather Changer](https://modrinth.com/mod/weather-changer)
 * Zoom - [Zoomify](https://modrinth.com/mod/zoomify)
 
@@ -61,7 +61,7 @@ is not their problem.
 
 * AutoFriend - ?
 * Auto Tip - ?
-* Auto GG - ?
+* Auto GG - [Auto GG](https://modrinth.com/mod/auto-gg)
 * Anti GG - ?
 * LevelHead - ?
 
@@ -144,7 +144,7 @@ is not their problem.
 
 * [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements) <- see alternatives
-* [Minimap](https://modrinth.com/mod/xaeros-minimap)
+* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * [MumbleLink](https://modrinth.com/mod/mumble-link)
 * [HD Skins](https://www.hdskins.de)
 * [Recursive Resources (Fabric version of Resourcepack Organizer)](https://modrinth.com/mod/recursiveresources)
