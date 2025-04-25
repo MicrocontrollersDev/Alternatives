@@ -195,8 +195,8 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 * Discord Rich Presence - [HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 * In Game Account Switcher - [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 * In Game Server Switcher - [PolyPatcher](https://modrinth.com/mod/patcher)
-* Save Controls Between Versions - [leduyquang753's Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689)
-* Polling Rate Warning - [yukiqt, Mixces, & RayDeeUx's RawInput](https://github.com/RayDeeUx/RawInput-1.8.9/releases/latest) (This ACTUALLY fixes the problem instead of warning you about it)
+* Save Controls Between Versions - [Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689)
+* Polling Rate Warning - [Raw Input](https://modrinth.com/mod/rawinput) (This ACTUALLY FIXES the problem instead of warning you about it)
 
 # Contributors
 
