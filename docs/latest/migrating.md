@@ -277,10 +277,10 @@ These are mods that are not recommended for use. They have either been replaced 
 | Palladium | This mod has questionable improvements and causes many crashes with other mods, including Iris. | [ITsMrToad](https://github.com/ITsMrToad) |
 | Not Enough Crashes | NEC regularly causes the game to be in an invalid state and blames the wrong mods for crashes, making it harder for mod devs to debug. It is also marked incompatible with Iris and possibly other mods. | [natanfudge](https://github.com/natanfudge) |
 | Better Beds | BetterBeds has been replaced by Enhanced Block Entities. Feel free to use if Enhanced Block Entities is not yet updated to the current version.| [Motschen](https://github.com/Motschen) |
-| ToolTipFix | ToolTipFix has been replaced by Adaptive Tooltips. | [kyrptonaught](https://github.com/kyrptonaught) |
-| Animatica | Animatica has been replaced by MoreMcMeta. | [FoundationGames](https://github.com/FoundationGames) |
-| Clear Void | Clear Void has been replaced by Smooth Skies. | [yezhiyi9670](https://github.com/yezhiyi9670) |
-| Clear Skies | Clear Skies has been replaced by Smooth Skies. | [grondag](https://github.com/grondag) |
+| ToolTipFix | ToolTipFix has been replaced by [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips). | [kyrptonaught](https://github.com/kyrptonaught) |
+| Animatica | Animatica has been replaced by [MoreMcMeta](https://modrinth.com/mod/moremcmeta). | [FoundationGames](https://github.com/FoundationGames) |
+| Clear Void | Clear Void has been replaced by [Smooth Skies](https://modrinth.com/mod/smooth-skies). | [yezhiyi9670](https://github.com/yezhiyi9670) |
+| Clear Skies | Clear Skies has been replaced by [Smooth Skies](https://modrinth.com/mod/smooth-skies). | [grondag](https://github.com/grondag) |
 
 # Notes
 
@@ -301,6 +301,7 @@ Notes:
 * [BobIsMyManager](https://github.com/BobIsMyManager)
 * [Flopgop](https://github.com/Flopgop)
 * [glai](https://github.com/glaicodes)
+* [jani270](https://github.com/jani270)
 * [karmette](https://github.com/karmette)
 * [Kingili](https://github.com/Kingili22)
 * [KTrain](https://github.com/KTrain5169)
