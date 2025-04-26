@@ -299,6 +299,7 @@ Notes:
 * [BobIsMyManager](https://github.com/BobIsMyManager)
 * [Flopgop](https://github.com/Flopgop)
 * [glai](https://github.com/glaicodes)
+* [jani270](https://github.com/jani270)
 * [karmette](https://github.com/karmette)
 * [Kingili](https://github.com/Kingili22)
 * [KTrain](https://github.com/KTrain5169)
