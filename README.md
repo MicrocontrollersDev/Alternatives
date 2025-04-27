@@ -1,5 +1,7 @@
 <div align="center">
 
+![screenshot](docs/assets/images/alternatives.png)
+
 # [`Alternatives`](https://alternatives.microcontrollers.dev)
 
 Repo which contains many
