@@ -160,7 +160,7 @@ that you avoid using it if possible.
 * CustomTime - [PolyTime](https://modrinth.com/mod/polytime)
 * DamageIndicator **(BANNABLE ON HYPIXEL)** - [Toro's Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files?version=1.8.9)
 * Direct Connect History - ?
-* DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* DirectionHUD - [Reflxtion's bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/latest) / [Canelex](https://www.youtube.com/watch?v=Anwxqk2EAlE) / [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * EmoteChat - [Kokeria's ChatEmotes](https://www.curseforge.com/minecraft/mc-mods/chatemotes/files?version=1.8.9) (doesn't work exactly like laby's but the emotes are the same)
 * FastJoin - ?
 * Focus Movement Fix - [PolyPatcher](https://modrinth.com/mod/patcher)

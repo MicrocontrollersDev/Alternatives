@@ -27,7 +27,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Better Hurt Cam](https://modrinth.com/mod/forge-betterhurtcam) | Lets you customize the hurtcam when hit. | [Scherso](https://github.com/Scherso) |
 | [Block Overlay](https://skyclient.co/mod/blockoverlay) | Allows you to customize the select overlay on blocks. | [Aycy](https://www.youtube.com/@aycyy) | No source or official download available. The provided download is hosted on SkyClient. |
 | [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9) | Adds a customizable blur effect to all your GUIs. | [tterag](https://github.com/tterrag1098) | Add `net.optifine.gui.GuiChatOF` to exclusions list to fix blur on chat window when using OptiFine. |
-| [Canalex Keystrokes Revamp](https://modrinth.com/mod/keystrokes) | Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen. | [Canalex](https://www.youtube.com/@canelex) & [Polyfrost](https://github.com/Polyfrost) |
+| [Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes) | Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen. | [Canelex](https://www.youtube.com/@canelex) & [Polyfrost](https://github.com/Polyfrost) |
 | [Chatting](https://modrinth.com/mod/chatting) | Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying. | [Polyfrost](https://github.com/Polyfrost) |
 | [ChatTriggers](https://modrinth.com/mod/chattriggers) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. | [ChatTriggers Team](https://github.com/ChatTriggers) | Modules can be found on [their site](https://www.chattriggers.com/modules), and depending on their quality may substantially decrease FPS. |
 | [ColorSaturation](https://modrinth.com/mod/colorsaturation) | Simple color saturation mod for 1.8.9. | [Polyfrost](https://github.com/Polyfrost) |
@@ -48,7 +48,6 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Optibye](https://modrinth.com/mod/optibye) | Prevents Optifine from logging completely useless information. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
 | [OverflowAnimations](https://modrinth.com/mod/animations) | Extremely precise and advanced old animations mod for 1.8.9. Also adds many other features such as backporting features and new features, as well as first person held item transformations. | [Polyfrost](https://github.com/Polyfrost) |
 | [OverflowParticles](https://modrinth.com/mod/overflowparticles) | Extremely precise and advanced particle mod for 1.8.9. | [Polyfrost](https://github.com/Polyfrost) |
-| [ParticlesEnhanced](https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/latest) | Adds many particle features such as fade out and customizable critical and sharpness particles. | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [PolyCrosshair](https://modrinth.com/mod/crosshair) | An extremely customizable crosshair mod. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyBlur](https://modrinth.com/mod/polyblur) | Apply motion blur in-game in various customizable ways. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyHitbox](https://modrinth.com/mod/hitbox) | An extremely customizable hitbox mod. | [Polyfrost](https://github.com/Polyfrost) |
@@ -63,7 +62,6 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [ReplayMod](https://modrinth.com/mod/replaymod) | ReplayMod lets you record your gameplay to watch back later. | [CrushedPixel](https://github.com/CrushedPixel) & [johni0702](https://github.com/Johni0702) |
 | [Resource Pack Manager](https://skyclient.co/mod/rpm) | Makes the resource pack menu load faster and adds some more useful features such as searching and folder/grouping support. | [Aycy](https://www.youtube.com/@aycyy) | Can mess up order of packs upon launching game if multiple packs are enabled. |
 | [Resourcify](https://modrinth.com/mod/resourcify) | Adds an in-game downloader and updater for Modrinth resource packs and shaders. | [DeDiamondPro](https://github.com/DeDiamondPro) |
-| [Serverlist Buffer Fixer](https://modrinth.com/mod/serverlistbufferfixer) | Fixes the server data in the multiplayer menu from infinitely loading. | [Nixuge](https://github.com/Nixuge) |
 | [Sound Subtitles](https://sk1er.club/mods/subtitles_mod) | Backports the subtitles HUD from newer MC versions. | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | [VanillaHUD](https://modrinth.com/mod/vanillahud) | A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar. | [Polyfrost](https://github.com/Polyfrost) |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Makes the cape wavey, similar to the cloth capes in Lunar Client. | [tr7zw](https://github.com/tr7zw) |
@@ -140,6 +138,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | OldAnimationsMod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [spiderfrog](https://www.youtube.com/channel/UC0Cz31K6IE09o8LF5Hpzymw) |
 | Orange's 1.7 Animations | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
 | Orange's Simple Mods | Use [EvergreenHUD](https://modrinth.com/mod/evergreenhud) & [Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
+| ParticlesEnhanced | Use [OverflowParticles](https://modrinth.com/mod/overflowparticles) | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | Patcher | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | PortalInputFix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | Asbyth |
 | ProjectL | Use [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |

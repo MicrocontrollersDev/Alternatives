@@ -35,7 +35,7 @@
 * [Scrollable Tooltips with VanillaHUD](https://github.com/mod/vanillahud)
     * Sk1er's mods are no longer maintained.
 * [Sidebar Mod Revamp with VanillaHUD](https://github.com/mod/vanillahud)
-    * Canalex's mods are no longer maintained.
+    * Canelex's mods are no longer maintained.
 * [SkyblockAddons with SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
     * Biscuit's original SkyblockAddons is no longer maintained. Use this updated fork by Fix3dll instead.
 * [SkyWars Stats mod with HyStats](https://cdn.discordapp.com/attachments/796895966414110751/1062109449810092142/HyStats-v4.0_1.8.9.jar)
