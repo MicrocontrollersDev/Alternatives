@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/images/alternatives.png" alt="logo" width="400" height="300">
+<img src="docs/assets/images/alternatives.png" alt="logo" width="200" height="125">
 
 # [`Alternatives`](https://alternatives.microcontrollers.dev)
 
