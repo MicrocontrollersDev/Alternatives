@@ -104,7 +104,6 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [SkyGuide](https://modrinth.com/mod/skyguide) | A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way. Current features include a map of SkyBlock and NPC locations. | [DeDiamondPro](https://github.com/DeDiamondPro) |
 | [SkyHanni](https://modrinth.com/mod/skyhanni) | A Skyblock mod with a lot of features, especially for the garden. | [hannibal2](https://github.com/hannibal002) | Requires NotEnoughUpdates. |
 | [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) | Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future. | [Skytils Team](https://github.com/Skytils) | Uses Essential. |
-| [WaterSolver](https://github.com/Desco1/WaterSolver) | A simple Water Board solver. Solves all 40 Water Board layouts in a single water flow, considerably faster than other solvers. | [Desco1](https://github.com/Desco1) |
 
 ### Not Recommended
 
@@ -153,7 +152,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | Sk1er Old Animations Mod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | SkyblockAddons | Use [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial) | [Biscuit](https://github.com/BiscuitDevelopment) |
 | Soopy | Discontinued, [see alternatives](https://alternatives.microcontrollers.dev/1.8.9/soopy) | [SoopyBoo32](https://github.com/Soopyboo32) |
-| Synthesis | Discontinued | [Antonio32A](https://github.com/Antonio32A), [ComplexOrigin](https://github.com/complexorigin), [Desco1](https://github.com/Desco1), [RayDeeUx](https://github.com/RayDeeUx) |
+| Synthesis | Discontinued | [Antonio32A](https://github.com/Antonio32A), [ComplexOrigin](https://github.com/complexorigin), Desco1, [RayDeeUx](https://github.com/RayDeeUx) |
 | Smooth Scrolling Everywhere | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | TCPNoDelay | This issue was fixed in vanilla Minecraft 1.8.1 | [prplz](https://github.com/prplz) |
 | Vanilla Enhancements | Use [PolyPatcher](https://modrinth.com/mod/patcher) & [Chatting](https://modrinth.com/mod/chatting) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
