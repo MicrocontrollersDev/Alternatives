@@ -2,7 +2,7 @@ Alternatives - 2024
 
 All Rights Reserved.
 
-MicrocontrollersDev holds all rights in and to the source code and content of this software. Unauthorized copying, modification, redistribution, or use of the software, in any form or by any means, is prohibited without prior written consent from MicrocontrollersDev.
+MicrocontrollersDev holds all rights in and to the source code and content of this software*. Unauthorized copying, modification, redistribution, or use of the software, in any form or by any means, is prohibited without prior written consent from MicrocontrollersDev.
 
 Contact MicrocontrollersDev for inquiries regarding usage permissions.
 
@@ -10,12 +10,14 @@ Contacts:
 
 Public
   Make a GitHub issue in this repository
+  Join my Discord - https://discord.gg/rejfv9kFJj
   Join my Matrix - https://matrix.to/#/!axTNrRSaDlwHtQznCp:matrix.org
   Join my Revolt - https://rvlt.gg/vNMTy2bw
-  Join my Discord - https://discord.gg/rejfv9kFJj
 
 Private
   Bluesky - @microcontrollers.dev
   Matrix - @microcontrollers:matrix.org
   Discord - @Microcontrollers
   Revolt - @Microcontrollers#7430
+
+*Exception: The images "alternatives.png" and "logo.png" in docs/assets/images are licensed under ARR by Zetvue. See https://github.com/MicrocontrollersDev/Alternatives/blob/main/docs/assets/images/LICENSE for more information.
