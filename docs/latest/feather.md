@@ -11,9 +11,6 @@ Feather is also unsupported by many mod authors, as Feather is closed source and
 be fixed by mod authors. It is not recommended to use Feather or support the developers behind the "client". All major
 performance improvements can be gotten from using the original mods that Feather leeches off.
 
-![image](https://github.com/user-attachments/assets/ff8c5079-70e6-4d2e-9c40-78d2658338f3)
-![image](https://github.com/user-attachments/assets/6c6f396c-ec98-4bb4-8f7d-fd0b751579d4)
-
 Additionally, I do not personally trust them. If they are unable to write their own code for their features, I do not trust
 them to write proper security measures as by using Feather you are essentially giving them access to your Microsoft/Minecraft
 account. Their Discord server also refuses to ban scammers, as on several occasions myself and others have been told that it
