@@ -205,5 +205,6 @@ At the time of writing, many of the features no longer work.
 # Contributors
 
 * [CalMWolfs](https://github.com/CalMWolfs)
+* [Empa](https://github.com/ItsEmpa)
 * [ooffyy](https://github.com/realooffyy)
 * [dayssky](https://github.com/dayssky)

@@ -470,6 +470,7 @@ or a discussion.
 * [CalMWolfs](https://github.com/CalMWolfs)
 * [DJtheRedstoner](https://github.com/DJtheRedstoner)
 * [Feel65](https://github.com/Feel65)
+* [Empa](https://github.com/ItsEmpa)
 * [jani270](https://github.com/jani270)
 * [Koxx12](https://github.com/koxx12-dev)
 * [Lily](https://github.com/My-Name-Is-Jeff)
