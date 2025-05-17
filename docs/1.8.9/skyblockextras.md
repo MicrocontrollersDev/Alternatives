@@ -32,7 +32,7 @@ or a discussion.
 ### WIP
 
 * Revert Health and Defense - Irrelevant
-* Revert Master Stars - ?
+* Revert Master Stars - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Color Blaze Slayer Mobs - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Blaze Pillar Warning - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Attunement Display - [SkyHanni](https://modrinth.com/mod/skyhanni)
