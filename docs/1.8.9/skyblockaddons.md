@@ -64,13 +64,13 @@ alternatives that still get updated.
 * Hide True Defense - ?
 * Hide Vanilla Health Bar - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Item Drop Confirmation - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Item Pickup Log - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Item Pickup Log - ?
 * Jacob's Contest Timer - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Leather Backpack Opening Sound - ?
 * Legendary Sea Creature Warning - ?
 * Mana Bar - ?
 * Mana Number - ?
-* No Arrows Left Alert - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* No Arrows Left Alert - Irrelevant (you can just click and see it doesn't shoot)
 * Only Show in the Dragon's Nest - ?
 * Outbid Alert Sound - ?
 * Outline Dungeon Teammates - [SkyHanni](https://modrinth.com/mod/skyhanni)
@@ -79,7 +79,7 @@ alternatives that still get updated.
 * Potion and Powerup Timers - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Power Orb Display - ?
 * Prevent Walking After Death - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Reforge Filter - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Reforge Filter - ?
 * Replace Roman Numerals on Items - [PolyPatcher](https://modrinth.com/mod/patcher)
 * Rock Pet Tracker - ?
 * Show Backpack Preview - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
