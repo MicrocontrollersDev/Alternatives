@@ -33,29 +33,29 @@ or a discussion.
 
 * Revert Health and Defense - Irrelevant
 * Revert Master Stars - ?
-* Color Blaze Slayer Mobs - ?
-* Blaze Pillar Warning - ?
-* Show Attunement Display - ?
+* Color Blaze Slayer Mobs - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Blaze Pillar Warning - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Attunement Display - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Color Kuudra Shop Background - ?
 * Display Kuudra Health - ?
 * Display Supply Waypoints - ?
 * Dropship Warning - ?
-* Display Miniboss Timer - ?
-* Display Miniboss List - ?
-* Crimson Miniboss Warning - ?
-* Display Ashfang Timer - ?
-* Display Gravity Wells - ?
-* Display Ashfang Durations - ?
-* Color Ashfang Blazes - ?
+* Display Miniboss Timer - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Display Miniboss List - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Crimson Miniboss Warning - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Display Ashfang Timer - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Display Gravity Wells - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Display Ashfang Durations - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Color Ashfang Blazes - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Dojo Helper - ?
 * Matriarch Reminder - ?
-* Trophy Fishing Tracker - ?
-* Change Lava Texture - ?
+* Trophy Fishing Tracker - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Change Lava Texture - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Fix Lava Bobbers - ?
 * Show Slugfish Timer - ?
-* Show Geyser Box - ?
-* Show Golden Fish Timer - ?
-* Golden Fish Notification - ?
+* Show Geyser Box - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Golden Fish Timer - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Golden Fish Notification - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Thunder Charges - ?
 * Display Thunder Bottles - ?
 * Draw Hex Background - ?
@@ -114,7 +114,7 @@ or a discussion.
 * Show Star Cult Timer - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
 * Show Events Display - [SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest)
 * Show Titanium Warning - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Show Golden Goblin Warning - ?
+* Show Golden Goblin Warning - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Skymall Warning - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ### Crystal Hollows
@@ -146,7 +146,7 @@ or a discussion.
 ### Spider's Den
 
 * Show Spider's Den Waypoints - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Arachne HP - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Arachne HP - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Arachne Counter - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ### Farming Island
@@ -157,22 +157,22 @@ or a discussion.
 ### The Garden
 
 * Visitor List - [SkyHanni](https://modrinth.com/mod/skyhanni)
-* Visitor Warning (Full Queue) - ?
+* Visitor Warning (Full Queue) - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Composter Warning - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### End Island
 
-* Show Soul Flow Display - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Soul Flow Display - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Final Destination Display - ?
 * Show Excess Mana - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Merge Excess Mana - ?
 * Hide Zero Damage Nametags - ?
-* Show Voidgloom Info - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Highlight Skull Textures - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Highlight Beacon Blocks - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Beacon Warning - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Voidgloom Info - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Highlight Skull Textures - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Highlight Beacon Blocks - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Beacon Warning - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Only for Own Boss - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Highlight Endermen Stages - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Highlight Endermen Stages - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Hide Beam Attack - ?
 * Hide Enderman Hurt Effects - ?
 * Stop Enderman Teleportation - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -194,29 +194,29 @@ or a discussion.
 * Reset Counter on Restart - ?
 * Show Miniboss Spawn - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Maddox Dial - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Inactive Quest Warning - ?
-* Boss Soon Warning - [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
+* Inactive Quest Warning - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Boss Soon Warning - [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Boss Spawn Warning - ?
 * Show Boss Slain Time - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 
 ### Fishing
 
-* Show Fishing Counter - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Show General Counter - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Toggle Winter Counter - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Toggle Shark Counter - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Toggle Spooky Counter - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Toggle Mining Fishing Counter - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Toggle Crimson Fishing Counter - ?
+* Show Fishing Counter - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Show General Counter - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Toggle Winter Counter - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Toggle Shark Counter - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Toggle Spooky Counter - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Toggle Mining Fishing Counter - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Toggle Crimson Fishing Counter - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Fishing Statistics
 
-* Show General Stats - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Show Winter Stats - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Show Shark Stats - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Show Spooky Stats - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Show Mining Fishing Stats - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Show Crimson Fishing Stats - ?
+* Show General Stats - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Show Winter Stats - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Show Shark Stats - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Show Spooky Stats - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Show Mining Fishing Stats - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Show Crimson Fishing Stats - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Fishing QOL
 
@@ -232,17 +232,17 @@ or a discussion.
 ### Skills
 
 * Revert EXP Display - [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
-* Show Custom Skill Display - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Show Skill Trackers - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Show EXP Rate - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Show Custom Skill Display - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Skill Trackers - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod) / [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show EXP Rate - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Time Change - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Show Actions Needed - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Show Time Needed - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
-* Show Total Information - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Show Actions Needed - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod) / [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Time Needed - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod) / [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Total Information - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Mythos
 
-* Show Mythos Counter - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Mythos Counter - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Shows Rare Mythos Drops - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Announce Mythos Loot - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Ping Nearby Particles - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
@@ -255,7 +255,7 @@ or a discussion.
 * Show Golem Counter - ?
 * Show Dragon Counter - [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Show Farming Counter - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Show Ghost Counter - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod)
+* Show Ghost Counter - [Danker's Skyblock Mod (DSM)](https://modrinth.com/mod/dankers-skyblock-mod) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ## Pets
 
@@ -355,9 +355,9 @@ or a discussion.
 
 ### Visual
 
-* Color Enchants - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-* Show Selected Arrow - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Cookie Timer - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
+* Color Enchants - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Selected Arrow - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Cookie Timer - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Trapper Hides - ?
 * Show Champion EXP - ?
 * Show Hetacomb Runs - ?
@@ -383,8 +383,8 @@ or a discussion.
 
 ### BINGO
 
-* Show Bingo List - ?
-* Show Community Goals - ?
+* Show Bingo List - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Community Goals - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### General
 
@@ -395,9 +395,9 @@ or a discussion.
 * Show Cultivating Count - [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
 * Show Compact Count - ?
 * Left Click Zapper Undo - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Show Item Cooldown - ?
-* Show Wither Shield Duration - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (/trackcooldown)
-* Show EXP in Minions - ?
+* Show Item Cooldown - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Wither Shield Duration - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) (/trackcooldown) / [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show EXP in Minions - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Bazaar
 
@@ -411,11 +411,11 @@ or a discussion.
 * Hide Hub Messages - ?
 * Notify Scam Messages - ?
 * Auto Confirm Reports - [Hytils Reborn](https://modrinth.com/mod/hytils)
-* Hide Sea Creature Messages - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Hide Sea Creature Messages - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Hide Coop Chat - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [ToggleChat](https://github.com/boomboompower/ToggleChat/releases)
 * Hide Dicer Messages - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Hide Random Parties - ?
-* Hide [PLAYER INFORMATION] - ?
+* Hide [PLAYER INFORMATION] - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Hide Spook Messages - ?
 
 ### Performance
@@ -441,11 +441,11 @@ or a discussion.
 
 ### The Rift
 
-* Tubulator Highlight - ?
-* Upside-Down Highlight - ?
-* Rift Effigy Timer - ?
-* Highlight Ichor Skulls - ?
-* Stake Steak Highlight - ?
+* Tubulator Highlight - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Upside-Down Highlight - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Rift Effigy Timer - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Highlight Ichor Skulls - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Stake Steak Highlight - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Boss Soon Time Warning - ?
 * Time Warning - ?
 
@@ -458,7 +458,7 @@ or a discussion.
 * Party Rejoin Filter - ?
 
 ### Custom Wardrobe
-* Custom Wardrobe Menu - ?
+* Custom Wardrobe Menu - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 # Contributors
 
