@@ -19,6 +19,7 @@
 * [Deftu](https://github.com/Deftu)
 * [Digux](https://github.com/Diguhxe)
 * [DJtheRedstoner](https://github.com/DJtheRedstoner)
+* [Empa](https://github.com/ItsEmpa)
 * [Feel65](https://github.com/Feel65)
 * [Fizzify](https://github.com/Fizzify)
 * [Flopgop](https://github.com/Flopgop)
