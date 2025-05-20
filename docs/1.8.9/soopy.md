@@ -30,8 +30,8 @@ At the time of writing, many of the features no longer work.
 
 * Correct Livid Finder - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Show Livid HP - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
-* Box Correct Livid - ?
-* Hide Incorrect Livid Nametags - ?
+* Box Correct Livid - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Hide Incorrect Livid Nametags - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Spirit Bow Destruction Timer - ?
 * Spirit Bear Spawn Timer - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Assist Blood Camp - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Odin (Legit Version)](https://github.com/odtheking/Odin/releases/latest)
@@ -41,10 +41,10 @@ At the time of writing, many of the features no longer work.
 * Terracotta Respawn Timer - [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Odin (Legit Version)](https://github.com/odtheking/Odin/releases/latest)
 * Spirit And Bonzo Mask Timer - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Change Withermancer Death Messages - ?
-* Unfinished Terms/Devices Waypoints - [Odin (Legit Version)](https://github.com/odtheking/Odin/releases/latest)
+* Unfinished Terms/Devices Waypoints - [Odin (Legit Version)](https://github.com/odtheking/Odin/releases/latest) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Term/Device Count Per Party Member - Not useful anymore as meta changed.
 * Ice Spray Drop Ping - ?
-* M3/F3 Guardian HP - ?
+* M3/F3 Guardian HP - [SkyHanni](https://modrinth.com/mod/skyhanni) (Damage Indicator)
 * Stair Stonk Helper - Not useful anymore as meta changed.
 
 ### Events
@@ -122,7 +122,7 @@ At the time of writing, many of the features no longer work.
 * Show Next Dojo Swiftness Block - ?
 * Dojo Discipline Zombie Overlay - ?
 * Control Dojo Show Where To Look - ?
-* Show Hostage Waypoints - ?
+* Show Hostage Waypoints - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Timer Over Rods - ?
 * Show Nether Boss Nametag On HUD - ?
 
@@ -164,7 +164,7 @@ At the time of writing, many of the features no longer work.
 
 * Hide Summoning Nametags - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Warn When Summoning HP Is Low - ?
-* Render HP Of Summons On Screen - ?
+* Render HP Of Summons On Screen - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Spam Hider
 
@@ -205,5 +205,6 @@ At the time of writing, many of the features no longer work.
 # Contributors
 
 * [CalMWolfs](https://github.com/CalMWolfs)
+* [Empa](https://github.com/ItsEmpa)
 * [ooffyy](https://github.com/realooffyy)
 * [dayssky](https://github.com/dayssky)
