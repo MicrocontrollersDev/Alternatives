@@ -38,7 +38,7 @@
     * Canelex's mods are no longer maintained.
 * [SkyblockAddons with SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
     * Biscuit's original SkyblockAddons is no longer maintained. Use this updated fork by Fix3dll instead.
-* [SkyWars Stats mod with HyStats](https://cdn.discordapp.com/attachments/796895966414110751/1062109449810092142/HyStats-v4.0_1.8.9.jar)
+* SkyWars Stats mod with ?
     * KAD7's more recent HyStats now supports multiple game-modes and has much more to offer compared to the discontinued SkyWars Stats mod.
 * [Sparkless101's Custom Crosshair Mod with PolyCrosshair](https://modrinth.com/mod/polycrosshair)
     * Sparkless101's mod can cause compatability issues with other mods.

@@ -163,7 +163,7 @@ These are mods that Badlion has but are not mentioned in their support for one r
 * BehindYou - [BehindYouV3](https://modrinth.com/mod/behindyou)
 * Clan Wars - Irrelevant
 * Cosmetics - [Mixmetica](https://modrinth.com/mod/mixmetica)
-    * Emotes - ?
+    * Emotes - [Essential](https://modrinth.com/mod/essential/versions?g=1.8.9)
     * Sprays - ?
     * Wavey Capes - [Wavey Capes](https://modrinth.com/mod/wavey-capes)
 * Discord Rich Presence - [HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
@@ -189,6 +189,7 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
 * [moisty](https://github.com/Mqisty)
+* [ooTruffle](https://github.com/ooTruffle)
 * [Salmon](https://github.com/Scherso)
 * [Solonovamax](https://github.com/solonovamax)
 * [Wyvest](https://github.com/Wyvest)

@@ -38,6 +38,8 @@ In order to download Java, we will first need to choose our distribution.
 
 Note: The above links default to x64. If you are on a 32 bit computer, you can use the `Architecture` dropdown to change to x86.
 
+Note: As of Prisim 9 it can now download java on its own
+
 ### Step 2 - Installing Prism
 
 [Download Prism Launcher](https://prismlauncher.org/download/mac). Get the version of the launcher depending on which version of macOS you are on (you most likely want the Universal download). If it asks if you want to allow downloads, click "Allow". Once it is finished downloading, run it to extract the application. Now right click the Prism Launcher application and press "Open". Running it normally will not let you launch as it cannot be scanned for malware.
@@ -132,4 +134,6 @@ If you encounter any issues not shown here you should ask for help in my [discor
 If you encounter any issues **unrelated to the guide at all**, or if you want to be in their community or follow for updates, you can ask in the [Prism Community discord server](https://discord.gg/prism-community-1031648380885147709)
 
 # Contributors
+
 * [KTrain](https://github.com/KTrain5169)
+* [ooTruffle](https://github.com/ooTruffle)

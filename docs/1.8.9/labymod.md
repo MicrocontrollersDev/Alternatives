@@ -131,7 +131,7 @@ that you avoid using it if possible.
 ### Other
 
 * Account Switcher - [Essential](https://essential.gg)
-* Main Menus - [Nox's MainMenus](https://cdn.discordapp.com/attachments/778792141932986401/1237889747482050601/mainmenus-1.8.9-forge-1.2.1.jar)
+* Main Menus - ?
 
 ### Addons
 
@@ -215,6 +215,7 @@ that you avoid using it if possible.
 * [LynithDev](https://github.com/LynithDev)
 * [Moiré](https://github.com/moire9)
 * [moisty](https://github.com/Mqisty)
+* [ooTruffle](https://github.com/ooTruffle)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
 * [Solonovamax](https://github.com/solonovamax)
