@@ -23,7 +23,6 @@ In order to download Java, we will first head to the [Adoptium download page](ht
 
 Once we have chosen our download preferences, we will click the `tar.gz` download option and install it.
 
-Note: As of Prisim 9 it can now download java on its own
 ### Step 2 - Installing Prism
 
 [Download Prism Launcher](https://prismlauncher.org/download/linux). Below you will find distro specific instructions on how to download Prism Launcher which you can also find on their website.

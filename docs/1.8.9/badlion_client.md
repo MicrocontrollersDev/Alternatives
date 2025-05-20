@@ -163,7 +163,7 @@ These are mods that Badlion has but are not mentioned in their support for one r
 * BehindYou - [BehindYouV3](https://modrinth.com/mod/behindyou)
 * Clan Wars - Irrelevant
 * Cosmetics - [Mixmetica](https://modrinth.com/mod/mixmetica)
-    * Emotes - [Essential](https://modrinth.com/mod/essential/versions?g=1.8.9)
+    * Emotes - [Emoticons](https://www.curseforge.com/minecraft/mc-mods/emoticons/files/all?page=1&pageSize=20&version=1.8.9) (This does modify the default movement of your character)
     * Sprays - ?
     * Wavey Capes - [Wavey Capes](https://modrinth.com/mod/wavey-capes)
 * Discord Rich Presence - [HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)

@@ -23,7 +23,6 @@ Below are downloads for for Java 8, 17, and 21. When downloading, choose the `.m
 
 Note: The above links default to x64. If you are on a 32 bit computer, you can use the `Architecture` dropdown to change to x86.
 
-Note: As of Prisim 9 it can now download java on its own
 
 ### Step 2 - Installing Prism
 

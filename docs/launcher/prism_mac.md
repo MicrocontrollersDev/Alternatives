@@ -38,7 +38,6 @@ In order to download Java, we will first need to choose our distribution.
 
 Note: The above links default to x64. If you are on a 32 bit computer, you can use the `Architecture` dropdown to change to x86.
 
-Note: As of Prisim 9 it can now download java on its own
 
 ### Step 2 - Installing Prism
 
