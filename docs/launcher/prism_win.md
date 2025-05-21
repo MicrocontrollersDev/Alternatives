@@ -23,6 +23,7 @@ Below are downloads for for Java 8, 17, and 21. When downloading, choose the `.m
 
 Note: The above links default to x64. If you are on a 32 bit computer, you can use the `Architecture` dropdown to change to x86.
 
+
 ### Step 2 - Installing Prism
 
 [Download Prism Launcher](https://prismlauncher.org/download). You will most likely want to download the `Installer (.exe)` version. Once it is finished downloading, it may give a warning screen saying "Windows protected your PC". Simply press the "More info" button, then "Run anyway".
@@ -124,6 +125,7 @@ If you encounter any issues **unrelated to the guide at all**, or if you want to
 
 # Contributors
 
+* [KTrain](https://github.com/KTrain5169)
+* [ooTruffle](https://github.com/ooTruffle)
 * [PandaNinjas](https://github.com/pandaninjas)
 * [Shiggy](https://github.com/Shiggy-dev)
-* [KTrain](https://github.com/KTrain5169)

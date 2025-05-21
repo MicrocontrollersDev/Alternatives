@@ -320,6 +320,6 @@ If you encounter any issues not shown here you should ask for help in my [discor
 If you encounter any issues **unrelated to the guide at all**, or if you want to be in their community or follow for updates, you can ask in the [Prism Community discord server](https://discord.gg/prism-community-1031648380885147709)
 
 # Contributors
-
+* [ooTruffle](https://github.com/ooTruffle)
 * [Shiggy](https://github.com/Shiggy-dev)
 * [KTrain](https://github.com/KTrain5169)
