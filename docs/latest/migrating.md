@@ -106,7 +106,6 @@ These are other performance mods that one may prefer to use, but are not require
 | [Nvidium](https://modrinth.com/mod/nvidium) | Nvidium uses NVIDIA only OpenGL extensions to greatly improve the game's performance. This mod will not work on AMD. It has a few graphical glitches and could lead to crashes, as the mod is still in beta and not considered stable yet. The mod will also disable itself whenever Iris shaders are enabled or if the required OpenGL extensions are not available. | [MCRcortex](https://github.com/MCRcortex) | | Chunks won't fade when using [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in). |
 | [Fadeless](https://modrinth.com/mod/fadeless) | Removes transitions such as the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine or allow people to access certain menus quicker if they do not like the small wait time. This mod is made partially redundant by Remove Loading Screen. | [DerpDerpling](https://github.com/DerpDerpling) & [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [Krypton](https://modrinth.com/mod/krypton) | This mod is bannable on Hypixel and most likely other servers. Although it is probably not detectable, it is still against Hypixel's rules and the mod developer does not recommend using it on Hypixel. However, this mod works great for private servers. Krypton optimizes network stacking and entity tracking, as well as other micro-optimizations. | [astei](https://github.com/astei) |
-| [Methane](https://modrinth.com/mod/methane) | Completely kills the light engine, providing permanent fullbright and improved FPS. Disable when using shaders. Allows you to disable some fog such as powdered snow fog and lava fog, which may be considered as an unfair advantage on some servers. | [AnOpenSauceDev](https://github.com/AnOpenSauceDev) | | May cause issues when using some shaders. Disable Methane if there are visual glitches. |
 
 ### Recommended
 
@@ -206,6 +205,7 @@ These are mods that are more dependant on personal preference than importance.
 | [No Recipe Book Shift](https://modrinth.com/mod/no-recipe-book-shift) | Prevents the recipe book from shifting the screen! | [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [View Model](https://modrinth.com/mod/no-ones-view-model) | Lets you change the hands positions, similar to Overflow Animations and Dulkir. | [No-One](https://github.com/I-No-oNe) |
 | [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | Makes the loading screen darker. Allows for some customization. | [A5b84](https://github.com/A5b84) |
+| [Gamma Utils](https://modrinth.com/mod/gamma-utils) | A customizable fullbright mod. | [Sjouwer](https://github.com/Sjouwer) |
 
 ### Skyblock Mods
 

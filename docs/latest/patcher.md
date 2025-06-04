@@ -78,8 +78,8 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Pumpkin Overlay Opacity - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * Remove Water Overlay - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * Remove Inverted Colors from Crosshair - [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
-* Fullbright - [Methane](https://modrinth.com/mod/methane)
-* Smart Fullbright - [Methane](https://modrinth.com/mod/methane)
+* Fullbright - [Gamma Utils](https://modrinth.com/mod/gamma-utils)
+* Smart Fullbright - Not needed?
 * Disable Night Vision - [Better Night Vision](https://modrinth.com/mod/betternightvision)
 * Cleaner Night Vision - [Better Night Vision](https://modrinth.com/mod/betternightvision)
 * Show Own Nametag - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
