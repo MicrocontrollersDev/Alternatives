@@ -38,8 +38,6 @@
     * Canelex's mods are no longer maintained.
 * [SkyblockAddons with SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial)
     * Biscuit's original SkyblockAddons is no longer maintained. Use this updated fork by Fix3dll instead.
-* [SkyWars Stats mod with HyStats](https://cdn.discordapp.com/attachments/796895966414110751/1062109449810092142/HyStats-v4.0_1.8.9.jar)
-    * KAD7's more recent HyStats now supports multiple game-modes and has much more to offer compared to the discontinued SkyWars Stats mod.
 * [Sparkless101's Custom Crosshair Mod with PolyCrosshair](https://modrinth.com/mod/polycrosshair)
     * Sparkless101's mod can cause compatability issues with other mods.
 * [TimeChanger with PolyTime](https://modrinth.com/mod/polytime)
@@ -65,6 +63,8 @@
     * SBE breaks EULA, breaks some other mod licenses, leads to performance issues, and has much better free alternatives for all of its important features.
 * [Skypixel](https://alternatives.microcontrollers.dev/1.8.9/skypixel)
     * Skypixel is old, unmaintained, and has many features that are either useless or simply do not work anymore. It will cause issues on Skyblock.
+* SkyWars Stats mod 
+    * Skywars stats is unmaintained and no longer works on hypixel
 
 # Contributors
 
@@ -72,5 +72,6 @@
 * [JitterDev](https://github.com/JitterDev)
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
 * [moisty](https://github.com/Mqisty)
+* [ooTruffe](https://github.com/ooTruffle)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Wyvest](https://github.com/wyvest)
