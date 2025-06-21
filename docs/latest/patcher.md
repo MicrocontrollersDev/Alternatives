@@ -182,7 +182,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Startup Notification - [Startup Time](https://modrinth.com/mod/startup-time)
 * Clean Main Menu - Irrelevant
 * Open to LAN Replacement - ?
-* Smart Disconnect - ?
+* Smart Disconnect - [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect)
 * Image Preview - ?
 * Image Preview Width - ?
 * Inventory Position - Vanilla
