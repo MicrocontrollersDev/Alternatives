@@ -150,6 +150,7 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 #### Cosmetic Options
 
 * Cosmetics - [Mixmetica](https://modrinth.com/mod/mixmetica)
+* Emotes - [Emoticons](https://www.curseforge.com/minecraft/mc-mods/emoticons/files/all?page=1&pageSize=20&version=1.8.9) (This does modify the default movement of your character, Disable **non-emote animations** in McLib `Ctrl + 0`)
 * Show Tab Icon - Irrelevant
 
 #### Misc Options
