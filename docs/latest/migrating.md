@@ -221,6 +221,7 @@ These are mods for Hypixel Skyblock.
 | [SkyCubed](https://modrinth.com/mod/skycubed) | SkyCubed is a Hypixel SkyBlock UI overhaul mod, changing all aspects of the UI in-game to be more inline into it looking like its own game. | [Meowdding](https://github.com/meowdding) |
 | [Skylens](https://modrinth.com/mod/skylens) | Skylens is a highly customizable mod that shows missing enchants, has a pet overlay, a compact level display and other cool features. | [nextrg](https://github.com/nextrg) |
 | [SkyOcean](https://modrinth.com/mod/skyocean) | SkyOcean is a mod that aims to improve the playing experience while staying true to the skyblock style, meaning that we aim to integrate with the base game in a seamless way. | [Meowdding](https://github.com/meowdding) |
+| [SkyHanni](https://modrinth.com/mod/skyhanni) | The same SkyHanni from 1.8.9, known for its garden related features. | [hannibal002](https://github.com/hannibal002) | | This mod has only just been ported to 1.21.5 and is still in beta. Expect issues to arise until the mod is further ironed out. |
 
 ### OptiFine Replacements
 
