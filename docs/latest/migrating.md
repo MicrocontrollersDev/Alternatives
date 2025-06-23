@@ -247,7 +247,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 
 | Mod | Feature | Supports OptiFine format| Notes | Author |
 | --- | --- | --- | --- | --- |
-| [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. | 🚧 | Use [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) by [FlashyReese](https://github.com/FlashyReese) | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
+| [Nuit](https://modrinth.com/mod/nuit) (No 1.21.5 Yet) | Custom sky. | 🚧 | Use [Nuit Interop](https://modrinth.com/mod/nuit-interop) | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) & [FlashyReese](https://github.com/FlashyReese) |
 | [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. | ✅ | | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Animatica](https://modrinth.com/mod/animatica) | Animated textures. | ✅ | | [FoundationGames](https://github.com/FoundationGames) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. | ✅ | | [opekope2](https://github.com/opekope2) |
