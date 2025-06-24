@@ -8,38 +8,7 @@ This guide will explain the install process for Prism, as well as how we can use
 
 * Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from SkyClient, but steps will be largely the same, except for the migrating data section.
 
-### Step 1 - Installing Java
-
-First, we need to download and setup Java to be able to use Prism Launcher. Unlike the default Minecraft launcher, Prism does not come bundled with a default Java, and so we must install it ourselves.
-
-Minecraft 1.16 and below all use Java 8, 1.17-1.20.4 use Java 17, and 1.20.5+ use Java 21. I recommend installing all to make it simpler to use different versions of Minecraft whenever you want, however if you don't plan on playing 1.17-1.20.4, just Java 8 and 21.
-
-In order to download Java, we will first need to choose our distribution.
-
-??? note "Apple Silicon - M1/M2/M3/M4"
-
-    Head to the [Zulu download page](https://www.azul.com/downloads/#downloads-table-zulu). Adoptium is an open source Java distribution that does not require a paid account to install, and is made by the Eclipse Foundation, a very reputable source. To install, we will use the dropdown boxes to make it easier to find the versions of Java we need
-
-    - Version: 8, 17, and 21 (download one of them, then download the others after)
-    - Operating System: macOS
-    - Architecture: Arm x64
-    - Java Package: JDK
-
-    If it asks if you want to allow downloads, click "Allow". Once we have chosen our download preferences, we will click the `.dmg` download option. Once it's downloaded, run it and follow the installation process. Do this for both versions of Java.
-
-??? note "Intel CPU (not Apple silicon)"
-
-    Below are downloads for for Java 8, 17, and 21. When downloading, choose the `.pkg` download option. If it asks if you want to allow downloads, click "Allow". Once it's downloaded, run it and follow the installation process. Do this for all versions of Java.
-
-    - [Java 8](https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jdk&version=8)
-    - [Java 17](https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jdk&version=17)
-    - [Java 21](https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jdk&version=21)
-
-
-Note: The above links default to x64. If you are on a 32 bit computer, you can use the `Architecture` dropdown to change to x86.
-
-
-### Step 2 - Installing Prism
+### Step 1 - Installing Prism
 
 [Download Prism Launcher](https://prismlauncher.org/download/mac). Get the version of the launcher depending on which version of macOS you are on (you most likely want the Universal download). If it asks if you want to allow downloads, click "Allow". Once it is finished downloading, run it to extract the application. Now right click the Prism Launcher application and press "Open". Running it normally will not let you launch as it cannot be scanned for malware.
 
@@ -51,13 +20,13 @@ All of these settings can be later adjusted globally or per instance. This inclu
 
 After this, continue with the installation process as normal.
 
-### Step 3 - Logging in
+### Step 2 - Logging in
 
 Now that we've installed Prism, let's log in. Once Prism has launched, you should see a Steve head and "Profiles" text in the top right. Click on this and press "Manage Accounts". From here, click "Add Microsoft" on the right side menu. This will open a popup window, which will have a button to open the link to verify yourself and also copy the code. Simply paste the code into the window that opens up. Note, you may need to sign in to your Microsoft account first.
 
 Once this is completed, you can exit back to the main Prism Launcher menu. Click on the button at the top left that says "Add Instance".
 
-### Step 4 - Creating an Instance
+### Step 3 - Creating an instance
 
 This guide will focus on Forge 1.8.9, but steps for other versions should also be obvious.
 
@@ -65,11 +34,21 @@ Once you've clicked on the button on the top left that says "Add Instance", name
 
 Under the `Version` selector, scroll down till you find 1.8.9 and select it. Then in the `Mod Loader` tab directly underneath, choose Forge (NOTE: this is not the tab on the left that says CurseForge). It will automatically choose the latest version of Forge for 1.8.9 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
 
-### Step 5 - Installing our mods / SkyClient
+### Step 4 - Installing our mods / SkyClient
 
 Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit` to generate the required files, then we exit out of this menu. Now right click the instance and press `Folder` and you should be redirected to a Finder window, where you should open the folder titled `.minecraft`. Now, open a new Finder by either pressing `Cmd + Shift + G` on your keyboard or clicking the Finder tab and pressing "Go". Navigate to your old .minecraft folder by typing `~/Library/Application Support/minecraft`, then open the `skyclient` folder if you are using SkyClient. Simply move everything in this folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
 
 When downloading mods from now on, you can simply drag and drop them into the Mods tab in Prism Launcher. Additionally, if the mod is on Modrinth or CurseForge, you can download them within the launcher using the `Download Mods` button.
+
+### Step 5 - Selecting the correct Java
+
+Unlike the official launcher and Modrinth launcher, Prism does not automatically select the correct version of java for each instance.
+
+Minecraft 1.16 and below all use Java 8, 1.17-1.20.4 use Java 17, and 1.20.5+ use Java 21. I recommend installing all to make it simpler to use different versions of Minecraft whenever you want, however if you don't plan on playing 1.17-1.20.4, just Java 8 and 21. Note that Java 8 is commonly labeled as 1.8.
+
+To select the correct version of Java, edit the instance as you did in step 5 and go to the `Settings` tab. This will automatically open to the Java page. Make sure the tick box for `Java installation` is enabled, then press `Auto-detect` and choose the correct version. If you see a 1.8.0_51, please do not use that and follow the next steps to installing a newer Java version.
+
+If you do not have the required Java version, you can press the `Download Java` button instead. For ARM based computers, use Azul Zulu as your distribution, otherwise use Adoptium and download the latest release for whichever Java version you need. You can go back to the `Auto detect` button to see your installed Javas and make sure the one you have just installed is properly selected.
 
 ### Step 6 - Explore
 
