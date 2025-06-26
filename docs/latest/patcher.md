@@ -186,7 +186,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Image Preview - ?
 * Image Preview Width - ?
 * Inventory Position - Vanilla
-* Click Out of Containers - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+* Click Out of Containers - [Click Out of Containers](https://modrinth.com/mod/click-out-of-containers)
 * Inventory Scale - [Inventory Scale](https://modrinth.com/mod/inventoryscale)
 * Tab Opacity - [Tab Tweaks](https://modrinth.com/mod/tabtweaks)
 * Tab Height - [Tab Tweaks](https://modrinth.com/mod/tabtweaks)
