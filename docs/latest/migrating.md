@@ -222,7 +222,6 @@ These are mods for Hypixel Skyblock.
 | [Skylens](https://modrinth.com/mod/skylens) | Skylens is a highly customizable mod that shows missing enchants, has a pet overlay, a compact level display and other cool features. | [nextrg](https://github.com/nextrg) |
 | [SkyOcean](https://modrinth.com/mod/skyocean) | SkyOcean is a mod that aims to improve the playing experience while staying true to the skyblock style, meaning that we aim to integrate with the base game in a seamless way. | [Meowdding](https://github.com/meowdding) |
 | [SkyHanni](https://modrinth.com/mod/skyhanni) | The same SkyHanni from 1.8.9, known for its garden related features. | [hannibal002](https://github.com/hannibal002) | | This mod has only just been ported to 1.21.5 and is still in beta. Expect issues to arise until the mod is further ironed out. |
-| [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial) | Unofficial updated fork of SBA, now updated to modern Minecraft. | [Biscuit](https://github.com/BiscuitDevelopment) & [Fix3dll](https://github.com/Fix3dll) | This mod has only just been ported to 1.21.5 and is still in beta. Expect issues to arise until the mod is further ironed out. |
 | [SkyBlock RPC](https://modrinth.com/mod/skyblock-rpc) | A Discord integration for Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) |
 
 
@@ -292,6 +291,7 @@ These are mods that are not recommended for use. They have either been replaced 
 | Animatica | Animatica has been replaced by [MoreMcMeta](https://modrinth.com/mod/moremcmeta). | [FoundationGames](https://github.com/FoundationGames) |
 | Clear Void | Clear Void has been replaced by [Smooth Skies](https://modrinth.com/mod/smooth-skies). | [yezhiyi9670](https://github.com/yezhiyi9670) |
 | Clear Skies | Clear Skies has been replaced by [Smooth Skies](https://modrinth.com/mod/smooth-skies). | [grondag](https://github.com/grondag) |
+| SkyblockAddons Unofficial | SkyblockAddons has long since been EOL'd by its original dev team. Other Skyblock mods have now expanded upon all its features. | [Biscuit](https://github.com/BiscuitDevelopment) & [Fix3dll](https://github.com/Fix3dll) |
 
 # Notes
 
