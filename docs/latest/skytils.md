@@ -22,7 +22,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Hypixel
 
-* Coop Add Confirmation - ?
+* Coop Add Confirmation - [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Guild Leave confirmation - ?
 * Multiple Party Invites Fix - ?
 * Auto-Accept Reparty - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -49,21 +49,20 @@ For more information on exactly why Essential is bad and it is considered such a
 * Necron Phase Timer - ?
 * Red Screen Fix - Irrelevant (probably)
 * Sadan Phase Timers - ?
-* Color Brewing Stands - ?
 
 ### Score Calculation
 
 * Dungeon Score Estimate - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Score Calculation Party Assist - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
 * Allow Mimic Dead! From Other Mods - ?
-* Send Message on 270 Score - ?
-* Send Message on 300 Score - ?
+* Send Message on 270 Score - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Send Message on 300 Score - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
 #### Quality of Life
 
 * Auto-Reparty on Dungeon Ending - ?
 * Blood Camp Helper - ?
-* Box Starred Mobs - ?
+* Box Starred Mobs - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Box Skeleton Masters - ?
 * Box Spirit Bear - ?
 * Box Spirit Bow - ?
@@ -183,7 +182,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Minions
 
-* Only Collect Enchanted Items
+* Only Collect Enchanted Items - ?
 * Show Minion Tier - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
 ### Quality of Life
@@ -191,36 +190,36 @@ For more information on exactly why Essential is bad and it is considered such a
 * Always Show Item Name Highlight - ?
 * Low Health Vignette - ?
 * Custom Auction Price Input - ?
-* Container Sell Value - ?
+* Container Sell Value - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
 * Include Item Modifiers - ?
 * Max Displayed Items - ?
 * Disable Enderman Teleportation - ?
 * Disable Night Vision - [Better Night Vision](https://modrinth.com/mod/betternightvision)
 * Dungeon Pot Lock - ?
 * Enchant Glint Fix - Vanilla?
-* Hide Absorption Hearts
+* Hide Absorption Hearts - ?
 * Hide Air Display - [SkyCubed](https://modrinth.com/mod/skycubed)
-* Hide Armor Display - [SkyCubed](https://modrinth.com/mod/skycubed)
+* Hide Armor Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Hide Cheap Coins - ?
 * Hide Dying Mobs - ?
 * Hide Fire on Entities - ?
 * Hide Fishing Hooks - ?
-* Hide Hunger Display - [SkyCubed](https://modrinth.com/mod/skycubed)
+* Hide Hunger Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Hide Jerry Rune - ?
 * Hide Lightning - [SkyOcean](https://modrinth.com/mod/skyocean) / [Render Tweaks](https://modrinth.com/mod/rendertweaks)
 * Hide Mob Death Particles - ?
-* Hide Pet Health Display - ?
+* Hide Pet Health Display - [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Hide Players in Spawn - ?
 * Hide Potion Effects in Inventory - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
 * Hide Scoreboard Score - Vanilla
-* Hide Vanilla Health Display - [SkyCubed](https://modrinth.com/mod/skycubed)
+* Hide Vanilla Health Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Highlight Disabled Potion Effects - [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Highlight Salvageable Items - ?
 * Highlight Dungeon-Sellable Items
 * Lower Enderman Nametags - ?
 * Middle Click GUI Items - ?
 * Moveable Action Bar - ?
-* Moveable Item Name Highlight
+* Moveable Item Name Highlight - ?
 * No Fire - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * No Hurtcam - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Party Addons - ?
@@ -230,7 +229,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Press Enter to confirm Sign Popups - ?
 * Protect Items - ?
 * Protect Starred Items - ?
-* Quiver Display - ?
+* Quiver Display - [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Restock Arrows Warning - ?
 * Spider's Den Rain Timer - ?
 * Show Arachne Spawn - ?
@@ -244,9 +243,9 @@ For more information on exactly why Essential is bad and it is considered such a
 * Potion Duration Notifications - ?
 * Stop Hook Sinking in Lava - ?
 * Fishing Hook Age - ?
-* Trophy Fish Tracker - ?
-* Show Trophy Fish Totals - ?
-* Show Total Trophy Fish - ?
+* Trophy Fish Tracker - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
+* Show Trophy Fish Totals - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
+* Show Total Trophy Fish - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
 
 ### Other
 
@@ -272,7 +271,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Chat Tabs
 
-* Chat Tabs - ?
+* Chat Tabs - [Text Tunnels](https://modrinth.com/mod/text-tunnels)
 * Pre-Fill Chat Commands - ?
 * Auto Switch Chat Channel - ?
 * Copy Chat Messages - ?
@@ -356,7 +355,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Raffle Warning - ?
 * Raffle Waypoint  - ?
 * Recolor Carpets - [SkyOcean](https://modrinth.com/mod/skyocean) / [Skyblocker](https://modrinth.com/mod/skyblocker-liap) (has some performance issues, use SkyOcean's instead)
-* Skymall Reminder
+* Skymall Reminder - ?
 
 ### Solvers
 
@@ -365,7 +364,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Crystal Hollows
 
-* Crystal Hollow DFeath Waypoints - ?
+* Crystal Hollow Death Waypoints - ?
 * Crystal Hollows Map -  [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Crystal Hollows Waypoints - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * King Yolkar Waypoint - ?
@@ -376,7 +375,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Quality of Life
 
-* Autopet Message Hider - ?
+* Autopet Message Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Highlight Active Pet - ?
 * Highlight Favorite Pets - ?
 * Pet Item Confirmation - ?
