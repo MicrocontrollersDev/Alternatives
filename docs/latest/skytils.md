@@ -8,142 +8,500 @@ For more information on exactly why Essential is bad and it is considered such a
 
 *this page is still a work in progress*
 
-## General
+## Extra
 
 * Custom Armor Color - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Command Aliases - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Griffin Burrow Locator and Waypoints - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
-* Mythological Event Drops Tracker - ?
-* Track Gaia Construct Hits - ?
-* Reparty Command - ?
-* Auto Accept Reparty - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Custom Key Shortcuts - [Command Keys](https://modrinth.com/mod/commandkeys)
-* Better Auction House Price Input - ?
-* Copy Deaths to Clipboard ?
-* Spam Hider, including custom spam hiders - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Custom Enchant Names - ?
-* Moveable Item Highlight - ?
-* Moveable Action Bar - ?
+
+## General
+
+### Other
+
+* Always Sprint in Skyblock - Vanilla (go to Accessibility or Controls menu and turn the Sprinting mode to Toggle)
+
+### Hypixel
+
+* Coop Add Confirmation - ?
+* Guild Leave confirmation - ?
+* Multiple Party Invites Fix - ?
+* Auto-Accept Reparty - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
 ## Dungeons
 
-* Blaze Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Boulder Puzzle Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Simon Says Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Trivia Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Three Weirdo Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Spirit Leap Names - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
-* Click in Order Terminal Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Ice Path Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Creeper Beams Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Target Shooting Solver - ?
-* Alignment Device Solver - ?
-* Tic Tac Toe Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Select Color Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Stop Dropping, Salvaging, and Selling Starred Dungeon Items - ?
-* Bigger Bat Rendering and Bat Hitbox Display - ?
-* Giant, Sadan, and Necron HP Display - ?
-* Better Sadan Interest Timer - ?
-* Score Calculation - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+### Fixes
+
+* Inject Fake Dungeon Map - ?
+
+### HUD
+
+* Dungeon Crypts Counter - ?
+
+### Miscellaneous
+
+* Death Counter - ?
+* Dungeon Chest Profit - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Highlight Unopened Croesus Chests - ?
+* Hide Opened Croesus Chests - ?
+* Catlas (Dungeon Map) - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Dungeon Start Confirmation - ?
 * Dungeon Timer - ?
 * Necron Phase Timer - ?
-* Dungeon reroll Confirmation - ?
-* Skeleton Master Boxes - ?
-* Correct Livid Finder - ?
-* Dungeon Chest Profit - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Dungeon Map - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Guardian Respawn Timer - ?
-* Boxed Tanks and Protected Teammates - ?
-* Tank Range Display Circle - ?
-* Auto Reparty on Dungeon End - ?
-* Death Counter - ?
-* Giant HP at feet - ?
+* Red Screen Fix - Irrelevant (probably)
 * Sadan Phase Timers - ?
-* Spirit Leap Highlights for Names and Classes - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
-* Big Crypts Counter - ?
-* Highlight Spirit Bow - ?
+* Color Brewing Stands - ?
+
+### Score Calculation
+
+* Dungeon Score Estimate - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Score Calculation Party Assist - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
+* Allow Mimic Dead! From Other Mods - ?
+* Send Message on 270 Score - ?
+* Send Message on 300 Score - ?
+
+#### Quality of Life
+
+* Auto-Reparty on Dungeon Ending - ?
+* Blood Camp Helper - ?
+* Box Starred Mobs - ?
+* Box Skeleton Masters - ?
+* Box Spirit Bear - ?
+* Box Spirit Bow - ?
+* Dungeon Chest Reroll Confirmation - ?
+* Dungeon Secret Display - ?
+* Ghost Leap Names - ?
+* Hide Archer Bone Passive - ?
+* Hide Wither King Dragon Death - ?
+* Hide Fairies - ?
+* Hide Floor 4 Crowd Messages - ?
+* Hide Oruo Messages - ?
+* Hide Spirit Animal Nametags - ?
+* Hide Terminal Completion Titles - ?
+* Hide Wither Miner Nametags - ?
+* Hide Terracotta Nametags - ?
+* Hide Non-Starred Mobs Nametags - ?
+* Larger Bat Models - ?
+* Change Hurt Color on the Wither King's Dragons - ?
+* Retexture Wither King's Dragons - ?
+* Revive Stone Names - ?
+* Say Blaze Done - ?
+* Show Bat Hitboxes - ?
+* Show Giant HP - ?
+* Giant HP at Feet - ?
+* Show Guardian Respawn Timer - ?
+* Show Wither King Statue Box - ?
+* Show Sadan's Interest - ?
+* Show Terracotta Respawn Time - ?
+* Show Necron's HP - ?
+* Show Wither King's Dragons' Color as Text - ?
+* Show Wither King's Dragons' HP - ?
+* Show Wither King's Dragons' Spawn Timer - ?
+* Spirit Bear Timer - ?
+* Spirit Leap Names - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
+* Spirit Leap Highlights (names and classes) - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
+* Highlight Door Opener - ?
+* Spirit Pet Warning - ?
+* Wither King Dragon Dimensional Slash Alert - ?
+* Wither King Dragon Spawn Alert - ?
+
+### Solvers
+
+* Blaze Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Boulder Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Creeper Beams Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Ice Path Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Teleport Maze Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Three Weirdo Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Tic Tac Toe Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Trivia Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Water Board Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Find Correct Livid - ?
+
+### Terminal Solvers
+
+* Block Incorrect Terminal Clicks - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
+* Middle Click on Terminals - ?
+* Change All to Same Color Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Click in Order Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Select All Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Start With Sequence Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Item Frame Alignment Solver - ?
+* Shoot the Target Solver - ?
+* Simon Says Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+
+### Tank Helper Tools
+
+* Boxed Tanks - ?
+* Box Protected Teammates - ?
+* Tank Protection Range Display - ?
+
+## Miscellaneous
+
+### Brewing
+
+* Color Brewing Stands - ?
+
+### Items
+
+* Show Dungeon Floor as Stack Size - ?
+* Held Item Scale - [View Model](https://modrinth.com/mod/no-ones-view-model)
+* Price Paid - ?
+* Block Zapper: Left Click to Undo - ?
+* Disable Block Animation - Vanilla
+* Dropped Item Size - [Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
+* Hide Implosion Particles - ?
+* Hide Midas Staff Gold - ?
+* Highlight Filled Bazaar Orders - ?
+* Item Cooldown Display - ?
+* Item Stars Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
+* Show Item Quality - ?
+* Head Display Size - Vanilla
+* Prevent Placing Weapons - ?
+* Wither Shield Cooldown Tracker - ?
+* Show Enchanted Book Abbreviation - ?
+* Show Attribute Shard Abbreviation - ?
+* Show Attribute Shard Level - ?
+* Show Enchanted Book Tier - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Combine Helper - ?
+* Show Etherwarp Teleport Location - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Show Gemstones - ?
+* Show Floor Head Number - ?
+* Show Item Origin - ?
+* Show New Year Cake Year - ?
+* Show NPC Sell Price - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Show Potion Tier - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Show Pet Candies - ?
+* Show Item Star Count - ?
+* Stacking Enchant Progress Display - ?
+* Radioactive Bonus - ?
+
+### Item Rarity
+
+* Show Item Rarity - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Show Pet Rarity - ?
+
+
+### Minions
+
+* Only Collect Enchanted Items
+* Show Minion Tier - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+
+### Quality of Life
+
+* Always Show Item Name Highlight - ?
+* Low Health Vignette - ?
+* Custom Auction Price Input - ?
+* Container Sell Value - ?
+* Include Item Modifiers - ?
+* Max Displayed Items - ?
+* Disable Enderman Teleportation - ?
+* Disable Night Vision - [Better Night Vision](https://modrinth.com/mod/betternightvision)
+* Dungeon Pot Lock - ?
+* Enchant Glint Fix - Vanilla?
+* Hide Absorption Hearts
+* Hide Air Display - [SkyCubed](https://modrinth.com/mod/skycubed)
+* Hide Armor Display - [SkyCubed](https://modrinth.com/mod/skycubed)
+* Hide Cheap Coins - ?
+* Hide Dying Mobs - ?
+* Hide Fire on Entities - ?
+* Hide Fishing Hooks - ?
+* Hide Hunger Display - [SkyCubed](https://modrinth.com/mod/skycubed)
+* Hide Jerry Rune - ?
+* Hide Lightning - [SkyOcean](https://modrinth.com/mod/skyocean) / [Render Tweaks](https://modrinth.com/mod/rendertweaks)
+* Hide Mob Death Particles - ?
+* Hide Pet Health Display - ?
+* Hide Players in Spawn - ?
+* Hide Potion Effects in Inventory - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
+* Hide Scoreboard Score - Vanilla
+* Hide Vanilla Health Display - [SkyCubed](https://modrinth.com/mod/skycubed)
+* Highlight Disabled Potion Effects - [SkyblockTweaks](https://modrinth.com/mod/sbt)
+* Highlight Salvageable Items - ?
+* Highlight Dungeon-Sellable Items
+* Lower Enderman Nametags - ?
+* Middle Click GUI Items - ?
+* Moveable Action Bar - ?
+* Moveable Item Name Highlight
+* No Fire - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+* No Hurtcam - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
+* Party Addons - ?
+* Prevent Cursor Reset - [Firmament](https://modrinth.com/mod/firmament)
+* Prevent Moving on Death - ?
+* Power Orb Lock - ?
+* Press Enter to confirm Sign Popups - ?
+* Protect Items - ?
+* Protect Starred Items - ?
+* Quiver Display - ?
+* Restock Arrows Warning - ?
+* Spider's Den Rain Timer - ?
+* Show Arachne Spawn - ?
+* Show Arachne HP - ?
+* Show Coins per Bit - ?
+* Show Coins per Copper - ?
+* Show Lowest BIN Price - ?
+* Stop Clicking Non-Salvageable Items - ?
+* View Relic Waypoints - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Find Rare Relics - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Potion Duration Notifications - ?
+* Stop Hook Sinking in Lava - ?
+* Fishing Hook Age - ?
+* Trophy Fish Tracker - ?
+* Show Trophy Fish Totals - ?
+* Show Total Trophy Fish - ?
+
+### Other
+
+* Hide Tooltips while on Storage - ?
+* Copy Deaths to Clipboard - ?
+* Auto Copy RNG Drops to Clipboard - ?
+* Also Copy Very Rare Drops to Clipboard - ?
+* Dupe Tracker - ?
+* Endstone Protector Spawn Timer - ?
+* Players in Range Display - ?
+* Placed Summoning Eye Display - ?
+* Ping Display - ?
+* Random Stuff - ???
+* Scam Check - ?
+* Show Bestiary Level - ?
+* Show Selected Arrow - ?
+* Show World Age - ?
+* Transparent Armor Layer - ?
+* Head Layer Transparent - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Fix Summon Skin - ?
+* Use Player Skin - ?
+
+
+### Chat Tabs
+
+* Chat Tabs - ?
+* Pre-Fill Chat Commands - ?
+* Auto Switch Chat Channel - ?
+* Copy Chat Messages - ?
+
+### Fixes
+
+* Boss Bar Fix - Vanilla?
+* Fix Falling Sand Rendering - Vanilla
+* Fix World Time - Vanilla?
+* Prevent Log Spam - ?
+* Twitch Fix - Vanilla
+
+## Events
+
+### Mayor Jerry
+
+* Hidden Jerry Alert - ?
+* Hidden Jerry Timer - ?
+* Track Mayor Jerry Items - ?
+
+### Mythological
+
+* Show Griffin Burrows - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
+* Ping When burrow is Nearby - ?
+* Griffin Burrow Estimation - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
+* Broadcast Rare Drop Notifications - ?
+* Display Gaia Construct Hits - ?
+* Track Mythological Creatures - ?
+
+### Spooky
+
+* Trick or Treat Chest Alert - ?
+
+### Technoblade
+
+* Show Shiny Orb Waypoints - ?
+* Show Shiny Pig Locations - ?
 
 ## Farming
+
+### Garden
+
+* Plot Cleanup Helper - ?
+* Show Sam's Scythe Blocks - ?
+* Visitor Offer Helper - ?
+* Visitor Notifications - ?
+
+### Quality of Life
+
+* Hide Farming RNG Titles - ?
+
+### Solvers
 
 * Hungry Hiker Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Treasure Hunter Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
+### Quality of Life
+
+* Click to Accept Trapper Task - ?
+* Trapper Cooldown Alarm - ?
+* Talbot's Theodolite Helper - ?
+
+### Performance
+
+* Hide Non-Nametag Armor Stands on Kuudra - ?
+
+### Price Checking
+
+* Kuudra Chest Profit - ?
+* Show Kuudra Lowest BIN Price - ?
+
 ## Mining
+
+### Quality of Life
+
+* Dark Mode Mist - ?
+* Highlight Completed Commissions - [SkyOcean](https://modrinth.com/mod/skyocean) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
+* Highlight Disabled HOTM Perks - ?
+* More Visible Ghosts - ?
+* Powder Ghast Ping - ?
+* Raffle Warning - ?
+* Raffle Waypoint  - ?
+* Recolor Carpets - [SkyOcean](https://modrinth.com/mod/skyocean) / [Skyblocker](https://modrinth.com/mod/skyblocker-liap) (has some performance issues, use SkyOcean's instead)
+* Skymall Reminder
+
+### Solvers
 
 * Fetchur Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Puzzler Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [SkyOcean](https://modrinth.com/mod/skyocean)
-* Raffle Waypoint and Warning - ?
-* Show hidden sneaky creepers - ?
-* Dark Mode Mist - ?
-* More Visible Ghosts - ?
-* Recolor Carpets - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Highlight Completed Commissions *  [SkyOcean](https://modrinth.com/mod/skyocean) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
-* Crystal Hollows Map *  [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+
+### Crystal Hollows
+
+* Crystal Hollow DFeath Waypoints - ?
+* Crystal Hollows Map -  [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Crystal Hollows Waypoints - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* King Yolkar Waypoint - ?
+* Crystal Hollows Chat Coordinates Grabber - ?
+* Crystal Hollows Treasure Helper - ?
 
-## Items
+## Pets
 
+### Quality of Life
+
+* Autopet Message Hider - ?
+* Highlight Active Pet - ?
+* Highlight Favorite Pets - ?
 * Pet Item Confirmation - ?
-* Highlight Active & Favorite Pets - ?
-* Hide Implosion Particles - ?
-* Hide Midas Staff Gold Blocks - ?
-* Big Item Drops - ?
-* Larger Heads - ?
-* Show Enchanted Book, Potion, Minion Tiers, and Dungeon Stars - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
-* Show Pet Candies - ?
-* Only Collect Enchanted Items - ?
-* Dungeon Potion Lock - ?
-* Power Orb Lock - ?
-* Prevent Placing Spirit Sceptre and Flower of Truth - ?
-* Transparent Head Layer - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Show NPC Sell Values - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Show Price of Items in the Experimentation Table - ?
-* Jerry-chine Gun Sound Hider - ?
-* Show Enchanted Book Abbreviation - ?
-* Show Radioactive Bonus - ?
-* Etherwarp Teleport Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-*
 
-## Slayers
+## Rift
 
-* Show Slayer RNG Progress as the Boss Bar - ?
-* Soulflow Display - ?
-* Low Soulfow Ping - ?
-* Slayer Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Yang Glyph Ping and Highlight - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Nukekebi Skull Highlight - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Seraph Display - ?
-* Broken Heart Radiation Hider for Others' Bosses - ?
-* Slayer Time to Kill - ?
-* Re-color seraph boss - ?
+### Solvers
 
-## Miscellaneous
+* Quad Link Legacy Solver - ?
 
-* Hide Witherborn Boss Bars - ?
-* Hide Fire and Lightning - ?
-* Custom Damage Splash - ?
-* Legion and Dolphin player displays - ?
-* Alerts for Hidden Jerry spawns - ?
-* Relic and Rare Uber Relic waypoints - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
-* Stop other mods from cancelling terminal clicks - ?
-* Slayer miniboss spawn alert - ?
-* Hide fishing hooks from other players - ?
-* Placed Summoning Eye Display - ?
-* Spider's Den Rain Timer - ?
-* Stop Dropping Valuable Items (customizable BIN value) - ?
-* Trapper cooldown alarm - ?
-* Click anywhere to accept Trapper Task - ?
-* Rare drop sounds for mythological event drops - ?
-* Highlight disabled potion effects in cookie menu - [SkyblockTweaks](https://modrinth.com/mod/sbt)
-* Hidden Jerry Timer - ?
-* Hidden Jerry & Jerry Box Tracker - ?
-* Jerry Perk Display - ?
-* Remove Left Over Bleeds from Minotaurs - ?
-* Hide Dying Mobs - ?
-* Cooldown Tracker - ?
-* /g leave confirmation - ?
-* Prehistoric Egg Blocks Walked - ?
-* Auto Copy Rare Drops - ?
+## Slayer
+
+### General
+
+* Current Revenant RNG Meter - ?
+* Current Tarantula RNG Meter - ?
+* Current Sven RNG Meter - ?
+* Current Voidgloom RNG Meter - ?
+* Current Inferno RNG Meter - ?
+* Current Bloodfiend RNG Meter - ?
+* Carry Mode - ?
+* Vampire Slayer One Shot Alert - ?
+* Twinclaw Alert - ?
+
+### Quality of Life
+
+* Ping when in Atoned Horror Danger Zone - ?
+* Slayer Boss Hitbox - ?
+* Slayer Miniboss Spawn Alert - ?
+* Show RNGesus Meter - ?
+* Show Slayer Armor Kills - ?
+* Show Slayer Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Show Slayer Time to Kill - ?
+
+
+### Voidgloom Seraph
+
+* Hide Others' Broken Heart Radiation - ?
+* Recolor Seraph Boss - ?
+* Show Seraph Display - ?
+* Yang Glyph Ping - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Highlight Yang Glyph - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Point to Yang Glyph - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Highlight Nukekebi Fixation Heads  - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Show Soulflow Display - ?
+* Low Soulflow Ping - ?
+
+### Inferno Demonlord
+
+* Show Totem Display - ?
+* Totem Ping - ?
+* Hide Pacified Blazes - ?
+* Ping when in Inferno Demonlord Fire - ?
+* Recolor Demonlord Boss by Attunement - ?
+
+## Sounds
+
+### Abilities
+
+* Disable Cooldown Sounds - ?
+* Disable Jerry-chine Gun Sounds - ?
+* Disable Flower of Truth Sounds - ?
+
+### Dungeons
+
+* Disable Terracotta Sounds - ?
+
+## Spam
+
+### Abilities
+
+* Implosion Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Midas Staff Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Spirit Sceptre Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Giant Sword Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Livid Dagger Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Ray of Hope Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Mining Ability Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Mana Use Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Healing Message Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+
+### Dungeons
+
+* Blessing Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Blood Key Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Boss Messages Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Wither Essence Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Undead Essence Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Countdown and Ready Messages Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Dungeon Abilities Messages Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Mort Messages Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Superboom Pickup Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Revive Stone Pickup Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Wither Key Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Tether Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Self Orb Pickup Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Other Orb Pickup Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Trap Damage Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Toast Time - ?
+
+### Miscellaneous
+
+* Toast Timer - ?
+* Can't use Ability Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Combo Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Auto-Recombobulator Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Compact Building Tools - ?
+* Compact Mining Powder Gain - ?
+* Cooldown Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* No Enemies Nearby Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Out of Mana Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Profile Message Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Spook Message Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Compact Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Pristine Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Wind Direction Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+
+### Fishing
+
+* Blessing Enchant Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Blessed Bait Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Sea Creature Catch Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Legendary Sea Creature Catch Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Good Fishing Treasure Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Great Fishing Treasure Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
 # Contributors
 
