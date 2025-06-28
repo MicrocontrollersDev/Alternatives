@@ -39,10 +39,10 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Miscellaneous
 
-* Death Counter - ?
+* Death Counter - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Dungeon Chest Profit - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Highlight Unopened Croesus Chests - ?
-* Hide Opened Croesus Chests - ?
+* Hide Opened Croesus Chests - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Catlas (Dungeon Map) - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Dungeon Start Confirmation - ?
 * Dungeon Timer - ?
@@ -114,7 +114,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Tic Tac Toe Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Trivia Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Water Board Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Find Correct Livid - ?
+* Find Correct Livid - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
 ### Terminal Solvers
 
@@ -177,8 +177,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Item Rarity
 
 * Show Item Rarity - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Show Pet Rarity - ?
-
+* Show Pet Rarity - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
 ### Minions
 
@@ -263,7 +262,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Show Bestiary Level - ?
 * Show Selected Arrow - ?
 * Show World Age - ?
-* Transparent Armor Layer - ?
+* Transparent Armor Layer - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Head Layer Transparent - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Fix Summon Skin - ?
 * Use Player Skin - ?
