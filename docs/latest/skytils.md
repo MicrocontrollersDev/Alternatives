@@ -11,7 +11,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ## Extra
 
 * Custom Armor Color - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Command Aliases - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Command Aliases/Shortcuts - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Custom Key Shortcuts - [Command Keys](https://modrinth.com/mod/commandkeys)
 
 ## General
@@ -142,7 +142,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Items
 
-* Show Dungeon Floor as Stack Size - ?
+* Show Dungeon Floor as Stack Size - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Held Item Scale - [View Model](https://modrinth.com/mod/no-ones-view-model)
 * Price Paid - ?
 * Block Zapper: Left Click to Undo - ?
@@ -166,7 +166,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Show Gemstones - ?
 * Show Floor Head Number - ?
 * Show Item Origin - ?
-* Show New Year Cake Year - ?
+* Show New Year Cake Year - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show NPC Sell Price - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Show Potion Tier - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Show Pet Candies - ?
@@ -183,13 +183,13 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Minions
 
 * Only Collect Enchanted Items - ?
-* Show Minion Tier - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Show Minion Tier - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Quality of Life
 
 * Always Show Item Name Highlight - ?
 * Low Health Vignette - ?
-* Custom Auction Price Input - ?
+* Custom Auction Price Input - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Container Sell Value - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
 * Include Item Modifiers - ?
 * Max Displayed Items - ?
@@ -203,14 +203,14 @@ For more information on exactly why Essential is bad and it is considered such a
 * Hide Cheap Coins - ?
 * Hide Dying Mobs - ?
 * Hide Fire on Entities - ?
-* Hide Fishing Hooks - ?
+* Hide Fishing Hooks - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Hide Hunger Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Hide Jerry Rune - ?
 * Hide Lightning - [SkyOcean](https://modrinth.com/mod/skyocean) / [Render Tweaks](https://modrinth.com/mod/rendertweaks)
 * Hide Mob Death Particles - ?
 * Hide Pet Health Display - [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Hide Players in Spawn - ?
-* Hide Potion Effects in Inventory - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
+* Hide Potion Effects in Inventory - [Firmament](https://modrinth.com/mod/firmament) / [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Hide Scoreboard Score - Vanilla
 * Hide Vanilla Health Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Highlight Disabled Potion Effects - [SkyblockTweaks](https://modrinth.com/mod/sbt)
