@@ -23,7 +23,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Hypixel
 
 * Coop Add Confirmation - [SkyblockTweaks](https://modrinth.com/mod/sbt)
-* Guild Leave confirmation - ?
+* Guild Leave confirmation - [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Multiple Party Invites Fix - ?
 * Auto-Accept Reparty - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
