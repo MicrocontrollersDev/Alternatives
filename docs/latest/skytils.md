@@ -151,7 +151,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Hide Implosion Particles - ?
 * Hide Midas Staff Gold - ?
 * Highlight Filled Bazaar Orders - ?
-* Item Cooldown Display - ?
+* Item Cooldown Display - [SkyCubed](https://modrinth.com/mod/skycubed)
 * Item Stars Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
 * Show Item Quality - ?
 * Head Display Size - Vanilla
