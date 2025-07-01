@@ -53,6 +53,7 @@
 * [PandaNinjas](https://github.com/pandaninjas)
 * [Pengu](https://github.com/pengubear)
 * [Proudmuslim](https://github.com/proudmuslim-dev)
+* Purpas
 * [RaphyTwin](https://github.com/RaphyTwin)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)

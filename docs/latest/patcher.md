@@ -94,7 +94,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Disable Lightning Bolts - [Render Tweaks](https://modrinth.com/mod/rendertweaks)
 * Alternate Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
 * Add Text Shadow to Nametags - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
-* Add Text Shadow to Actionbar - [Debugify](https://modrinth.com/mod/debugify)
+* Add Text Shadow to Actionbar - Vanilla
 * Add Background to Actionbar - ?
 * Disable Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
 * Left Hand in First Person - Vanilla
@@ -140,7 +140,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Player Entity Render Distance - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
 * Global Entity Render Distance - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
 * Disable End Portals - ?
-* Disable Enchantment Glint - ?
+* Disable Enchantment Glint - Vanilla (Acessibility Settings -> Glint Strength)
 * Static Particle Color - [Particle Core](https://modrinth.com/mod/particle-core) (Improves performance of brightness calculations to make it not an issue instead of removing it entirely)
 * Max Particle Limit - [Particle Core](https://modrinth.com/mod/particle-core)
 * Downscale Pack Images - ?
@@ -202,3 +202,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Screenshot Manager - [Screencapper](https://modrinth.com/mod/screencapper)
 * Auto Copy Screenshot - [Screencapper](https://modrinth.com/mod/screencapper)
 * Screenshot Preview - [Screencapper](https://modrinth.com/mod/screencapper)
+
+# Contributors
+
+* Purpas
