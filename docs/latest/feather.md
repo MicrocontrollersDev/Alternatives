@@ -57,7 +57,7 @@ is not their problem.
 ### Hypixel
 
 * AutoFriend - ?
-* Auto Tip - ?
+* Auto Tip - [Hypixel AutoTip](https://modrinth.com/mod/hypixelautotip)
 * Auto GG - [Auto GG](https://modrinth.com/mod/auto-gg)
 * Anti GG - ?
 * LevelHead - ?

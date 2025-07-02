@@ -31,7 +31,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### Hypixel Mods
 
 * AutoGG - [Auto GG](https://modrinth.com/mod/auto-gg)
-* AutoTip - ?
+* AutoTip - [Hypixel AutoTip](https://modrinth.com/mod/hypixelautotip)
 * Levelhead - ?
 * HyStats - ?
 

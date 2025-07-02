@@ -44,7 +44,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Remove Guild on Tab - ?
 * Short Chat Channel Messages - ?
 * Auto Friend - ?
-* Auto Tip - ?
+* Auto Tip - [Hypixel AutoTip](https://modrinth.com/mod/hypixelautotip)
 * Auto GG - [Auto GG](https://modrinth.com/mod/auto-gg)
 * Anti GG - ?
 * Auto Who - No longer works on Hypixel
