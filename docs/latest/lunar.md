@@ -160,7 +160,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 * Hide Enderportals - ?
 * Full Bright - [Methane](https://modrinth.com/mod/methane)
-* Show Enchantment Glint - ?
+* Show Enchantment Glint - Vanilla (Acessibility Settings -> Glint Strength)
 * Lazy Chunk Loading - [Sodium](https://modrinth.com/mod/sodium)
 * Disable Block Breaking Particles - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 
