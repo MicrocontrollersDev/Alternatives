@@ -31,7 +31,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Fixes
 
-* Inject Fake Dungeon Map - ?
+* Inject Fake Dungeon Map - Irrelevant
 
 ### HUD
 
@@ -47,14 +47,14 @@ For more information on exactly why Essential is bad and it is considered such a
 * Dungeon Start Confirmation - ?
 * Dungeon Timer - ?
 * Necron Phase Timer - ?
-* Red Screen Fix - Irrelevant (probably)
+* Red Screen Fix - Irrelevant
 * Sadan Phase Timers - ?
 
 ### Score Calculation
 
 * Dungeon Score Estimate - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Score Calculation Party Assist - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
-* Allow Mimic Dead! From Other Mods - ?
+* Allow Mimic Dead! From Other Mods - Irrelevant
 * Send Message on 270 Score - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Send Message on 300 Score - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
@@ -118,7 +118,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Terminal Solvers
 
-* Block Incorrect Terminal Clicks - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
+* Block Incorrect Terminal Clicks - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Middle Click on Terminals - ?
 * Change All to Same Color Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Click in Order Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -164,7 +164,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Combine Helper - ?
 * Show Etherwarp Teleport Location - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Show Gemstones - ?
-* Show Floor Head Number - ?
+* Show Floor Head Number - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Item Origin - ?
 * Show New Year Cake Year - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show NPC Sell Price - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -225,7 +225,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Prevent Cursor Reset - [Firmament](https://modrinth.com/mod/firmament)
 * Prevent Moving on Death - ?
 * Power Orb Lock - ?
-* Press Enter to confirm Sign Popups - ?
+* Press Enter to Confirm Sign Popups - ?
 * Protect Items - ?
 * Protect Starred Items - ?
 * Quiver Display - [SkyblockTweaks](https://modrinth.com/mod/sbt)
@@ -240,7 +240,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * View Relic Waypoints - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Find Rare Relics - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Potion Duration Notifications - ?
-* Stop Hook Sinking in Lava - ?
+* Stop Hook Sinking in Lava - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Fishing Hook Age - ?
 * Trophy Fish Tracker - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
 * Show Trophy Fish Totals - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
@@ -277,7 +277,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Fixes
 
-* Boss Bar Fix - Vanilla?
+* Boss Bar Fix - Vanilla
 * Fix Falling Sand Rendering - Vanilla
 * Fix World Time - Vanilla?
 * Prevent Log Spam - ?
