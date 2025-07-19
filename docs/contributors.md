@@ -62,6 +62,7 @@
 * [Solonovamax](https://github.com/solonovamax)
 * [stef-the](https://github.com/stef-the)
 * [Stekerser](https://github.com/Stekerser)
+* [surroundedbythings](https://github.com/surroundedbythings)
 * [Sychic](https://github.com/Sychic)
 * [Systemless](https://github.com/SystemlessDev)
 * [thatonecoder](https://github.com/Coccocoahelper)
