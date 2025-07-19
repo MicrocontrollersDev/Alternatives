@@ -27,7 +27,7 @@ is not their problem.
 * Hitbox - [HitBox+](https://modrinth.com/mod/hitboxplus)
 * Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * Nick Hider - ?
-* Particles - ?
+* Particles - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
 * Waypoints - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (MINIMAP FEATURE BANNABLE ON HYPIXEL!)
 * Weather Changer - [Weather Changer](https://modrinth.com/mod/weather-changer)
@@ -39,20 +39,20 @@ is not their problem.
 * Armor HUD - [RedLime's Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)
 * Attack Indicator - [Minenash's Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
 * Boss Bar - ?
-* CPS - ?
+* CPS - [TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Combo Display - ?
-* Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display) / [MiniHUD](https://modrinth.com/mod/minihud) / [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Direction - [ Where Am I Going](https://modrinth.com/mod/waig)
-* FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [Sodium Extra](https://modrinth.com/mod/sodium-extra) / [SimpleHUD](https://modrinth.com/mod/simplehud)
+* FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [Sodium Extra](https://modrinth.com/mod/sodium-extra) / [SimpleHUD](https://modrinth.com/mod/simplehud) / [MiniHUD](https://modrinth.com/mod/minihud)
 * Item Counter - ?
 * Item Info - [Held Item Info](https://modrinth.com/mod/held-item-info)
 * Pack Display - ?
-* Ping - [SimpleHUD](https://modrinth.com/mod/simplehud)
+* Ping - [SimpleHUD](https://modrinth.com/mod/simplehud) / [MiniHUD](https://modrinth.com/mod/minihud)
 * Potion Effects - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
 * Reach Display - ?
 * Saturation - [AppleSkin](https://modrinth.com/mod/appleskin)
 * Scoreboard - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
-* Time - ?
+* Time - [MiniHUD](https://modrinth.com/mod/minihud)
 
 ### Hypixel
 
@@ -97,7 +97,7 @@ is not their problem.
 * Toggle Chat - In vanilla's chat settings
 * Unlimited Scrollbar - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Background Color - Opacitiy changable in vanilla's chat settings
-* Text Shadow - ?
+* Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
 
 ### Stack Messages
 
@@ -179,6 +179,7 @@ is not their problem.
 * [RaphyTwin](https://github.com/RaphyTwin)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
+* [surroundedbythings](https://github.com/surroundedbythings)
 * [Systemless](https://github.com/SystemlessDev)
 * [Tricked](https://github.com/Tricked-dev)
 * [Wyvest](https://github.com/Wyvest)
