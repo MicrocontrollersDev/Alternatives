@@ -16,7 +16,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Auto Text **(BANNABLE ON HYPIXEL)** - [BindCommands](https://modrinth.com/mod/bindcommands)
 * Clear Chat - Vanilla
 * Compact Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Text Shadow - ?
+* Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
 * 24 Hour Timestamps - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Fancy Fonts - ?
 * Filter DMs - ?
@@ -39,12 +39,12 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 * Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
 * Bossbar - ?
-* CPS Counter - ?
+* CPS - [TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Combo Counter - ?
-* Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display) / [MiniHUD](https://modrinth.com/mod/minihud) / [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Crosshair Mod - [Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Direction - [ Where Am I Going](https://modrinth.com/mod/waig)
-* FPS Counter - [FPS - Display](https://modrinth.com/mod/fpsdisplay)
+* FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [Sodium Extra](https://modrinth.com/mod/sodium-extra) / [SimpleHUD](https://modrinth.com/mod/simplehud) / [MiniHUD](https://modrinth.com/mod/minihud)
 * Keystrokes - [TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Ingame Server Switcher - ?
 * Item Counter - ?
@@ -52,7 +52,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * MiniMap **(BANNABLE ON HYPIXEL)** - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * Pack Display - ?
-* Ping - ?
+* Ping - [MiniHUD](https://modrinth.com/mod/minihud)
 * Potion Status - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
 * Reach Display - ?
 * Saturation - [AppleSkin](https://modrinth.com/mod/appleskin)

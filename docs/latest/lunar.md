@@ -32,9 +32,9 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Hide Incoming Messages - ?
 * Stack Spam Messages - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Stop Servers from Closing Chat - ?
-* Text Shadow - ?
+* Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
 * Unlimited Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Chat Animation - ?
+* Chat Animation - [Chat Plus](https://modrinth.com/mod/chat-plus) / [Chat Animation](https://modrinth.com/mod/chatanimation)
 
 ### Hypixel Mods
 
@@ -64,18 +64,18 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### HUD Mods
 
 * Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
-* Clock - ?
+* Clock - [MiniHUD](https://modrinth.com/mod/minihud)
 * Combo Counter - ?
-* Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* CPS - ?
-* Day Counter - ?
+* Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display) / [MiniHUD](https://modrinth.com/mod/minihud) / [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+* CPS - [TipTapShow](https://modrinth.com/mod/tiptapshow)
+* Day Counter - [MiniHUD](https://modrinth.com/mod/minihud)
 * DirectionHUD - [Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay)
+* FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [MiniHUD](https://modrinth.com/mod/minihud) / [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Item Tracker - ?
 * Key Strokes - [TipTapShow](https://modrinth.com/mod/tiptapshow)
-* Memory Usage - ?
+* Memory Usage - [MiniHUD](https://modrinth.com/mod/minihud)
 * Pack Display - ?
-* Ping - ?
+* Ping - [MiniHUD](https://modrinth.com/mod/minihud)
 * Potion Effects - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
 * Potion Counter - [PotionCounter](https://modrinth.com/mod/potioncounter)
 * Stopwatch - ?
@@ -187,5 +187,6 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [RaphyTwin](https://github.com/RaphyTwin)
+* [surroundedbythings](https://github.com/surroundedbythings)
 * [Tricked](https://github.com/Tricked-dev)
 * [Zetvue](https://zetvue.github.io)
