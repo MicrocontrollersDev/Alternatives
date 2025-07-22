@@ -503,4 +503,5 @@ For more information on exactly why Essential is bad and it is considered such a
 
 # Contributors
 
+* [J0a1n15](https://github.com/j10a1n15)
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
