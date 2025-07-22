@@ -60,7 +60,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 #### Quality of Life
 
-* Auto-Reparty on Dungeon Ending - ?
+* Auto-Reparty on Dungeon Ending - Irrelevant
 * Blood Camp Helper - ?
 * Box Starred Mobs - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Box Skeleton Masters - ?
@@ -161,7 +161,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Show Attribute Shard Abbreviation - ?
 * Show Attribute Shard Level - ?
 * Show Enchanted Book Tier - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Combine Helper - ?
+* Combine Helper - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Show Etherwarp Teleport Location - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Show Gemstones - ?
 * Show Floor Head Number - [SkyHanni](https://modrinth.com/mod/skyhanni)
@@ -201,8 +201,8 @@ For more information on exactly why Essential is bad and it is considered such a
 * Hide Armor Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Hide Cheap Coins - ?
 * Hide Dying Mobs - ?
-* Hide Fire on Entities - ?
-* Hide Fishing Hooks - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Hide Fire on Entities - [SkyOcean](https://modrinth.com/mod/skyocean)
+* Hide Fishing Hooks - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [SkyOcean](https://modrinth.com/mod/skyocean)
 * Hide Hunger Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Hide Jerry Rune - ?
 * Hide Lightning - [SkyOcean](https://modrinth.com/mod/skyocean) / [Render Tweaks](https://modrinth.com/mod/rendertweaks)
@@ -228,7 +228,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Press Enter to Confirm Sign Popups - ?
 * Protect Items - ?
 * Protect Starred Items - ?
-* Quiver Display - [SkyblockTweaks](https://modrinth.com/mod/sbt)
+* Quiver Display - [SkyblockTweaks](https://modrinth.com/mod/sbt) / [CustomScoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard) / [SkyHanni](https://modrinth.com/mod/SkyHanni)
 * Restock Arrows Warning - ?
 * Spider's Den Rain Timer - ?
 * Show Arachne Spawn - ?
@@ -242,9 +242,9 @@ For more information on exactly why Essential is bad and it is considered such a
 * Potion Duration Notifications - ?
 * Stop Hook Sinking in Lava - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Fishing Hook Age - ?
-* Trophy Fish Tracker - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
+* Trophy Fish Tracker - [SkyHanni](https://modrinth.com/mod/SkyHanni) / [SkyCubed](https://modrinth.com/mod/skycubed)
 * Show Trophy Fish Totals - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
-* Show Total Trophy Fish - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
+* Show Total Trophy Fish - [SkyHanni](https://modrinth.com/mod/SkyHanni) / [SkyOcean](https://modrinth.com/mod/skyocean)
 
 ### Other
 
@@ -346,9 +346,9 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Quality of Life
 
-* Dark Mode Mist - ?
+* Dark Mode Mist - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Highlight Completed Commissions - [SkyOcean](https://modrinth.com/mod/skyocean) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
-* Highlight Disabled HOTM Perks - ?
+* Highlight Disabled HOTM Perks - Hypixel
 * More Visible Ghosts - ?
 * Powder Ghast Ping - ?
 * Raffle Warning - ?
@@ -418,8 +418,8 @@ For more information on exactly why Essential is bad and it is considered such a
 * Yang Glyph Ping - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Highlight Yang Glyph - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Point to Yang Glyph - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Highlight Nukekebi Fixation Heads  - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Show Soulflow Display - ?
+* Highlight Nukekebi Fixation Heads - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Show Soulflow Display - [CustomScoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard)
 * Low Soulflow Ping - ?
 
 ### Inferno Demonlord
@@ -489,7 +489,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Profile Message Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Spook Message Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Compact Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Pristine Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Pristine Hider - Hypixel / [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Wind Direction Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
 ### Fishing
@@ -503,4 +503,5 @@ For more information on exactly why Essential is bad and it is considered such a
 
 # Contributors
 
+* [J0a1n15](https://github.com/j10a1n15)
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
