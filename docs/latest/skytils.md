@@ -169,7 +169,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Show New Year Cake Year - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show NPC Sell Price - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Show Potion Tier - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Show Pet Candies - 
+* Show Pet Candies - ?
 * Show Item Star Count - ?
 * Stacking Enchant Progress Display - ?
 * Radioactive Bonus - ?
