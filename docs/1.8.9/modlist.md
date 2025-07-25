@@ -100,7 +100,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [SkyblockHUD Death Defied](https://github.com/romangraef/SkyblockHud-Death-Defied/releases/latest) | SBH focuses on enhancing the HUD to feel like more of an RPG. | [ThatGravyBoat](https://github.com/ThatGravyBoat), [Erymanthus](https://github.com/RayDeeUx), & [Nea](https://github.com/romangraef) |
 | [SkyblockPersonalized](https://github.com/Cobble8/SkyblockPersonalized/releases/latest) | A mod with a lot of customizability and a large variety of features including auto teleport to Garry, disable mining messages, disable specific messages, and showing player's dungeons stats with more for the user to discover. | [Cobble8](https://github.com/Cobble8) |
 | [SkyGuide](https://modrinth.com/mod/skyguide) | A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way. Current features include a map of SkyBlock and NPC locations. | [DeDiamondPro](https://github.com/DeDiamondPro) |
-| [SkyHanni](https://modrinth.com/mod/skyhanni) | A Skyblock mod with a lot of features, especially for the garden. | [hannibal2](https://github.com/hannibal002) | Requires NotEnoughUpdates. |
+| [SkyHanni](https://modrinth.com/mod/skyhanni) | A Skyblock mod with a lot of features, especially for the garden. | [hannibal2](https://github.com/hannibal002) |
 | [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) | Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future. | [Skytils Team](https://github.com/Skytils) | Uses Essential. |
 
 ### Not Recommended
