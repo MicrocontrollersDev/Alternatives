@@ -48,6 +48,7 @@
 * [Narwhalism](https://www.twitch.tv/narwhalswim)
 * [NetheriteMiner](https://github.com/NetheriteMiner)
 * [o9o](https://www.youtube.com/@o9omc)
+* [Obsidianninja11](https://github.com/Obsidianninja11)
 * [ooffyy](https://github.com/realooffyy)
 * [ooTruffle](https://github.com/ooTruffle)
 * [PandaNinjas](https://github.com/pandaninjas)
