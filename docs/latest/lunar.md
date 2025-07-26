@@ -106,7 +106,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Particle Multiplier - ?
 * Cooldowns - ?
 * Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
-* Block Outline - [Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight)
+* Block Outline - [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
 * Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
 * TNT Timer Mod - [TNTTime](https://modrinth.com/mod/tnttime)
 * Hitbox - [HitBox+](https://modrinth.com/mod/hitboxplus)
@@ -115,7 +115,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 ### Other Mods
 
 * Toggle Sneak/Sprint - Vanilla (Accessible in Controls and Accessibility Settings menus)
-* Nick Hider - [NameProtect](https://modrinth.com/mod/nameprotect)
+* Nick Hider - [Simple Nick Hider](https://modrinth.com/mod/simple-nick-hider)
 * WorldEdit CUI - [WorldEdit CUI](https://curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
 * Replay Mod - [Replay Mod](https://modrinth.com/mod/replaymod)
 * Screenshot Uploader - [Screencapper](https://modrinth.com/mod/screencapper)
@@ -166,7 +166,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 #### Entity Options
 
-* Shadow - Vanilla (Accessible in [Sodium's](https://modrinth.com/mod/sodium) modified Video Settings menu)
+* Shadow - Vanilla
 * Entities - ?
 * Tile Entities - ?
 * Show Ground Arrows - ?

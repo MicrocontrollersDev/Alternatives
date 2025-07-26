@@ -19,14 +19,14 @@ is not their problem.
 ### Visuals
 
 * Animations - Irrelevant
-* Block Overlay - [Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight)
+* Block Overlay - [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
 * Clear Water - [Vanilla Tweaks Resourcepack / Terrain](https://vanillatweaks.net/picker/resource-packs)
 * Custom Crosshair - [Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - Partially in vanilla's accessibility menu
 * Glint - [Vanilla Tweaks Resourcepack / World of Color > Enchantment Glints](https://vanillatweaks.net/picker/resource-packs)
 * Hitbox - [HitBox+](https://modrinth.com/mod/hitboxplus)
 * Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
-* Nick Hider - ?
+* Nick Hider - [Simple Nick Hider](https://modrinth.com/mod/simple-nick-hider)
 * Particles - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
 * Waypoints - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (MINIMAP FEATURE BANNABLE ON HYPIXEL!)
@@ -42,7 +42,7 @@ is not their problem.
 * CPS - [TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Combo Display - ?
 * Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display) / [MiniHUD](https://modrinth.com/mod/minihud) / [Sodium Extra](https://modrinth.com/mod/sodium-extra)
-* Direction - [ Where Am I Going](https://modrinth.com/mod/waig)
+* Direction - [Where Am I Going](https://modrinth.com/mod/waig)
 * FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [Sodium Extra](https://modrinth.com/mod/sodium-extra) / [SimpleHUD](https://modrinth.com/mod/simplehud) / [MiniHUD](https://modrinth.com/mod/minihud)
 * Item Counter - ?
 * Item Info - [Held Item Info](https://modrinth.com/mod/held-item-info)

@@ -157,7 +157,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Inventory Scale](https://modrinth.com/mod/inventoryscale) | Allows customizing your inventory and container scaling independent of GUI scale. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [Numerical Enchantments](https://modrinth.com/mod/numerical-enchantments) | Converts roman numerals to arabic numbers in enchantment tooltips to make them easier to read at a glance! No resource pack required. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [Sciophobia](https://modrinth.com/mod/sciophobia) | Allows disabling text shadow or only translating it down, globally. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight) | Change how your selected block outline looks, featuring fancy rendering options and animation! | [Tektonikal](https://github.com/Tektonikal) |
+| [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay) | A very simple block overlay mod. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
 | [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a fade-in animation to chunks similar to Bedrock Edition. | [kerudion](https://github.com/kerudion) | Nvidium (chunks don't fade) |
 | [Distant Horizons](https://modrinth.com/mod/distanthorizons) | Adds LODs to Minecraft, allowing for much further render distances without a big tank on performance. | [James Seibel](https://gitlab.com/jeseibel) |
 | [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) |

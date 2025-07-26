@@ -43,7 +43,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Combo Counter - ?
 * Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display) / [MiniHUD](https://modrinth.com/mod/minihud) / [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Crosshair Mod - [Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* Direction - [ Where Am I Going](https://modrinth.com/mod/waig)
+* Direction - [Where Am I Going](https://modrinth.com/mod/waig)
 * FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [Sodium Extra](https://modrinth.com/mod/sodium-extra) / [SimpleHUD](https://modrinth.com/mod/simplehud) / [MiniHUD](https://modrinth.com/mod/minihud)
 * Keystrokes - [TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Ingame Server Switcher - ?
@@ -77,7 +77,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Hitboxes - [HitBox+](https://modrinth.com/mod/hitboxplus)
 * Inventory Blur - [Blur+](https://modrinth.com/mod/blur-fabric)
 * Motion Blur - [Motion Blur](https://modrinth.com/mod/motionblur)
-* Nick Hider - ?
+* Nick Hider - [Simple Nick Hider](https://modrinth.com/mod/simple-nick-hider)
 * Particle Mod - ?
 * Perspective Mod **(BANNABLE ON HYPIXEL)** - [Perspektive](https://modrinth.com/mod/perspektive)
 * ShinyPots - ?
@@ -88,7 +88,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 * Clan Wars - Irrelevant
 * Discord Rich Presence - [CraftPresence](https://modrinth.com/mod/craftpresence)
-* Ghost Liquid Fix - Don't use
+* Ghost Liquid Fix - Vanilla
 * JEI - [RoughlyEnoughItems](https://modrinth.com/mod/roughly-enough-items)
 * ResourcePack 24 - [Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 * Toggle Sneak - Vanilla
