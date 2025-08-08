@@ -12,7 +12,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 * Custom Armor Color - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Command Aliases/Shortcuts - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Custom Key Shortcuts - [Command Keys](https://modrinth.com/mod/commandkeys)
+* Custom Key Shortcuts - [Firmament](https://modrinth.com/mod/firmament) / [Command Keys](https://modrinth.com/mod/commandkeys)
 
 ## General
 
@@ -261,7 +261,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Scam Check - ?
 * Show Bestiary Level - ?
 * Show Selected Arrow - ?
-* Show World Age - ?
+* Show World Age - [Firmament](https://modrinth.com/mod/firmament)
 * Transparent Armor Layer - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Head Layer Transparent - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Fix Summon Skin - ?
@@ -375,7 +375,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Quality of Life
 
 * Autopet Message Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Highlight Active Pet - ?
+* Highlight Active Pet - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Highlight Favorite Pets - ?
 * Pet Item Confirmation - ?
 
