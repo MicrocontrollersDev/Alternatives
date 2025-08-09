@@ -2,6 +2,8 @@
 
 Lunar, despite having the option to add Fabric mods, is not very compatible due to the nature of Lunar Client being closed sourced and heavily obfuscated, making it impossible for mod authors to properly add support. It's better to use the Fabric alternatives and cut Lunar out altogether.
 
+Additionally, Lunar is *not* better for performance than Fabric & mods. Lunar recommends using Sodium and other performance mods, which is where most of Lunar's performance benefits come from over vanilla, however, Lunar is also incompatible with some important performance mods like ImmediatelyFast. It is better to use all the Fabric performance mods rather than the few that Lunar supports.
+
 Please note that this page may be outdated due to Minecraft update cycles.
 
 It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
