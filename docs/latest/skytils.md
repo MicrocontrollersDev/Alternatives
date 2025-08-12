@@ -346,7 +346,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Quality of Life
 
-* Dark Mode Mist - [SkyOcean](https://modrinth.com/mod/skyocean)
+* Dark Mode Mist - [SkyOcean](https://modrinth.com/mod/skyocean) & [SkyOcean Darkmode Mist (Resource Pack)](https://modrinth.com/resourcepack/skyocean-darkmode-mist)
 * Highlight Completed Commissions - [SkyOcean](https://modrinth.com/mod/skyocean) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Highlight Disabled HOTM Perks - Hypixel
 * More Visible Ghosts - ?
