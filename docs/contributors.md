@@ -63,7 +63,6 @@
 * [Solonovamax](https://github.com/solonovamax)
 * [stef-the](https://github.com/stef-the)
 * [Stekerser](https://github.com/Stekerser)
-* [surroundedbythings](https://github.com/surroundedbythings)
 * [Sychic](https://github.com/Sychic)
 * [Systemless](https://github.com/SystemlessDev)
 * [thatonecoder](https://github.com/Coccocoahelper)
@@ -74,4 +73,5 @@
 * [Wyvest](https://github.com/Wyvest)
 * [yan](https://github.com/yanNotDev)
 * [yedonbro](https://github.com/yedonbro)
+* [YummyDevelopment](https://github.com/YummyDevelopment)
 * [Zetvue](https://zetvue.github.io)
