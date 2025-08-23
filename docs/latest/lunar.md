@@ -189,6 +189,6 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
 * [RaphyTwin](https://github.com/RaphyTwin)
-* [surroundedbythings](https://github.com/surroundedbythings)
 * [Tricked](https://github.com/Tricked-dev)
+* [YummyDevelopment](https://github.com/YummyDevelopment)
 * [Zetvue](https://zetvue.github.io)
