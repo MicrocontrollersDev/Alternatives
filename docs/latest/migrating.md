@@ -73,12 +73,12 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Sodium](https://modrinth.com/mod/sodium) | An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Iris](https://modrinth.com/mod/iris) | A shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [Iris Team](https://github.com/IrisShaders) | 
 | [Lithium](https://modrinth.com/mod/lithium) | Helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) |
-| [Exordium](https://modrinth.com/mod/exordium) (No 1.21.5 Yet) | Caps the FPS of certain HUD elements that do not need to be updated every frame. | [tr7zw](https://github.com/tr7zw) | | May break some HUD elements from other mods. |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe) (No 1.21.5 Yet) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
+| [Exordium](https://modrinth.com/mod/exordium) | Caps the FPS of certain HUD elements that do not need to be updated every frame. | [tr7zw](https://github.com/tr7zw) | | May break some HUD elements from other mods. |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe) (No 1.21.8 Yet) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Helps reduce the amount of memory the game takes up. This may make a big difference for larger modpacks as well. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which entities can be culled. | [tr7zw](https://github.com/tr7zw) |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Improves the immediate mode rendering performance. | [RaphiMC](https://github.com/RaphiMC) |
-| [ModernFix](https://modrinth.com/mod/modernfix) (No 1.21.5 Yet) | ModernFix is an all-in-one mod that improves performance, reduces memory usage, and fixes many bugs in modern Minecraft versions without majorly compromising the game experience. | [embeddedt](https://github.com/embeddedt) |
+| [ModernFix](https://modrinth.com/mod/modernfix) (No 1.21.8 Yet) | ModernFix is an all-in-one mod that improves performance, reduces memory usage, and fixes many bugs in modern Minecraft versions without majorly compromising the game experience. | [embeddedt](https://github.com/embeddedt) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Reduces your FPS when tabbed out of the game, therefore reducing your system load. | [juliand665](https://github.com/juliand665) |
 | [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) | Improves loading times when changing your language in game by only reloading the required resources. | [chachy](https://github.com/ChachyDev) |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also adds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
@@ -199,7 +199,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Axiom](https://modrinth.com/mod/axiom) | An alternative to WorldEdit and VoxelSniper to make building in singleplayer much easier. | [Moulberry](https://github.com/Moulberry) |
 | [Sounds](https://modrinth.com/mod/sound) | Adds many more sounds to Minecraft for things that did not previously have sounds. | [mineblock11](https://github.com/mineblock11) |
 | [TipTapShow](https://modrinth.com/mod/tiptapshow) | A keystrokes mod for modern fabric. | [Spyxar](https://github.com/Spyxar) |
-| [Favorita](https://modrinth.com/mod/favorita) (No 1.21.5 Yet) | A basic item favoriting mod, allowing you to stop yourself from discarding of important items. | [Deftu](https://github.com/Deftu) |
+| [Favorita](https://modrinth.com/mod/favorita) (No 1.21.8 Yet) | A basic item favoriting mod, allowing you to stop yourself from discarding of important items. | [Deftu](https://github.com/Deftu) |
 | [SaveMyKeybinds](https://modrinth.com/mod/savemykeybinds) | Allows you to save and load keybind presets. | [MisterCheezeCake](https://github.com/MisterCheezeCake) |
 | [Better Elytra Render](https://modrinth.com/mod/better-elytra-render) | Improves the look of elytra by changing its position on the player. | [KGriffon](https://github.com/kgriff0n) |
 | [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect) | Adds a confirmation dialogue before exiting your world/server. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
@@ -222,8 +222,9 @@ These are mods for Hypixel Skyblock.
 | [SkyCubed](https://modrinth.com/mod/skycubed) | SkyCubed is a Hypixel SkyBlock UI overhaul mod, changing all aspects of the UI in-game to be more inline into it looking like its own game. | [Meowdding](https://github.com/meowdding) |
 | [Skylens](https://modrinth.com/mod/skylens) | Skylens is a highly customizable mod that shows missing enchants, has a pet overlay, a compact level display and other cool features. | [nextrg](https://github.com/nextrg) |
 | [SkyOcean](https://modrinth.com/mod/skyocean) | SkyOcean is a mod that aims to improve the playing experience while staying true to the skyblock style, meaning that we aim to integrate with the base game in a seamless way. | [Meowdding](https://github.com/meowdding) |
-| [SkyHanni](https://modrinth.com/mod/skyhanni) | The same SkyHanni from 1.8.9, known for its garden related features. | [hannibal002](https://github.com/hannibal002) | | This mod has only just been ported to 1.21.5 and is still in beta. Expect issues to arise until the mod is further ironed out. |
+| [SkyHanni](https://modrinth.com/mod/skyhanni) | The same SkyHanni from 1.8.9, known for its garden related features. | [hannibal002](https://github.com/hannibal002) |
 | [SkyBlock RPC](https://modrinth.com/mod/skyblock-rpc) | A Discord integration for Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) |
+| [LegacySkyblock](https://modrinth.com/mod/legacyskyblock) | 1.21 Hypixel Skyblock mod aimed to port features from 1.8.9 mods. | [Tomeko](https://github.com/TomekoYT) |
 
 
 ### OptiFine Replacements
@@ -239,10 +240,10 @@ Features that OptiFine provides that are not resource pack related.
 | --- | --- | --- | --- |
 | [Iris](https://irisshaders.github.io) | Shaders. More customizable than OptiFine's. | [IrisShaders](https://github.com/IrisShaders) |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
-| [Cosmetica](https://modrinth.com/mod/cosmetica) (No 1.21.5 Yet) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
+| [Cosmetica](https://modrinth.com/mod/cosmetica) (No 8 Yet) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
 | [BetterGrassify](https://modrinth.com/mod/bettergrassify) | Better grass and snow. | [UltimatChamp](https://github.com/UltimatChamp) & [JayemCeekay](https://github.com/JayemCeekay) |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
-| [Fabrishot](https://modrinth.com/mod/fabrishot) (No 1.21.5 Yet) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://github.com/ramidzkh) |
+| [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://github.com/ramidzkh) |
 
 #### Resource Packs
 
@@ -250,19 +251,19 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 
 | Mod | Feature | Supports OptiFine format| Notes | Author |
 | --- | --- | --- | --- | --- |
-| [Nuit](https://modrinth.com/mod/nuit) (No 1.21.5 Yet) | Custom sky. | 🚧 | Use [Nuit Interop](https://modrinth.com/mod/nuit-interop) | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) & [FlashyReese](https://github.com/FlashyReese) |
+| [Nuit](https://modrinth.com/mod/nuit) (No 1.21.8 Yet) | Custom sky. | 🚧 | Use [Nuit Interop](https://modrinth.com/mod/nuit-interop) | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) & [FlashyReese](https://github.com/FlashyReese) |
 | [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. | ✅ | | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Animatica](https://modrinth.com/mod/animatica) | Animated textures. | ✅ | | [FoundationGames](https://github.com/FoundationGames) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. | ✅ | | [opekope2](https://github.com/opekope2) |
-| [CIT Resewn](https://modrinth.com/mod/cit-resewn) (No 1.21.5 Yet)| Custom item textures. | ✅ | | [SHsuperCM](https://github.com/SHsuperCM) |
+| [CIT Resewn](https://modrinth.com/mod/cit-resewn) (No 1.21.8 Yet)| Custom item textures. | ✅ | | [SHsuperCM](https://github.com/SHsuperCM) |
 | [Polytone](https://modrinth.com/mod/polytone) | Custom colors, sounds, particles, GUI elements, and more. | ✅ | More customizable. | [MehVahdJukaar](https://github.com/MehVahdJukaar)  |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
-| [Entity Sound Features](https://modrinth.com/mod/esf) | Entity sound variation. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
-| [JsonEM](https://modrinth.com/mod/jsonem) (No 1.21.5 Yet) | Custom JSON Entity Models. | ⛔ | | [FoundationGames](https://github.com/FoundationGames) |
+| [Entity Sound Features](https://modrinth.com/mod/esf) (No 1.21.8 Yet) | Entity sound variation. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
+| [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models. | ⛔ | | [FoundationGames](https://github.com/FoundationGames) |
 | [Transparent](https://modrinth.com/mod/transparent) | Transparent/translucent entities. | ✅ | | [Trikzon](https://github.com/Trikzon) |
 | [Puzzle](https://modrinth.com/mod/puzzle) | Custom splash screen, better logo blending, unlimited model rotations, and bigger custom models. | ✅ | | [PuzzleMC](https://github.com/PuzzleMC) |
-| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) (No 1.21.5 Yet) | Custom splash screen. | ⛔ | More customizable (than OptiFine and Puzzle). | [Motschen](https://github.com/Motschen) |
+| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) (No 1.21.8 Yet) | Custom splash screen. | ⛔ | More customizable (than OptiFine and Puzzle). | [Motschen](https://github.com/Motschen) |
 
 ### Internal Shader
 

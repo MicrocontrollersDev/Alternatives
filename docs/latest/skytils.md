@@ -119,7 +119,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Terminal Solvers
 
 * Block Incorrect Terminal Clicks - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Middle Click on Terminals - ?
+* Middle Click on Terminals - [LegacySkyblock](https://modrinth.com/mod/legacyskyblock)
 * Change All to Same Color Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Click in Order Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Select All Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -216,7 +216,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Highlight Salvageable Items - ?
 * Highlight Dungeon-Sellable Items
 * Lower Enderman Nametags - ?
-* Middle Click GUI Items - ?
+* Middle Click GUI Items - [LegacySkyblock](https://modrinth.com/mod/legacyskyblock)
 * Moveable Action Bar - ?
 * Moveable Item Name Highlight - ?
 * No Fire - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
