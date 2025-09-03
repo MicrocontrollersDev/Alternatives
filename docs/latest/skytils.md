@@ -187,7 +187,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Quality of Life
 
 * Always Show Item Name Highlight - ?
-* Low Health Vignette - ?
+* Low Health Vignette - [Death is Near](https://modrinth.com/mod/death-is-near)
 * Custom Auction Price Input - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Container Sell Value - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
 * Include Item Modifiers - ?
@@ -213,8 +213,8 @@ For more information on exactly why Essential is bad and it is considered such a
 * Hide Scoreboard Score - Vanilla
 * Hide Vanilla Health Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
 * Highlight Disabled Potion Effects - [SkyblockTweaks](https://modrinth.com/mod/sbt)
-* Highlight Salvageable Items - ?
-* Highlight Dungeon-Sellable Items
+* Highlight Salvageable Items - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Highlight Dungeon-Sellable Items - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Lower Enderman Nametags - ?
 * Middle Click GUI Items - [LegacySkyblock](https://modrinth.com/mod/legacyskyblock)
 * Moveable Action Bar - ?
@@ -226,7 +226,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Prevent Moving on Death - ?
 * Power Orb Lock - ?
 * Press Enter to Confirm Sign Popups - ?
-* Protect Items - ?
+* Protect Items - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Protect Starred Items - ?
 * Quiver Display - [SkyblockTweaks](https://modrinth.com/mod/sbt) / [CustomScoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard) / [SkyHanni](https://modrinth.com/mod/SkyHanni)
 * Restock Arrows Warning - ?
@@ -235,7 +235,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Show Arachne HP - ?
 * Show Coins per Bit - ?
 * Show Coins per Copper - ?
-* Show Lowest BIN Price - ?
+* Show Lowest BIN Price - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Stop Clicking Non-Salvageable Items - ?
 * View Relic Waypoints - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Find Rare Relics - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -257,7 +257,6 @@ For more information on exactly why Essential is bad and it is considered such a
 * Players in Range Display - ?
 * Placed Summoning Eye Display - ?
 * Ping Display - ?
-* Random Stuff - ???
 * Scam Check - ?
 * Show Bestiary Level - ?
 * Show Selected Arrow - ?
@@ -271,7 +270,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Chat Tabs
 
 * Chat Tabs - [Text Tunnels](https://modrinth.com/mod/text-tunnels)
-* Pre-Fill Chat Commands - ?
+* Pre-Fill Chat Commands - [Text Tunnels](https://modrinth.com/mod/text-tunnels)
 * Auto Switch Chat Channel - ?
 * Copy Chat Messages - [Firmament](https://modrinth.com/mod/firmament)
 
