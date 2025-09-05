@@ -13,7 +13,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Chat Mods
   
-* Auto Text **(BANNABLE ON HYPIXEL)** - [BindCommands](https://modrinth.com/mod/bindcommands)
+* Auto Text **(BANNABLE ON HYPIXEL)** - [Command Keys](https://modrinth.com/mod/commandkeys)
 * Clear Chat - Vanilla
 * Compact Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
@@ -91,8 +91,8 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Ghost Liquid Fix - Vanilla
 * JEI - [RoughlyEnoughItems](https://modrinth.com/mod/roughly-enough-items)
 * ResourcePack 24 - [Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
-* Toggle Sneak - Vanilla
-* Toggle Sprint - Vanilla
+* Toggle Sneak - Vanilla & [Toggle Toggle Sprint](https://modrinth.com/mod/toggle-toggle-sprint)
+* Toggle Sprint - Vanilla & [Toggle Toggle Sprint](https://modrinth.com/mod/toggle-toggle-sprint)
 * Waypoints - [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * Zoom - [Zoomify](https://modrinth.com/mod/zoomify)
 * Emotes - [Emotecraft](https://modrinth.com/plugin/emotecraft) Also needs to be installed on the server though

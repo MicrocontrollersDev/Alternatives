@@ -129,11 +129,12 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Better Selection](https://modrinth.com/mod/better-selection) | Makes it easier to select text by allowing mouse selection and Ctrl + ← and Ctrl + →. | [MDLC01](https://github.com/MDLC01) |
 | [Auto ReAuth](https://modrinth.com/mod/auto-reauth) | Automatically reauthenticates your session when you are not logged in correctly. | [connorslade](https://github.com/connorslade) |
 | [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Adds an in game account switcher that lets you switch accounts without having to restart the game. | [The-Fireplace](https://github.com/The-Fireplace) |
-| [Smooth Skies](https://modrinth.com/mod/smooth-skies) | Smooths out the skybox colors on far render distances. This will fix the skybox breaking with Nvidium or similar. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
+| [Smooth Skies](https://modrinth.com/mod/smooth-skies) | Smooths out the skybox colors on far render distances. This will fix the skybox breaking with Nvidium or similar. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Better Mipmaps](https://modrinth.com/mod/better-mipmaps) | Unlocks mipmap levels higher than 4 to reduce visual arifacts with high resolution resource packs. | [sidit77](https://github.com/sidit77) |
 | [Fix Keyboard on Linx](https://modrinth.com/mod/fix-keyboard-on-linux) | Fix several issues regarding key input on Linux. | [Ishland](https://github.com/ishland) | | Works on Linux only, will do nothing for other OS's. Has not been listed as compatible for 1.21+, but it should work with no changes. |
 | [MacOS Input Fixes](https://modrinth.com/mod/macos-input-fixes) | Fix several issues regarding key input on MacOS. | [hamarb123](https://github.com/hamarb123) | | Not listed as 1.21.1 compatible, but should work regardless. |
 | [Unsafe World Random Access](https://modrinth.com/mod/uwrad) | Detects unsafe off-thread world random access, helping to find causes of "Accessing LegacyRandomSource from multiple threads" crash. | [RelativityMC](https://github.com/RelativityMC) |
+| [Better Screens](https://modrinth.com/mod/better-screens) | Better screens is a simple mod that improves the screens & containers experience, with simple quality of life fixes. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 
 ### Other Cool Mods
 
@@ -145,20 +146,19 @@ These are mods that are more dependant on personal preference than importance.
 | [Cosmetica](https://modrinth.com/mod/cosmetica) (No 1.21.4 Yet) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
 | [BetterGrassify](https://modrinth.com/mod/bettergrassify) | Better grass and snow. | [UltimatChamp](https://github.com/UltimatChamp) & [JayemCeekay](https://github.com/JayemCeekay) |
-| [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks) | Let's you alter the way nametags are rendered, such as background transparency, text shadow, and custom F1 rules. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Scroll Tweaks](https://modrinth.com/mod/scrolltweaks) | Let's you customize Minecraft hotbar scrolling. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Title Tweaks](https://modrinth.com/mod/titletweaks) | Improvements and customization for Minecraft's Titles. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Tab Tweaks](https://modrinth.com/mod/tabtweaks) | Improvements and customization for Minecraft's Tab / Player List HUD. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks) | A small QOL mod that lets you alter the vanilla crosshair in small ways. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks) | Client side customization of Minecraft's Scoreboard/Sidebar. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Mount Opacity](https://modrinth.com/mod/mountopacity) | Allows setting custom opacity (transparency) for entities that you are riding | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks) | Small changes to the way dropped items render. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Render Tweaks](https://modrinth.com/mod/rendertweaks) | Customization of some in-world visuals. |  [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Inventory Scale](https://modrinth.com/mod/inventoryscale) | Allows customizing your inventory and container scaling independent of GUI scale. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Numerical Enchantments](https://modrinth.com/mod/numerical-enchantments) | Converts roman numerals to arabic numbers in enchantment tooltips to make them easier to read at a glance! No resource pack required. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Sciophobia](https://modrinth.com/mod/sciophobia) | Allows disabling text shadow or only translating it down, globally. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay) | A very simple block overlay mod. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
+| [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks) | Let's you alter the way nametags are rendered, such as background transparency, text shadow, and custom F1 rules. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Scroll Tweaks](https://modrinth.com/mod/scrolltweaks) | Let's you customize Minecraft hotbar scrolling. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Title Tweaks](https://modrinth.com/mod/titletweaks) | Improvements and customization for Minecraft's Titles. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Tab Tweaks](https://modrinth.com/mod/tabtweaks) | Improvements and customization for Minecraft's Tab / Player List HUD. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks) | A small QOL mod that lets you alter the vanilla crosshair in small ways. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks) | Client side customization of Minecraft's Scoreboard/Sidebar. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Mount Opacity](https://modrinth.com/mod/mountopacity) | Allows setting custom opacity (transparency) for entities that you are riding | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks) | Small changes to the way dropped items render. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Render Tweaks](https://modrinth.com/mod/rendertweaks) | Customization of some in-world visuals. |  [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Numerical Enchantments](https://modrinth.com/mod/numerical-enchantments) | Converts roman numerals to arabic numbers in enchantment tooltips to make them easier to read at a glance! No resource pack required. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Sciophobia](https://modrinth.com/mod/sciophobia) | Allows disabling text shadow or only translating it down, globally. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay) | A very simple block overlay mod. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a fade-in animation to chunks similar to Bedrock Edition. | [kerudion](https://github.com/kerudion) | Nvidium (chunks don't fade) |
 | [Distant Horizons](https://modrinth.com/mod/distanthorizons) | Adds LODs to Minecraft, allowing for much further render distances without a big tank on performance. | [James Seibel](https://gitlab.com/jeseibel) |
 | [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) |
@@ -202,8 +202,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Favorita](https://modrinth.com/mod/favorita) (No 1.21.8 Yet) | A basic item favoriting mod, allowing you to stop yourself from discarding of important items. | [Deftu](https://github.com/Deftu) |
 | [SaveMyKeybinds](https://modrinth.com/mod/savemykeybinds) | Allows you to save and load keybind presets. | [MisterCheezeCake](https://github.com/MisterCheezeCake) |
 | [Better Elytra Render](https://modrinth.com/mod/better-elytra-render) | Improves the look of elytra by changing its position on the player. | [KGriffon](https://github.com/kgriff0n) |
-| [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect) | Adds a confirmation dialogue before exiting your world/server. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
-| [No Recipe Book Shift](https://modrinth.com/mod/no-recipe-book-shift) | Prevents the recipe book from shifting the screen! | [Microcontrollers](https://github.com/MicrocontrollersDev) |
+| [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect) | Adds a confirmation dialogue before exiting your world/server. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [View Model](https://modrinth.com/mod/no-ones-view-model) | Lets you change the hands positions, similar to Overflow Animations and Dulkir. | [No-One](https://github.com/I-No-oNe) |
 | [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | Makes the loading screen darker. Allows for some customization. | [A5b84](https://github.com/A5b84) |
 | [Gamma Utils](https://modrinth.com/mod/gamma-utils) | A customizable fullbright mod. | [Sjouwer](https://github.com/Sjouwer) |

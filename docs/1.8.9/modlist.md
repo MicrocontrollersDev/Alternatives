@@ -13,7 +13,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | Reduces world loading times. | [VidTu](https://github.com/VidTu) | This mod only works in single player and will disable spawn chunks entirely. |
 | [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | One of the oldest performance mods for Minecraft. Required for many resource packs as well. | [sp614x](https://github.com/sp614x) | This is a direct download that skips OptiFine's ads. |
 | [PolyPatcher](https://modrinth.com/mod/patcher) | PolyPatcher fixes several Minecraft bugs, adds many performance improvements, and adds many quality of life features. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Polyfrost](https://github.com/Polyfrost) | This is a fork of the original Patcher mod by Sk1er. It removes one-off features that have been improved in other mods, adds a few more QOL changes, and has several new bug fixes, crash fixes, and performance enhancements. |
-| [QuickQuit](https://modrinth.com/mod/quickquit) | Allows closing Minecraft during the Forge resource loading screen when starting the game. | [Microcontrollers](https://github.com/MicrocontrollersDev) |
+| [QuickQuit](https://modrinth.com/mod/quickquit) | Allows closing Minecraft during the Forge resource loading screen when starting the game. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Redirector / Redirectionor](https://github.com/MCTeamPotato/Redirector/releases/latest) | Decreases memory usage by replacing enum value calls with static final field references. | [MCTeamPotato](https://github.com/MCTeamPotato) |
 | [Velox Caelo](https://modrinth.com/mod/veloxcaelo) | Caches some OptiFine CIT calculations. Especially noticable with SkyBlock resource packs. | [nea89o](https://github.com/nea89o) | Requires OptiFine. |
 
@@ -21,7 +21,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [20-20-20](https://modrinth.com/mod/20-20-20) | A mod that reminds users to take a short break to avoid eye strain. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Microcontrollers](https://github.com/MicrocontrollersDev) | This is a fork of the original mod, but utilizing OneConfig. |
+| [20-20-20](https://modrinth.com/mod/20-20-20) | A mod that reminds users to take a short break to avoid eye strain. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | This is a fork of the original mod, but utilizing OneConfig. |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Replaces the standard flat second layer of player skins with a 3D modeled version. | [tr7zw](https://github.com/tr7zw) |
 | [BehindYouV3](https://modrinth.com/mod/behindyou) | A modern, non-2018 take on the BehindYou mod. Allows looking behind you without pressing F5 twice. Also adds camera animations. | [Polyfrost](https://github.com/Polyfrost) |
 | [Better Hurt Cam](https://modrinth.com/mod/forge-betterhurtcam) | Lets you customize the hurtcam when hit. | [Scherso](https://github.com/Scherso) |
@@ -35,13 +35,13 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Craftify](https://modrinth.com/mod/craftify) | Craftify allows you to connect to music services to display and control them in-game. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | Supports Spotify, Apple Music, YouTube, Foobar, and DeaDBeeF. | Uses Essential. |
 | [CrashPatch](https://modrinth.com/mod/crashpatch) | Attempts to stops crashes from closing your game and provides a solution if found. | [Polyfrost](https://github.com/Polyfrost) | CrashPatch is meant for simpler crashes and may lead to a broken gamestate. Restart your game should this happen. |
 | [DamageTilt](https://skyclient.co/mod/damagetilt) | Makes your camera tilt in a different direction based on the origin of damage. | [Charles445](https://github.com/Charles445) | Provided download is from SkyClient due to the GitHub release containing many binaries for different versions and potentially being confusing. Official downloads can be found [here](https://github.com/Charles445/DamageTilt/releases/latest). |
-| [Entity Glow](https://modrinth.com/mod/entity-glow) | Backports 1.9+'s entity glow/outline feature to 1.8.9. | [Microcontrollers](https://github.com/MicrocontrollersDev)
+| [Entity Glow](https://modrinth.com/mod/entity-glow) | Backports 1.9+'s entity glow/outline feature to 1.8.9. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev)
 | [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | Adds many popular HUD elements not included in other mods. | [isXander](https://github.com/isXander) & [Polyfrost](https://github.com/Polyfrost) |
 | [Glint Colorizer](https://modrinth.com/mod/glintcolorizer) | Lets you customize the glint color of items. | [Polyfrost](https://github.com/Polyfrost) |
 | [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9) | Makes dropped items land on the ground realistically instead of falling straight and floating. | [CreativeMD](https://github.com/CreativeMD) |
 | [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Lets you log into and switch accounts without needing to relaunch the game or log into other accounts in your launcher. | [The-Fireplace](https://github.com/The-Fireplace) |
 | [Item Counter](https://modrinth.com/mod/item-counter-mod) | Show the amount of items you have on screen, easily configurable. Read the project description for instructions. | [ImToggle](https://github.com/ImToggle) |
-| [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. Requires OptiFine. |
+| [Mixmetica](https://modrinth.com/mod/mixmetica) | A free cosmetics mod that works by patching Arcmetica directly into OptiFine. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | Get cosmetics from [Cosmetica](https://login.cosmetica.cc/microsoft-java) by logging in using Microsoft. Requires OptiFine. |
 | [NoBreakThatBlock](https://www.cecer1.com/mods/nobreakthatblock/nobreakthatblock-1.8.9-1.0.1.0.jar) | Stops you from punching or moving mouse when clicking back into an alt tabbed Minecraft with F3+P enabled. | [Cecer](https://hypixel.net/members/cecer.61889) |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) | Removes many things that Essential adds that you may not want. | [Scherso](https://github.com/Scherso) |
 | [OofMod](https://github.com/Deftu/OofMod/releases/latest) | Plays custom sounds when you kill other players. | [powns](https://github.com/pownsgg) | [Deftu](https://github.com/Deftu) |
@@ -56,7 +56,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [PolySprint](https://modrinth.com/mod/polysprint) | PolySprint is a simple yet feature-versatile toggle sprint/sneak mod. | [Polyfrost](https://github.com/Polyfrost) |
 | [PolyWeather](https://modrinth.com/mod/polyweather) | Allows the user to configure what client-side weather is displayed. | [Polyfrost](https://github.com/Polyfrost) |
 | [Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest) | A highly customizable potion effects HUD. | [Tellinq](https://github.com/Tellinq) |
-| [QuickConfig](https://modrinth.com/mod/quickconfig) | Replaces Forge's mod config screen with the OneConfig menu. | [Microcontrollers](https://github.com/MicrocontrollersDev) | Very buggy in the main menu as OneConfig and mods expect a world to be loaded. Works fine in the pause menu. |
+| [QuickConfig](https://modrinth.com/mod/quickconfig) | Replaces Forge's mod config screen with the OneConfig menu. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | Very buggy in the main menu as OneConfig and mods expect a world to be loaded. Works fine in the pause menu. |
 | [Raw Input](https://modrinth.com/mod/rawinput) | Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system. Fixes high polling rate issues. | [Chromatic](https://github.com/chromaticforge) | This may cause your mouse to be completely unresponsive in Minecraft. Simply remove the mod if that is the case. |
 | [Redaction](https://modrinth.com/mod/redaction) | Redaction adds HUDs to your game that are normally classified as "cheat-client" modules. | [Polyfrost](https://github.com/Polyfrost) |
 | [ReplayMod](https://modrinth.com/mod/replaymod) | ReplayMod lets you record your gameplay to watch back later. | [CrushedPixel](https://github.com/CrushedPixel) & [johni0702](https://github.com/Johni0702) |
@@ -138,7 +138,7 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | OldAnimationsMod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [spiderfrog](https://www.youtube.com/channel/UC0Cz31K6IE09o8LF5Hpzymw) |
 | Orange's 1.7 Animations | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
 | Orange's Simple Mods | Use [EvergreenHUD](https://modrinth.com/mod/evergreenhud) & [Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
-| ParticlesEnhanced | Use [OverflowParticles](https://modrinth.com/mod/overflowparticles) | [isXander](https://github.com/isXander) & [Microcontrollers](https://github.com/MicrocontrollersDev) |
+| ParticlesEnhanced | Use [OverflowParticles](https://modrinth.com/mod/overflowparticles) | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | Patcher | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | PortalInputFix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | Asbyth |
 | ProjectL | Use [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |

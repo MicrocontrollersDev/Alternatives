@@ -104,7 +104,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Scoreboard - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
 * Motion Blur - [Motion Blur](https://modrinth.com/mod/motionblur)
 * Shiny Pots - ?
-* Scrollable Tooltips - [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips)
+* Scrollable Tooltips - [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll)
 * Particle Multiplier - ?
 * Cooldowns - ?
 * Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
@@ -116,12 +116,12 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Other Mods
 
-* Toggle Sneak/Sprint - Vanilla (Accessible in Controls and Accessibility Settings menus)
+* Toggle Sneak/Sprint - Vanilla & [Toggle Toggle Sprint](https://modrinth.com/mod/toggle-toggle-sprint)
 * Nick Hider - [Simple Nick Hider](https://modrinth.com/mod/simple-nick-hider)
 * WorldEdit CUI - [WorldEdit CUI](https://curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
 * Replay Mod - [Replay Mod](https://modrinth.com/mod/replaymod)
 * Screenshot Uploader - [Screencapper](https://modrinth.com/mod/screencapper)
-* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [BindCommands](https://modrinth.com/mod/bindcommands)
+* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [Command Keys](https://modrinth.com/mod/commandkeys)
 * Mumble Link - ?
 * Boss Bar - ?
 * Freelook **(BANNABLE ON HYPIXEL)** - [Perspektive](https://modrinth.com/mod/perspektive)

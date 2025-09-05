@@ -176,8 +176,8 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Enchantment Glance - ?
 * Protection Percentage - ?
 * Projectile Protection Percentage - ?
-* Container Backgrounds / Container Background Opacity - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-* Container Opacity - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
+* Container Backgrounds / Container Background Opacity - [Better Screens](https://modrinth.com/mod/better-screens)
+* Container Opacity - [Better Screens](https://modrinth.com/mod/better-screens)
 * GUI Crosshair - [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 * Startup Notification - [Startup Time](https://modrinth.com/mod/startup-time)
 * Clean Main Menu - Irrelevant
@@ -185,9 +185,9 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Smart Disconnect - [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect)
 * Image Preview - ?
 * Image Preview Width - ?
-* Inventory Position - Vanilla
-* Click Out of Containers - [Click Out of Containers](https://modrinth.com/mod/click-out-of-containers)
-* Inventory Scale - [Inventory Scale](https://modrinth.com/mod/inventoryscale)
+* Inventory Position - Vanilla ([Better Screens](https://modrinth.com/mod/better-screens) for preventing Recipe Book shifting)
+* Click Out of Containers - [Better Screens](https://modrinth.com/mod/better-screens)
+* Inventory Scale - [Better Screens](https://modrinth.com/mod/better-screens)
 * Tab Opacity - [Tab Tweaks](https://modrinth.com/mod/tabtweaks)
 * Tab Height - [Tab Tweaks](https://modrinth.com/mod/tabtweaks)
 * Set Tab Height - [Tab Tweaks](https://modrinth.com/mod/tabtweaks)

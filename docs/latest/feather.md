@@ -64,15 +64,15 @@ is not their problem.
 
 ### Other
 
-* Auto Text **(BANNABLE ON HYPIXEL)** - ?
+* Auto Text **(BANNABLE ON HYPIXEL)** - [Command Keys](https://modrinth.com/mod/commandkeys)
 * Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
 * Oof Mod - ?
 * Perspective - [Perspektive](https://modrinth.com/mod/perspektive)
 * Screenshot - ?
-* Scrollable Tooltips - [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips) / [ToolTipFix](https://modrinth.com/mod/tooltipfix)
+* Scrollable Tooltips - [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll)
 * Server Address - ?
 * Snaplook - ?
-* Toggle Sprint - Vanilla (Accessibility Options)
+* Toggle Sprint - Vanilla & [Toggle Toggle Sprint](https://modrinth.com/mod/toggle-toggle-sprint)
 * Voice - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 ## General
