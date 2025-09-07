@@ -217,14 +217,16 @@ These are mods for Hypixel Skyblock.
 | [Skyblocker](https://modrinth.com/mod/skyblocker-liap) | A general purpose Hypixel Skyblock utility mod. | [SkyblockerMod Team](https://github.com/SkyblockerMod) |
 | [SkyBlock Profile Viewer](https://modrinth.com/mod/skyblock-profile-viewer) | A modern Hypixel SkyBlock profile viewer. | [Meowdding](https://github.com/meowdding) |
 | [Skyblock Tweaks](https://modrinth.com/mod/sbt) | A Hypixel SkyBlock mod for the latest version providing many tweaks and gameplay enhancements. | [MisterCheezeCake](https://github.com/MisterCheezeCake) |
-| [Firmament](https://modrinth.com/mod/firmament) | An NEU inspired Skyblock mod. | [nea890](https://github.com/nea89o) |
+| [Firmament](https://modrinth.com/mod/firmament) | An NEU inspired Skyblock mod. | [nea890](https://github.com/nea89o) | | Use [Firmament Packet Fix](https://modrinth.com/mod/firmament-packet-fix) |
+| [Firmament Packet Fix](https://modrinth.com/mod/firmament-packet-fix) | Disables Firmament's ModAnnouncer feature which can cause extremely large packets that prevent you from being able to join any server. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [SkyCubed](https://modrinth.com/mod/skycubed) | SkyCubed is a Hypixel SkyBlock UI overhaul mod, changing all aspects of the UI in-game to be more inline into it looking like its own game. | [Meowdding](https://github.com/meowdding) |
 | [Skylens](https://modrinth.com/mod/skylens) | Skylens is a highly customizable mod that shows missing enchants, has a pet overlay, a compact level display and other cool features. | [nextrg](https://github.com/nextrg) |
 | [SkyOcean](https://modrinth.com/mod/skyocean) | SkyOcean is a mod that aims to improve the playing experience while staying true to the skyblock style, meaning that we aim to integrate with the base game in a seamless way. | [Meowdding](https://github.com/meowdding) |
 | [SkyHanni](https://modrinth.com/mod/skyhanni) | The same SkyHanni from 1.8.9, known for its garden related features. | [hannibal002](https://github.com/hannibal002) |
 | [SkyBlock RPC](https://modrinth.com/mod/skyblock-rpc) | A Discord integration for Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) |
 | [LegacySkyblock](https://modrinth.com/mod/legacyskyblock) | 1.21 Hypixel Skyblock mod aimed to port features from 1.8.9 mods. | [Tomeko](https://github.com/TomekoYT) |
-
+| [Bazaar Utils](https://modrinth.com/mod/bazaar-utils) | A Hypixel Skyblock QOL mod focused on the bazaar. Features include order outbid notifications, item bookmarks, custom buy order amounts, and more. 
+ [mkram17](https://github.com/mkram17) |
 
 ### OptiFine Replacements
 
