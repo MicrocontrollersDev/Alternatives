@@ -38,7 +38,7 @@ Don't feel forced to use Essential!
 
 ### World Host
 
-* Host World - [World Host](https://modrinth.com/mod/world-host) (does not require other people to use the mod, only the person hosting)
+* Host World - [e4mc](https://modrinth.com/mod/e4mc) (does not require other people to use the mod, only the person hosting)
 
 ### Pictures
 

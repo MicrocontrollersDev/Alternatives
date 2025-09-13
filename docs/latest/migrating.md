@@ -123,7 +123,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Controlling](https://modrinth.com/mod/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) |
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | Adds several QOL features to Minecraft's chat to make it more usable. | [mrbuilder1961](https://github.com/mrbuilder1961) |
 | [MixinTrace](https://modrinth.com/mod/mixintrace) | Makes it easier for mod developers to debug crash reports. | [comp500](https://github.com/comp500) |
-| [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips) (No 1.21.4 Yet) | Makes tooltips more readable by preventing them from going off screen and allowing for tooltip scrolling, as well as more customization options such as custom transparency. | [isXander](https://github.com/isXander) |
+| [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll) | Tooltips are now scrollable. With highly-customisable keybinds and settings, you can move tooltips anywhere on or off the screen. | [Provismet](https://github.com/Provismet) |
 | [Persistent Stuff](https://modrinth.com/mod/persistent-stuff) | Saves your toggle sprint (sprinting/walking), hitboxes' (enabled/disabled), chunk borders' (enabled/disabled) states across Minecraft restarts. Never toggle these at startup again. | [Andy Russo](https://github.com/AndyRusso) | | | The mod author has not updated the supported Minecraft versions on the Modrinth page, but it should work with no issues regardless. |
 | [Log Cleaner](https://modrinth.com/mod/log-cleaner) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) | | | (Probably) works on 1.21 despite not being updated to it. |
 | [Better Selection](https://modrinth.com/mod/better-selection) | Makes it easier to select text by allowing mouse selection and Ctrl + ← and Ctrl + →. | [MDLC01](https://github.com/MDLC01) |
@@ -132,7 +132,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Smooth Skies](https://modrinth.com/mod/smooth-skies) | Smooths out the skybox colors on far render distances. This will fix the skybox breaking with Nvidium or similar. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Better Mipmaps](https://modrinth.com/mod/better-mipmaps) | Unlocks mipmap levels higher than 4 to reduce visual arifacts with high resolution resource packs. | [sidit77](https://github.com/sidit77) |
 | [Fix Keyboard on Linx](https://modrinth.com/mod/fix-keyboard-on-linux) | Fix several issues regarding key input on Linux. | [Ishland](https://github.com/ishland) | | Works on Linux only, will do nothing for other OS's. Has not been listed as compatible for 1.21+, but it should work with no changes. |
-| [MacOS Input Fixes](https://modrinth.com/mod/macos-input-fixes) | Fix several issues regarding key input on MacOS. | [hamarb123](https://github.com/hamarb123) | | Not listed as 1.21.1 compatible, but should work regardless. |
+| [MacOS Input Fixes](https://modrinth.com/mod/macos-input-fixes) | Fix several issues regarding key input on MacOS. | [hamarb123](https://github.com/hamarb123) |
 | [Unsafe World Random Access](https://modrinth.com/mod/uwrad) | Detects unsafe off-thread world random access, helping to find causes of "Accessing LegacyRandomSource from multiple threads" crash. | [RelativityMC](https://github.com/RelativityMC) |
 | [Better Screens](https://modrinth.com/mod/better-screens) | Better screens is a simple mod that improves the screens & containers experience, with simple quality of life fixes. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 
@@ -142,8 +142,8 @@ These are mods that are more dependant on personal preference than importance.
 
 | Mod | Description | Author | Incompatabilities | Notes |
 | --- | --- | --- | --- | --- |
-| [World Host](https://modrinth.com/mod/world-host) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [Gaming32](https://github.com/Gaming32) |
-| [Cosmetica](https://modrinth.com/mod/cosmetica) (No 1.21.4 Yet) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
+| [e4mc](https://modrinth.com/mod/e4mc) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [vgskye](https://github.com/vgskye) | | The 1.21.6 version works on 1.21.8 |
+| [Cosmetica](https://modrinth.com/mod/cosmetica) (No 1.21.8 Yet) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
 | [BetterGrassify](https://modrinth.com/mod/bettergrassify) | Better grass and snow. | [UltimatChamp](https://github.com/UltimatChamp) & [JayemCeekay](https://github.com/JayemCeekay) |
 | [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
@@ -168,10 +168,10 @@ These are mods that are more dependant on personal preference than importance.
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
 | [Perspektive](https://modrinth.com/mod/perspektive) **(BANNABLE ON HYPIXEL)** | A simple 360 degrees perspective mod that lets you move the camera without moving your player's direction. | [r0yzer](https://github.com/r0yzer) |
 | [BetterF3](https://modrinth.com/mod/betterf3) | Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | [cominixo](https://github.com/cominixo) |
-| [TNTTime](https://modrinth.com/mod/tnttime) (No 1.21.4 Yet) | Displays time left to the TNT explosion above primed TNT. | [Simon](https://github.com/shateq) |
+| [TNTime](https://modrinth.com/mod/tntime) | Displays time left to the TNT explosion above primed TNT. | [Simon](https://github.com/shateq) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Paginated Advancements & Custom Frames](https://modrinth.com/mod/paginatedadvancements) | Makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. | [DaFuqs](https://github.com/DaFuqs)
 | [AppleSkin](https://modrinth.com/mod/appleskin) | Lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
-| [Horse Stats Vanilla](https://modrinth.com/mod/horsestatsvanilla) (No 1.21.4 Yet) | Adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
+| [Horse Stats Vanilla](https://modrinth.com/mod/horsestatsvanilla) (No 1.21.8 Yet) | Adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
 | [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Makes some important HUD modules visible when riding a mount. | [Lortseam](https://github.com/Lortseam) |
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | Clear Despawn makes it more obvious on which items are about to despawn by making them blink exponentially faster after a certain time. | [StrikerRockers](https://github.com/StrikerRockers-Mods) |
 | [Litematica](https://github.com/sakura-ryoko/litematica/releases/latest) | A schematic mod that allows you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
