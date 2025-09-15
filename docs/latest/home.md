@@ -7,7 +7,7 @@ Click the links below or use the sidebar navigation to find the list you want.
 ## Mod List
 
 * [Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)
-    - This is a comprehensive list of mods for Fabric 1.20 and guide on installing them
+    - This is a comprehensive list of mods for Fabric and guide on installing them
 
 ## Clients
 
