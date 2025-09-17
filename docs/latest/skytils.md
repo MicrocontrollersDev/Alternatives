@@ -220,7 +220,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Lower Enderman Nametags - ?
 * Middle Click GUI Items - [LegacySkyblock](https://modrinth.com/mod/legacyskyblock)
 * Moveable Action Bar - ?
-* Moveable Item Name Highlight - ?
+* Moveable Item Name Highlight - [SkyCubed](https://modrinth.com/mod/skycubed)
 * No Fire - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * No Hurtcam - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Party Addons - ?
@@ -243,7 +243,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Find Rare Relics - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Potion Duration Notifications - ?
 * Stop Hook Sinking in Lava - [SkyOcean](https://modrinth.com/mod/skyocean)
-* Fishing Hook Age - ?
+* Fishing Hook Age - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Trophy Fish Tracker - [SkyHanni](https://modrinth.com/mod/SkyHanni) / [SkyCubed](https://modrinth.com/mod/skycubed)
 * Show Trophy Fish Totals - [SkyHanni](https://modrinth.com/mod/SkyHanni)?
 * Show Total Trophy Fish - [SkyHanni](https://modrinth.com/mod/SkyHanni) / [SkyOcean](https://modrinth.com/mod/skyocean)
