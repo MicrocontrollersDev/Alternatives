@@ -20,7 +20,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Other
 
-* Always Sprint in Skyblock - Vanilla (go to Accessibility or Controls menu and turn the Sprinting mode to Toggle)
+* Always Sprint in Skyblock - Vanilla (go to Accessibility or Controls menu and turn the Sprinting mode to Toggle) + [Toggle Toggle Sprint](https://modrinth.com/mod/toggle-toggle-sprint)
 
 ### Hypixel
 
