@@ -12,7 +12,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ## Extra
 
-* Custom Armor Color - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Custom Armor Color - [SkyOcean](https://modrinth.com/mod/skyocean) / [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Command Aliases/Shortcuts - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Custom Key Shortcuts - [Firmament](https://modrinth.com/mod/firmament) / [Command Keys](https://modrinth.com/mod/commandkeys)
 
