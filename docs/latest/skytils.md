@@ -173,7 +173,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Show Potion Tier - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Show Pet Candies - ?
 * Show Item Star Count - ?
-* Stacking Enchant Progress Display - ?
+* Stacking Enchant Progress Display - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Radioactive Bonus - ?
 
 ### Item Rarity
@@ -222,7 +222,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Moveable Action Bar - ?
 * Moveable Item Name Highlight - [SkyCubed](https://modrinth.com/mod/skycubed)
 * No Fire - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
-* No Hurtcam - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
+* No Hurtcam - Vanilla (Accessibility -> Damage Tilt) / [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Party Addons - ?
 * Prevent Cursor Reset - [Firmament](https://modrinth.com/mod/firmament)
 * Prevent Moving on Death - ?
@@ -261,7 +261,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Ping Display - ?
 * Scam Check - ?
 * Show Bestiary Level - ?
-* Show Selected Arrow - ?
+* Show Selected Arrow - [SkyBlock Custom Scoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard) / [SkyHanni](https://modrinth.com/mod/SkyHanni)
 * Show World Age - [Firmament](https://modrinth.com/mod/firmament)
 * Transparent Armor Layer - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Head Layer Transparent - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -307,8 +307,8 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Technoblade
 
-* Show Shiny Orb Waypoints - ?
-* Show Shiny Pig Locations - ?
+* Show Shiny Orb Waypoints - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Show Shiny Pig Locations - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ## Farming
 
@@ -317,7 +317,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Plot Cleanup Helper - ?
 * Show Sam's Scythe Blocks - ?
 * Visitor Offer Helper - ?
-* Visitor Notifications - ?
+* Visitor Notifications - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 ### Quality of Life
 
@@ -367,8 +367,8 @@ For more information on exactly why Essential is bad and it is considered such a
 * Crystal Hollow Death Waypoints - ?
 * Crystal Hollows Map -  [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Crystal Hollows Waypoints - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* King Yolkar Waypoint - ?
-* Crystal Hollows Chat Coordinates Grabber - ?
+* King Yolkar Waypoint - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Crystal Hollows Chat Coordinates Grabber - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Crystal Hollows Treasure Helper - ?
 
 ## Pets
@@ -404,11 +404,11 @@ For more information on exactly why Essential is bad and it is considered such a
 
 * Ping when in Atoned Horror Danger Zone - ?
 * Slayer Boss Hitbox - ?
-* Slayer Miniboss Spawn Alert - ?
+* Slayer Miniboss Spawn Alert - Vanilla (Hypixel)
 * Show RNGesus Meter - ?
 * Show Slayer Armor Kills - ?
 * Show Slayer Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Show Slayer Time to Kill - ?
+* Show Slayer Time to Kill - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [SkyHanni](https://modrinth.com/mod/skyhanni)
 
 
 ### Voidgloom Seraph
@@ -435,7 +435,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Abilities
 
-* Disable Cooldown Sounds - ?
+* Disable Cooldown Sounds - Vanilla (Hypixel)
 * Disable Jerry-chine Gun Sounds - ?
 * Disable Flower of Truth Sounds - ?
 
@@ -483,7 +483,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Combo Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Auto-Recombobulator Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Compact Building Tools - ?
-* Compact Mining Powder Gain - ?
+* Compact Mining Powder Gain - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Cooldown Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * No Enemies Nearby Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Out of Mana Hider - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -504,5 +504,7 @@ For more information on exactly why Essential is bad and it is considered such a
 
 # Contributors
 
-* [J0a1n15](https://github.com/j10a1n15)
+* [J10a1n15](https://github.com/j10a1n15)
+* [Luna](https://github.com/lunaynx)
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
+* [ThatGravyBoat](https://github.com/ThatGravyBoat)
