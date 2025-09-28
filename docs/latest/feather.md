@@ -182,5 +182,4 @@ is not their problem.
 * [Systemless](https://github.com/SystemlessDev)
 * [Tricked](https://github.com/Tricked-dev)
 * [Wyvest](https://github.com/Wyvest)
-* [YummyDevelopment](https://github.com/YummyDevelopment)
 * [Zetvue](https://zetvue.github.io)
