@@ -75,5 +75,4 @@
 * [Wyvest](https://github.com/Wyvest)
 * [yan](https://github.com/yanNotDev)
 * [yedonbro](https://github.com/yedonbro)
-* [YummyDevelopment](https://github.com/YummyDevelopment)
 * [Zetvue](https://zetvue.github.io)
