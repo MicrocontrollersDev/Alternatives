@@ -115,7 +115,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | Mod | Description | Author |Incompatabilities | Notes |
 | --- | --- | --- | --- | --- |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Removes cryptographic signatures from chat messages, making it harder to get chat reported. | [Aizistral](https://github.com/Aizistral-Studios) |
-| [Amecs Reborn](https://modrinth.com/mod/amecs-reborn) | Allows you to use modifiers for keybinds. For example, you can set keybinds to Ctrl/Shift/Alt/Super + key. | [Nova-Committee](https://github.com/MisterCheezeCake) |
+| [Amecs Reborn](https://modrinth.com/mod/amecs-reborn) | Allows you to use modifiers for keybinds. For example, you can set keybinds to Ctrl/Shift/Alt/Super + key. | [MisterCheezeCake](https://github.com/MisterCheezeCake) |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix) | Fixes the gaps you see on items when holding them as well as 3D blocks. This makes for a much more pleasant experience for most resourcepacks, including both defaults. | [MehVahdJukaar](https://github.com/MehVahdJukaar) |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [Kir-Antipov](https://github.com/Kir-Antipov) |
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Resource Pack Organizer but ported to Fabric and with more features. It allows you to sort resource packs into folders, as well as search for them using a search bar. It also lets you change how resourcepacks are ordered.
