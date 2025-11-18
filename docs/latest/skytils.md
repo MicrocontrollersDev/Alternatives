@@ -126,8 +126,8 @@ For more information on exactly why Essential is bad and it is considered such a
 * Click in Order Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Select All Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Start With Sequence Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Item Frame Alignment Solver - ?
-* Shoot the Target Solver - ?
+* Item Frame Alignment Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Shoot the Target Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Simon Says Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
 ### Tank Helper Tools
@@ -266,7 +266,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Transparent Armor Layer - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Head Layer Transparent - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Fix Summon Skin - ?
-* Use Player Skin - ?
+* Use Player Skin - Useless
 
 
 ### Chat Tabs
