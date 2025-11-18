@@ -18,7 +18,7 @@ is not their problem.
 
 ### Visuals
 
-* Animations - Irrelevant
+* Animations - [Animatium](https://modrinth.com/mod/animatium)
 * Block Overlay - [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
 * Clear Water - [Vanilla Tweaks Resourcepack / Terrain](https://vanillatweaks.net/picker/resource-packs)
 * Custom Crosshair - [Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
