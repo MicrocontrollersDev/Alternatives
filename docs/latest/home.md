@@ -17,6 +17,7 @@ Click the links below or use the sidebar navigation to find the list you want.
 
 ## Mods
 
+* [Aaron's Mod](https://alternatives.microcontrollers.dev/latest/aaronsmod)
 * [Essential](https://alternatives.microcontrollers.dev/latest/essential)
 * [OptiFine](https://alternatives.microcontrollers.dev/latest/optifine)
 * [Patcher](https://alternatives.microcontrollers.dev/latest/patcher)
