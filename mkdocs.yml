@@ -94,6 +94,7 @@ nav:
           - "Feather Client": "latest/feather.md"
           - "Lunar Client": "latest/lunar.md"
       - "Mods":
+          - "Aaron's Mod": "latest/aaronsmod.md"
           - "Essential": "latest/essential.md"
           - "OptiFine": "latest/optifine.md"
           - "Patcher": "latest/patcher.md"
