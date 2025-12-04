@@ -125,7 +125,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Mumble Link - ?
 * Boss Bar - ?
 * Freelook **(BANNABLE ON HYPIXEL)** - [Perspektive](https://modrinth.com/mod/perspektive)
-* Quickplay - ?
+* Quickplay - [Quickjoin](https://modrinth.com/mod/quickjoin)
 
 ## Settings
 

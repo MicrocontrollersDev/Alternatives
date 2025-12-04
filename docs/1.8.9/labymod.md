@@ -61,7 +61,7 @@ that you avoid using it if possible.
 * Menu Background - [PolyPatcher](https://modrinth.com/mod/patcher)
 * Server Information at Direct Connect - [REDACTION](https://modrinth.com/mod/redaction)
 * Confirm Disconnect - [PolyPatcher](https://modrinth.com/mod/patcher)
-* Quickplay - [Buggyfroggy's Quickplay](https://github.com/QuickplayMod/quickplay/releases/latest)
+* Quickplay - [Quickjoin](https://modrinth.com/mod/quickjoin)
 * Public Server List - ?
 * Multiplayer Menu Ingame - [PolyPatcher](https://modrinth.com/mod/patcher)
 * Borderless Window - [PolyPatcher](https://modrinth.com/mod/patcher)

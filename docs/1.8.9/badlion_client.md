@@ -93,7 +93,7 @@ This currently uses the list from [their support site](https://support.badlion.n
 * Potion Status - [Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
 * Protection - [PolyPatcher](https://modrinth.com/mod/patcher)
 * PvP Info - ?
-* Quickplay - [QWERTZexe's Quickjoin](https://modrinth.com/mod/quickjoin)
+* Quickplay - [Quickjoin](https://modrinth.com/mod/quickjoin)
 * Reach Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Saturation - [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files?version=1.8.9)
 * Scoreboard - [VanillaHUD](https://modrinth.com/mod/vanillahud)

@@ -147,7 +147,7 @@ is not their problem.
 * [Replay Mod](https://modrinth.com/mod/replaymod)
 * [OptiFine](https://optifine.net)
 * [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-* [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410)
+* [Quickplay](https://modrinth.com/mod/quickjoin)
 * [HD Skins](https://www.hdskins.de)
 * [ResourcePack Organizer](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Resource Pack Manager instead)
 

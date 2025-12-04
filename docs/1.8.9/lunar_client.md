@@ -133,7 +133,7 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 * Mumble Link - [Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files?version=1.8.9)
 * Boss Bar - [VanillaHUD](https://modrinth.com/mod/vanillahud) 
 * Freelook **(BANNABLE ON HYPIXEL)** - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
-* Quickplay - [Buggyfroggy's QuickPlay](https://github.com/QuickplayMod/quickplay/releases/latest)
+* Quickplay - [Quickjoin](https://modrinth.com/mod/quickjoin)
 * 3D Skin Layers - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 * Better Sounds - [PolyPatcher](https://modrinth.com/mod/patcher)
 
