@@ -145,7 +145,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 #### Misc Options
 
 * Smart Disconnect - [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect)
-* Borderless Fullscreen - [Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
+* Borderless Fullscreen - [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)
 * Disable Weather - [Weather Changer](https://modrinth.com/mod/weather-changer)
 * Modern Keybind Handling - Vanilla
 * Minimal View Bobbing - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
@@ -191,3 +191,4 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * [RaphyTwin](https://github.com/RaphyTwin)
 * [Tricked](https://github.com/Tricked-dev)
 * [Zetvue](https://zetvue.github.io)
+* [Madeleaan](https://github.com/Madeleaan)
