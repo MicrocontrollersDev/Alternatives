@@ -13,9 +13,11 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | Reduces world loading times. | [VidTu](https://github.com/VidTu) | This mod only works in single player and will disable spawn chunks entirely. |
 | [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | One of the oldest performance mods for Minecraft. Required for many resource packs as well. | [sp614x](https://github.com/sp614x) | This is a direct download that skips OptiFine's ads. |
 | [PolyPatcher](https://modrinth.com/mod/patcher) | PolyPatcher fixes several Minecraft bugs, adds many performance improvements, and adds many quality of life features. | [Sk1erLLC](https://github.com/Sk1erLLC) & [Polyfrost](https://github.com/Polyfrost) | This is a fork of the original Patcher mod by Sk1er. It removes one-off features that have been improved in other mods, adds a few more QOL changes, and has several new bug fixes, crash fixes, and performance enhancements. |
+| [Nothririum 1.8.9 Port](https://modrinth.com/mod/nothririum-1.8.9-port) | Significantly improves chunk rendering performance. | [Meldexun](https://github.com/Meldexun) & [my-life-is-bad](https://github.com/my-life-is-bad) | This is a port of the original Nothririum mod by Meldexun. |
+| [EntityCulling 1.8.9 Port](https://modrinth.com/mod/entityculling-1.8.9-port) | Skip rendering of hidden entities. | [Meldexun](https://github.com/Meldexun) & [my-life-is-bad](https://github.com/my-life-is-bad) | This is a port of the original EntityCulling mod by Meldexun. |
 | [QuickQuit](https://modrinth.com/mod/quickquit) | Allows closing Minecraft during the Forge resource loading screen when starting the game. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Redirector / Redirectionor](https://github.com/MCTeamPotato/Redirector/releases/latest) | Decreases memory usage by replacing enum value calls with static final field references. | [MCTeamPotato](https://github.com/MCTeamPotato) |
-| [Velox Caelo](https://modrinth.com/mod/veloxcaelo) | Caches some OptiFine CIT calculations. Especially noticable with SkyBlock resource packs. | [nea89o](https://github.com/nea89o) | Requires OptiFine. |
+| [Velox Caelo](https://modrinth.com/mod/veloxcaelo) | Caches some OptiFine CIT calculations. Especially noticeable with SkyBlock resource packs. | [nea89o](https://github.com/nea89o) | Requires OptiFine. |
 
 ### Other (needs to be sorted better eventually)
 
