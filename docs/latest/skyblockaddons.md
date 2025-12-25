@@ -20,7 +20,7 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Defence Percentage - ?
 * Defence Symbol - ?
 * Disable Boss Messages - [SkyHanni](https://modrinth.com/mod/skyhanni)
-* Disable Enderman Teleportation - ?
+* Disable Enderman Teleportation - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Disable Location Not Perfect Warnings - ?
 * Disable Magical Mushroom Soup Messages - ?
 * Disable Mort Messages - [SkyHanni](https://modrinth.com/mod/skyhanni)
@@ -40,7 +40,7 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Effective Health Number - ?
 * Endstone Protector Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Fancy Warp Menu - [Modern Warp Menu](https://modrinth.com/mod/https://modrinth.com/mod/modern-warp-menu)
-* Fire Freeze Timer F3/M3 - ?
+* Fire Freeze Timer F3/M3 - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Full Inventory Warning - ?
 * Full Minion Warning - ?
 * Glowing Dropped Items - Vanilla
@@ -79,8 +79,8 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Pressure Bar - ?
 * Pressure Text - ? 
 * Prevent Walking After Death - ?
-* Reforge Filter - ?
-* Replace Roman Numerals on Items - ?
+* Reforge Filter - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Replace Roman Numerals on Items - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Rock Pet Tracker - ?
 * Show Backpack Preview - [Firmament](https://modrinth.com/mod/firmament)
 * Show Bait List While Holding a Rod - ?
@@ -98,10 +98,9 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Show Nether Faction - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Player Symbols In Chat - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Profile Type - [SkyHanni](https://modrinth.com/mod/skyhanni)
-* Show Reforge Overlay - ?
-* Show SBA Button in Pause Menu - Irrelevant
+* Show Reforge Overlay - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Skyblock Item ID on Hover - [SkyHanni](https://modrinth.com/mod/skyhanni)
-* Show Stacking Enchant Progress - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates) / [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
+* Show Stacking Enchant Progress - ?
 * Show Sword Kills - ?
 * Show What Fetchur Wants Today - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Show if Item's Rarity has been Upgraded - ?
@@ -117,7 +116,7 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Slayer Tracker - Tarantula/Spider - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Slayer Tracker - Voidgloom/Enderman - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Special Zealot Alert - Irrelevant (This is now a Hypixel function)
-* Speed Percentage - [SkyHanni](https://modrinth.com/mod/skyhanni) (in Garden only)
+* Speed Percentage - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Spirit Sceptre/Wither Blade Damage Display - ?
 * Spooky Event Candy/Points Counter - ?
 * Stop Bonzo's Staff Sounds - ?
