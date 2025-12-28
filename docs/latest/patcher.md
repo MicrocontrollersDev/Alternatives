@@ -24,8 +24,8 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 ### Experimental
 
 * Entry Point Caching - Irrelevant
-* HUD Caching - [Exordium](https://modrinth.com/mod/exordium)
-* Cache FPS - [Exordium](https://modrinth.com/mod/exordium)
+* HUD Caching - ?
+* Cache FPS - ?
 * Improved Skin Rendering - ?
 
 ### Miscellaneous
