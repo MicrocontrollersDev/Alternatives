@@ -25,7 +25,7 @@ Aaron's Mod is a general mod and Hypixel Skyblock mod with many features that wi
 * Not Resetting Cursor Position Between Chest GUIs - [Better Screens](https://modrinth.com/mod/better-screens)
 * Optimized Screenshots - ?
 * Silence Resource Pack Log Spam - ?
-* Secure Skin Downloads - [SkinTLS](https://modrinth.com/mod/skintls)
+* Secure Skin Downloads - [Secure Skins](https://modrinth.com/mod/secureskins)
 * (Mac Only) Alternate FN+F3+N Keybind - ?
 * Christmas Chests For the Whole Month of December - ?
 * Particle Manager - OverflowParticles (soon)
