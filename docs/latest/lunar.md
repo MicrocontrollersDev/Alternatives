@@ -110,7 +110,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
 * Block Outline - [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
 * Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
-* TNT Timer Mod - [TNTTime](https://modrinth.com/mod/tnttime)
+* TNT Timer Mod - [TNTime](https://modrinth.com/mod/tntime)
 * Hitbox - [HitBox+](https://modrinth.com/mod/hitboxplus)
 * 3D Skin Layers - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 

@@ -12,7 +12,7 @@ Aaron's Mod is a general mod and Hypixel Skyblock mod with many features that wi
 * Extra Debug Info - ?
 * Hide Fire Overlay - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * Hide Mob Spawner Animations - ?
-* Correct Ambient Darkness - ?
+* Correct Ambient Darkness - Irrelevant
 * Zoom - [Zoomify](https://modrinth.com/mod/zoomify)
 * Old Message Trust Indicator Colors - ?
 * Potion Enchantment Glint - [Animatium](https://modrinth.com/mod/animatium)
