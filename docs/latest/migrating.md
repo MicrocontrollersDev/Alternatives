@@ -228,7 +228,7 @@ Features that OptiFine provides that are not resource pack related.
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [Iris](https://irisshaders.github.io) | Shaders. More customizable than OptiFine's. | [IrisShaders](https://github.com/IrisShaders) |
+| [Iris](https://modrinth.com/mod/iris) | Shaders. More customizable than OptiFine's. | [IrisShaders](https://github.com/IrisShaders) |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) (No 1.21.10 Yet) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and snow. | [LambdAurora](https://github.com/LambdAurora) |
