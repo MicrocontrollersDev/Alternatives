@@ -274,7 +274,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Chat Tabs - [Text Tunnels](https://modrinth.com/mod/text-tunnels)
 * Pre-Fill Chat Commands - [Text Tunnels](https://modrinth.com/mod/text-tunnels)
 * Auto Switch Chat Channel - ?
-* Copy Chat Messages - [Firmament](https://modrinth.com/mod/firmament)
+* Copy Chat Messages - [ChatShot](https://modrinth.com/mod/chatshot) / [Firmament](https://modrinth.com/mod/firmament)
 
 ### Fixes
 
