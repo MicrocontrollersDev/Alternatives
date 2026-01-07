@@ -133,7 +133,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 #### HUD Options
 
-* Shift Effects in Inventory - Vanilla (use [No Recipe Book Shift](https://modrinth.com/mod/no-recipe-book-shift) to prevent the recipe book from shifting inventory)
+* Shift Effects in Inventory - Vanilla (use [Better Screens](https://modrinth.com/mod/better-screens) to prevent the recipe book from shifting inventory)
 * Show Achievements/Advancements - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Show Crosshair in Third Person - [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 
@@ -161,7 +161,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 #### General
 
 * Hide Enderportals - ?
-* Full Bright - [Methane](https://modrinth.com/mod/methane)
+* Full Bright - [Gamma Utils](https://modrinth.com/mod/gamma-utils)
 * Show Enchantment Glint - Vanilla (Acessibility Settings -> Glint Strength)
 * Lazy Chunk Loading - [Sodium](https://modrinth.com/mod/sodium)
 * Disable Block Breaking Particles - [Sodium Extra](https://modrinth.com/mod/sodium-extra)

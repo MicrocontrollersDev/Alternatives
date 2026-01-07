@@ -73,7 +73,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
     * Wavey Capes - [Wavey Capes](https://modrinth.com/mod/wavey-capes)
 * Enchant Glint - ?
 * FOV - ?
-* Fullbright - [Methane](https://modrinth.com/mod/methane)
+* Fullbright - [Gamma Utils](https://modrinth.com/mod/gamma-utils)
 * Hitboxes - [HitBox+](https://modrinth.com/mod/hitboxplus)
 * Inventory Blur - [Blur+](https://modrinth.com/mod/blur-fabric)
 * Motion Blur - [Motion Blur](https://modrinth.com/mod/motionblur)
