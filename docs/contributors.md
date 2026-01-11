@@ -69,6 +69,7 @@
 * [ThatGravyBoat](https://github.com/ThatGravyBoat)
 * [thatonecoder](https://github.com/Coccocoahelper)
 * [ToggledX](https://github.com/ToggledX)
+* [TomAintAround](https://github.com/TomAintAround)
 * [Tricked](https://github.com/Tricked-dev)
 * [usb](https://github.com/U5B)
 * [voxxal](https://github.com/voxxal)
