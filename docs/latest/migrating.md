@@ -126,7 +126,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Adds an in game account switcher that lets you switch accounts without having to restart the game. | [The-Fireplace](https://github.com/The-Fireplace) |
 | [Smooth Skies](https://modrinth.com/mod/smooth-skies) | Smooths out the skybox colors on far render distances. This will fix the skybox breaking with Nvidium or similar. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Better Mipmaps](https://modrinth.com/mod/better-mipmaps) | Unlocks mipmap levels higher than 4 to reduce visual arifacts with high resolution resource packs. | [sidit77](https://github.com/sidit77) |
-| [Fix Keyboard on Linx](https://modrinth.com/mod/fix-keyboard-on-linux) | Fix several issues regarding key input on Linux. | [Ishland](https://github.com/ishland) | | Works on Linux only, will do nothing for other OS's. Has not been listed as compatible for 1.21+, but it should work with no changes. |
+| [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) | Fix several issues regarding key input on Linux. | [Ishland](https://github.com/ishland) | | Works on Linux only, will do nothing for other OS's. Has not been listed as compatible for 1.21+, but it should work with no changes. |
 | [MacOS Input Fixes](https://modrinth.com/mod/macos-input-fixes) | Fix several issues regarding key input on MacOS. | [hamarb123](https://github.com/hamarb123) |
 | [Unsafe World Random Access](https://modrinth.com/mod/uwrad) | Detects unsafe off-thread world random access, helping to find causes of "Accessing LegacyRandomSource from multiple threads" crash. | [RelativityMC](https://github.com/RelativityMC) |
 | [Better Screens](https://modrinth.com/mod/better-screens) | Better screens is a simple mod that improves the screens & containers experience, with simple quality of life fixes. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
@@ -179,7 +179,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Resourcify](https://modrinth.com/mod/resourcify) | Lets you view, download, and update resource packs from Modrinth all in game. | [DeDiamondPro](https://github.com/DeDiamondPro) |
 | [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) | Improves the look of bubbles in water. | [Tschipcraft](https://github.com/Tschipcraft) |
 | [NoRefreshScroll](https://modrinth.com/mod/norefreshscroll) | Stops the multiplayer screen from scrolling to bottom when refreshing. | [Thatsmusic99](https://github.com/Thatsmusic99) |
-| [Particle Tweaks](https://modrinth.com/mod/particle-tweaks) | Makes particles look nicerby adding growing/fading effects and water physics. | [Lunade_](https://github.com/AViewFromTheTop) |
+| [Particle Tweaks](https://modrinth.com/mod/particle-tweaks) | Makes particles look nicer by adding growing/fading effects and water physics. | [Lunade_](https://github.com/AViewFromTheTop) |
 | [Particle Rain](https://modrinth.com/mod/particle-rain) | Replaces the rain effect with particles. | [PigCart](https://github.com/PigCart) |
 | [SkinShuffle](https://modrinth.com/mod/skinshuffle) | Allows you to change, store, and customize your skins in game. | [mineblock11](https://github.com/mineblock11) |
 | [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations) | Adds a small animation when holding items similar to old console editions of the game. | [Trivaxy](https://github.com/Trivaxy) |
