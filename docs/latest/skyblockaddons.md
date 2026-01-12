@@ -8,7 +8,7 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Allow Locking Slots - [Firmament](https://modrinth.com/mod/firmament)
 * Axe Cooldown Indicator - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Bal Boss Warning - Useless
-* Birch Park Rainmaker Timer - ?
+* Birch Park Rainmaker Timer - [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Brood Mother Warning - Useless
 * Change Enderchest Color in the End - ?
 * Change Zealot Color - [SkyHanni](https://modrinth.com/mod/skyhanni)
@@ -17,7 +17,7 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Custom Colored Fishing Particles - ?
 * Dark Auction Timer - ?
 * Defence Number - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Defence Percentage - ?
+* Defence Percentage - [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Defence Symbol - ?
 * Disable Boss Messages - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Disable Enderman Teleportation - [SkyHanni](https://modrinth.com/mod/skyhanni)
@@ -30,26 +30,26 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Dolphin Pet Tracker - ?
 * Don't Reset Cursor Between Inventories - [Firmament](https://modrinth.com/mod/firmament) / [Better Screens](https://modrinth.com/mod/better-screens)
 * Dragon Tracker - ?
-* Drill Fuel Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Drill Fuel Number - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Drill Fuel Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
+* Drill Fuel Number - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Dungeon Death Counter - ?
 * Dungeon Map Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Dungeons Collected Essences Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Dungeons Secret Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Dungeons Secret Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Dungeons Teammate Name Overlay - ?
-* Effective Health Number - ?
+* Effective Health Number - [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Endstone Protector Display - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Fancy Warp Menu - [Modern Warp Menu](https://modrinth.com/mod/https://modrinth.com/mod/modern-warp-menu)
 * Fire Freeze Timer F3/M3 - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Full Inventory Warning - ?
+* Full Inventory Warning - Vanilla
 * Full Minion Warning - ?
 * Glowing Dropped Items - Vanilla
-* Health Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Health Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Health Change Number - ?
-* Health Number - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Hide Effects HUD - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Firmament](https://modrinth.com/mod/firmament)
+* Health Number - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
+* Hide Effects HUD - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Firmament](https://modrinth.com/mod/firmament) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Hide Far Entities in Lobby - ?
-* Hide Food & Armor Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Hide Food & Armor Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Hide Haunted Skulls from Soulweaver Gloves - ?
 * Hide Menu Glass Pane Tooltips - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Hide Other Player's Presents - ?
@@ -59,34 +59,34 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Hide Skeleton's Helmet Bones - ?
 * Hide Sven Pup Nametags - ?
 * Hide True Defense - ?
-* Hide Vanilla Health Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Hide Vanilla Health Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Item Drop Confirmation - ?
 * Item Pickup Log - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Jacob's Contest Timer - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Leather Backpack Opening Sound - ?
 * Legendary Sea Creature Warning - ?
-* Mana Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
-* Mana Number - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Mana Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
+* Mana Number - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * No Arrows Left Alert - Irrelevant (you can just click and see it doesn't shoot)
 * Only Show in the Dragon's Nest - ?
 * Outbid Alert Sound - ?
 * Outline Dungeon Teammates - [SkyHanni](https://modrinth.com/mod/skyhanni)
-* Overflow Mana Number - ?
+* Overflow Mana Number - [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Parse Enchant Tooltips - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Pet Display - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Potion and Powerup Timers - ?
 * Power Orb Display - ?
-* Pressure Bar - ?
-* Pressure Text - ? 
+* Pressure Bar - [Skyblock Tweaks](https://modrinth.com/mod/sbt)
+* Pressure Text - [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Prevent Walking After Death - ?
-* Reforge Filter - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Reforge Filter - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Replace Roman Numerals on Items - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Rock Pet Tracker - ?
 * Show Backpack Preview - [Firmament](https://modrinth.com/mod/firmament)
 * Show Bait List While Holding a Rod - ?
 * Show Base Stat Boost for Dungeon Items - ?
 * Show Broken Dragon Fragments - ?
-* Show Crimson Armor Stacks - ?
+* Show Crimson Armor Stacks - [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Show Critical Dungeon Teammates  - ?
 * Show Dungeon Healing Circle Wall - ?
 * Show Dungeon Milestone - [SkyHanni](https://modrinth.com/mod/skyhanni)
@@ -102,11 +102,11 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Show Skyblock Item ID on Hover - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Show Stacking Enchant Progress - ?
 * Show Sword Kills - ?
-* Show What Fetchur Wants Today - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Show What Fetchur Wants Today - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Show if Item's Rarity has been Upgraded - ?
 * Skeleton's Helmet Bones Bar - ?
-* Skill Progress Bar - [SkyHanni](https://modrinth.com/mod/skyhanni)
-* Skill Progress Display - [SkyHanni](https://modrinth.com/mod/skyhanni)
+* Skill Progress Bar - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
+* Skill Progress Display - [SkyHanni](https://modrinth.com/mod/skyhanni) / [Skyblock Tweaks](https://modrinth.com/mod/sbt)
 * Slayer Armor Progress Indicator - ?
 * Slayer Boss Approach Alert - ?
 * Slayer Tracker - Inferno/Blaze - [SkyHanni](https://modrinth.com/mod/skyhanni)
@@ -140,3 +140,5 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * [HiZe](https://github.com/superhize)
 * [NetheriteMiner](https://github.com/NetheriteMiner)
 * [KTrain](https://github.com/KTrain5169)
+* [MisterCheezeCake](https://github.com/MisterCheezeCake)
+
