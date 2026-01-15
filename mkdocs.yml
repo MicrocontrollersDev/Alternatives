@@ -96,10 +96,12 @@ nav:
       - "Mods":
           - "Aaron's Mod": "latest/aaronsmod.md"
           - "Essential": "latest/essential.md"
+          - "Krypt": "latest/krypt.md"
           - "OptiFine": "latest/optifine.md"
           - "Patcher": "latest/patcher.md"
           - "Skyblock Addons": "latest/skyblockaddons.md"
           - "Skytils": "latest/skytils.md"
+          - "Zen": "latest/zen.md"
   - "Launcher":
       - "Home": "launcher/home.md" 
       - "Modrinth App":

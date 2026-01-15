@@ -19,7 +19,9 @@ Click the links below or use the sidebar navigation to find the list you want.
 
 * [Aaron's Mod](https://alternatives.microcontrollers.dev/latest/aaronsmod)
 * [Essential](https://alternatives.microcontrollers.dev/latest/essential)
+* [Krypt](https://alternatives.microcontrollers.dev/latest/krypt)
 * [OptiFine](https://alternatives.microcontrollers.dev/latest/optifine)
 * [Patcher](https://alternatives.microcontrollers.dev/latest/patcher)
 * [SkyblockAddons](https://alternatives.microcontrollers.dev/latest/skyblockaddons)
 * [Skytils](https://alternatives.microcontrollers.dev/latest/skytils)
+* [Zen](https://alternatives.microcontrollers.dev/latest/zen)
