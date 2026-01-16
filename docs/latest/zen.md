@@ -100,7 +100,7 @@
 * Larva Silk Lines - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Berberis Helper - [SkyHanni](https://modrinth.com/mod/skyhanni)
 
-## Silly Fetures
+## Silly Features
 
 * Automeow (Auto Meow) - Irrelevant
 * Meow Counter (Meow Count) - Irrelevant
