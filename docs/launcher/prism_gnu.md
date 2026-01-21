@@ -30,11 +30,9 @@ If you don't know what distro you're using you probably shouldn't be using Linux
     </details>
     <details>
     <summary>Arch Linux</summary>
-    There are several AUR packages available:
+    There are several packages available:
     <br>
-<a class="button type-link" href="https://aur.archlinux.org/packages/prismlauncher" target="_blank">prismlauncher</a>
-<br>
-<a class="button type-link" href="https://aur.archlinux.org/packages/prismlauncher-bin" target="_blank">prismlauncher-bin</a>
+<a class="button type-link" href="https://archlinux.org/packages/prismlauncher" target="_blank">prismlauncher</a>
 <br>
 <a class="button type-link" href="https://aur.archlinux.org/packages/prismlauncher-git" target="_blank">prismlauncher-git</a>
     <details>
