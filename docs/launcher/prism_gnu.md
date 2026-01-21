@@ -38,12 +38,10 @@ If you don't know what distro you're using you probably shouldn't be using Linux
 <br>
 <a class="button type-link" href="https://aur.archlinux.org/packages/prismlauncher-git" target="_blank">prismlauncher-git</a>
     <details>
-    <summary>Installing with an AUR helper</summary>
+    <summary>Installing</summary>
 ```bash
-# stable source package:
-yay -S prismlauncher
 # stable binary package:
-yay -S prismlauncher-bin
+sudo pacman -S prismlauncher
 # latest git package:
 yay -S prismlauncher-git
 ```
@@ -61,26 +59,6 @@ yay -S prismlauncher-qt5-git
 
 You can replace yay -S with your preferred <a class="button type-link" href="https://wiki.archlinux.org/title/AUR_helpers" target="_blank">AUR helper's</a> install command.
     </details>
-    <details>
-    <summary>Installation using Chaotic-AUR</summary>
-    If you have not already enabled the Chaotic-AUR follow their instructions on <a class="button type-link" href="https://aur.chaotic.cx/" target="_blank">https://aur.chaotic.cx/</a> to enable it.
-  
-```bash
-# stable package:
-sudo pacman -S prismlauncher
-# latest git package:
-sudo pacman -S prismlauncher-git
-```
-
-If you want to use Qt 5 to build the packages instead:
-
-```bash
-# stable Qt 5 package:
-sudo pacman -S prismlauncher-qt5
-# latest Qt 5 git package:
-sudo pacman -S prismlauncher-qt5-git
-```
-</details>
 </details>
 <details>
 <summary>CentOS Stream / Fedora / Red Hat Enterprise Linux</summary>
