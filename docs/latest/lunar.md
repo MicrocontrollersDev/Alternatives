@@ -10,10 +10,6 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ## Mods
 
-### OptiFine
-
-* [List of OptiFine alternatives](https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements)
-
 ### Performance
 
 * Performance Improvements - See my [full list of performance mods](https://alternatives.microcontrollers.dev/latest/migrating/#performance)
