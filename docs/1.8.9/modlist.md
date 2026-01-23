@@ -163,5 +163,6 @@ To install Forge for 1.8.9, please read the [guides for installing Modrinth or P
 # Contributors
 
 * [CalMWolfs](https://github.com/CalMWolfs)
+* [litekin](https://github.com/litekin)
 * [Obsidianninja11](https://github.com/Obsidianninja11)
 * [Pengu](https://github.com/pengubear)

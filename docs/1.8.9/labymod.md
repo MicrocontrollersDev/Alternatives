@@ -204,11 +204,11 @@ that you avoid using it if possible.
 
 # Contributors
 
-* [Asbyth](https://github.com/asbyth)
 * [BobIsMyManager](https://github.com/BobIsMyManager)
 * [Coolbird1234](https://twitter.com/dankbird1234)
 * [Digux](https://github.com/Diguhxe)
 * [GhoulBoi69](https://github.com/GhoulBoii)
+* [jade](https://github.com/jadeposting)
 * [Karmette](https://github.com/karmette)
 * [LlamaLad7](https://github.com/LlamaLad7)
 * [Lizzy](https://github.com/LizzyMaybeDev)

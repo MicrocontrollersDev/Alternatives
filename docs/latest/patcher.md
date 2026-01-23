@@ -205,4 +205,5 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 
 # Contributors
 
+* [PhantomBridger](https://github.com/PhantomBridger)
 * Purpas

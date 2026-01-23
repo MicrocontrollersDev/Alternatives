@@ -201,11 +201,11 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 
 # Contributors
 
-* [asbyth](https://github.com/asbyth)
 * [BobIsMymanager](https://github.com/BobisMymanager)
 * [Digux](https://github.com/Diguhxe)
 * [gabrielvicenteYT](https://github.com/gabrielvicenteYT)
 * [GhoulBoi69](https://github.com/GhoulBoii)
+* [jade](https://github.com/jadeposting)
 * [Karmette](https://github.com/karmette)
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)

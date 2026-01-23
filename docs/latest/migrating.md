@@ -329,6 +329,7 @@ Notes:
 * [Lisena](https://github.com/Lisenaaaa)
 * [Lulonaut](https://github.com/Lulonaut)
 * [Mayaqq](https://github.com/MayaqqDev)
+* [PhantomBridger](https://github.com/PhantomBridger)
 * [TomAintAround](https://github.com/TomAintAround)
 * [voxxal](https://github.com/voxxal)
 * [Wyvest](https://github.com/Wyvest)

@@ -183,6 +183,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 # Contributors
 
 * [GhoulBoi69](https://github.com/GhoulBoii)
+* [PhantomBridger](https://github.com/PhantomBridger)
 * [RaphyTwin](https://github.com/RaphyTwin)
 * [Tricked](https://github.com/Tricked-dev)
 * [Zetvue](https://zetvue.github.io)

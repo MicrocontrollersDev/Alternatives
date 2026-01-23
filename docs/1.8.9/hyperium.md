@@ -83,4 +83,4 @@
 
 # Contributors
 
-* Asbyth
+* [jade](https://github.com/jadeposting)

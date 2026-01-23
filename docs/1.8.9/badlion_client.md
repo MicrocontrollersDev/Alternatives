@@ -181,11 +181,11 @@ For a list of Skyblock mods please see my other list [here](https://alternatives
 
 # Contributors
 
-* [asbyth](https://github.com/asbyth)
 * [BobIsMyManager](https://github.com/BobIsMyManager)
 * [Digux](https://github.com/Diguhxe)
 * [Fizzify](https://github.com/Fizzify)
 * [GhoulBoi69](https://github.com/GhoulBoii)
+* [jade](https://github.com/jadeposting)
 * [Lizzy](https://github.com/LizzyMaybeDev)
 * [Moiré](https://github.com/moire9)
 * [moisty](https://github.com/Mqisty)
