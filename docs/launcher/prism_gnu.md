@@ -1,8 +1,10 @@
 # Prism Launcher
 
-Prism Launcher is an incredibly powerful launcher that makes managing your mods and modded instances much easier. It can do everything the official launcher can do, but allows for much more customization and ease of access. The official launcher has had several issues that have taken weeks to fix or are currently still not fixed, despite their severity. For modded and vanilla users alike, it is recommended to switch to Prism Launcher for an issue-less experience.
+# [This page is outdated! Click here to go to the new guide!](https://alternatives.microcontrollers.dev/launcher/prism)
 
-This guide will explain the install process for Prism, as well as how we can use it for SkyClient. Please take the time after setting up to better learn your way around the launcher, as you may end up using it as your go-to launcher from now on!
+Prism Launcher is an incredibly powerful launcher that makes managing your mods and modded instances much easier. It can do everything the official launcher can do, but allows for much more customization and ease of access. The official launcher is much slower to use and requires a lot of manual work for modern Minecraft. For modded and vanilla users alike, it is recommended to switch to Prism Launcher for an issue-less experience.
+
+This guide will explain the install process for Prism. Please take the time after setting up to better learn your way around the launcher, as you may end up using it as your go-to launcher from now on!
 
 ## How to Install (Linux)
 

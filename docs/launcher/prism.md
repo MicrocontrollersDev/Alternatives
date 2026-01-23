@@ -1,20 +1,16 @@
 # Prism Launcher
 
-# [This page is outdated! Click here to go to the new guide!](https://alternatives.microcontrollers.dev/launcher/prism)
-
 Prism Launcher is an incredibly powerful launcher that makes managing your mods and modded instances much easier. It can do everything the official launcher can do, but allows for much more customization and ease of access. The official launcher is much slower to use and requires a lot of manual work for modern Minecraft. For modded and vanilla users alike, it is recommended to switch to Prism Launcher for an issue-less experience.
 
 This guide will explain the install process for Prism. Please take the time after setting up to better learn your way around the launcher, as you may end up using it as your go-to launcher from now on!
 
-## How to Install (Windows)
+## How to Install
 
-* Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from SkyClient, but steps will be largely the same, except for the migrating data section.
+* Despite looking long, this is a very simple process and should only take a few minutes!
 
 ### Step 1 - Installing Prism
 
-[Download Prism Launcher](https://prismlauncher.org/download). You will most likely want to download the `Installer (.exe)` version. Once it is finished downloading, it may give a warning screen saying "Windows protected your PC". Simply press the "More info" button, then "Run anyway".
-
-Continue the installation process until you get to the "Java" screen. Here, you will decide which Java you want to set as the default for new instances. Click on the version that says "1.8" at the beginning of the version and has "Eclipse Foundation" in the path name. This is your Java 8 and it will be the default version of Java for every new instance you create on Prism. Of course, you can always change this later and can still manually specify a different version of Java whenever you want.
+[Download Prism Launcher](https://prismlauncher.org/download). Download the correct version your system and begin the installation. For Linux users, install through your package manager (Flathub or distro).
 
 For the Minimum and Maximum memory allocation, leave them at 512 MiB and 4096 MiB respectively, unless you only have 8GB of ram or less, in which case you may want to change the maximum to 2048 MiB.
 

@@ -1,18 +1,16 @@
 # Modrinth App
 
-# [This page is outdated! Click here to go to the new guide!](https://alternatives.microcontrollers.dev/launcher/modrinth)
-
 Modrinth App is an incredibly powerful launcher that makes managing your mods and modded instances much easier. It can do everything the official launcher can do, but allows for much more customization and ease of access. The official launcher has had several issues that have taken weeks to fix or are currently still not fixed, despite their severity. For modded and vanilla users alike, it is recommended to switch to Modrinth Launcher for an issue-less experience.
 
 This guide will explain the install process for Modrinth, as well as how we can use it for SkyClient. Please take the time after setting up to better learn your way around the launcher, as you may end up using it as your go-to launcher from now on!
 
-## How to Install (Mac)
+## How to Install (Windows)
 
 * Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from SkyClient, but steps will be largely the same, except for the migrating data section.
 
 ### Step 1 - Installing Modrinth
 
-[Download Modrinth App](https://modrinth.com/app). It should automatically recommend the correct version to download (a `.dmg`). Once it is finished downloading, run it. It may warn you that it is an executable file and could be malicious. If so, Go to System Settings > Privacy & Security > Security, and click "Open Anyway". And drag the item named "Modrinth App" into the folder titled "Applications".
+[Download Modrinth App](https://modrinth.com/app). Download the correct version your system and begin the installation.
 
 ### Step 2 - Logging in
 
@@ -56,3 +54,4 @@ If you encounter any issues **unrelated to this guide**, or you simply want to k
 # Contributors
 
 * [Axuras](https://github.com/Axuras)
+* [KTrain](https://github.com/KTrain5169)
