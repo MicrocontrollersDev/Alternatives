@@ -30,13 +30,21 @@ If the mod you want to download is on Modrinth, you can download them within the
 
 Modrinth Launcher has a lot of things to offer, such as lots of options for your instances, and the ability to see all your mods & resource packs in the launcher before launching. You can use these menus to install mods and resource packs, and even update them if they are hosted on Modrinth! Please take the time to actually learn how the launcher works and experiment with it! Modrinth App is an incredibly powerful launcher and it's important to know exactly what you can do with it!
 
+## Updating Modrinth, Mods, Minecraft, and Fabric Loader
+
+**To update Modrinth**, it should automatically update whenever there is an update.
+
+**To update mods**, in your installation press the button to update mods.
+
+**To update Minecraft**, head to the instance settings, go to the `Installation` tab and find the `Minecraft` field. Set it to the version you want to use. Update your mods as described in the step above to update your mods to the new Minecraft version as well. Not all mods may be available for this new version of Minecraft. Try playing. If you crash, read the crash message to see which mods aren't updated yet and disable them.
+
+**To update Fabric Loader**, head to the instance settings, go to the `Installation` tab and find the `Fabric Loader` dropdown and set it to the latest version.
+
 ## Common Issues
 
 #### `My mods arent showing up in-game!`
 
-There are 2 common causes for this, open the profile view (click on it or right click then `View instance`), then check the Content tab. If you do not see any mods here, [you should redo step 4](#step-4-installing-mods).
-
-If you see a list of mods here then you should click the `Options` tab, then `Edit versions`, then make sure to choose Forge. Click `Save changes` and Forge should be installed, and the mods should work.
+There are 2 common causes for this, open the profile view (click on it or right click then `View instance`), then check the Content tab. If you see a list of mods here then you should open the Settings for the instance, and go to the `Installation` tab. Make sure `Fabric` is selected as the mod loader.
 
 <br>
 

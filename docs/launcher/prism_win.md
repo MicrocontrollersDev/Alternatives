@@ -56,47 +56,13 @@ Some CurseForge mods may not allow downloads from third party launchers such as 
 
 **To update Minecraft**, head to the `Version` tab, (right) click on `Minecraft`, then `Change Version`. Set it to the version you want to use. Update your mods as described in the step above to update your mods to the new Minecraft version as well. Not all mods may be available for this new version of Minecraft. Take note of which mods don't get updated and try playing. If you crash, read the crash message to see which mods aren't updated yet and disable them.
 
-**To update Fabric Loader**, head to the `Version` tab, (right) cluck on `Fabric Loader`, then `Change Version`. Set it to the latest version.
+**To update Fabric Loader**, head to the `Version` tab, (right) click on `Fabric Loader`, then `Change Version`. Set it to the latest version.
 
 ## Common Issues
 
-#### `The java binary "" couldn't be found. Please fix the java path override in the instance's settings or disable it.`
+#### `My mods aren't showing up in-game!`
 
-In the main screen of Prism Launcher, click `Settings` near the top, a popup should appear. From here click `Java`, under `Java Runtime` you should click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx`(xxx symbolizes the newest version of Java at the time of your installation).
-
-If you do not see any version, [you should redo step 1](#step-1-installing-java)
-
-<br>
-
-#### `This instance is not compatible with Java version x.`
-
-Click your instance and go to `Edit`. click `Settings` on the left. From here click `Java installation` so that the section is ticked and editable. Click `Auto-detect`, a new popup should appear, listing the java versions. Here you should be given the option to choose the java version that will be used, click on `1.8.0_xxx` (xxx symbolizes the newest version of Java at the time of your installation), or whatever version of Java you want to use such as 17 for newer versions of Minecraft.
-
-If you do not see any version, [you should redo step 1](#step-1-installing-java).
-
-<br>
-
-#### `My mods arent showing up in-game!`
-
-There are 2 common causes for this, click on the instance once then on the right click `Edit`, then in the next popup click `Mods`.
-
-If you do not see any mods in the mods tab, [you should redo step 5](#step-5-installing-our-mods-skyclient).
-
-If you see a list of mods here then you should click `Version` and on the right click `Install Forge`, the latest version should be highlighted. Click `OK` and Forge should be installed, and the mods should work.
-
-<br>
-
-#### `A problem occured whilst running the Java Virtual Machine. Program will exit.`
-
-Make sure you have selected the x64 version of Java. You can check by clicking on your instance and go to `Edit`, then click `Settings` on the left side. Then, click the `Java installation` checkbox so that the section can be edited. Click `Auto-detect`, and a new popup will appear, with all the Java versions installed. Here, you should be able to see the first part of the path where Java is installed. Ensure that the Java version you have selected starts with `C:\Program Files` and not `C:\Program Files (x86)`.
-
-If you do not see a valid option, [you should redo step 1](#step-1-installing-java)
-
-<br>
-
-#### `SkyClient Updater still shows that it failed to update my mods!`
-
-Make sure you have selected a version of Java newer than `1.8.0_51`. Follow the steps in the [This instance is not compatible with Java version x](#this-instance-is-not-compatible-with-java-version-x). to fix the issue, but make sure the version is higher than `1.8.0_51`.
+If you see a list of mods in the `Mods` tab, you should click `Version` and check if `Fabric Loader` is installed. If not, press `Install Loader` on the right and install the latest version of Fabric Loader.
 
 <br>
 
