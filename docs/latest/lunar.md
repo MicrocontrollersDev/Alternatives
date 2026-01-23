@@ -143,7 +143,6 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Smart Disconnect - [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect)
 * Borderless Fullscreen - [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)
 * Disable Weather - [Weather Changer](https://modrinth.com/mod/weather-changer)
-* Modern Keybind Handling - Vanilla
 * Minimal View Bobbing - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Unfocused FPS Limiter - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 

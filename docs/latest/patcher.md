@@ -40,7 +40,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Bow FOV - Vanilla
 * Speed FOV - Vanilla
 * Slowness FOV - Vanilla
-* Better Keybind Handling - Vanilla
+* Better Keybind Handling - Vanilla (MacOS users should use [MacOS-Input-Fix](https://modrinth.com/mod/macos-input-fix), fixes only walking)
 * Separate Sound & Texture Reloading - ?
 * Disable Hotbar Scrolling - [Scroll Tweaks](https://modrinth.com/mod/scrolltweaks)
 * Invert Hotbar Scrolling - [Scroll Tweaks](https://modrinth.com/mod/scrolltweaks)
