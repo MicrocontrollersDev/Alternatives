@@ -18,15 +18,13 @@ After launching, it will then ask you to log into your Microsoft account so that
 
 ### Step 3 - Creating a Profile/Instance
 
-This guide will focus on Forge 1.8.9, but steps for other versions should also be obvious.
+This guide will describe the process for Fabric 1.21.10, but steps for other versions should also be obvious.
 
-Click on the green `+` button on the bottom left of the app. Make sure the `Custom` tag is selected. Give it an icon if you wish, any name you want, and set the Loader to `Forge`, and Game version to `1.8.9`. Then press `+ Create`, click on the new profile (not the green arrow), and press "folder".
+Click on the green `+` button on the bottom left of the app. Make sure the `Custom` tag is selected. Give it an icon if you wish, any name you want, and set the Loader to `Fabric`, and Game version to `1.21.10`. Then press `+ Create`, click on the new profile (not the green arrow), and press "folder".
 
-### Step 4 - Installing our mods / SkyClient
+### Step 4 - Installing Mods
 
-Now that we've installed Forge 1.8.9, we need to move all our mods to the new Modrinth App folder. To do that, we'll right click our new instance and press `Open folder`. A Finder window should open, this is the equivalent of your ".minecraft" for this instance. Now, open Spotlight Search by pressing `CMD + Space` on your keyboard and typing `~/Library/Application Support/Minecraft` (if you are using SkyClient, you then need to open the `skyclient` folder). Simply move everything in this folder into the Modrinth App ".minecraft" folder that you opened earlier. Once this is done, you should be able to see all your mods in the Content tab, and can launch the profile. The Content tab can be opened by clicking on the instance (not the green start arrow), and clicking Content on the sidebar.
-
-When downloading mods from now on, you can simply drag and drop them into the Mods tab in Modrinth. Additionally, if the mod is on Modrinth, you can download them within the launcher using the `Add content` button at the top right of the Content tab.
+If the mod you want to download is on Modrinth, you can download them within the launcher using the `Add content` button at the top right of the Content tab. If the mod is not on Modrinth, you can simply drag and drop them into the Mods tab in the launcher.
 
 ### Step 5 - Explore
 
@@ -36,7 +34,7 @@ Modrinth Launcher has a lot of things to offer, such as lots of options for your
 
 #### `My mods arent showing up in-game!`
 
-There are 2 common causes for this, open the profile view (click on it or right click then `View instance`), then check the Content tab. If you do not see any mods here, [you should redo step 4](#step-4-installing-our-mods-skyclient).
+There are 2 common causes for this, open the profile view (click on it or right click then `View instance`), then check the Content tab. If you do not see any mods here, [you should redo step 4](#step-4-installing-mods).
 
 If you see a list of mods here then you should click the `Options` tab, then `Edit versions`, then make sure to choose Forge. Click `Save changes` and Forge should be installed, and the mods should work.
 

@@ -205,43 +205,37 @@ Now that we've installed Prism, let's log in. Once Prism has launched, you shoul
 
 Once this is completed, you can exit back to the main Prism Launcher menu. Click on the button at the top left that says "Add Instance".
 
-### Step 3 - Creating an Instance
+### Step 3 - Creating an instance
 
-This guide will focus on Forge 1.8.9, but steps for other versions should also be obvious.
+This guide will describe the process for Fabric 1.21.10, but steps for other versions should also be obvious.
 
 Once you've clicked on the button on the top left that says "Add Instance", name it whatever you want and giving a group for it is optional, but I do not recommend giving a group name until you need to better organize your instances.
 
-Under the `Version` selector, scroll down till you find 1.8.9 and select it. Then in the `Mod Loader` tab directly underneath, choose Forge (NOTE: this is not the tab on the left that says CurseForge). It will automatically choose the latest version of Forge for 1.8.9 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
+Under the `Version` selector, select 1.21.10. Then in the `Mod Loader` tab directly underneath, choose Fabric. It will automatically choose the latest version of Fabric for 1.21.10 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
 
-### Step 4 - Installing our mods / SkyClient
+### Step 4 - Installing Mods
 
-Now that we've installed Forge 1.8.9, we need to move all our mods to the new Prism Launcher folder. To do that, we'll right click our new instance and press `Edit` to generate the required files, then we exit out of this menu. Now right click the instance and press `Folder` and you should be redirected to a file explorer window, where you should open the folder titled `.minecraft`. Now, open a new file explorer and navigate to your old .minecraft folder, which is `~/.minecraft`. Then open the `skyclient` folder if you are using SkyClient. Simply move everything in this folder into the Prism Launcher .minecraft folder that you opened earlier. Once this is done, you should be able to see all your mods in the Mods tab, and can launch the instance.
+If the mod is on Modrinth or CurseForge, download them within the launcher using the `Download Mods` button. If the mod is not on either, you should be confident that it is not malware/a RAT, and you can simply drag and drop them into the Mods tab in Prism Launcher. 
 
-When downloading mods from now on, you can simply drag and drop them into the Mods tab in Prism Launcher. Additionally, if the mod is on Modrinth or CurseForge, you can download them within the launcher using the `Download Mods` button.
-
-### Step 5 - Selecting the correct Java
-
-Unlike the official launcher and Modrinth launcher, Prism does not automatically select the correct version of java for each instance.
-
-Minecraft 1.16 and below all use Java 8, 1.17-1.20.4 use Java 17, and 1.20.5+ use Java 21. I recommend installing all to make it simpler to use different versions of Minecraft whenever you want, however if you don't plan on playing 1.17-1.20.4, just Java 8 and 21. Note that Java 8 is commonly labeled as 1.8.
-
-To select the correct version of Java, edit the instance as you did in step 5 and go to the `Settings` tab. This will automatically open to the Java page. Make sure the tick box for `Java installation` is enabled, then press `Auto-detect` and choose the correct version. If you see a 1.8.0_51, please do not use that and follow the next steps to installing a newer Java version.
-
-If you do not have the required Java version, you can press the `Download Java` button instead. For ARM based computers, use Azul Zulu as your distribution, otherwise use Adoptium and download the latest release for whichever Java version you need. You can go back to the `Auto detect` button to see your installed Javas and make sure the one you have just installed is properly selected.
-
-### Step 6 - Explore
+### Step 5 - Explore
 
 Prism Launcher has a lot of things to offer, such as themes if you don't like the look of it, as well as a lot of options for your instances, including the ability to see all your mods, resource packs, and worlds in the launcher before launching. You can use these menus to install mods and resource packs, and even update mods if they are hosted on Modrinth or CurseForge! Please take the time to actually learn how the launcher works and experiment with it! Prism is an incredibly powerful launcher and it's important to know exactly what you can do with it!
 
 You can find a list of Prism themes and how to install them on [their website](https://prismlauncher.org/wiki/getting-started/change-themes).
 
-### Step 7 - Updating Prism
-
-Simply update through your package manager, or reinstall it the same way you installed it.
-
-### Step 8 - Setting CurseForge API Key
+### Step 7 - Setting CurseForge API Key
 
 Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. This can be bypassed by opening Prism settings, going to `APIs`, then `API Keys` and entering `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm` into the CurseForge Core API.
+
+## Updating Prism, Mods, Minecraft, and Fabric Loader
+
+**To update Prism**, simply update through your package manager, or reinstall it the same way you installed it.
+
+**To update mods**, head to the `Mods` tab, and simply press the `Check for Updates` button and follow all prompts. This will update all your mods to the latest version. It can also update disabled mods, but will still keep them disabled by default.
+
+**To update Minecraft**, head to the `Version` tab, (right) click on `Minecraft`, then `Change Version`. Set it to the version you want to use. Update your mods as described in the step above to update your mods to the new Minecraft version as well. Not all mods may be available for this new version of Minecraft. Take note of which mods don't get updated and try playing. If you crash, read the crash message to see which mods aren't updated yet and disable them.
+
+**To update Fabric Loader**, head to the `Version` tab, (right) cluck on `Fabric Loader`, then `Change Version`. Set it to the latest version.
 
 ## Common Issues
 
