@@ -103,6 +103,7 @@ These are other performance mods that one may prefer to use, but are not require
 
 | Mod | Description | Author | Incompatabilities | Notes |
 | --- | --- | --- | --- | --- |
+| [Cull Fewer Leaves](https://modrinth.com/mod/cull-fewer-leaves) | Cull inner leaves while keeping the fancy leaves look. A continuation of Cull Less Leaves. | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Fadeless](https://modrinth.com/mod/fadeless) | Removes transitions such as the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine or allow people to access certain menus quicker if they do not like the small wait time. This mod is made partially redundant by Remove Loading Screen. | [DerpDerpling](https://github.com/DerpDerpling) & [UltimateBoomer](https://github.com/UltimateBoomer) |
 
 ### Recommended
@@ -201,6 +202,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | Makes the loading screen darker. Allows for some customization. | [A5b84](https://github.com/A5b84) |
 | [Gamma Utils](https://modrinth.com/mod/gamma-utils) | A customizable fullbright mod. | [Sjouwer](https://github.com/Sjouwer) |
 | [Toolshot](https://modrinth.com/mod/toolshot) | Screenshot Tooltips just like they look in game! | [sivthepolarfox](https://github.com/sivthepolarfox) |
+| [Startup Timer](https://modrinth.com/mod/startup-timer) | Make a notification and sound when Minecraft finishes loading, letting you know when and exactly how long Minecraft took to load! | [ZhuRuoLing](https://github.com/ZhuRuoLing) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 
 ### Hypixel Mods
 
