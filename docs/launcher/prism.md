@@ -34,9 +34,11 @@ Under the `Version` selector, select 1.21.10. Then in the `Mod Loader` tab direc
 
 ### Step 4 - Installing Mods
 
+You can manage all your mods by clicking on the instance and pressing `Edit`, then clicking the `Mods` tab.
+
 If the mod is on Modrinth or CurseForge, download them within the launcher using the `Download Mods` button. You should prioritize checking Modrinth first (the default selection in Prism). If the mod is not on either, you should be confident that it is not malware/a RAT, and you can simply drag and drop them into the Mods tab in Prism. 
 
-You can similarly install resource and shader packs.
+You can similarly install resource and shader packs in their own tabs.
 
 ## Updating Prism, Mods, Minecraft, and Fabric Loader
 
