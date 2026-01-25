@@ -10,7 +10,7 @@ This guide will explain the install process for Prism. Please take the time afte
 
 ### Step 1 - Installing Prism
 
-[Download Prism Launcher](https://prismlauncher.org/download). Download the correct version your system and begin the installation. For Linux users, install through your package manager (Flathub or distro).
+[Download Prism Launcher](https://prismlauncher.org/download). Download the correct version your system and begin the installation. For Linux users, install through your package manager (Flathub or distro if available).
 
 For the Minimum and Maximum memory allocation, leave them at 512 MiB and 4096 MiB respectively, unless you only have 8GB of ram or less, in which case you may want to change the maximum to 2048 MiB.
 
@@ -20,7 +20,7 @@ After this, continue with the installation process as normal.
 
 ### Step 2 - Logging in
 
-Now that we've installed Prism, let's log in. Once Prism has launched, you should see a Steve head and "Profiles" text in the top right. Click on this and press "Manage Accounts". From here, click "Add Microsoft" on the right side menu. This will open a popup window, which will have a button to open the link to verify yourself and also copy the code. Simply paste the code into the window that opens up. Note, you may need to sign in to your Microsoft account first.
+Now that we've installed Prism, let's log in. Once Prism has launched, you should see a Steve head and `Profiles` text in the top right. Click on this and press "Manage Accounts". From here, click `Add Microsoft` on the right side menu. This will open a popup window, which will have a button to open the link to verify yourself and also copy the code. Simply paste the code into the window that opens up. Note, you may need to sign in to your Microsoft account first.
 
 Once this is completed, you can exit back to the main Prism Launcher menu. Click on the button at the top left that says "Add Instance".
 
@@ -28,23 +28,15 @@ Once this is completed, you can exit back to the main Prism Launcher menu. Click
 
 This guide will describe the process for Fabric 1.21.10, but steps for other versions should also be obvious.
 
-Once you've clicked on the button on the top left that says "Add Instance", name it whatever you want and giving a group for it is optional, but I do not recommend giving a group name until you need to better organize your instances.
+Once you've clicked on the button on the top left that says `Add Instance`, name it whatever you want and giving a group for it is optional, but I do not recommend giving a group name until you need to better organize your instances.
 
 Under the `Version` selector, select 1.21.10. Then in the `Mod Loader` tab directly underneath, choose Fabric. It will automatically choose the latest version of Fabric for 1.21.10 for you. Simply click "OK" to proceed. You should now be back on the main Prism page.
 
 ### Step 4 - Installing Mods
 
-If the mod is on Modrinth or CurseForge, download them within the launcher using the `Download Mods` button. If the mod is not on either, you should be confident that it is not malware/a RAT, and you can simply drag and drop them into the Mods tab in Prism Launcher. 
+If the mod is on Modrinth or CurseForge, download them within the launcher using the `Download Mods` button. You should prioritize checking Modrinth first (the default selection in Prism). If the mod is not on either, you should be confident that it is not malware/a RAT, and you can simply drag and drop them into the Mods tab in Prism. 
 
-### Step 5 - Explore
-
-Prism Launcher has a lot of things to offer, such as themes if you don't like the look of it, as well as a lot of options for your instances, including the ability to see all your mods, resource packs, and worlds in the launcher before launching. You can use these menus to install mods and resource packs, and even update mods if they are hosted on Modrinth or CurseForge! Please take the time to actually learn how the launcher works and experiment with it! Prism is an incredibly powerful launcher and it's important to know exactly what you can do with it!
-
-You can find a list of Prism themes and how to install them on [their website](https://prismlauncher.org/wiki/getting-started/change-themes).
-
-### Step 6 - Setting CurseForge API Key
-
-Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. This can be bypassed by opening Prism settings, going to `APIs`, then `API Keys` and entering `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm` into the CurseForge Core API.
+You can similarly install resource and shader packs.
 
 ## Updating Prism, Mods, Minecraft, and Fabric Loader
 
@@ -55,6 +47,14 @@ Some CurseForge mods may not allow downloads from third party launchers such as 
 **To update Minecraft**, head to the `Version` tab, (right) click on `Minecraft`, then `Change Version`. Set it to the version you want to use. Update your mods as described in the step above to update your mods to the new Minecraft version as well. Not all mods may be available for this new version of Minecraft. Take note of which mods don't get updated and try playing. If you crash, read the crash message to see which mods aren't updated yet and disable them.
 
 **To update Fabric Loader**, head to the `Version` tab, (right) click on `Fabric Loader`, then `Change Version`. Set it to the latest version.
+
+## CurseForge API Key
+
+Some CurseForge mods may not allow downloads from third party launchers such as Prism Launcher. This can be bypassed by opening Prism settings, going to `Services`, then `API Keys` and entering `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm` into the CurseForge text box.
+
+## Themes
+
+You can find a list of Prism themes and how to install them on [their website](https://prismlauncher.org/wiki/getting-started/change-themes).
 
 ## Common Issues
 

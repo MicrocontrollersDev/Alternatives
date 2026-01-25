@@ -2,11 +2,11 @@
 
 Modrinth App is an incredibly powerful launcher that makes managing your mods and modded instances much easier. It can do everything the official launcher can do, but allows for much more customization and ease of access. The official launcher has had several issues that have taken weeks to fix or are currently still not fixed, despite their severity. For modded and vanilla users alike, it is recommended to switch to Modrinth Launcher for an issue-less experience.
 
-This guide will explain the install process for Modrinth, as well as how we can use it for SkyClient. Please take the time after setting up to better learn your way around the launcher, as you may end up using it as your go-to launcher from now on!
+This guide will explain the install process for Modrinth. Please take the time after setting up to better learn your way around the launcher, as you may end up using it as your go-to launcher from now on!
 
 ## How to Install (Windows)
 
-* Despite looking long, this is a very simple process and should only take a few minutes! This guide will also assume you are migrating from SkyClient, but steps will be largely the same, except for the migrating data section.
+* Despite looking long, this is a very simple process and should only take a few minutes! For Linux users, install through your package manager (Flathub or distro if available).
 
 ### Step 1 - Installing Modrinth
 
@@ -26,9 +26,7 @@ Click on the green `+` button on the bottom left of the app. Make sure the `Cust
 
 If the mod you want to download is on Modrinth, you can download them within the launcher using the `Add content` button at the top right of the Content tab. If the mod is not on Modrinth, you can simply drag and drop them into the Mods tab in the launcher.
 
-### Step 5 - Explore
-
-Modrinth Launcher has a lot of things to offer, such as lots of options for your instances, and the ability to see all your mods & resource packs in the launcher before launching. You can use these menus to install mods and resource packs, and even update them if they are hosted on Modrinth! Please take the time to actually learn how the launcher works and experiment with it! Modrinth App is an incredibly powerful launcher and it's important to know exactly what you can do with it!
+You can similarly install resource and shader packs.
 
 ## Updating Modrinth, Mods, Minecraft, and Fabric Loader
 
