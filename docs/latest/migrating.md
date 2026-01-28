@@ -59,7 +59,6 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Ixeris](https://modrinth.com/mod/ixeris) | Moved GLFW polling events off the render thread, improving performance when moving your camera. | [decce6](https://github.com/decce6) |
 | [Audio Engine Tweaks](https://modrinth.com/mod/audio-engine-tweaks) | Fixes the sound pool overloading, allowing for sounds to continue playing at all time and without log spam. | [mattymatty97](https://github.com/mattymatty97) |
 | [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) | | Only useful in singleplayer, can still use on multiplayer. |
-| [Noxesium](https://modrinth.com/mod/noxesium) | Contains several smaller performance improvements and also has many visual bug fixes for the MCCI server. | [Noxcrew](https://github.com/Noxcrew) |
 | [Remove Reloading Screen](https://modrinth.com/mod/rrls) | Allows you to access other parts of the game by removing the reload screen except for the progress bar. | [dima_dencep](https://github.com/dimadencep) |
 | [C2ME](https://modrinth.com/mod/c2me-fabric) | C2ME is an experimental mod that attempts to multithread chunk generation, I/O, and loading. | [RelativityMC](https://github.com/RelativityMC) | | Only useful in singleplayer, can still use on multiplayer. |
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | VMP attempts to alleviate the strain on servers when there are a large amount of players. | [RelativityMC](https://github.com/RelativityMC) | | Only useful in singleplayer while hosting with World Host, can still use on multiplayer. |
@@ -94,9 +93,9 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Smooth Scrolling Refurbished](https://modrinth.com/mod/smooth-scrolling-refurbished) | Makes the scrolling in all menus smoother. | [JustAlittleWolf](https://github.com/JustAlittleWolf) |
 | [Controlling](https://modrinth.com/mod/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) |
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | Adds several QOL features to Minecraft's chat to make it more usable. | [mrbuilder1961](https://github.com/mrbuilder1961) |
-| [MixinTrace](https://modrinth.com/mod/mixintrace) | Makes it easier for mod developers to debug crash reports. | [comp500](https://github.com/comp500) |
+| [MixinTrace](https://modrinth.com/mod/mixintrace) | Makes it easier for mod developers to debug crash reports. | [comp500](https://github.com/comp500) | | | Works on modern versions despite not being updated to it. |
 | [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll) | Tooltips are now scrollable. With highly-customisable keybinds and settings, you can move tooltips anywhere on or off the screen. | [Provismet](https://github.com/Provismet) |
-| [Log Cleaner](https://modrinth.com/mod/log-cleaner) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) | | | (Probably) works on 1.21 despite not being updated to it. |
+| [Log Cleaner](https://modrinth.com/mod/log-cleaner) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) | | | Works on modern versions despite not being updated to it. |
 | [Better Selection](https://modrinth.com/mod/better-selection) | Makes it easier to select text by allowing mouse selection and Ctrl + ← and Ctrl + →. | [MDLC01](https://github.com/MDLC01) |
 | [Auto ReAuth](https://modrinth.com/mod/auto-reauth) | Automatically reauthenticates your session when you are not logged in correctly. | [connorslade](https://github.com/connorslade) |
 | [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Adds an in game account switcher that lets you switch accounts without having to restart the game. | [The-Fireplace](https://github.com/The-Fireplace) |
@@ -108,6 +107,8 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Unsafe World Random Access](https://modrinth.com/mod/uwrad) | Detects unsafe off-thread world random access, helping to find causes of "Accessing LegacyRandomSource from multiple threads" crash. | [RelativityMC](https://github.com/RelativityMC) |
 | [Better Screens](https://modrinth.com/mod/better-screens) | Better screens is a simple mod that improves the screens & containers experience, with simple quality of life fixes. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Respackopts](https://modrinth.com/mod/respackopts) | Config menus for resourcepacks and datapacks. | [jfronny](https://git.jfronny.dev/Johannes) |
+| [Noxesium](https://modrinth.com/mod/noxesium) | Improves play experience on large multiplayer servers, such as MCCI. | [Noxcrew](https://github.com/Noxcrew) |
+| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | A proximity based voice chat mod, used on many modern servers. | [henkelmax](https://github.com/henkelmax) |
 
 ### Other Cool Mods
 
@@ -133,7 +134,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Sciophobia](https://modrinth.com/mod/sciophobia) | Allows disabling text shadow or only translating it down, globally. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay) | A very simple block overlay mod. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Secure Skins](https://modrinth.com/mod/secureskins) | Make skin downloads use HTTPS. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a fade-in animation to chunks similar to Bedrock Edition. | [kerudion](https://github.com/kerudion) | Nvidium (chunks don't fade) |
+| [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a customizable fade-in and ChunkAnimator-esque animations to chunks. | [kerudion](https://github.com/kerudion) | Nvidium (chunks don't fade) |
 | [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) |
 | [Blur+](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
