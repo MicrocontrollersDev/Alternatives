@@ -69,6 +69,7 @@
 * [Solonovamax](https://github.com/solonovamax)
 * [stef-the](https://github.com/stef-the)
 * [Stekerser](https://github.com/Stekerser)
+* [sudosign](https://github.com/sudosign)
 * [Sychic](https://github.com/Sychic)
 * [Systemless](https://github.com/SystemlessDev)
 * [ThatGravyBoat](https://github.com/ThatGravyBoat)

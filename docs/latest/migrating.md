@@ -306,6 +306,7 @@ Notes:
 * [Lulonaut](https://github.com/Lulonaut)
 * [Mayaqq](https://github.com/MayaqqDev)
 * [PhantomBridger](https://github.com/PhantomBridger)
+* [sudosign](https://github.com/sudosign)
 * [TomAintAround](https://github.com/TomAintAround)
 * [voxxal](https://github.com/voxxal)
 * [Wyvest](https://github.com/Wyvest)
