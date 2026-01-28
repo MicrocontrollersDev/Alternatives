@@ -184,7 +184,8 @@ These are general mods for Hypixel.
 
 | Mod | Description | Author | Incompatabilities | Notes |
 | --- | --- | --- | --- | --- |
-| [Hypixel AutoGG](https://modrinth.com/mod/hypixelautogg) | Hypixel AutoGG for modern versions. | [spacebytee](https://github.com/spacebytee) |
+| [Hypixel AutoGG](https://modrinth.com/mod/hypixelautogg) | Automatically says GG on game ends. | [spacebytee](https://github.com/spacebytee) |
+| [Hypixel AutoTip](https://modrinth.com/mod/hypixelautotip) | Automatically tips players around every 15 minutes using /tipall. | [Lily2565](https://github.com/Lilyy2565) |
 | [Quickjoin](https://modrinth.com/mod/quickjoin) | Quickly join any game on Hypixel using an in-game menu. | [QWERTZexe](https://github.com/QWERTZexe) |
 
 ### Hypixel SkyBlock Mods
