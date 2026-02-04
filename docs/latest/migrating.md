@@ -118,6 +118,7 @@ These are mods that are more dependant on personal preference than importance.
 
 | Mod | Description | Author | Incompatabilities | Notes |
 | --- | --- | --- | --- | --- |
+| [Hold That Chunk V2](https://modrinth.com/mod/hold-that-chunk-v2) | Delays client chunk unloading, allowing you to see chunks you've visited outside your render distance. | [Mobilelize](https://github.com/Mobilelize) |
 | [e4mc](https://modrinth.com/mod/e4mc) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [vgskye](https://github.com/vgskye) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) (No 1.21.10 Yet) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
@@ -180,6 +181,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Gamma Utils](https://modrinth.com/mod/gamma-utils) | A customizable fullbright mod. | [Sjouwer](https://github.com/Sjouwer) |
 | [Toolshot](https://modrinth.com/mod/toolshot) | Screenshot Tooltips just like they look in game! | [sivthepolarfox](https://github.com/sivthepolarfox) |
 | [Startup Timer](https://modrinth.com/mod/startup-timer) | Make a notification and sound when Minecraft finishes loading, letting you know when and exactly how long Minecraft took to load! | [ZhuRuoLing](https://github.com/ZhuRuoLing) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [PingNameTags](https://modrinth.com/mod/pingnametags) | Adds colored ping inside player's nametag. | [Teashoe](https://github.com/Teashoe) |
 
 ### Hypixel Mods
 
