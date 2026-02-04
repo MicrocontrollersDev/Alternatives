@@ -10,7 +10,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     ### The Situation
 
-    So, you've been playing 1.8.9 for the past [9 years](https://howoldisminecraft189.today) and are ready to see what 1.21 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
+    So, you've been playing 1.8.9 for the past [10 years](https://howoldisminecraft189.today) and are ready to see what 1.21 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
 
     ### Why no longer OptiFine?
 
@@ -40,7 +40,7 @@ Dependencies are smaller mods that main mods rely on to function. If you are usi
 
 ### Performance
 
-These are mods that are needed for playing the latest versions of Minecraft at a reasonable FPS. These will also help decrease frame times, hopefully eliminating spikes or stuttering.
+These are mods that are needed for playing the latest versions of Minecraft at a reasonable FPS. These will also help decrease frame times, hopefully eliminating spikes or stuttering. Note that some mods on this list may only be helpful when playing singleplayer, but will not harm your multiplayer experience.
 
 | Mod | Description | Author |Incompatabilities | Notes |
 | --- | --- | --- | --- | --- |
@@ -66,17 +66,16 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Force Close Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen) | Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration. | [kennytv](https://github.com/kennytv) |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | A collection of micro-optimizations. | [Thosea](https://github.com/imthosea) |
 | [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer) | Attempts to optimize the generation of Jigsaw Structures and NBT pieces. | [TelepathicGrunt](https://github.com/TelepathicGrunt) | | Only useful in singleplayer, can still use on multiplayer. |
-| [Krypton](https://modrinth.com/mod/krypton) | Krypton optimizes network stacking and entity tracking, as well as other micro-optimizations. | [astei](https://github.com/astei) |
-| [KryptonFPN Patcher](https://modrinth.com/mod/kryptonfnp-patcher) | Patches Krypton to provide a few more optimizations and better support for Windows. | [404Setup](https://github.com/404Setup) |
 | [OptiPainting Reloaded](https://modrinth.com/mod/optipainting-reloaded) | Optimizes the rendering of paintings by not rendering the sides of the painting that are never visible. | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [FastNoise](https://modrinth.com/mod/zfastnoise) | Adds multiple micro-optimizations to world generation. | [ZenXArch](https://codeberg.org/ZenXArch) | | Only useful in singleplayer while hosting with World Host, can still use on multiplayer. |
 
 ### Other Performance Mods
 
-These are other performance mods that one may prefer to use, but are not required. It is neither recommended or unrecommended, and is up to the player to decide given their use-case.
+These are other performance mods that one may prefer to use, but are not essential and may come down to preference.
 
 | Mod | Description | Author | Incompatabilities | Notes |
 | --- | --- | --- | --- | --- |
-| [Cull Fewer Leaves](https://modrinth.com/mod/cull-fewer-leaves) | Cull inner leaves while keeping the fancy leaves look. A continuation of Cull Less Leaves. | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Cull Fewer Leaves](https://modrinth.com/mod/cull-fewer-leaves) | Cull inner leaves while keeping the fancy leaves look. A continuation of Cull Less Leaves. This mod can create a substantial visual difference for trees and leaves in general. | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Fadeless](https://modrinth.com/mod/fadeless) | Removes transitions such as the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine or allow people to access certain menus quicker if they do not like the small wait time. This mod is made partially redundant by Remove Loading Screen. | [DerpDerpling](https://github.com/DerpDerpling) & [UltimateBoomer](https://github.com/UltimateBoomer) |
 
 ### Recommended
@@ -260,10 +259,10 @@ If you are one of those weirdos who uses internal shaders (you shouldn't btw), h
 
 These are mods that are not recommended for use. They have either been replaced by other mods, cause issues, or are simply not needed.
 
-#### Will Never Be Supported
-
 | Mod | Reasoning | Author |
 | --- | --- | --- |
+| Krypton | Krypton is most beneficial when used on the server, and only provides microoptimizations for the client. Unfortunately these changes regularly cause issues with other mods like e4mc and ViaFabricPlus. | [astei](https://github.com/astei) |
+| Krypton FNP Patcher | Same reason as Krypton. | [404Setup](https://github.com/404Setup) |
 | Exordium | Exordium has terrible mod compatibility on modern Minecraft version, and even breaks several vanilla graphcs. It also no longer provides massive performance gains on 1.21.10+. | [tr7zw](https://github.com/tr7zw) | | May break some HUD elements from other mods. |
 | Embeddium | Embeddium is a fork of Sodium with worse performance, worse compatability, and less features. There is no reason to use this mod. | [embeddedt](https://github.com/embeddedt) |
 | More Culling | This mod is made by a user who was been exposed for making malware. Additionally, it causes many weird crashes. | [fxmorin](https://github.com/fxmorin) |
