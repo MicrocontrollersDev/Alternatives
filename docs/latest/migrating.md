@@ -40,7 +40,7 @@ Dependencies are smaller mods that main mods rely on to function. If you are usi
 
 ### Performance
 
-These are mods that are needed for playing the latest versions of Minecraft at a reasonable FPS. These will also help decrease frame times, hopefully eliminating spikes or stuttering. Note that some mods on this list may only be helpful when playing singleplayer, but will not harm your multiplayer experience.
+These are mods that are needed for playing the latest versions of Minecraft at a reasonable FPS. These will also help decrease frame times, hopefully eliminating spikes or stuttering. Note that some mods on this list may only be helpful when playing singleplayer, but will not harm your multiplayer experience nor should they impact your vanilla experience.
 
 | Mod | Description | Author |Incompatabilities | Notes |
 | --- | --- | --- | --- | --- |
@@ -58,16 +58,18 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Debugify](https://modrinth.com/mod/debugify) | Fixes several bugs in Minecraft, including a few which can effect performance. This will fix lag spikes when crossing chunks and when clicking on links or the resource pack folder button, reduces time it takes to load into a world, and fixes entity collision checks being needlessly calculated client side. | [isXander](https://github.com/isXander) |
 | [Ixeris](https://modrinth.com/mod/ixeris) | Moved GLFW polling events off the render thread, improving performance when moving your camera. | [decce6](https://github.com/decce6) |
 | [Audio Engine Tweaks](https://modrinth.com/mod/audio-engine-tweaks) | Fixes the sound pool overloading, allowing for sounds to continue playing at all time and without log spam. | [mattymatty97](https://github.com/mattymatty97) |
-| [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) | | Only useful in singleplayer, can still use on multiplayer. |
 | [Remove Reloading Screen](https://modrinth.com/mod/rrls) | Allows you to access other parts of the game by removing the reload screen except for the progress bar. | [dima_dencep](https://github.com/dimadencep) |
-| [C2ME](https://modrinth.com/mod/c2me-fabric) | C2ME is an experimental mod that attempts to multithread chunk generation, I/O, and loading. | [RelativityMC](https://github.com/RelativityMC) | | Only useful in singleplayer, can still use on multiplayer. |
-| [Very Many Players](https://modrinth.com/mod/vmp-fabric) | VMP attempts to alleviate the strain on servers when there are a large amount of players. | [RelativityMC](https://github.com/RelativityMC) | | Only useful in singleplayer while hosting with World Host, can still use on multiplayer. |
 | [Particle Core](https://modrinth.com/mod/particle-core) | Several optimizations to particles in Minecraft and customization of particle rendering, i.e., being able to turn them on/off individually and putting them in a reduced state. | [fzzyhmstrs](https://github.com/fzzyhmstrs) |
 | [Force Close Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen) | Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration. | [kennytv](https://github.com/kennytv) |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | A collection of micro-optimizations. | [Thosea](https://github.com/imthosea) |
-| [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer) | Attempts to optimize the generation of Jigsaw Structures and NBT pieces. | [TelepathicGrunt](https://github.com/TelepathicGrunt) | | Only useful in singleplayer, can still use on multiplayer. |
 | [OptiPainting Reloaded](https://modrinth.com/mod/optipainting-reloaded) | Optimizes the rendering of paintings by not rendering the sides of the painting that are never visible. | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [ScalableLux](https://modrinth.com/mod/scalablelux) | A mod based on Starlight that improves the performance of light updates in Minecraft. | [RelativityMC](https://github.com/RelativityMC) | | Only useful in singleplayer, can still use on multiplayer. |
+| [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) | | Only useful in singleplayer, can still use on multiplayer. |
+| [C2ME](https://modrinth.com/mod/c2me-fabric) | C2ME is an experimental mod that attempts to multithread chunk generation, I/O, and loading. | [RelativityMC](https://github.com/RelativityMC) | | Only useful in singleplayer, can still use on multiplayer. |
+| [Very Many Players](https://modrinth.com/mod/vmp-fabric) | VMP attempts to alleviate the strain on servers when there are a large amount of players. | [RelativityMC](https://github.com/RelativityMC) | | Only useful in singleplayer while hosting with World Host, can still use on multiplayer. |
+| [Server Core](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server, with vanilla altering optimizations disabled by default. | [Wesley1808](https://github.com/Wesley1808) |
 | [FastNoise](https://modrinth.com/mod/zfastnoise) | Adds multiple micro-optimizations to world generation. | [ZenXArch](https://codeberg.org/ZenXArch) | | Only useful in singleplayer while hosting with World Host, can still use on multiplayer. |
+| [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer) | Attempts to optimize the generation of Jigsaw Structures and NBT pieces. | [TelepathicGrunt](https://github.com/TelepathicGrunt) | | Only useful in singleplayer, can still use on multiplayer. |
 
 ### Other Performance Mods
 
