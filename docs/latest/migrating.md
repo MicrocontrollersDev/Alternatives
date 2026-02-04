@@ -55,7 +55,6 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Reduces your FPS when tabbed out of the game, therefore reducing your system load. | [juliand665](https://github.com/juliand665) |
 | [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) | Improves loading times when changing your language in game by only reloading the required resources. | [chachy](https://github.com/ChachyDev) |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also adds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
-| [Debugify](https://modrinth.com/mod/debugify) | Fixes several bugs in Minecraft, including a few which can effect performance. This will fix lag spikes when crossing chunks and when clicking on links or the resource pack folder button, reduces time it takes to load into a world, and fixes entity collision checks being needlessly calculated client side. | [isXander](https://github.com/isXander) |
 | [Ixeris](https://modrinth.com/mod/ixeris) | Moved GLFW polling events off the render thread, improving performance when moving your camera. | [decce6](https://github.com/decce6) |
 | [Audio Engine Tweaks](https://modrinth.com/mod/audio-engine-tweaks) | Fixes the sound pool overloading, allowing for sounds to continue playing at all time and without log spam. | [mattymatty97](https://github.com/mattymatty97) |
 | [Remove Reloading Screen](https://modrinth.com/mod/rrls) | Allows you to access other parts of the game by removing the reload screen except for the progress bar. | [dima_dencep](https://github.com/dimadencep) |
@@ -86,7 +85,9 @@ These are mods that I personally recommend due to their usefulness. While they m
 
 | Mod | Description | Author |Incompatabilities | Notes |
 | --- | --- | --- | --- | --- |
+| [Debugify](https://modrinth.com/mod/debugify) | Fixes many bugs in Minecraft. | [isXander](https://github.com/isXander) |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Removes cryptographic signatures from chat messages, making it harder to get chat reported. | [Aizistral](https://github.com/Aizistral-Studios) |
+| [No Chat Restrictions](https://modrinth.com/mod/no-chat-restrictions) | Restores access to game chat for all accounts. | [Aizistral](https://github.com/Aizistral-Studios) |
 | [Amecs](https://modrinth.com/mod/amecs) | Allows you to use modifiers for keybinds. For example, you can set keybinds to Ctrl/Shift/Alt/Super + key. | [Siphalor](https://github.com/Siphalor) |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix) | Fixes the gaps you see on items when holding them as well as 3D blocks. This makes for a much more pleasant experience for most resourcepacks, including both defaults. | [MehVahdJukaar](https://github.com/MehVahdJukaar) |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [Kir-Antipov](https://github.com/Kir-Antipov) |
