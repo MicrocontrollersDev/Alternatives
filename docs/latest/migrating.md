@@ -205,14 +205,15 @@ These are mods for Hypixel SkyBlock.
 | [SkyBlock Profile Viewer](https://modrinth.com/mod/skyblock-profile-viewer) | A modern Hypixel SkyBlock profile viewer. | [Meowdding](https://github.com/meowdding) |
 | [Skyblock Tweaks](https://modrinth.com/mod/sbt) | A Hypixel SkyBlock mod for the latest version providing many tweaks and gameplay enhancements. | [MisterCheezeCake](https://github.com/MisterCheezeCake) |
 | [Firmament](https://modrinth.com/mod/firmament) | An NEU inspired SkyBlock mod. | [nea890](https://github.com/nea89o) | | Use [Firmament Packet Fix](https://modrinth.com/mod/firmament-packet-fix) |
-| [Firmament Packet Fix](https://modrinth.com/mod/firmament-packet-fix) | Disables Firmament's ModAnnouncer feature which can cause extremely large packets that prevent you from being able to join any server. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Firmament Mod Announce Remover](https://modrinth.com/mod/firmament-packet-fix) | Disables Firmament's ModAnnouncer feature which sends a list of your mods to every server you join. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [SkyCubed](https://modrinth.com/mod/skycubed) | SkyCubed is a Hypixel SkyBlock UI overhaul mod, changing all aspects of the UI in-game to be more inline into it looking like its own game. | [Meowdding](https://github.com/meowdding) | 
 | [Skylens](https://modrinth.com/mod/skylens) | Skylens is a highly customizable mod that shows missing enchants, has a pet overlay, a compact level display and other cool features. | [nextrg](https://github.com/nextrg) |
 | [SkyOcean](https://modrinth.com/mod/skyocean) | SkyOcean is a mod that aims to improve the playing experience while staying true to the skyblock style, meaning that we aim to integrate with the base game in a seamless way. | [Meowdding](https://github.com/meowdding) |
 | [SkyHanni](https://modrinth.com/mod/skyhanni) | The same SkyHanni from 1.8.9, known for its garden related features. | [hannibal002](https://github.com/hannibal002) |
+| [Skyblock Overhaul (SBO)](https://modrinth.com/mod/skyblock-overhaul) | SkyblockOverhaul is a mod for the Mythological Ritual event in Hypixel SkyBlock and custom partyfinder. | [SkyblockOverhaul Team](https://github.com/SkyblockOverhaul) |
 | [SkyBlock RPC](https://modrinth.com/mod/skyblock-rpc) | A Discord integration for Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) |
 | [Catharsis](https://modrinth.com/mod/catharsis) | A Resourcepack mod for Hypixel SkyBlock | [Meowdding](https://github.com/meowdding) |
-| [Roughly Enough Items](https://modrinth.com/mod/rei) | A NEI mod. Not a SkyBlock specific mod, but mainly used on client modding for SkyBlock. | [shedaniel](https://github.com/shedaniel) |
+| [Roughly Enough Items](https://modrinth.com/mod/rei) | An NEI mod. Not a SkyBlock specific mod, but mainly used on client modding for SkyBlock. | [shedaniel](https://github.com/shedaniel) |
 | [REI Search Bar Calculations](https://modrinth.com/mod/rei-search-bar-calculations) | Adds a calculator to REI's search bar. | [BigBou](https://github.com/ABigBou) |
 
 ### OptiFine Replacements
