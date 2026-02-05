@@ -211,6 +211,7 @@ These are mods for Hypixel SkyBlock.
 | [SkyOcean](https://modrinth.com/mod/skyocean) | SkyOcean is a mod that aims to improve the playing experience while staying true to the skyblock style, meaning that we aim to integrate with the base game in a seamless way. | [Meowdding](https://github.com/meowdding) |
 | [SkyHanni](https://modrinth.com/mod/skyhanni) | The same SkyHanni from 1.8.9, known for its garden related features. | [hannibal002](https://github.com/hannibal002) |
 | [Skyblock Overhaul (SBO)](https://modrinth.com/mod/skyblock-overhaul) | SkyblockOverhaul is a mod for the Mythological Ritual event in Hypixel SkyBlock and custom partyfinder. | [SkyblockOverhaul Team](https://github.com/SkyblockOverhaul) |
+| [Odin](https://modrinth.com/mod/odin) | Hypixel SkyBlock mod which focuses on end game Dungeons & Kuudra. | [odtheking](https://github.com/odtheking) |
 | [SkyBlock RPC](https://modrinth.com/mod/skyblock-rpc) | A Discord integration for Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) |
 | [Catharsis](https://modrinth.com/mod/catharsis) | A Resourcepack mod for Hypixel SkyBlock | [Meowdding](https://github.com/meowdding) |
 | [Roughly Enough Items](https://modrinth.com/mod/rei) | An NEI mod. Not a SkyBlock specific mod, but mainly used on client modding for SkyBlock. | [shedaniel](https://github.com/shedaniel) |
