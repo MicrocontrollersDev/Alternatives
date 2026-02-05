@@ -26,7 +26,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     ### Getting Started
 
-    Due to many issues with the official Minecraft launcher, we will not be using it. Follow the guides for either Prism or Modrinth launcher using these guides: https://alternatives.microcontrollers.dev/launcher/home/
+    Due to many issues with the official Minecraft launcher, we will not be using it. Follow the guides for either Prism or Modrinth launcher [using my install guides](https://alternatives.microcontrollers.dev/launcher/home).
 
     ### Still Need Help?
 
