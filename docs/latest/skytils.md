@@ -4,7 +4,7 @@ Skytils is a Hypixel Skyblock mod available on both 1.8.9 and 1.21. In the
 1.21 version, it continues its practice of bundling Essential, which gives the user
 no ability to remove it, despite both the issues with Essential and the fact that it is fully unnecessary.
 
-Additionally, Skytils is not yet updated to 1.21.8, and the 1.21.5 releases are reportedly extremely buggy and unstable.
+Additionally, Skytils is not not receiving updates, and the releases for older versions are reportedly extremely buggy and unstable.
 
 For more information on exactly why Essential is bad and it is considered such a party foul to bundle it, check out the [Essential Alternatives Page](https://alternatives.microcontrollers.dev/latest/essential/).
 
@@ -189,7 +189,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Quality of Life
 
 * Always Show Item Name Highlight - ?
-* Low Health Vignette - [Death is Near](https://modrinth.com/mod/death-is-near)
+* Low Health Vignette - ?
 * Custom Auction Price Input - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Container Sell Value - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
 * Include Item Modifiers - ?
@@ -255,7 +255,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Auto Copy RNG Drops to Clipboard - ?
 * Also Copy Very Rare Drops to Clipboard - ?
 * Dupe Tracker - ?
-* Endstone Protector Spawn Timer - ?
+* Endstone Protector Spawn Timer - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Players in Range Display - ?
 * Placed Summoning Eye Display - ?
 * Ping Display - ?
@@ -289,7 +289,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Mayor Jerry
 
 * Hidden Jerry Alert - ?
-* Hidden Jerry Timer - ?
+* Hidden Jerry Timer - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Track Mayor Jerry Items - ?
 
 ### Mythological
