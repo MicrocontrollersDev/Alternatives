@@ -189,7 +189,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Quality of Life
 
 * Always Show Item Name Highlight - ?
-* Low Health Vignette - ?
+* Low Health Vignette - [Skylens](https://modrinth.com/mod/skylens)
 * Custom Auction Price Input - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Container Sell Value - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
 * Include Item Modifiers - ?
