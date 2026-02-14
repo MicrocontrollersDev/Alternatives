@@ -23,11 +23,11 @@ Aaron's Mod is a general mod and Hypixel Skyblock mod with many features that wi
 * Infinite Hotbar Scrolling - ?
 * Showing Item Groups Outside of Creative - ?
 * Not Resetting Cursor Position Between Chest GUIs - [Better Screens](https://modrinth.com/mod/better-screens)
-* Optimized Screenshots - ?
+* Optimized Screenshots - [Screenshot Compression](https://modrinth.com/mod/screenshot-compression)
 * Silence Resource Pack Log Spam - ?
 * Secure Skin Downloads - [Secure Skins](https://modrinth.com/mod/secureskins)
 * (Mac Only) Alternate FN+F3+N Keybind - ?
-* Christmas Chests For the Whole Month of December - ?
+* Christmas Chests For the Whole Month of December - [Better Block Entities](https://modrinth.com/mod/better-block-entities)  (Not automatic, but can set to be Christmas whenever you want)
 * Particle Manager - OverflowParticles (soon)
 * Text Replacer - ?
 
