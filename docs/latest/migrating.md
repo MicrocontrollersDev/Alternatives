@@ -111,6 +111,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Respackopts](https://modrinth.com/mod/respackopts) | Config menus for resourcepacks and datapacks. | [jfronny](https://git.jfronny.dev/Johannes) |
 | [Noxesium](https://modrinth.com/mod/noxesium) | Improves play experience on large multiplayer servers, such as MCCI. | [Noxcrew](https://github.com/Noxcrew) |
 | [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | A proximity based voice chat mod, used on many modern servers. | [henkelmax](https://github.com/henkelmax) |
+| [Screenshot Compression](https://modrinth.com/mod/screenshot-compression) | Automatically compress screenshots taken in-game to lower file size with various config options. | [Serilum](https://github.com/Serilum) |
 
 ### Other Cool Mods
 
