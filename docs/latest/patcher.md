@@ -24,15 +24,14 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 ### Experimental
 
 * Entry Point Caching - Irrelevant
-* HUD Caching - ?
-* Cache FPS - ?
-* Improved Skin Rendering - ?
+* HUD Caching - Irrelevant
+* Improved Skin Rendering - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) (This feature is only really useful in SkyBlock)
 
 ### Miscellaneous
 
 * Remove Ground Foliage - ?
 * 1.12 Farm Selection Boxes - Vanilla
-* Exclude Cacti from 1.12 Boxes - ?
+* Exclude Cacti from 1.12 Boxes - Bannable
 * Remove Water FOV - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * FOV Modifier - Vanilla (All FOV's can be changed in Vanilla's accessibility menu, but they can't be modified individually)
 * Sprinting FOV - Vanilla
@@ -79,7 +78,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Remove Water Overlay - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * Remove Inverted Colors from Crosshair - [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 * Fullbright - [Gamma Utils](https://modrinth.com/mod/gamma-utils)
-* Smart Fullbright - Not needed?
+* Smart Fullbright - Irrelevant
 * Disable Night Vision - [Better Night Vision](https://modrinth.com/mod/betternightvision)
 * Cleaner Night Vision - [Better Night Vision](https://modrinth.com/mod/betternightvision)
 * Show Own Nametag - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
@@ -207,3 +206,4 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 
 * [PhantomBridger](https://github.com/PhantomBridger)
 * Purpas
+
