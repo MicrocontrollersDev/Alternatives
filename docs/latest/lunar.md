@@ -6,7 +6,7 @@ Additionally, Lunar is *not* better for performance than Fabric & mods. Lunar re
 
 Please note that this page may be outdated due to Minecraft update cycles.
 
-It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
+It is recommended that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
 
 ## Mods
 
@@ -96,7 +96,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * FOV Mod - ?
 * Menu Blur - [Blur+](https://modrinth.com/mod/blur-fabric)
 * Custom Crosshair - [Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
-* Waypoints - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (MINIMAP FEATURE BANNABLE ON HYPIXEL!)
+* Waypoints - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) **(Minimap feature may be bannable on some servers like Hypixel)**
 * Scoreboard - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
 * Motion Blur - [Motion Blur](https://modrinth.com/mod/motionblur)
 * Shiny Pots - ?
@@ -117,10 +117,10 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * WorldEdit CUI - [WorldEdit CUI](https://curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
 * Replay Mod - [Replay Mod](https://modrinth.com/mod/replaymod)
 * Screenshot Uploader - [Screencapper](https://modrinth.com/mod/screencapper)
-* Auto Text Hot Key **(BANNABLE ON HYPIXEL)** - [Command Keys](https://modrinth.com/mod/commandkeys)
+* Auto Text Hot Key - [Command Keys](https://modrinth.com/mod/commandkeys) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
 * Mumble Link - ?
 * Boss Bar - ?
-* Freelook **(BANNABLE ON HYPIXEL)** - [Perspektive](https://modrinth.com/mod/perspektive)
+* Freelook - [Perspektive](https://modrinth.com/mod/perspektive) **(May be bannable on some servers like Hypixel)**
 * Quickplay - [Quickjoin](https://modrinth.com/mod/quickjoin)
 
 ## Settings

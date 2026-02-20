@@ -2,8 +2,6 @@
 
 Please note that this page may be outdated due to Minecraft update cycles.
 
-It is *essential* that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
-
 Feather "Client" is a Forge/Fabric mod marketing itself as a client, claiming immense FPS boosts and wide mod support.
 However, Feather, on numerous occasions, has been caught illegally stealing code and breaking other mod's licenses.
 Despite the overwhelming amount of evidence, their admins and moderators refuse to acknowledge it and avoid it.
@@ -15,6 +13,8 @@ Additionally, I do not personally trust them. If they are unable to write their 
 them to write proper security measures as by using Feather you are essentially giving them access to your Microsoft/Minecraft
 account. Their Discord server also refuses to ban scammers, as on several occasions myself and others have been told that it
 is not their problem.
+
+It is recommended that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
 
 ### Visuals
 
@@ -29,7 +29,7 @@ is not their problem.
 * Nick Hider - [Simple Nick Hider](https://modrinth.com/mod/simple-nick-hider)
 * Particles - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
-* Waypoints - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (MINIMAP FEATURE BANNABLE ON HYPIXEL!)
+* Waypoints - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) **(Minimap feature may be bannable on some servers like Hypixel)**
 * Weather Changer - [Weather Changer](https://modrinth.com/mod/weather-changer)
 * Zoom - [Zoomify](https://modrinth.com/mod/zoomify)
 
@@ -64,7 +64,7 @@ is not their problem.
 
 ### Other
 
-* Auto Text **(BANNABLE ON HYPIXEL)** - [Command Keys](https://modrinth.com/mod/commandkeys)
+* Auto Text - [Command Keys](https://modrinth.com/mod/commandkeys) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
 * Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
 * Oof Mod - ?
 * Perspective - [Perspektive](https://modrinth.com/mod/perspektive)
@@ -119,7 +119,7 @@ is not their problem.
 
 * Use Fast Rendering - [Sodium](https://modrinth.com/mod/sodium)
 * Use Direct Memory Access - [Sodium](https://modrinth.com/mod/sodium)
-* Use Fast Font Rendering - [Sodium](https://modrinth.com/mod/sodium)
+* Use Fast Font Rendering - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * Use Static Particle Color - [Particle Core](https://modrinth.com/mod/particle-core) (Improves performance of brightness calculations to make it not an issue instead of removing it entirely)
 * Lazy Chunk Loading - [Sodium](https://modrinth.com/mod/sodium)
 
