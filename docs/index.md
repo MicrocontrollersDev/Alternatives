@@ -1,4 +1,4 @@
-<script src="https://keepandroidopen.org/banner.js"></script>
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
 
 # Welcome!
 
