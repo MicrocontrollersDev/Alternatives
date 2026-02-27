@@ -124,7 +124,6 @@ These are mods that are more dependant on personal preference than importance.
 | [e4mc](https://modrinth.com/mod/e4mc) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [vgskye](https://github.com/vgskye) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) (No 1.21.10 Yet) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
-| [BetterGrassify](https://modrinth.com/mod/bettergrassify) | Better grass and snow. | [UltimatChamp](https://github.com/UltimatChamp) & [JayemCeekay](https://github.com/JayemCeekay) |
 | [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks) | Let's you alter the way nametags are rendered, such as background transparency, text shadow, and custom F1 rules. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Scroll Tweaks](https://modrinth.com/mod/scrolltweaks) | Let's you customize Minecraft hotbar scrolling. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
