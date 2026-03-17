@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # Feather "Client" Alternatives
 
 Please note that this page may be outdated due to Minecraft update cycles.

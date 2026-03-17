@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # Essential Alternatives
 
 ??? note "Essential sucks, click here to read why"

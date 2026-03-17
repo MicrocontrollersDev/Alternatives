@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # Latest
 
 **MAY NOT ALWAYS BE UP-TO-DATE, LATEST MEANS LATEST AT CURRENT EDITING TIME**

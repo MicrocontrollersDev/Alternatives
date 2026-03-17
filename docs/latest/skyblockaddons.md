@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # SkyblockAddons Alternatives
 
 SkyblockAddons has been mostly replaced by other mods in modern.

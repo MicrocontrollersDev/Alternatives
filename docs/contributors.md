@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # Massive thanks to the following people who helped make this:
 
 * [8KCoffeeWizard](https://github.com/8KCoffeeWizard)

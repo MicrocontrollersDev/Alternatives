@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # Skytils Alternatives
 
 Skytils is a Hypixel Skyblock mod available on both 1.8.9 and 1.21. In the

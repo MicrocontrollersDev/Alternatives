@@ -1,8 +1,12 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
+# Aaron's Mod Alternatives
+
 Aaron's Mod is a general mod and Hypixel Skyblock mod with many features that will be duplicated across your mods. There is nothing inherently wrong with this mod, but due to its all-in-one nature, this serves as an alternatives list.
 
 *this page is still a work in progress and is only based off the modrinth page for now*
 
-# Vanilla
+## Vanilla
 
 * Shadowed Scoreboard Text - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
 * Hide Scoreboard Score - Vanilla / [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
@@ -31,7 +35,7 @@ Aaron's Mod is a general mod and Hypixel Skyblock mod with many features that wi
 * Particle Manager - OverflowParticles (soon)
 * Text Replacer - ?
 
-# Skyblock
+## Skyblock
 
 * Rainbowify Max Level Enchantments - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Party Finder Stats Lookup - ?

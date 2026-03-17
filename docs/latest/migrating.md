@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # Migrating to Latest 
 
 This is a comprehensive guide on how to download Fabric and mods for it. It also provides direct links to many mods that you may find useful.

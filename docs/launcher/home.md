@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # Launcher
 
 Click the links below or use the sidebar navigation to find the list you want.

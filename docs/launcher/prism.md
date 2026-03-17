@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # Prism Launcher
 
 Prism Launcher is an incredibly powerful launcher that makes managing your mods and modded instances much easier. It can do everything the official launcher can do, but allows for much more customization and ease of access. The official launcher is much slower to use and requires a lot of manual work for modern Minecraft. For modded and vanilla users alike, it is recommended to switch to Prism Launcher for an issue-less experience.

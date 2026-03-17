@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # Lunar Client Alternatives
 
 Lunar, despite having the option to add Fabric mods, is not very compatible due to the nature of Lunar Client being closed sourced and heavily obfuscated, making it impossible for mod authors to properly add support. It's better to use the Fabric alternatives and cut Lunar out altogether.

@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # OptiFine Alternatives
 
 OptiFine no longer provides the best performance enhancement on the latest versions of Minecraft and is not compatible with many other mods. For these reasons, it is recommended that you ditch OptiFine and use the better alternatives.

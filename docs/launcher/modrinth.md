@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # Modrinth App
 
 Modrinth App is an incredibly powerful launcher that makes managing your mods and modded instances much easier. It can do everything the official launcher can do, but allows for much more customization and ease of access. The official launcher has had several issues that have taken weeks to fix or are currently still not fixed, despite their severity. For modded and vanilla users alike, it is recommended to switch to Modrinth Launcher for an issue-less experience.

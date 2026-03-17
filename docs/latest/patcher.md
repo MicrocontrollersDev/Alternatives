@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js?size=mini"></script>
+
 # (Poly)Patcher "Alternatives"
 
 PolyPatcher is a fork of Patcher and is a 1.8.9/1.12.2 performance, bug fix, and QOL mod.
