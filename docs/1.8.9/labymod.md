@@ -122,7 +122,7 @@ that you avoid using it if possible.
 ### Miscellaneous
 
 * AFK Time - ?
-* Click Test -  ?
+* Click Test - ?
 * Lava Challenge Time - ?
 * ToggleSneak Info - [PolySprint](https://modrinth.com/mod/polysprint)
 * Laby's MiniMap **(BANNABLE ON HYPIXEL)** - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files?version=1.8.9) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9)

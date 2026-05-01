@@ -90,7 +90,7 @@ I do not have Lunar Client and don't intend on downloading it. If you know where
 
 ### Nametags
 
-* Nametag Text Shadow -  [PolyNametag](https://modrinth.com/mod/polynametag)
+* Nametag Text Shadow - [PolyNametag](https://modrinth.com/mod/polynametag)
 * Third Person Nametag - [PolyNametag](https://modrinth.com/mod/polynametag)
 * Show Nametag Icon - Irrelevant
 * Nametag Opacity - [PolyNametag](https://modrinth.com/mod/polynametag)

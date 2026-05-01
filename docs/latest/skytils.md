@@ -26,8 +26,8 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Hypixel
 
-* Coop Add Confirmation - [SkyblockTweaks](https://modrinth.com/mod/sbt)
-* Guild Leave confirmation - [SkyblockTweaks](https://modrinth.com/mod/sbt)
+* Coop Add Confirmation - ?
+* Guild Leave confirmation - ?
 * Multiple Party Invites Fix - ?
 * Auto-Accept Reparty - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 
@@ -191,7 +191,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Quality of Life
 
 * Always Show Item Name Highlight - ?
-* Low Health Vignette - [Skylens](https://modrinth.com/mod/skylens)
+* Low Health Vignette - ?
 * Custom Auction Price Input - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Container Sell Value - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)?
 * Include Item Modifiers - ?
@@ -202,21 +202,21 @@ For more information on exactly why Essential is bad and it is considered such a
 * Enchant Glint Fix - Vanilla?
 * Hide Absorption Hearts - ?
 * Hide Air Display - [SkyCubed](https://modrinth.com/mod/skycubed)
-* Hide Armor Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
+* Hide Armor Display - [SkyCubed](https://modrinth.com/mod/skycubed)
 * Hide Cheap Coins - ?
 * Hide Dying Mobs - ?
 * Hide Fire on Entities - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Hide Fishing Hooks - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [SkyOcean](https://modrinth.com/mod/skyocean)
-* Hide Hunger Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
+* Hide Hunger Display - [SkyCubed](https://modrinth.com/mod/skycubed)
 * Hide Jerry Rune - ?
 * Hide Lightning - [SkyOcean](https://modrinth.com/mod/skyocean) / [Render Tweaks](https://modrinth.com/mod/rendertweaks)
 * Hide Mob Death Particles - ?
-* Hide Pet Health Display - [SkyblockTweaks](https://modrinth.com/mod/sbt)
+* Hide Pet Health Display - ?
 * Hide Players in Spawn - ?
 * Hide Potion Effects in Inventory - [Firmament](https://modrinth.com/mod/firmament) / [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Hide Scoreboard Score - Vanilla
-* Hide Vanilla Health Display - [SkyCubed](https://modrinth.com/mod/skycubed) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
-* Highlight Disabled Potion Effects - [SkyblockTweaks](https://modrinth.com/mod/sbt)
+* Hide Vanilla Health Display - [SkyCubed](https://modrinth.com/mod/skycubed)
+* Highlight Disabled Potion Effects - ?
 * Highlight Salvageable Items - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Highlight Dungeon-Sellable Items - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Lower Enderman Nametags - ?
@@ -226,13 +226,13 @@ For more information on exactly why Essential is bad and it is considered such a
 * No Fire - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * No Hurtcam - Vanilla (Accessibility -> Damage Tilt) / [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Party Addons - ?
-* Prevent Cursor Reset - [Firmament](https://modrinth.com/mod/firmament)
+* Prevent Cursor Reset - [Better Screens](https://modrinth.com/mod/better-screens)
 * Prevent Moving on Death - ?
 * Power Orb Lock - ?
 * Press Enter to Confirm Sign Popups - ?
 * Protect Items - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Protect Starred Items - ?
-* Quiver Display - [SkyblockTweaks](https://modrinth.com/mod/sbt) / [CustomScoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard) / [SkyHanni](https://modrinth.com/mod/SkyHanni)
+* Quiver Display - [CustomScoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard)
 * Restock Arrows Warning - ?
 * Spider's Den Rain Timer - ?
 * Show Arachne Spawn - ?
@@ -276,7 +276,7 @@ For more information on exactly why Essential is bad and it is considered such a
 * Chat Tabs - [Text Tunnels](https://modrinth.com/mod/text-tunnels)
 * Pre-Fill Chat Commands - [Text Tunnels](https://modrinth.com/mod/text-tunnels)
 * Auto Switch Chat Channel - ?
-* Copy Chat Messages - [ChatShot](https://modrinth.com/mod/chatshot) / [Firmament](https://modrinth.com/mod/firmament)
+* Copy Chat Messages - [ChatShot](https://modrinth.com/mod/chatshot)
 
 ### Fixes
 
@@ -350,7 +350,7 @@ For more information on exactly why Essential is bad and it is considered such a
 ### Quality of Life
 
 * Dark Mode Mist - [SkyOcean](https://modrinth.com/mod/skyocean) & [SkyOcean Darkmode Mist (Resource Pack)](https://modrinth.com/resourcepack/skyocean-darkmode-mist)
-* Highlight Completed Commissions - [SkyOcean](https://modrinth.com/mod/skyocean) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
+* Highlight Completed Commissions - [SkyOcean](https://modrinth.com/mod/skyocean)
 * Highlight Disabled HOTM Perks - Hypixel
 * More Visible Ghosts - ?
 * Powder Ghast Ping - ?
@@ -361,13 +361,13 @@ For more information on exactly why Essential is bad and it is considered such a
 
 ### Solvers
 
-* Fetchur Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [SkyblockTweaks](https://modrinth.com/mod/sbt)
+* Fetchur Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Puzzler Solver - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [SkyOcean](https://modrinth.com/mod/skyocean)
 
 ### Crystal Hollows
 
 * Crystal Hollow Death Waypoints - ?
-* Crystal Hollows Map -  [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
+* Crystal Hollows Map - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Crystal Hollows Waypoints - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * King Yolkar Waypoint - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Crystal Hollows Chat Coordinates Grabber - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)

@@ -51,7 +51,7 @@
 
 * ShinyPots - [GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * 1.7 Animations - [OverflowAnimations](https://modrinth.com/mod/animations)
-* Auto MyPosition -  ?
+* Auto MyPosition - ?
 * AutoGG - [Hytils Reborn](https://modrinth.com/mod/hytils)
 * Bossbar - [VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Chunk Animator - [Lumien231's Chunk Animator](https://www.curseforge.com/minecraft/mc-mods/chunk-animator/files?version=1.8.9)

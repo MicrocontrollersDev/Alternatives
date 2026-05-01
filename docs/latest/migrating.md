@@ -94,7 +94,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Amecs](https://modrinth.com/mod/amecs) | Allows you to use modifiers for keybinds. For example, you can set keybinds to Ctrl/Shift/Alt/Super + key. | [Siphalor](https://github.com/Siphalor) |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix) | Fixes the gaps you see on items when holding them as well as 3D blocks. This makes for a much more pleasant experience for most resourcepacks, including both defaults. | [MehVahdJukaar](https://github.com/MehVahdJukaar) |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [Kir-Antipov](https://github.com/Kir-Antipov) |
-| [Recursive Resources](https://modrinth.com/mod/recursiveresources) (No 1.21.10 Yet) | Resource Pack Organizer but ported to Fabric and with more features. It allows you to sort resource packs into folders, as well as search for them using a search bar. It also lets you change how resourcepacks are ordered.
+| [Recursive Resources](https://modrinth.com/mod/recursiveresources) (Not Updated Yet) | Resource Pack Organizer but ported to Fabric and with more features. It allows you to sort resource packs into folders, as well as search for them using a search bar. It also lets you change how resourcepacks are ordered.
 | [Smooth Scrolling Refurbished](https://modrinth.com/mod/smooth-scrolling-refurbished) | Makes the scrolling in all menus smoother. | [JustAlittleWolf](https://github.com/JustAlittleWolf) |
 | [Controlling](https://modrinth.com/mod/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) |
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | Adds several QOL features to Minecraft's chat to make it more usable. | [mrbuilder1961](https://github.com/mrbuilder1961) |
@@ -124,7 +124,7 @@ These are mods that are more dependant on personal preference than importance.
 | --- | --- | --- | --- | --- |
 | [Hold That Chunk V2](https://modrinth.com/mod/hold-that-chunk-v2) | Delays client chunk unloading, allowing you to see chunks you've visited outside your render distance. | [Mobilelize](https://github.com/Mobilelize) |
 | [e4mc](https://modrinth.com/mod/e4mc) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [vgskye](https://github.com/vgskye) |
-| [Cosmetica](https://modrinth.com/mod/cosmetica) (No 1.21.10 Yet) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
+| [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
 | [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks) | Let's you alter the way nametags are rendered, such as background transparency, text shadow, and custom F1 rules. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
@@ -156,7 +156,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [sonicether](https://github.com/sonicether), [vlad](https://github.com/vlad2305m), & [henkelmax](https://github.com/henkelmax) |
 | [Sound Controller](https://modrinth.com/mod/sound-controller) | Provides complete control over the volume of every sound in the game. | [BVengo](https://github.com/BVengo) |
 | [Screencopy](https://modrinth.com/mod/screencopy) | Let's you copy screenshot to clipboard. | [ImUrX](https://github.com/ImUrX) |
-| [Snapper](https://modrinth.com/mod/snapper) (No 1.21.10 Yet) | An in game screenshot viewer, making it easy to see all your screenshots in game. Also adds the ability to take and view panoramas. | [Spirit Studios](https://github.com/SpiritGameStudios/Snapper) |
+| [Snapper](https://modrinth.com/mod/snapper) (Not Updated Yet) | An in game screenshot viewer, making it easy to see all your screenshots in game. Also adds the ability to take and view panoramas. | [Spirit Studios](https://github.com/SpiritGameStudios/Snapper) |
 | [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui) | Improves the command block user interface by allowing for visual newlining . | [Tectato](https://github.com/Tectato) |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats) | A visual overhaul to the statistics screen, giving useful information in a much more visually appealing format. | [TheCSDev](https://github.com/TheCSDev) |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | Shows a player's head next to their chat message in game. | [dzwdz](https://github.com/dzwdz) |
@@ -206,11 +206,9 @@ These are mods for Hypixel SkyBlock.
 | [SkyBlock Custom Scoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard) | SkyHanni's CustomScoreboard for modern Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) |
 | [Skyblocker](https://modrinth.com/mod/skyblocker-liap) | A general purpose Hypixel SkyBlock utility mod. | [SkyblockerMod Team](https://github.com/SkyblockerMod) |
 | [SkyBlock Profile Viewer](https://modrinth.com/mod/skyblock-profile-viewer) | A modern Hypixel SkyBlock profile viewer. | [Meowdding](https://github.com/meowdding) |
-| [Skyblock Tweaks](https://modrinth.com/mod/sbt) | A Hypixel SkyBlock mod for the latest version providing many tweaks and gameplay enhancements. | [MisterCheezeCake](https://github.com/MisterCheezeCake) |
-| [Firmament](https://modrinth.com/mod/firmament) | An NEU inspired SkyBlock mod. | [nea890](https://github.com/nea89o) | | Use [Firmament Packet Fix](https://modrinth.com/mod/firmament-packet-fix) |
+| [Firmament](https://modrinth.com/mod/firmament) | An NEU inspired SkyBlock mod. | [nea890](https://github.com/nea89o) | | Use [Firmament Packet Fix](https://modrinth.com/mod/firmament-packet-fix). Firmament also current causes memory leaks. |
 | [Firmament Mod Announce Remover](https://modrinth.com/mod/firmament-packet-fix) | Disables Firmament's ModAnnouncer feature which sends a list of your mods to every server you join. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [SkyCubed](https://modrinth.com/mod/skycubed) | SkyCubed is a Hypixel SkyBlock UI overhaul mod, changing all aspects of the UI in-game to be more inline into it looking like its own game. | [Meowdding](https://github.com/meowdding) | 
-| [Skylens](https://modrinth.com/mod/skylens) | Skylens is a highly customizable mod that shows missing enchants, has a pet overlay, a compact level display and other cool features. | [nextrg](https://github.com/nextrg) |
 | [SkyOcean](https://modrinth.com/mod/skyocean) | SkyOcean is a mod that aims to improve the playing experience while staying true to the skyblock style, meaning that we aim to integrate with the base game in a seamless way. | [Meowdding](https://github.com/meowdding) |
 | [SkyHanni](https://modrinth.com/mod/skyhanni) | The same SkyHanni from 1.8.9, known for its garden related features. | [hannibal002](https://github.com/hannibal002) |
 | [Skyblock Overhaul (SBO)](https://modrinth.com/mod/skyblock-overhaul) | SkyblockOverhaul is a mod for the Mythological Ritual event in Hypixel SkyBlock and custom partyfinder. | [SkyblockOverhaul Team](https://github.com/SkyblockOverhaul) |
@@ -234,7 +232,7 @@ Features that OptiFine provides that are not resource pack related.
 | --- | --- | --- | --- |
 | [Iris](https://modrinth.com/mod/iris) | Shaders. More customizable than OptiFine's. | [IrisShaders](https://github.com/IrisShaders) |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
-| [Cosmetica](https://modrinth.com/mod/cosmetica) (No 1.21.10 Yet) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
+| [Cosmetica](https://modrinth.com/mod/cosmetica) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and snow. | [LambdAurora](https://github.com/LambdAurora) |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://github.com/ramidzkh) |

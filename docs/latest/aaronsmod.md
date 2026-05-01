@@ -12,7 +12,7 @@ Aaron's Mod is a general mod and Hypixel Skyblock mod with many features that wi
 * Hide Scoreboard Score - Vanilla / [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
 * Shadowed Name Tag Text - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
 * Hide Name Tag Background - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
-* FPS Display - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [Sodium Extra](https://modrinth.com/mod/sodium-extra) / [SimpleHUD](https://modrinth.com/mod/simplehud) / [MiniHUD](https://modrinth.com/mod/minihud)
+* FPS Display - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [Sodium Extra](https://modrinth.com/mod/sodium-extra) / [SimpleHUD](https://modrinth.com/mod/simplehud)
 * Extra Debug Info - ?
 * Hide Fire Overlay - [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks)
 * Hide Mob Spawner Animations - ?

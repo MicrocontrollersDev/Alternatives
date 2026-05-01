@@ -79,7 +79,7 @@ It is recommended that you read the **[Migrating to Latest](https://alternatives
 * Potion Effects - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
 * Potion Counter - [PotionCounter](https://modrinth.com/mod/potioncounter)
 * Stopwatch - ?
-* Server Address -  ?
+* Server Address - ?
 * Saturation - [AppleSkin](https://modrinth.com/mod/appleskin)
 * Reach Display - ?
 * Team View - Irrelevant
