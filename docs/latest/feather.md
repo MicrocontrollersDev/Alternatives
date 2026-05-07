@@ -38,8 +38,8 @@ It is recommended that you read the **[Migrating to Latest](https://alternatives
 ### HUD
 
 * Armor Status - [Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
-* Armor HUD - [RedLime's Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)
-* Attack Indicator - [Minenash's Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
+* Armor HUD - [Detail Armor Bar Reconstructed](https://modrinth.com/mod/detail-armor-bar-reconstructed)
+* Attack Indicator - [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
 * Boss Bar - ?
 * CPS - [TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Combo Display - ?
