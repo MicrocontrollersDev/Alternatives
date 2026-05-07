@@ -44,8 +44,8 @@ Dependencies are smaller mods that main mods rely on to function. If you are usi
 
 These are mods that are needed for playing the latest versions of Minecraft at a reasonable FPS. These will also help decrease frame times, hopefully eliminating spikes or stuttering. Note that some mods on this list may only be helpful when playing singleplayer, but will not harm your multiplayer experience nor should they impact your vanilla experience.
 
-| Mod | Description | Author | Incompatabilities | Notes |
-| --- | --- | --- | --- | --- |
+| Mod | Description | Author | Notes |
+| --- | --- | --- | --- |
 | [Sodium](https://modrinth.com/mod/sodium) | An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Iris](https://modrinth.com/mod/iris) | A shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [Iris Team](https://github.com/IrisShaders) | 
 | [Lithium](https://modrinth.com/mod/lithium) | Helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) |
@@ -65,13 +65,13 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Force Close Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen) | Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration. | [kennytv](https://github.com/kennytv) |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | A collection of micro-optimizations. | [Thosea](https://github.com/imthosea) |
 | [OptiPainting Reloaded](https://modrinth.com/mod/optipainting-reloaded) | Optimizes the rendering of paintings by not rendering the sides of the painting that are never visible. | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [ScalableLux](https://modrinth.com/mod/scalablelux) | A mod based on Starlight that improves the performance of light updates in Minecraft. | [RelativityMC](https://github.com/RelativityMC) | | Only useful in singleplayer, can still use on multiplayer. |
-| [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) | | Only useful in singleplayer, can still use on multiplayer. |
-| [C2ME](https://modrinth.com/mod/c2me-fabric) | C2ME is an experimental mod that attempts to multithread chunk generation, I/O, and loading. | [RelativityMC](https://github.com/RelativityMC) | | Only useful in singleplayer, can still use on multiplayer. |
-| [Very Many Players](https://modrinth.com/mod/vmp-fabric) | VMP attempts to alleviate the strain on servers when there are a large amount of players. | [RelativityMC](https://github.com/RelativityMC) | | Only useful in singleplayer while hosting with World Host, can still use on multiplayer. |
-| [Server Core](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server, with vanilla altering optimizations disabled by default. | [Wesley1808](https://github.com/Wesley1808) | | Only useful in singleplayer, can still use on multiplayer. |
-| [FastNoise](https://modrinth.com/mod/zfastnoise) | Adds multiple micro-optimizations to world generation. | [ZenXArch](https://codeberg.org/ZenXArch) | | Only useful in singleplayer while hosting with World Host, can still use on multiplayer. |
-| [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer) | Attempts to optimize the generation of Jigsaw Structures and NBT pieces. | [TelepathicGrunt](https://github.com/TelepathicGrunt) | | Only useful in singleplayer, can still use on multiplayer. |
+| [ScalableLux](https://modrinth.com/mod/scalablelux) | A mod based on Starlight that improves the performance of light updates in Minecraft. | [RelativityMC](https://github.com/RelativityMC) | Only useful in singleplayer, can still use on multiplayer. |
+| [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) | Only useful in singleplayer, can still use on multiplayer. |
+| [C2ME](https://modrinth.com/mod/c2me-fabric) | C2ME is an experimental mod that attempts to multithread chunk generation, I/O, and loading. | [RelativityMC](https://github.com/RelativityMC) | Only useful in singleplayer, can still use on multiplayer. |
+| [Very Many Players](https://modrinth.com/mod/vmp-fabric) | VMP attempts to alleviate the strain on servers when there are a large amount of players. | [RelativityMC](https://github.com/RelativityMC) | Only useful in singleplayer while hosting with World Host, can still use on multiplayer. |
+| [Server Core](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server, with vanilla altering optimizations disabled by default. | [Wesley1808](https://github.com/Wesley1808) | Only useful in singleplayer, can still use on multiplayer. |
+| [FastNoise](https://modrinth.com/mod/zfastnoise) | Adds multiple micro-optimizations to world generation. | [ZenXArch](https://codeberg.org/ZenXArch) | Only useful in singleplayer while hosting with World Host, can still use on multiplayer. |
+| [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer) | Attempts to optimize the generation of Jigsaw Structures and NBT pieces. | [TelepathicGrunt](https://github.com/TelepathicGrunt) | Only useful in singleplayer, can still use on multiplayer. |
 
 ### Other Performance Mods
 
@@ -86,8 +86,8 @@ These are other performance mods that one may prefer to use, but are not essenti
 
 These are mods that I personally recommend due to their usefulness. While they may not boost performance, they are mostly quality of life mods meant to better your experience.
 
-| Mod | Description | Author |Incompatabilities | Notes |
-| --- | --- | --- | --- | --- |
+| Mod | Description | Author | Notes |
+| --- | --- | --- | --- |
 | [Debugify](https://modrinth.com/mod/debugify) | Fixes many bugs in Minecraft. | [isXander](https://github.com/isXander) |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Removes cryptographic signatures from chat messages, making it harder to get chat reported. | [Aizistral](https://github.com/Aizistral-Studios) |
 | [No Chat Restrictions](https://modrinth.com/mod/no-chat-restrictions) | Restores access to game chat for all accounts. | [Aizistral](https://github.com/Aizistral-Studios) |
@@ -106,9 +106,9 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Adds an in game account switcher that lets you switch accounts without having to restart the game. | [The-Fireplace](https://github.com/The-Fireplace) |
 | [Smooth Skies](https://modrinth.com/mod/smooth-skies) | Smooths out the skybox colors on far render distances. This will fix the skybox breaking with Nvidium or similar. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Better Mipmaps](https://modrinth.com/mod/better-mipmaps) | Unlocks mipmap levels higher than 4 to reduce visual arifacts with high resolution resource packs. | [sidit77](https://github.com/sidit77) |
-| [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) | Fix several issues regarding key input on Linux. | [Ishland](https://github.com/ishland) | | Works on Linux only, will do nothing for other OS's. |
-| [MacOS Input Fixes](https://modrinth.com/mod/macos-input-fixes) | Fix several issues regarding key input on MacOS. | [hamarb123](https://github.com/hamarb123) | | Works on MacOS only, will do nothing for other OS's. |
-| [MacOS-Input-Fix](https://modrinth.com/mod/macos-input-fix) | Fixes macOS-specific input issues where movement keys don't resume after closing inventory screens. | [MGC8](https://modrinth.com/user/MGC8) | | Works on MacOS only, will do nothing for other OS's. |
+| [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) | Fix several issues regarding key input on Linux. | [Ishland](https://github.com/ishland) | Works on Linux only, will do nothing for other OS's. |
+| [MacOS Input Fixes](https://modrinth.com/mod/macos-input-fixes) | Fix several issues regarding key input on MacOS. | [hamarb123](https://github.com/hamarb123) | Works on MacOS only, will do nothing for other OS's. |
+| [MacOS-Input-Fix](https://modrinth.com/mod/macos-input-fix) | Fixes macOS-specific input issues where movement keys don't resume after closing inventory screens. | [MGC8](https://modrinth.com/user/MGC8) | Works on MacOS only, will do nothing for other OS's. |
 | [Unsafe World Random Access](https://modrinth.com/mod/uwrad) | Detects unsafe off-thread world random access, helping to find causes of "Accessing LegacyRandomSource from multiple threads" crash. | [RelativityMC](https://github.com/RelativityMC) |
 | [Better Screens](https://modrinth.com/mod/better-screens) | Better screens is a simple mod that improves the screens & containers experience, with simple quality of life fixes. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Respackopts](https://modrinth.com/mod/respackopts) | Config menus for resourcepacks and datapacks. | [jfronny](https://git.jfronny.dev/Johannes) |
@@ -120,8 +120,8 @@ These are mods that I personally recommend due to their usefulness. While they m
 
 These are mods that are more dependant on personal preference than importance.
 
-| Mod | Description | Author | Incompatabilities | Notes |
-| --- | --- | --- | --- | --- |
+| Mod | Description | Author | Notes |
+| --- | --- | --- | --- |
 | [Hold That Chunk V2](https://modrinth.com/mod/hold-that-chunk-v2) | Delays client chunk unloading, allowing you to see chunks you've visited outside your render distance. | [Mobilelize](https://github.com/Mobilelize) |
 | [e4mc](https://modrinth.com/mod/e4mc) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [vgskye](https://github.com/vgskye) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
@@ -140,7 +140,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Sciophobia](https://modrinth.com/mod/sciophobia) | Allows disabling text shadow or only translating it down, globally. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay) | A very simple block overlay mod. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [Secure Skins](https://modrinth.com/mod/secureskins) | Make skin downloads use HTTPS. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a customizable fade-in and ChunkAnimator-esque animations to chunks. | [kerudion](https://github.com/kerudion) | Nvidium (chunks don't fade) |
+| [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a customizable fade-in and ChunkAnimator-esque animations to chunks. | [kerudion](https://github.com/kerudion) | Chunks don't fade if using Nvidium |
 | [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) |
 | [Blur+](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
@@ -191,8 +191,8 @@ These are mods that are more dependant on personal preference than importance.
 
 These are general mods for Hypixel.
 
-| Mod | Description | Author | Incompatabilities | Notes |
-| --- | --- | --- | --- | --- |
+| Mod | Description | Author | Notes |
+| --- | --- | --- | --- |
 | [Hypixel AutoGG](https://modrinth.com/mod/hypixelautogg) | Automatically says GG on game ends. | [spacebytee](https://github.com/spacebytee) |
 | [Hypixel AutoTip](https://modrinth.com/mod/hypixelautotip) | Automatically tips players around every 15 minutes using /tipall. | [Lily2565](https://github.com/Lilyy2565) |
 | [Quickjoin](https://modrinth.com/mod/quickjoin) | Quickly join any game on Hypixel using an in-game menu. | [QWERTZexe](https://github.com/QWERTZexe) |
@@ -201,13 +201,13 @@ These are general mods for Hypixel.
 
 These are mods for Hypixel SkyBlock.
 
-| Mod | Description | Author | Incompatabilities | Notes |
-| --- | --- | --- | --- | --- |
+| Mod | Description | Author | Notes |
+| --- | --- | --- | --- |
 | [Modern Warp Menu](https://modrinth.com/mod/modern-warp-menu) | A prettier warp menu for Hypixel SkyBlock, ported to modern minecraft. | [Yukkuritaku](https://github.com/Yukkuritaku) |
 | [SkyBlock Custom Scoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard) | SkyHanni's CustomScoreboard for modern Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) |
 | [Skyblocker](https://modrinth.com/mod/skyblocker-liap) | A general purpose Hypixel SkyBlock utility mod. | [SkyblockerMod Team](https://github.com/SkyblockerMod) |
 | [SkyBlock Profile Viewer](https://modrinth.com/mod/skyblock-profile-viewer) | A modern Hypixel SkyBlock profile viewer. | [Meowdding](https://github.com/meowdding) |
-| [Firmament](https://modrinth.com/mod/firmament) | An NEU inspired SkyBlock mod. | [nea890](https://github.com/nea89o) | | Use [Firmament Packet Fix](https://modrinth.com/mod/firmament-packet-fix). Firmament also current causes memory leaks. |
+| [Firmament](https://modrinth.com/mod/firmament) | An NEU inspired SkyBlock mod. | [nea890](https://github.com/nea89o) | Use [Firmament Packet Fix](https://modrinth.com/mod/firmament-packet-fix). Firmament also current causes memory leaks. |
 | [Firmament Mod Announce Remover](https://modrinth.com/mod/firmament-packet-fix) | Disables Firmament's ModAnnouncer feature which sends a list of your mods to every server you join. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [SkyCubed](https://modrinth.com/mod/skycubed) | SkyCubed is a Hypixel SkyBlock UI overhaul mod, changing all aspects of the UI in-game to be more inline into it looking like its own game. | [Meowdding](https://github.com/meowdding) | 
 | [SkyOcean](https://modrinth.com/mod/skyocean) | SkyOcean is a mod that aims to improve the playing experience while staying true to the skyblock style, meaning that we aim to integrate with the base game in a seamless way. | [Meowdding](https://github.com/meowdding) |
