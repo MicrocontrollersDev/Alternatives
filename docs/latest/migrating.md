@@ -12,7 +12,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     ### The Situation
 
-    So, you've been playing 1.8.9 for the past [10 years](https://howoldisminecraft189.today) and are ready to see what 1.21 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
+    So, you've been playing 1.8.9 for the past [10 years](https://howoldisminecraft189.today) and are ready to see what 26.1 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
 
     ### Why no longer OptiFine?
 
@@ -185,6 +185,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Toolshot](https://modrinth.com/mod/toolshot) | Screenshot Tooltips just like they look in game! | [sivthepolarfox](https://github.com/sivthepolarfox) |
 | [Startup Timer](https://modrinth.com/mod/startup-timer) | Make a notification and sound when Minecraft finishes loading, letting you know when and exactly how long Minecraft took to load! | [ZhuRuoLing](https://github.com/ZhuRuoLing) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
 | [PingNameTags](https://modrinth.com/mod/pingnametags) | Adds colored ping inside player's nametag. | [Teashoe](https://github.com/Teashoe) |
+| [Hitbox+](https://modrinth.com/mod/hitboxplus) |  A mod to change the color of hitboxes. | [PingIsFun](https://github.com/PingIsFun) |
 
 ### Hypixel Mods
 
