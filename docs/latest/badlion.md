@@ -15,7 +15,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ### Chat Mods
   
-* Auto Text **(BANNABLE ON HYPIXEL)** - [Command Keys](https://modrinth.com/mod/commandkeys)
+* Auto Text - [Command Keys](https://modrinth.com/mod/commandkeys) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
 * Clear Chat - Vanilla
 * Compact Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
@@ -52,7 +52,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Item Counter - ?
 * Item Info - ?
 * Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
-* MiniMap **(BANNABLE ON HYPIXEL)** - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+* MiniMap - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
 * Pack Display - ?
 * Ping - [MiniHUD](https://modrinth.com/mod/minihud)
 * Potion Status - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
@@ -81,7 +81,7 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 * Motion Blur - [Motion Blur](https://modrinth.com/mod/motionblur)
 * Nick Hider - [Simple Nick Hider](https://modrinth.com/mod/simple-nick-hider)
 * Particle Mod - ?
-* Perspective Mod **(BANNABLE ON HYPIXEL)** - [Perspektive](https://modrinth.com/mod/perspektive)
+* Perspective Mod - [Freelook](https://modrinth.com/mod/freelook-oneconfig) **(May be bannable on some servers, auto disabled on hypixel)**
 * ShinyPots - ?
 * Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
 * Weather Changer - [Weather Changer](https://modrinth.com/mod/weather-changer)

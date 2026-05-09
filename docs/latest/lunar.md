@@ -108,7 +108,7 @@ It is recommended that you read the **[Migrating to Latest](https://alternatives
 * Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
 * Block Outline - [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
 * Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
-* TNT Timer Mod - [TNTime](https://modrinth.com/mod/tntime)
+* TNT Timer Mod - [TNT Countdown](https://modrinth.com/mod/tntcountdown)
 * Hitbox - [HitBox+](https://modrinth.com/mod/hitboxplus)
 * 3D Skin Layers - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 
@@ -122,7 +122,7 @@ It is recommended that you read the **[Migrating to Latest](https://alternatives
 * Auto Text Hot Key - [Command Keys](https://modrinth.com/mod/commandkeys) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
 * Mumble Link - ?
 * Boss Bar - ?
-* Freelook - [Perspektive](https://modrinth.com/mod/perspektive) **(May be bannable on some servers like Hypixel)**
+* Freelook - [Freelook](https://modrinth.com/mod/freelook-oneconfig) **(May be bannable on some servers, auto disabled on hypixel)**
 * Quickplay - [Quickjoin](https://modrinth.com/mod/quickjoin)
 
 ## Settings
@@ -146,7 +146,7 @@ It is recommended that you read the **[Migrating to Latest](https://alternatives
 * Borderless Fullscreen - [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)
 * Disable Weather - [Weather Changer](https://modrinth.com/mod/weather-changer)
 * Minimal View Bobbing - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
-* Unfocused FPS Limiter - [juliand665's Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+* Unfocused FPS Limiter - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
 #### Texture Pack Options
 
@@ -176,10 +176,10 @@ It is recommended that you read the **[Migrating to Latest](https://alternatives
 ## Other
 
 * Vanilla Bug Fixes - [Debugify](https://modrinth.com/mod/debugify)
-* Resource Pack Menu - [enjarai's Recursive Resources](https://modrinth.com/mod/recursiveresources)
-* Custom Main Menu - [Keksuccino's FancyMenu](https://modrinth.com/mod/fancymenu)
+* Resource Pack Menu - [Pack Manager](https://modrinth.com/mod/pack-manager)
+* Custom Main Menu - [FancyMenu](https://modrinth.com/mod/fancymenu)
 * Discord Rich Presence - [CraftPresence](https://modrinth.com/mod/craftpresence)
-* In Game Account Switcher - [The_Fireplace's In Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
+* In Game Account Switcher - [In Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 * In Game Server Switcher - ?
 
 # Contributors

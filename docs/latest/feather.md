@@ -69,7 +69,7 @@ It is recommended that you read the **[Migrating to Latest](https://alternatives
 * Auto Text - [Command Keys](https://modrinth.com/mod/commandkeys) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
 * Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
 * Oof Mod - ?
-* Perspective - [Perspektive](https://modrinth.com/mod/perspektive)
+* Perspective - [Freelook](https://modrinth.com/mod/freelook-oneconfig) **(May be bannable on some servers, auto disabled on hypixel)**
 * Screenshot - ?
 * Scrollable Tooltips - [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll)
 * Server Address - ?
@@ -146,7 +146,7 @@ It is recommended that you read the **[Migrating to Latest](https://alternatives
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 * [MumbleLink](https://modrinth.com/mod/mumble-link)
 * [HD Skins](https://www.hdskins.de)
-* [Recursive Resources (Fabric version of Resourcepack Organizer)](https://modrinth.com/mod/recursiveresources)
+* [Pack Manager (fork of Recursive Resources / Resource Pack Organiser))](https://modrinth.com/mod/pack-manager)
 * OptiFabric - Do not use.
 * [Iris](https://modrinth.com/mod/iris)
 * [ModMenu](https://modrinth.com/mod/modmenu)
