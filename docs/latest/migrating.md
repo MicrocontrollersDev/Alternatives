@@ -88,6 +88,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
+| [ExploitPreventer](https://modrinth.com/mod/exploitpreventer) | This is a fabric mod that prevents known client-side exploits. | [NikOverflow](https://github.com/NikOverflow) |
 | [Debugify](https://modrinth.com/mod/debugify) | Fixes many bugs in Minecraft. | [isXander](https://github.com/isXander) |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Removes cryptographic signatures from chat messages, making it harder to get chat reported. | [Aizistral](https://github.com/Aizistral-Studios) |
 | [No Chat Restrictions](https://modrinth.com/mod/no-chat-restrictions) | Restores access to game chat for all accounts. | [Aizistral](https://github.com/Aizistral-Studios) |
