@@ -246,7 +246,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | --- | --- | --- | --- | --- |
 | [Skyboxify](https://modrinth.com/mod/skyboxify) | Custom sky. | ✅ | | [lowercasebtw](https://github.com/lowercasebtw) |
 | [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. | ✅ | | [Pepper_Bell](https://github.com/PepperCode1) |
-| [Animatica](https://modrinth.com/mod/animatica) | Animated textures. | ✅ | | [FoundationGames](https://github.com/FoundationGames) |
+| [Animatica Refabricated](https://modrinth.com/mod/animaticarefabricated) | Animated textures. | ✅ | | [FoundationGames](https://github.com/FoundationGames) & [Coredex](https://github.com/coredex-source) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. | ✅ | | [opekope2](https://github.com/opekope2) |
 | [Polytone](https://modrinth.com/mod/polytone) | Custom colors, sounds, particles, GUI elements, and more. | ✅ | More customizable. | [MehVahdJukaar](https://github.com/MehVahdJukaar)  |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
