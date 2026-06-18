@@ -70,7 +70,8 @@ Don't feel forced to use Essential!
 
 ## Cosmetics
 
-* Cosmetics - [Cosmetica](https://modrinth.com/mod/cosmetica)
+* Pre-built Cosmetics - [Cosmetica](https://modrinth.com/mod/cosmetica)
+* Model your own cosmetics - [Figura](https://modrinth.com/mod/figura)
 
 ## Quality of Life
 
