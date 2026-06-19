@@ -71,6 +71,9 @@ Don't feel forced to use Essential!
 ## Cosmetics
 
 * Cosmetics - [Cosmetica](https://modrinth.com/mod/cosmetica)
+* Cosmetics - [Figura](https://modrinth.com/mod/figura)
+  * Note: Cosmetica is great for adding small accessories like hats or ears, whereas Figura supports replacing
+    the entire player model with something new, including custom items, animations, body parts, and more.
 
 ## Quality of Life
 
