@@ -47,6 +47,7 @@
 * [Lucasyh](https://github.com/Lucasyh)
 * [Luna](https://github.com/lunaynx)
 * [LynithDev](https://github.com/LynithDev)
+* [mageowl](https://github.com/mageowl)
 * [MisterCheezeCake](https://github.com/MisterCheezeCake)
 * [Moiré](https://github.com/moire9)
 * [Moisty](https://github.com/Mqisty)

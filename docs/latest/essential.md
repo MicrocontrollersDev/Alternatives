@@ -103,3 +103,4 @@ Don't feel forced to use Essential!
 
 * [Blurryface](https://blurry.gay)
 * [KTrain](https://github.com/KTrain5169)
+* [mageowl](https://github.com/mageowl)
