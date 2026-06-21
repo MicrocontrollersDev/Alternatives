@@ -195,6 +195,7 @@ These are general mods for Hypixel.
 | --- | --- | --- | --- |
 | [Hypixel AutoGG](https://modrinth.com/mod/hypixelautogg) | Automatically says GG on game ends. | [spacebytee](https://github.com/spacebytee) |
 | [Hypixel AutoTip](https://modrinth.com/mod/hypixelautotip) | Automatically tips players around every 15 minutes using /tipall. | [Lily2565](https://github.com/Lilyy2565) |
+| [Hypixel Tab Completions](https://modrinth.com/mod/hypixel-tab-completions) | A simple Fabric mod that adds tab completions to common commands on Hypixel. | [OperationPotato](https://github.com/OperationPotato) |
 | [Quickjoin](https://modrinth.com/mod/quickjoin) | Quickly join any game on Hypixel using an in-game menu. | [QWERTZexe](https://github.com/QWERTZexe) |
 
 ### Hypixel SkyBlock Mods
@@ -203,6 +204,7 @@ These are mods for Hypixel SkyBlock.
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
+| [SkyBlock Item List](https://modrinth.com/mod/skyblock-item-list) | A purpose-built item and recipe viewer for Hypixel SkyBlock. | [OperationPotato](https://github.com/OperationPotato) |
 | [Modern Warp Menu](https://modrinth.com/mod/modern-warp-menu) | A prettier warp menu for Hypixel SkyBlock, ported to modern minecraft. | [Yukkuritaku](https://github.com/Yukkuritaku) |
 | [SkyBlock Custom Scoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard) | SkyHanni's CustomScoreboard for modern Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) |
 | [Skyblocker](https://modrinth.com/mod/skyblocker-liap) | A general purpose Hypixel SkyBlock utility mod. | [SkyblockerMod Team](https://github.com/SkyblockerMod) |
