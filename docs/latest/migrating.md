@@ -100,7 +100,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | Adds several QOL features to Minecraft's chat to make it more usable. | [mrbuilder1961](https://github.com/mrbuilder1961) |
 | [MixinTrace Reborn](https://modrinth.com/mod/mixintrace-reborn) | Makes it easier for mod developers to debug crash reports. | [comp500](https://github.com/comp500) & [IAFEnvoy](https://github.com/IAFEnvoy) |
 | [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll) | Tooltips are now scrollable. With highly-customisable keybinds and settings, you can move tooltips anywhere on or off the screen. | [Provismet](https://github.com/Provismet) |
-| [Log Cleaner Multi Loader](https://modrinth.com/mod/log-cleaner-multiloader) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) & [noramibu](https://github.com/noramibu) |
+| [Log Cleaner](https://modrinth.com/mod/log-cleaner) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) |
 | [Better Selection](https://modrinth.com/mod/better-selection) | Makes it easier to select text by allowing mouse selection and Ctrl + ← and Ctrl + →. | [MDLC01](https://github.com/MDLC01) |
 | [Auto ReAuth](https://modrinth.com/mod/auto-reauth) | Automatically reauthenticates your session when you are not logged in correctly. | [connorslade](https://github.com/connorslade) |
 | [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Adds an in game account switcher that lets you switch accounts without having to restart the game. | [The-Fireplace](https://github.com/The-Fireplace) |
