@@ -236,17 +236,17 @@ Features that OptiFine provides that are not resource pack related.
 | [Iris](https://modrinth.com/mod/iris) | Shaders. More customizable than OptiFine's. | [IrisShaders](https://github.com/IrisShaders) |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
 | [Cosmetica](https://modrinth.com/mod/cosmetica) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
-| [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and snow. | [LambdAurora](https://github.com/LambdAurora) |
+| [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and snow, more customizable than OptiFine.. | [LambdAurora](https://github.com/LambdAurora) |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://github.com/ramidzkh) |
 
 #### Resource Packs
 
-Resource pack features that OptiFine has. Not all support the OptiFine format.
+Resource pack features that MCPatcher/OptiFine has. Not all support the MCPatcher format.
 
-| Mod | Feature | Supports OptiFine format| Notes | Author |
+| Mod | Feature | Supports MCPatcher format| Notes | Author |
 | --- | --- | --- | --- | --- |
-| [Skyboxify](https://modrinth.com/mod/skyboxify) | Custom sky. | ✅ | | [lowercasebtw](https://github.com/lowercasebtw) |
+| [Nuit](https://modrinth.com/mod/nuit) | Custom sky. | 🚧 | Requires [Nuit Interop](https://modrinth.com/mod/nuit-interop) for OptiFine support. | [FlashyReese](https://github.com/FlashyReese) && [AMereBagatelle](https://github.com/AMereBagatelle) |
 | [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. | ✅ | | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Animatica Refabricated](https://modrinth.com/mod/animaticarefabricated) | Animated textures. | ✅ | | [FoundationGames](https://github.com/FoundationGames) & [Coredex](https://github.com/coredex-source) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. | ✅ | | [opekope2](https://github.com/opekope2) |
