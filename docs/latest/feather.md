@@ -1,11 +1,10 @@
 <script src="https://keepandroidopen.org/banner.js?size=mini"></script>
 
-# Feather "Client" Alternatives
+# Dawn (Feather) "Client" Alternatives
 
 Please note that this page may be outdated due to Minecraft update cycles.
 
-Feather "Client" is a Forge/Fabric mod marketing itself as a client, claiming immense FPS boosts and wide mod support.
-However, Feather, on numerous occasions, has been caught illegally stealing code and breaking other mod's licenses.
+Feather, on numerous occasions, has been caught illegally stealing code and breaking other mod's licenses.
 Despite the overwhelming amount of evidence, their admins and moderators refuse to acknowledge it and avoid it.
 Feather is also unsupported by many mod authors, as Feather is closed source and obfuscated, and so incompatibilies cannot
 be fixed by mod authors. It is not recommended to use Feather or support the developers behind the "client". All major
@@ -17,6 +16,20 @@ account. Their Discord server also refuses to ban scammers, as on several occasi
 is not their problem.
 
 It is recommended that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
+
+## OneClient
+
+**If you are too lazy to install all these mods yourself and want a cohesive client experience like Feather Client,** we
+recommend using **[OneClient](https://polyfrost.org/oneclient)**.
+
+It is a "client" that feels like a traditional client, having a **one-click install**, a lot of pre-packaged mods, and a cohesive
+experience, but it also is **fully open-source,** uses Fabric instead of working around it, and is made by mod developers
+who are actually in the Minecraft modding community.
+
+Rather than one monolithic client that ruins compatibility with other mods, **OneClient installs the best performance and QoL
+mods from this list** and splits itself up into smaller mods that can even be installed separately via Modrinth.
+
+Note that OneClient contains in-game purchases such as cosmetics that can be completely disabled if desired.
 
 ### Visuals
 

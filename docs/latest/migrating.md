@@ -1,6 +1,6 @@
 <script src="https://keepandroidopen.org/banner.js?size=mini"></script>
 
-# Migrating to Latest 
+# Migrating to Latest
 
 This is a comprehensive guide on how to download Fabric and mods for it. It also provides direct links to many mods that you may find useful.
 
@@ -34,6 +34,21 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     Feel free to join my [Discord server](https://discord.gg/rejfv9kFJj) for any help downloading Fabric, its mods, or general questions about them.
     
+
+## OneClient
+
+**If you are too lazy to install all these mods yourself and want a cohesive client experience like on 1.8,** we
+recommend using **[OneClient](https://polyfrost.org/oneclient)**.
+
+It is a "client" that feels like a traditional client, having a **one-click install**, a lot of pre-packaged mods, and a cohesive
+experience, but it also is **fully open-source,** uses Fabric instead of working around it, and is made by mod developers
+who are actually in the Minecraft modding community.
+
+Rather than one monolithic client that ruins compatibility with other mods, **OneClient installs the best performance and QoL
+mods from this list** and splits itself up into smaller mods that can even be installed separately via Modrinth.
+
+Note that OneClient contains in-game purchases such as cosmetics that can be completely disabled if desired.
+
 ## Mods
 
 ### Note about Dependencies
