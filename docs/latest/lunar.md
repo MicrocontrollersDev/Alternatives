@@ -39,103 +39,103 @@ Note that OneClient contains in-game purchases such as cosmetics that can be com
 ### Chat Mods
 
 * Chat Filter - ?
-* Chat Height Fix - [Chat Plus](https://modrinth.com/mod/chat-plus)
+* Chat Height Fix - [Chatting](https://modrinth.com/mod/chatting)
 * Don't Clear Chat History - [Chat Plus](https://modrinth.com/mod/chat-plus)
 * Highlighted Name - [ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * Background Opacity - Vanilla (Accessibility Options)
 * Hide Incoming Messages - ?
-* Stack Spam Messages - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Stop Servers from Closing Chat - ?
+* Stack Spam Messages - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Stop Servers from Closing Chat - [Better Screens](https://modrinth.com/mod/betterscreens)
 * Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
 * Unlimited Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Chat Animation - [Chat Plus](https://modrinth.com/mod/chat-plus) / [Chat Animation](https://modrinth.com/mod/chatanimation)
+* Chat Animation - [Chat Animation](https://modrinth.com/mod/chatanimation)
 
 ### Hypixel Mods
 
 
 * Hypixel Skyblock - See Skyblock mods [here](https://alternatives.microcontrollers.dev/latest/migrating/#skyblock-mods)
-* Remove Guild MOTD - ?
-* Remove Guild on Tab - ?
-* Short Chat Channel Messages - ?
-* Auto Friend - ?
+* Remove Guild MOTD - [Hytils Reborn](https://modrinth.com/mod/hytils)
+* Remove Guild on Tab - [Hytils Reborn](https://modrinth.com/mod/hytils)
+* Short Chat Channel Messages - [Hytils Reborn](https://modrinth.com/mod/hytils)
+* Auto Friend - [Hytils Reborn](https://modrinth.com/mod/hytils)
 * Auto Tip - [Hypixel AutoTip](https://modrinth.com/mod/hypixelautotip)
-* Auto GG - [Auto GG](https://modrinth.com/mod/auto-gg)
-* Anti GG - ?
+* Auto GG - [Hytils Reborn](https://modrinth.com/mod/hytils)
+* Anti GG - [Hytils Reborn](https://modrinth.com/mod/hytils)
 * Auto Who - No longer works on Hypixel
 * Level Head - ?
-* Hypixel Autocomplete - ?
+* Hypixel Autocomplete - [Hypixel Tab Completions](https://modrinth.com/mod/hypixel-tab-completions)
 * Hide Private Messages - ?
 * Hide Team Chat - ?
 * Hide Party Chat - ?
 * Hide Guild Chat - ?
 * Hide Shouts - ?
 * Hide Spectator Chat - ?
-* Hide Lobby Join Messages - ?
-* Hide Join Messages - ?
-* Hide Leave Messages - ?
-* Hide Soul Well Announcements - ?
+* Hide Lobby Join Messages - [Hytils Reborn](https://modrinth.com/mod/hytils)
+* Hide Join Messages - [Hytils Reborn](https://modrinth.com/mod/hytils)
+* Hide Leave Messages - [Hytils Reborn](https://modrinth.com/mod/hytils)
+* Hide Soul Well Announcements - [Hytils Reborn](https://modrinth.com/mod/hytils)
 
 ### HUD Mods
 
-* Armor Status - [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
-* Clock - [MiniHUD](https://modrinth.com/mod/minihud)
-* Combo Counter - ?
-* Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display) / [MiniHUD](https://modrinth.com/mod/minihud) / [Sodium Extra](https://modrinth.com/mod/sodium-extra)
-* CPS - [TipTapShow](https://modrinth.com/mod/tiptapshow)
-* Day Counter - [MiniHUD](https://modrinth.com/mod/minihud)
-* DirectionHUD - [Coordinates Display](https://modrinth.com/mod/coordinates-display)
-* FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [MiniHUD](https://modrinth.com/mod/minihud) / [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+* Armor Status - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [uku's Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
+* Clock - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Combo Counter - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* CPS - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [TipTapShow](https://modrinth.com/mod/tiptapshow)
+* Day Counter - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* DirectionHUD - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* FPS - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [FPS - Display](https://modrinth.com/mod/fpsdisplay)
 * Item Tracker - ?
-* Key Strokes - [TipTapShow](https://modrinth.com/mod/tiptapshow)
-* Memory Usage - [MiniHUD](https://modrinth.com/mod/minihud)
-* Pack Display - ?
-* Ping - [MiniHUD](https://modrinth.com/mod/minihud)
-* Potion Effects - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
+* Key Strokes - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [TipTapShow](https://modrinth.com/mod/tiptapshow)
+* Memory Usage - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Pack Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Ping - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Potion Effects - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
 * Potion Counter - [PotionCounter](https://modrinth.com/mod/potioncounter)
 * Stopwatch - ?
-* Server Address - ?
-* Saturation - [AppleSkin](https://modrinth.com/mod/appleskin)
-* Reach Display - ?
+* Server Address - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Saturation - [AppleSkin](https://modrinth.com/mod/appleskin) / [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Reach Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Team View - Irrelevant
 
 ### Nametags
 
-* Nametag Text Shadow - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
-* Third Person Nametag - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Nametag Text Shadow - [PolyNametag](https://modrinth.com/mod/polynametag)
+* Third Person Nametag - [PolyNametag](https://modrinth.com/mod/polynametag)
 * Show Nametag Icon - Irrelevant
-* Nametag Opacity - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Nametag Opacity - [PolyNametag](https://modrinth.com/mod/polynametag)
 
 ### Visual Mods
 
 * 2D Items - [Animatium](https://modrinth.com/mod/animatium)
 * UHC Overlay - [Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
-* FOV Mod - ?
+* FOV Mod - [FOVChanger](https://modrinth.com/mod/fovchanger)
 * Menu Blur - [Blur+](https://modrinth.com/mod/blur-fabric)
 * Custom Crosshair - [Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * Waypoints - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) **(Minimap feature may be bannable on some servers like Hypixel)**
-* Scoreboard - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
-* Motion Blur - [Motion Blur](https://modrinth.com/mod/motionblur)
+* Scoreboard - [VanillaHUD](https://modrinth.com/mod/vanillahud)
+* Motion Blur - [PolyBlur](https://modrinth.com/mod/polyblur)
 * Shiny Pots - ?
 * Scrollable Tooltips - [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll)
-* Particle Multiplier - ?
+* Particle Multiplier - [OverflowParticles](https://modrinth.com/mod/overflowparticles)
 * Cooldowns - ?
-* Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
+* Time Changer - [PolyTime](https://modrinth.com/mod/polytime)
 * Block Outline - [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay)
-* Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
+* Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite) & [ItemPhysic Lite Config](https://modrinth.com/mod/itemphysicliteconfig)
 * TNT Timer Mod - [TNT Countdown](https://modrinth.com/mod/tntcountdown)
-* Hitbox - [HitBox+](https://modrinth.com/mod/hitboxplus)
+* Hitbox - [PolyHitbox](https://modrinth.com/mod/hitbox)
 * 3D Skin Layers - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 
 ### Other Mods
 
-* Toggle Sneak/Sprint - Vanilla & [Toggle Toggle Sprint](https://modrinth.com/mod/toggle-toggle-sprint)
+* Toggle Sneak/Sprint - [PolySprint](https://modrinth.com/mod/polysprint)
 * Nick Hider - [Simple Nick Hider](https://modrinth.com/mod/simple-nick-hider)
 * WorldEdit CUI - [WorldEdit CUI](https://curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
 * Replay Mod - [Replay Mod](https://modrinth.com/mod/replaymod)
-* Screenshot Uploader - [Screencapper](https://modrinth.com/mod/screencapper)
+* Screenshot Uploader - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
 * Auto Text Hot Key - [Command Keys](https://modrinth.com/mod/commandkeys) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
 * Mumble Link - ?
-* Boss Bar - ?
+* Boss Bar - [VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Freelook - [Freelook](https://modrinth.com/mod/freelook-oneconfig) **(May be bannable on some servers, auto disabled on hypixel)**
 * Quickplay - [Quickjoin](https://modrinth.com/mod/quickjoin)
 
@@ -151,14 +151,14 @@ Note that OneClient contains in-game purchases such as cosmetics that can be com
 
 #### Cosmetic Options
 
-* Cosmetics - [Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with Lunar capes)
+* Cosmetics - [Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free)
 * Show Tab Icon - Irrelevant
 
 #### Misc Options
 
 * Smart Disconnect - [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect)
 * Borderless Fullscreen - [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)
-* Disable Weather - [Weather Changer](https://modrinth.com/mod/weather-changer)
+* Disable Weather - [PolyWeather](https://modrinth.com/mod/polyweather)
 * Minimal View Bobbing - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Unfocused FPS Limiter - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
@@ -193,7 +193,7 @@ Note that OneClient contains in-game purchases such as cosmetics that can be com
 * Resource Pack Menu - [Pack Manager](https://modrinth.com/mod/pack-manager)
 * Custom Main Menu - [FancyMenu](https://modrinth.com/mod/fancymenu)
 * Discord Rich Presence - [CraftPresence](https://modrinth.com/mod/craftpresence)
-* In Game Account Switcher - [In Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
+* In Game Account Switcher - [In Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) / [PolyPlus](https://modrinth.com/mod/polyplus)
 * In Game Server Switcher - ?
 
 # Contributors

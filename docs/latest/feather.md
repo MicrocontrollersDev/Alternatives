@@ -39,42 +39,42 @@ Note that OneClient contains in-game purchases such as cosmetics that can be com
 * Custom Crosshair - [Custom Crosshair](https://modrinth.com/mod/custom-crosshair-mod)
 * FOV Changer - Partially in vanilla's accessibility menu
 * Glint - [Vanilla Tweaks Resourcepack / World of Color > Enchantment Glints](https://vanillatweaks.net/picker/resource-packs)
-* Hitbox - [HitBox+](https://modrinth.com/mod/hitboxplus)
-* Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
+* Hitbox - [PolyHitbox](https://modrinth.com/mod/hitbox)
+* Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite) & [ItemPhysic Lite Config](https://modrinth.com/mod/itemphysicliteconfig)
 * Nick Hider - [Simple Nick Hider](https://modrinth.com/mod/simple-nick-hider)
 * Particles - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
-* Time Changer - [Time Changer](https://modrinth.com/mod/time-changer) (Only works on Multiplayer)
+* Time Changer - [PolyTime](https://modrinth.com/mod/polytime)
 * Waypoints - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) **(Minimap feature may be bannable on some servers like Hypixel)**
-* Weather Changer - [Weather Changer](https://modrinth.com/mod/weather-changer)
+* Weather Changer - [PolyWeather](https://modrinth.com/mod/polyweather)
 * Zoom - [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### HUD
 
-* Armor Status - [Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
+* Armor Status - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [Armor HUD](https://modrinth.com/mod/ukus-armor-hud)
 * Armor HUD - [Detail Armor Bar Reconstructed](https://modrinth.com/mod/detail-armor-bar-reconstructed)
 * Attack Indicator - [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)
-* Boss Bar - ?
+* Boss Bar - [VanillaHUD](https://modrinth.com/mod/vanillahud)
 * CPS - [TipTapShow](https://modrinth.com/mod/tiptapshow)
-* Combo Display - ?
-* Coordinates - [Coordinates Display](https://modrinth.com/mod/coordinates-display) / [MiniHUD](https://modrinth.com/mod/minihud) / [Sodium Extra](https://modrinth.com/mod/sodium-extra)
-* Direction - [Where Am I Going](https://modrinth.com/mod/waig)
-* FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [Sodium Extra](https://modrinth.com/mod/sodium-extra) / [SimpleHUD](https://modrinth.com/mod/simplehud) / [MiniHUD](https://modrinth.com/mod/minihud)
+* Combo Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Coordinates - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [Coordinates Display](https://modrinth.com/mod/coordinates-display)
+* Direction - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* FPS - [FPS - Display](https://modrinth.com/mod/fpsdisplay) / [SimpleHUD](https://modrinth.com/mod/simplehud)
 * Item Counter - ?
-* Item Info - [Held Item Info](https://modrinth.com/mod/held-item-info)
-* Pack Display - ?
-* Ping - [SimpleHUD](https://modrinth.com/mod/simplehud) / [MiniHUD](https://modrinth.com/mod/minihud)
-* Potion Effects - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
-* Reach Display - ?
-* Saturation - [AppleSkin](https://modrinth.com/mod/appleskin)
-* Scoreboard - [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks)
-* Time - [MiniHUD](https://modrinth.com/mod/minihud)
+* Item Info - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [Held Item Info](https://modrinth.com/mod/held-item-info)
+* Pack Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Ping - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [SimpleHUD](https://modrinth.com/mod/simplehud)
+* Potion Effects - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
+* Reach Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Saturation - [AppleSkin](https://modrinth.com/mod/appleskin) / [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Scoreboard - [VanillaHUD](https://modrinth.com/mod/vanillahud)
+* Time - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 
 ### Hypixel
 
-* AutoFriend - ?
+* AutoFriend - [Hytils Reborn](https://modrinth.com/mod/hytils)
 * Auto Tip - [Hypixel AutoTip](https://modrinth.com/mod/hypixelautotip)
-* Auto GG - [Auto GG](https://modrinth.com/mod/auto-gg)
-* Anti GG - ?
+* Auto GG - [Hytils Reborn](https://modrinth.com/mod/hytils)
+* Anti GG - [Hytils Reborn](https://modrinth.com/mod/hytils)
 * LevelHead - ?
 
 ### Other
@@ -83,11 +83,11 @@ Note that OneClient contains in-game purchases such as cosmetics that can be com
 * Discord - [CraftPresence](https://modrinth.com/mod/craftpresence)
 * Oof Mod - ?
 * Perspective - [Freelook](https://modrinth.com/mod/freelook-oneconfig) **(May be bannable on some servers, auto disabled on hypixel)**
-* Screenshot - ?
+* Screenshot - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
 * Scrollable Tooltips - [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll)
-* Server Address - ?
+* Server Address - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Snaplook - ?
-* Toggle Sprint - Vanilla & [Toggle Toggle Sprint](https://modrinth.com/mod/toggle-toggle-sprint)
+* Toggle Sprint - [PolySprint](https://modrinth.com/mod/polysprint)
 * Voice - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 ## General
@@ -109,15 +109,15 @@ Note that OneClient contains in-game purchases such as cosmetics that can be com
 
 ### Chat Settings
 
-* Toggle Chat - In vanilla's chat settings
-* Unlimited Scrollbar - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Background Color - Opacitiy changable in vanilla's chat settings
+* Toggle Chat - [Chatting](https://modrinth.com/mod/chatting) & [Chat Tweaks](https://modrinth.com/mod/chattweaks) / Vanilla
+* Unlimited Scrollbar - ?
+* Background Color - [Chatting](https://modrinth.com/mod/chatting)
 * Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
 
 ### Stack Messages
 
-* Stack Messages - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Consecutive Messages Only - [Chat Plus](https://modrinth.com/mod/chat-plus)
+* Stack Messages - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Consecutive Messages Only - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
 
 ### Mentions
 

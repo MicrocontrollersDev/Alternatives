@@ -56,7 +56,7 @@ Don't feel forced to use Essential!
 
 ### Chat Peek
 
-* Chat Peek - [Chat Plus](https://modrinth.com/mod/chat-plus)
+* Chat Peek - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
 
 ## Essential Settings
 
@@ -66,7 +66,7 @@ Don't feel forced to use Essential!
 
 ## Emotes
 
-* Emotes - [KosmX's Emotecraft](https://modrinth.com/mod/emotecraft)
+* Emotes - [KosmX's Emotecraft](https://modrinth.com/mod/emotecraft) & [Online Emotes](https://modrinth.com/mod/online-emotes)
 
 ## Cosmetics
 
@@ -79,12 +79,12 @@ Don't feel forced to use Essential!
 
 ### Screenshots
 
-* Screenshot Preview - [Screencapper](https://modrinth.com/mod/screencapper)
-* Quick Actions - [Screencapper](https://modrinth.com/mod/screencapper)
-* Post Screenshot Action - [Screencapper](https://modrinth.com/mod/screencapper)
-* Screenshot Preview Duration - [Screencapper](https://modrinth.com/mod/screencapper)
-* Screenshot Sounds - [Screencapper](https://modrinth.com/mod/screencapper)
-* Screenshot Message - [Screencapper](https://modrinth.com/mod/screencapper)
+* Screenshot Preview - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
+* Quick Actions - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
+* Post Screenshot Action - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
+* Screenshot Preview Duration - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
+* Screenshot Sounds - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
+* Screenshot Message - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
 
 ### Zoom
 
