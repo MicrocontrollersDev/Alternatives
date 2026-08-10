@@ -7,7 +7,7 @@ There is no version for newer Minecrafts, and so this is not a real alternatives
 
 This list is based off all features that exist in PolyPatcher and/or Patcher, as some features may only exist in one but not the other.
 
-### Bug Fixes
+## Bug Fixes
 
 * Most Bug Fixes - [Debugify](https://modrinth.com/mod/debugify)
 * Keep Shaders on Perspective change - Irrelevant
@@ -23,13 +23,13 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * OptiFine Custom Sky Fix - Irrelevant
 * Sky Height - [Smooth Skies](https://modrinth.com/mod/smooth-skies)
 
-### Experimental
+## Experimental
 
 * Entry Point Caching - Irrelevant
 * HUD Caching - Irrelevant
 * Improved Skin Rendering - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) (This feature is only really useful in SkyBlock)
 
-### Miscellaneous
+## Miscellaneous
 
 * Remove Ground Foliage - ?
 * 1.12 Farm Selection Boxes - Vanilla
@@ -53,7 +53,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Log Optimizer - [altrisi's Log Cleaner](https://modrinth.com/mod/log-cleaner)
 * Log Optimizer Amount - [altrisi's Log Cleaner](https://modrinth.com/mod/log-cleaner)
 * Better Camera - Vanilla
-* Better F1 - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Better F1 - [PolyNametag](https://modrinth.com/mod/polynametag)
 * Remove Screen Bobbing - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Remove Map Bobbing - [Shake Tweaks](https://modrinth.com/mod/shaketweaks)
 * Static Items - [Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
@@ -83,33 +83,33 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Smart Fullbright - Irrelevant
 * Disable Night Vision - [Better Night Vision](https://modrinth.com/mod/betternightvision)
 * Cleaner Night Vision - [Better Night Vision](https://modrinth.com/mod/betternightvision)
-* Show Own Nametag - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Show Own Nametag - [PolyNametag](https://modrinth.com/mod/polynametag)
 * Clean Projectiles - Vanilla
 * Ridden Horse Opacity - [Mount Opacity](https://modrinth.com/mod/mountopacity)
 * Water Fog Density - ?
 * Hide Aura on Invisible Withers - Vanilla
 * Numerical Enchantments - [Numerical Enchantments](https://modrinth.com/mod/numerical-enchantments)
 * Translate Unknown Roman Numerals - [Numerical Enchantments](https://modrinth.com/mod/numerical-enchantments)
-* Clean View - [LainMI's CleanView](https://github.com/zlainsama/CleanView/releases/latest)
+* Clean View - [OverflowParticles](https://modrinth.com/mod/overflowparticles)
 * Disable Breaking Particles - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Disable Lightning Bolts - [Render Tweaks](https://modrinth.com/mod/rendertweaks)
 * Alternate Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
-* Add Text Shadow to Nametags - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Add Text Shadow to Nametags - [PolyNametag](https://modrinth.com/mod/polynametag)
 * Add Text Shadow to Actionbar - Vanilla
 * Add Background to Actionbar - ?
 * Disable Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
 * Left Hand in First Person - Vanilla
-* Toggle Tab - ?
-* Number Ping - [Tab Tweaks](https://modrinth.com/mod/tabtweaks)
-* Disable Titles - [Title Tweaks](https://modrinth.com/mod/titletweaks)
-* Title Scale - [Title Tweaks](https://modrinth.com/mod/titletweaks)
-* Automatically Scale Title - [Title Tweaks](https://modrinth.com/mod/titletweaks)
-* Title Opacity - [Title Tweaks](https://modrinth.com/mod/titletweaks)
+* Toggle Tab - [VanillaHUD](https://modrinth.com/mod/vanillahud)
+* Number Ping - [VanillaHUD](https://modrinth.com/mod/vanillahud)
+* Disable Titles - [VanillaHUD](https://modrinth.com/mod/vanillahud)
+* Title Scale - [VanillaHUD](https://modrinth.com/mod/vanillahud)
+* Automatically Scale Title - [VanillaHUD](https://modrinth.com/mod/vanillahud)
+* Title Opacity - [VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Windowed Fullscreen - [Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
 * Instant Fullscreen - [Cubes Without Borders](https://modrinth.com/mod/cubes-with-borders)
 * Fix Action Bar Overlap - Vanilla
 
-### Performance
+## Performance
 
 * List of Performance Mods - [List](https://alternatives.microcontrollers.dev/latest/migrating/#performance)
 * Entity Culling - [Entity Culling](https://modrinth.com/mod/entityculling)
@@ -121,7 +121,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Don't Cull Entity Nametags - Irrelevant
 * Don't Cull Armorstand Nametags - Irrelevant
 * Check Armorstand Rules - Irrelevant
-* Entity Back-face Culling - ? 
+* Entity Back-face Culling - ?
 * Player Back-face Culling - ?
 * Disable Armorstands - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * Disable Semitransparent Players - ?
@@ -132,7 +132,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Disable Attached Arrows - ?
 * Disable Skulls - ?
 * Disable Falling Blocks - ?
-* Disable Nametags Boxes - [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)
+* Disable Nametags Boxes - [PolyNametag](https://modrinth.com/mod/polynametag)
 * Unstacked Items - [Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks)
 * Entity Render Distance Toggle - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
 * Tile Entity Render Distance - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
@@ -142,7 +142,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Global Entity Render Distance - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
 * Disable End Portals - ?
 * Disable Enchantment Glint - Vanilla (Acessibility Settings -> Glint Strength)
-* Static Particle Color - [Particle Core](https://modrinth.com/mod/particle-core) (Improves performance of brightness calculations to make it not an issue instead of removing it entirely)
+* Static Particle Color - [Particle Core](https://modrinth.com/mod/particle-core) (Improves performance of brightness calculations to make it not an issue instead of removing it entirely) / [OverflowParticles](https://modrinth.com/mod/overflowparticles)
 * Max Particle Limit - [Particle Core](https://modrinth.com/mod/particle-core)
 * Downscale Pack Images - ?
 * Optimized Font Renderer - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
@@ -153,24 +153,24 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Low Animation Tick - [Sodium](https://modrinth.com/mod/sodium)
 * Batch Model Rendering - [Sodium](https://modrinth.com/mod/sodium)
 
-### Screens
+## Screens
 
 * 1.11 Chat Length - Vanilla
-* Remove Chat Message Limit - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Transparent Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Transparent Chat Input Field - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Extend Chat Background - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Compact Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Consecutive Compact Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Compact Chat Time - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Remove Blank Messages - ?
-* Shift Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Chat Delay - Vanilla
-* Chat Position - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Chat Timestamps - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Chat Timestamps Style - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Chat Timestamps Format - [Chat Plus](https://modrinth.com/mod/chat-plus)
-* Show Seconds on Timestamps - [Chat Plus](https://modrinth.com/mod/chat-plus)
+* Remove Chat Message Limit - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Transparent Chat - [Chatting](https://modrinth.com/mod/chatting)
+* Transparent Chat Input Field - ?
+* Extend Chat Background - [Chatting](https://modrinth.com/mod/chatting)
+* Compact Chat - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Consecutive Compact Chat - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Compact Chat Time - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Remove Blank Messages - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Shift Chat - [Chatting](https://modrinth.com/mod/chatting)
+* Chat Delay - Vanilla / [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Chat Position - [Chatting](https://modrinth.com/mod/chatting)
+* Chat Timestamps - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Chat Timestamps Style - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Chat Timestamps Format - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Show Seconds on Timestamps - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
 * Safe Chat Clicks - ?
 * Damage Glance - ?
 * Item Count Glance - ?
@@ -193,19 +193,18 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * Tab Height - [Tab Tweaks](https://modrinth.com/mod/tabtweaks)
 * Set Tab Height - [Tab Tweaks](https://modrinth.com/mod/tabtweaks)
 
-### Screenshots
+## Screenshots
 
 * Favorite Screenshot - ?
-* Delete Screenshot - [Screencapper](https://modrinth.com/mod/screencapper)
-* Upload Screenshot - [Screencapper](https://modrinth.com/mod/screencapper)
-* Copy Screenshot - [Screencapper](https://modrinth.com/mod/screencapper)
-* Open Screenshots Folder - [Screencapper](https://modrinth.com/mod/screencapper)
-* Screenshot Manager - [Screencapper](https://modrinth.com/mod/screencapper)
-* Auto Copy Screenshot - [Screencapper](https://modrinth.com/mod/screencapper)
-* Screenshot Preview - [Screencapper](https://modrinth.com/mod/screencapper)
+* Delete Screenshot - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
+* Upload Screenshot - ?
+* Copy Screenshot - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
+* Open Screenshots Folder - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
+* Screenshot Manager - ?
+* Auto Copy Screenshot - [Screencopy](https://modrinth.com/mod/screencopy)
+* Screenshot Preview - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
 
 # Contributors
 
 * [PhantomBridger](https://github.com/PhantomBridger)
 * Purpas
-

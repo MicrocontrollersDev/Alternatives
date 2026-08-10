@@ -12,7 +12,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     ### The Situation
 
-    So, you've been playing 1.8.9 for the past [10 years](https://howoldisminecraft189.today) and are ready to see what 26.1 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
+    So, you've been playing 1.8.9 for the past [10 years](https://howoldisminecraft189.today) and are ready to see what modern has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
 
     ### Why no longer OptiFine?
 
@@ -28,7 +28,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
     ### Getting Started
 
-    Due to many issues with the official Minecraft launcher, we will not be using it. Follow the guides for either Prism or Modrinth launcher [using my install guides](https://alternatives.microcontrollers.dev/launcher/home).
+    Due to many issues with the official Minecraft launcher, we will not be using it. Follow the guides for any launcher [using my install guides](https://alternatives.microcontrollers.dev/launcher/home).
 
     ### Still Need Help?
 
@@ -61,25 +61,25 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [Sodium](https://modrinth.com/mod/sodium) | An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [CaffeineMC](https://github.com/CaffeineMC) |
-| [Iris](https://modrinth.com/mod/iris) | A shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [Iris Team](https://github.com/IrisShaders) | 
-| [Lithium](https://modrinth.com/mod/lithium) | Helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) |
-| [Better Block Entities](https://modrinth.com/mod/better-block-entities) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [ceeden](https://github.com/ceeden) |
-| [FerriteCore](https://modrinth.com/mod/ferrite-core) | Helps reduce the amount of memory the game takes up. This may make a big difference for larger modpacks as well. | [malte0811](https://github.com/malte0811) |
-| [Entity Culling](https://modrinth.com/mod/entityculling) | Culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which entities can be culled. | [tr7zw](https://github.com/tr7zw) |
-| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Improves the immediate mode rendering performance. | [RaphiMC](https://github.com/RaphiMC) |
-| [ModernFix MVUs](https://modrinth.com/mod/modernfix-mvus) | ModernFix is an all-in-one mod that improves performance, reduces memory usage, and fixes many bugs in modern Minecraft versions without majorly compromising the game experience. | [embeddedt](https://github.com/embeddedt) & [coredex](https://github.com/coredex-source) |
-| [Quick Pack](https://modrinth.com/mod/quick-pack) | Improve datapack / resourcepack zip file loading times. | [DrexHD](https://github.com/DrexHD) |
-| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Reduces your FPS when tabbed out of the game, therefore reducing your system load. | [juliand665](https://github.com/juliand665) |
-| [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) | Improves loading times when changing your language in game by only reloading the required resources. | [chachy](https://github.com/ChachyDev) |
-| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also adds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
-| [Ixeris](https://modrinth.com/mod/ixeris) | Moved GLFW polling events off the render thread, improving performance when moving your camera. | [decce6](https://github.com/decce6) |
-| [Raise Sound Limit Simplified](https://modrinth.com/mod/rsls) | A mod that raises Minecraft sound sources limit in a simple way, preventing log spam and all sound disappearing for a short while. | [RelativityMC](https://github.com/RelativityMC) |
-| [Remove Reloading Screen](https://modrinth.com/mod/rrls) | Allows you to access other parts of the game by removing the reload screen except for the progress bar. | [dima_dencep](https://github.com/dimadencep) |
-| [Particle Core](https://modrinth.com/mod/particle-core) | Several optimizations to particles in Minecraft and customization of particle rendering, i.e., being able to turn them on/off individually and putting them in a reduced state. | [fzzyhmstrs](https://github.com/fzzyhmstrs) |
-| [Force Close Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen) | Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration. | [kennytv](https://github.com/kennytv) |
-| [BadOptimizations](https://modrinth.com/mod/badoptimizations) | A collection of micro-optimizations. | [Thosea](https://github.com/imthosea) |
-| [OptiPainting Reloaded](https://modrinth.com/mod/optipainting-reloaded) | Optimizes the rendering of paintings by not rendering the sides of the painting that are never visible. | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Sodium](https://modrinth.com/mod/sodium) | An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [CaffeineMC](https://github.com/CaffeineMC) | |
+| [Iris](https://modrinth.com/mod/iris) | A shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [Iris Team](https://github.com/IrisShaders) | |
+| [Lithium](https://modrinth.com/mod/lithium) | Helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) | |
+| [Better Block Entities](https://modrinth.com/mod/better-block-entities) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [ceeden](https://github.com/ceeden) | |
+| [FerriteCore](https://modrinth.com/mod/ferrite-core) | Helps reduce the amount of memory the game takes up. This may make a big difference for larger modpacks as well. | [malte0811](https://github.com/malte0811) | |
+| [Entity Culling](https://modrinth.com/mod/entityculling) | Culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which entities can be culled. | [tr7zw](https://github.com/tr7zw) | |
+| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Improves the immediate mode rendering performance. | [RaphiMC](https://github.com/RaphiMC) | |
+| [ModernFix MVUs](https://modrinth.com/mod/modernfix-mvus) | ModernFix is an all-in-one mod that improves performance, reduces memory usage, and fixes many bugs in modern Minecraft versions without majorly compromising the game experience. | [embeddedt](https://github.com/embeddedt) & [coredex](https://github.com/coredex-source) | |
+| [Quick Pack](https://modrinth.com/mod/quick-pack) | Improve datapack / resourcepack zip file loading times. | [DrexHD](https://github.com/DrexHD) | |
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Reduces your FPS when tabbed out of the game, therefore reducing your system load. | [juliand665](https://github.com/juliand665) | |
+| [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) | Improves loading times when changing your language in game by only reloading the required resources. | [chachy](https://github.com/ChachyDev) | |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also adds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) | |
+| [Ixeris](https://modrinth.com/mod/ixeris) | Moved GLFW polling events off the render thread, improving performance when moving your camera. | [decce6](https://github.com/decce6) | |
+| [Raise Sound Limit Simplified](https://modrinth.com/mod/rsls) | A mod that raises Minecraft sound sources limit in a simple way, preventing log spam and all sound disappearing for a short while. | [RelativityMC](https://github.com/RelativityMC) | |
+| [Remove Reloading Screen](https://modrinth.com/mod/rrls) | Allows you to access other parts of the game by removing the reload screen except for the progress bar. | [dima_dencep](https://github.com/dimadencep) | |
+| [Particle Core](https://modrinth.com/mod/particle-core) | Several optimizations to particles in Minecraft and customization of particle rendering, i.e., being able to turn them on/off individually and putting them in a reduced state. | [fzzyhmstrs](https://github.com/fzzyhmstrs) | |
+| [Force Close Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen) | Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration. | [kennytv](https://github.com/kennytv) | |
+| [BadOptimizations](https://modrinth.com/mod/badoptimizations) | A collection of micro-optimizations. | [Thosea](https://github.com/imthosea) | |
+| [OptiPainting Reloaded](https://modrinth.com/mod/optipainting-reloaded) | Optimizes the rendering of paintings by not rendering the sides of the painting that are never visible. | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | A mod based on Starlight that improves the performance of light updates in Minecraft. | [RelativityMC](https://github.com/RelativityMC) | Only useful in singleplayer, can still use on multiplayer. |
 | [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) | Only useful in singleplayer, can still use on multiplayer. |
 | [C2ME](https://modrinth.com/mod/c2me-fabric) | C2ME is an experimental mod that attempts to multithread chunk generation, I/O, and loading. | [RelativityMC](https://github.com/RelativityMC) | Only useful in singleplayer, can still use on multiplayer. |
@@ -94,8 +94,8 @@ These are other performance mods that one may prefer to use, but are not essenti
 
 | Mod | Description | Author | Incompatabilities | Notes |
 | --- | --- | --- | --- | --- |
-| [Cull Fewer Leaves](https://modrinth.com/mod/cull-fewer-leaves) | Cull inner leaves while keeping the fancy leaves look. A continuation of Cull Less Leaves. This mod can create a substantial visual difference for trees and leaves in general. | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Fadeless](https://modrinth.com/mod/fadeless) | Removes transitions such as the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine or allow people to access certain menus quicker if they do not like the small wait time. This mod is made partially redundant by Remove Loading Screen. | [DerpDerpling](https://github.com/DerpDerpling) & [UltimateBoomer](https://github.com/UltimateBoomer) |
+| [Cull Fewer Leaves](https://modrinth.com/mod/cull-fewer-leaves) | Cull inner leaves while keeping the fancy leaves look. A continuation of Cull Less Leaves. This mod can create a substantial visual difference for trees and leaves in general. | [isXander](https://github.com/isXander) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | | |
+| [Fadeless](https://modrinth.com/mod/fadeless) | Removes transitions such as the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine or allow people to access certain menus quicker if they do not like the small wait time. This mod is made partially redundant by Remove Loading Screen. | [DerpDerpling](https://github.com/DerpDerpling) & [UltimateBoomer](https://github.com/UltimateBoomer) | | |
 
 ### Recommended
 
@@ -103,33 +103,33 @@ These are mods that I personally recommend due to their usefulness. While they m
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [ExploitPreventer](https://modrinth.com/mod/exploitpreventer) | This is a fabric mod that prevents known client-side exploits. | [NikOverflow](https://github.com/NikOverflow) |
-| [Debugify](https://modrinth.com/mod/debugify) | Fixes many bugs in Minecraft. | [isXander](https://github.com/isXander) |
-| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Removes cryptographic signatures from chat messages, making it harder to get chat reported. | [Aizistral](https://github.com/Aizistral-Studios) |
-| [No Chat Restrictions](https://modrinth.com/mod/no-chat-restrictions) | Restores access to game chat for all accounts. | [Aizistral](https://github.com/Aizistral-Studios) |
-| [Amecs](https://modrinth.com/mod/amecs) | Allows you to use modifiers for keybinds. For example, you can set keybinds to Ctrl/Shift/Alt/Super + key. | [Siphalor](https://github.com/Siphalor) |
-| [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [Kir-Antipov](https://github.com/Kir-Antipov) |
-| [Pack Manager](https://modrinth.com/mod/pack-manager) | A resource pack orgnizer mod forked from Recursive Resources. It allows you to sort resource packs into folders, as well as search for them using a search bar and change sorting order. | [enjarai](https://codeberg.org/enjarai) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Smooth Scrolling Refurbished](https://modrinth.com/mod/smooth-scrolling-refurbished) | Makes the scrolling in all menus smoother. | [JustAlittleWolf](https://github.com/JustAlittleWolf) |
-| [Controlling](https://modrinth.com/mod/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) |
-| [Chat Patches](https://modrinth.com/mod/chatpatches) | Adds several QOL features to Minecraft's chat to make it more usable. | [mrbuilder1961](https://github.com/mrbuilder1961) |
-| [MixinTrace Reborn](https://modrinth.com/mod/mixintrace-reborn) | Makes it easier for mod developers to debug crash reports. | [comp500](https://github.com/comp500) & [IAFEnvoy](https://github.com/IAFEnvoy) |
-| [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll) | Tooltips are now scrollable. With highly-customisable keybinds and settings, you can move tooltips anywhere on or off the screen. | [Provismet](https://github.com/Provismet) |
-| [Log Cleaner](https://modrinth.com/mod/log-cleaner) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) |
-| [Better Selection](https://modrinth.com/mod/better-selection) | Makes it easier to select text by allowing mouse selection and Ctrl + ← and Ctrl + →. | [MDLC01](https://github.com/MDLC01) |
-| [Auto ReAuth](https://modrinth.com/mod/auto-reauth) | Automatically reauthenticates your session when you are not logged in correctly. | [connorslade](https://github.com/connorslade) |
-| [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Adds an in game account switcher that lets you switch accounts without having to restart the game. | [The-Fireplace](https://github.com/The-Fireplace) |
-| [Smooth Skies](https://modrinth.com/mod/smooth-skies) | Smooths out the skybox colors on far render distances. This will fix the skybox breaking with Nvidium or similar. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Better Mipmaps](https://modrinth.com/mod/better-mipmaps) | Unlocks mipmap levels higher than 4 to reduce visual arifacts with high resolution resource packs. | [sidit77](https://github.com/sidit77) |
+| [ExploitPreventer](https://modrinth.com/mod/exploitpreventer) | This is a fabric mod that prevents known client-side exploits. | [NikOverflow](https://github.com/NikOverflow) | |
+| [Debugify](https://modrinth.com/mod/debugify) | Fixes many bugs in Minecraft. | [isXander](https://github.com/isXander) | |
+| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Removes cryptographic signatures from chat messages, making it harder to get chat reported. | [Aizistral](https://github.com/Aizistral-Studios) | |
+| [No Chat Restrictions](https://modrinth.com/mod/no-chat-restrictions) | Restores access to game chat for all accounts. | [Aizistral](https://github.com/Aizistral-Studios) | |
+| [Amecs](https://modrinth.com/mod/amecs) | Allows you to use modifiers for keybinds. For example, you can set keybinds to Ctrl/Shift/Alt/Super + key. | [Siphalor](https://github.com/Siphalor) | |
+| [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [Kir-Antipov](https://github.com/Kir-Antipov) | |
+| [Pack Manager](https://modrinth.com/mod/pack-manager) | A resource pack orgnizer mod forked from Recursive Resources. It allows you to sort resource packs into folders, as well as search for them using a search bar and change sorting order. | [enjarai](https://codeberg.org/enjarai) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Smooth Scrolling Refurbished](https://modrinth.com/mod/smooth-scrolling-refurbished) | Makes the scrolling in all menus smoother. | [JustAlittleWolf](https://github.com/JustAlittleWolf) | |
+| [Controlling](https://modrinth.com/mod/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) | |
+| [Chat Patches](https://modrinth.com/mod/chatpatches) | Adds several QOL features to Minecraft's chat to make it more usable. | [mrbuilder1961](https://github.com/mrbuilder1961) | |
+| [MixinTrace Reborn](https://modrinth.com/mod/mixintrace-reborn) | Makes it easier for mod developers to debug crash reports. | [comp500](https://github.com/comp500) & [IAFEnvoy](https://github.com/IAFEnvoy) | |
+| [Tooltip Scroll](https://modrinth.com/mod/tooltip-scroll) | Tooltips are now scrollable. With highly-customisable keybinds and settings, you can move tooltips anywhere on or off the screen. | [Provismet](https://github.com/Provismet) | |
+| [Log Cleaner](https://modrinth.com/mod/log-cleaner) | Automatically deletes old logs to clear up storage space. | [Altrisi](https://github.com/altrisi) | |
+| [Better Selection](https://modrinth.com/mod/better-selection) | Makes it easier to select text by allowing mouse selection and Ctrl + ← and Ctrl + →. | [MDLC01](https://github.com/MDLC01) | |
+| [Auto ReAuth](https://modrinth.com/mod/auto-reauth) | Automatically reauthenticates your session when you are not logged in correctly. | [connorslade](https://github.com/connorslade) | |
+| [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) | Adds an in game account switcher that lets you switch accounts without having to restart the game. | [The-Fireplace](https://github.com/The-Fireplace) | |
+| [Smooth Skies](https://modrinth.com/mod/smooth-skies) | Smooths out the skybox colors on far render distances. This will fix the skybox breaking with Nvidium or similar. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Better Mipmaps](https://modrinth.com/mod/better-mipmaps) | Unlocks mipmap levels higher than 4 to reduce visual arifacts with high resolution resource packs. | [sidit77](https://github.com/sidit77) | |
 | [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) | Fix several issues regarding key input on Linux. | [Ishland](https://github.com/ishland) | Works on Linux only, will do nothing for other OS's. |
 | [MacOS Input Fixes](https://modrinth.com/mod/macos-input-fixes) | Fix several issues regarding key input on MacOS. | [hamarb123](https://github.com/hamarb123) | Works on MacOS only, will do nothing for other OS's. |
 | [MacOS-Input-Fix](https://modrinth.com/mod/macos-input-fix) | Fixes macOS-specific input issues where movement keys don't resume after closing inventory screens. | [MGC8](https://modrinth.com/user/MGC8) | Works on MacOS only, will do nothing for other OS's. |
-| [Unsafe World Random Access](https://modrinth.com/mod/uwrad) | Detects unsafe off-thread world random access, helping to find causes of "Accessing LegacyRandomSource from multiple threads" crash. | [RelativityMC](https://github.com/RelativityMC) |
-| [Better Screens](https://modrinth.com/mod/better-screens) | Better screens is a simple mod that improves the screens & containers experience, with simple quality of life fixes. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Respackopts](https://modrinth.com/mod/respackopts) | Config menus for resourcepacks and datapacks. | [jfronny](https://git.jfronny.dev/Johannes) |
-| [Noxesium](https://modrinth.com/mod/noxesium) | Improves play experience on large multiplayer servers, such as MCCI. | [Noxcrew](https://github.com/Noxcrew) |
-| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | A proximity based voice chat mod, used on many modern servers. | [henkelmax](https://github.com/henkelmax) |
-| [Screenshot Compression](https://modrinth.com/mod/screenshot-compression) | Automatically compress screenshots taken in-game to lower file size with various config options. | [Serilum](https://github.com/Serilum) |
+| [Unsafe World Random Access](https://modrinth.com/mod/uwrad) | Detects unsafe off-thread world random access, helping to find causes of "Accessing LegacyRandomSource from multiple threads" crash. | [RelativityMC](https://github.com/RelativityMC) | |
+| [Better Screens](https://modrinth.com/mod/better-screens) | Better screens is a simple mod that improves the screens & containers experience, with simple quality of life fixes. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Respackopts](https://modrinth.com/mod/respackopts) | Config menus for resourcepacks and datapacks. | [jfronny](https://git.jfronny.dev/Johannes) | |
+| [Noxesium](https://modrinth.com/mod/noxesium) | Improves play experience on large multiplayer servers, such as MCCI. | [Noxcrew](https://github.com/Noxcrew) | |
+| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | A proximity based voice chat mod, used on many modern servers. | [henkelmax](https://github.com/henkelmax) | |
+| [Screenshot Compression](https://modrinth.com/mod/screenshot-compression) | Automatically compress screenshots taken in-game to lower file size with various config options. | [Serilum](https://github.com/Serilum) | |
 
 ### Other Cool Mods
 
@@ -137,70 +137,64 @@ These are mods that are more dependant on personal preference than importance.
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [Hold That Chunk V2](https://modrinth.com/mod/hold-that-chunk-v2) | Delays client chunk unloading, allowing you to see chunks you've visited outside your render distance. | [Mobilelize](https://github.com/Mobilelize) |
-| [e4mc](https://modrinth.com/mod/e4mc) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [vgskye](https://github.com/vgskye) |
-| [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) |
-| [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
-| [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks) | Let's you alter the way nametags are rendered, such as background transparency, text shadow, and custom F1 rules. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Scroll Tweaks](https://modrinth.com/mod/scrolltweaks) | Let's you customize Minecraft hotbar scrolling. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Title Tweaks](https://modrinth.com/mod/titletweaks) | Improvements and customization for Minecraft's Titles. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Tab Tweaks](https://modrinth.com/mod/tabtweaks) | Improvements and customization for Minecraft's Tab / Player List HUD. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks) | A small QOL mod that lets you alter the vanilla crosshair in small ways. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Scoreboard Tweaks](https://modrinth.com/mod/scoreboardtweaks) | Client side customization of Minecraft's Scoreboard/Sidebar. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Mount Opacity](https://modrinth.com/mod/mountopacity) | Allows setting custom opacity (transparency) for entities that you are riding | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks) | Small changes to the way dropped items render. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Render Tweaks](https://modrinth.com/mod/rendertweaks) | Customization of some in-world visuals. |  [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Numerical Enchantments](https://modrinth.com/mod/numerical-enchantments) | Converts roman numerals to arabic numbers in enchantment tooltips to make them easier to read at a glance! No resource pack required. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Sciophobia](https://modrinth.com/mod/sciophobia) | Allows disabling text shadow or only translating it down, globally. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay) | A very simple block overlay mod. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [Secure Skins](https://modrinth.com/mod/secureskins) | Make skin downloads use HTTPS. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
+| [Hold That Chunk V2](https://modrinth.com/mod/hold-that-chunk-v2) | Delays client chunk unloading, allowing you to see chunks you've visited outside your render distance. | [Mobilelize](https://github.com/Mobilelize) | |
+| [e4mc](https://modrinth.com/mod/e4mc) | Let's you invite people to your singleplayer worlds! They do not need to have the mod installed for it to work. | [vgskye](https://github.com/vgskye) | |
+| [Cosmetica](https://modrinth.com/mod/cosmetica) | Adds cosmetics to your game completely for free! Also supports showing cosmetics from other clients and mods! | [Cosmetica-cc](https://github.com/Cosmetica-cc) | |
+| [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) | |
+| [Overlay Tweaks](https://modrinth.com/mod/overlaytweaks) | A small QOL mod that lets you alter vanilla's overlays in small ways. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks) | Let's you alter the way nametags are rendered, such as background transparency, text shadow, and custom F1 rules. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Scroll Tweaks](https://modrinth.com/mod/scrolltweaks) | Let's you customize Minecraft hotbar scrolling. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks) | A small QOL mod that lets you alter the vanilla crosshair in small ways. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Mount Opacity](https://modrinth.com/mod/mountopacity) | Allows setting custom opacity (transparency) for entities that you are riding | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Dropped Item Tweaks](https://modrinth.com/mod/droppeditemtweaks) | Small changes to the way dropped items render. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Render Tweaks](https://modrinth.com/mod/rendertweaks) | Customization of some in-world visuals. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Numerical Enchantments](https://modrinth.com/mod/numerical-enchantments) | Converts roman numerals to arabic numbers in enchantment tooltips to make them easier to read at a glance! No resource pack required. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Sciophobia](https://modrinth.com/mod/sciophobia) | Allows disabling text shadow or only translating it down, globally. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Simple Block Overlay](https://modrinth.com/mod/simple-block-overlay) | A very simple block overlay mod. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [Secure Skins](https://modrinth.com/mod/secureskins) | Make skin downloads use HTTPS. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
 | [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) | Adds a customizable fade-in and ChunkAnimator-esque animations to chunks. | [kerudion](https://github.com/kerudion) | Chunks don't fade if using Nvidium |
-| [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) |
-| [Blur+](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) |
-| [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
+| [Controlify](https://modrinth.com/mod/controlify) | Allows you to easily play Minecraft with a controller. | [isXander](https://github.com/isXander) | |
+| [Blur+](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) | |
+| [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) | |
 | [Freelook](https://modrinth.com/mod/freelook-oneconfig) | A simple 360 degrees perspective mod that lets you move the camera without moving your player's direction. | [Chromatic](https://codeberg.org/chromatic) | **May be bannable on some servers, auto disabled on hypixel** |
-| [BetterF3](https://modrinth.com/mod/betterf3) | Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | [cominixo](https://github.com/cominixo) |
-| [TNT Countdown](https://modrinth.com/mod/tntcountdown) | Displays time left to the TNT explosion above primed TNT. | [Chromatic](https://codeberg.org/chromatic) |
-| [Paginated Advancements & Custom Frames](https://modrinth.com/mod/paginatedadvancements) | Makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. | [DaFuqs](https://github.com/DaFuqs)
-| [AppleSkin](https://modrinth.com/mod/appleskin) | Lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
-| [Horse Statistics](https://modrinth.com/mod/horse-statistics) | A lightweight mod that shows the stats of horses (health, jump height, speed, owner and slots for Llamas). | [lilgallon](https://github.com/lilgallon) |
-| [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Makes some important HUD modules visible when riding a mount. | [Lortseam](https://github.com/Lortseam) |
-| [Litematica](https://github.com/sakura-ryoko/litematica/releases/latest) | A schematic mod that allows you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
-| [MiniHUD](https://github.com/sakura-ryoko/minihud/releases/latest) | A customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
-| [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [sonicether](https://github.com/sonicether), [vlad](https://github.com/vlad2305m), & [henkelmax](https://github.com/henkelmax) |
-| [Sound Controller](https://modrinth.com/mod/sound-controller) | Provides complete control over the volume of every sound in the game. | [BVengo](https://github.com/BVengo) |
-| [Screencopy](https://modrinth.com/mod/screencopy) | Let's you copy screenshot to clipboard. | [ImUrX](https://github.com/ImUrX) |
-| [Snapper](https://modrinth.com/mod/snapper) (Not Updated Yet) | An in game screenshot viewer, making it easy to see all your screenshots in game. Also adds the ability to take and view panoramas. | [Spirit Studios](https://github.com/SpiritGameStudios/Snapper) |
-| [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui) | Improves the command block user interface by allowing for visual newlining . | [Tectato](https://github.com/Tectato) |
-| [Better Statistics Screen](https://modrinth.com/mod/better-stats) | A visual overhaul to the statistics screen, giving useful information in a much more visually appealing format. | [TheCSDev](https://github.com/TheCSDev) |
-| [Chat Heads](https://modrinth.com/mod/chat-heads) | Shows a player's head next to their chat message in game. | [dzwdz](https://github.com/dzwdz) |
-| [Craftify](https://modrinth.com/mod/craftify) | Shows your currently playing music on your HUD. | [ThatGravyBoat](https://github.com/ThatGravyBoat) |
-| [Resourcify](https://modrinth.com/mod/resourcify) | Lets you view, download, and update resource packs from Modrinth all in game. | [DeDiamondPro](https://github.com/DeDiamondPro) |
-| [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) | Improves the look of bubbles in water. | [Tschipcraft](https://github.com/Tschipcraft) |
-| [NoRefreshScroll](https://modrinth.com/mod/norefreshscroll) | Stops the multiplayer screen from scrolling to bottom when refreshing. | [Thatsmusic99](https://github.com/Thatsmusic99) |
-| [Particle Tweaks](https://modrinth.com/mod/particle-tweaks) | Makes particles look nicer by adding growing/fading effects and water physics. | [Lunade_](https://github.com/AViewFromTheTop) |
-| [Particle Rain](https://modrinth.com/mod/particle-rain) | Replaces the rain effect with particles. | [PigCart](https://github.com/PigCart) |
-| [SkinShuffle](https://modrinth.com/mod/skinshuffle) | Allows you to change, store, and customize your skins in game. | [mineblock11](https://github.com/mineblock11) |
-| [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations) | Adds a small animation when holding items similar to old console editions of the game. | [Trivaxy](https://github.com/Trivaxy) |
-| [Draggable Lists](https://modrinth.com/mod/draggable-lists) | Allows you to drag to order resourcepacks, datapacks, worlds, and servers. | [MrMelon54](https://github.com/MrMelon54) |
-| [Highlight](https://modrinth.com/mod/highlight) | Changes hitboxes to allow them to not be axis alligned, making them look much smoother on some blocks. | [Team Resourceful](https://github.com/Team-Resourceful) |
-| [Fluid Void Fading](https://modrinth.com/mod/fluidvoidfading) | Makes liquids like water and lava slowly fade out in the void. Looks great in games like Skyblock, Skyways, or similar. | [DaFuqs](https://github.com/DaFuqs) |
-| [Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer) | Makes server pinging smoother and fixes it breaking when refreshing too many times. | [JustAlittleWolf](https://github.com/JustAlittleWolf) |
-| [Axiom](https://modrinth.com/mod/axiom) | An alternative to WorldEdit and VoxelSniper to make building in singleplayer much easier. | [Moulberry](https://github.com/Moulberry) |
-| [Sounds](https://modrinth.com/mod/sound) | Adds many more sounds to Minecraft for things that did not previously have sounds. | [mineblock11](https://github.com/mineblock11) |
-| [TipTapShow](https://modrinth.com/mod/tiptapshow) | A keystrokes mod for modern fabric. | [Spyxar](https://github.com/Spyxar) |
-| [SaveMyKeybinds](https://modrinth.com/mod/savemykeybinds) | Allows you to save and load keybind presets. | [MisterCheezeCake](https://github.com/MisterCheezeCake) |
-| [Elytra Physics](https://modrinth.com/mod/elytra-physics) | A simple mod that adds cape-like physics to the elytra when worn by the player. | [OhHeyItsJosh](https://github.com/OhHeyItsJosh) |
-| [Better Elytra Render](https://modrinth.com/mod/better-elytra-render) | Improves the look of elytra by changing its position on the player. | [KGriffon](https://github.com/kgriff0n) |
-| [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect) | Adds a confirmation dialogue before exiting your world/server. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [View Model](https://modrinth.com/mod/no-ones-view-model) | Lets you change the hands positions, similar to Overflow Animations and Dulkir. | [No-One](https://github.com/I-No-oNe) |
-| [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | Makes the loading screen darker. Allows for some customization. | [A5b84](https://github.com/A5b84) |
-| [Gamma Utils](https://modrinth.com/mod/gamma-utils) | A customizable fullbright mod. | [Sjouwer](https://github.com/Sjouwer) |
-| [Toolshot](https://modrinth.com/mod/toolshot) | Screenshot Tooltips just like they look in game! | [sivthepolarfox](https://github.com/sivthepolarfox) |
-| [Startup Timer](https://modrinth.com/mod/startup-timer) | Make a notification and sound when Minecraft finishes loading, letting you know when and exactly how long Minecraft took to load! | [ZhuRuoLing](https://github.com/ZhuRuoLing) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [PingNameTags](https://modrinth.com/mod/pingnametags) | Adds colored ping inside player's nametag. | [Teashoe](https://github.com/Teashoe) |
-| [Hitbox+](https://modrinth.com/mod/hitboxplus) |  A mod to change the color of hitboxes. | [PingIsFun](https://github.com/PingIsFun) |
+| [BetterF3](https://modrinth.com/mod/betterf3) | Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | [cominixo](https://github.com/cominixo) | |
+| [TNT Countdown](https://modrinth.com/mod/tntcountdown) | Displays time left to the TNT explosion above primed TNT. | [Chromatic](https://codeberg.org/chromatic) | |
+| [Paginated Advancements & Custom Frames](https://modrinth.com/mod/paginatedadvancements) | Makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. | [DaFuqs](https://github.com/DaFuqs) | |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | Lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) | |
+| [Horse Statistics](https://modrinth.com/mod/horse-statistics) | A lightweight mod that shows the stats of horses (health, jump height, speed, owner and slots for Llamas). | [lilgallon](https://github.com/lilgallon) | |
+| [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Makes some important HUD modules visible when riding a mount. | [Lortseam](https://github.com/Lortseam) | |
+| [Litematica](https://github.com/sakura-ryoko/litematica/releases/latest) | A schematic mod that allows you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) | |
+| [MiniHUD](https://github.com/sakura-ryoko/minihud/releases/latest) | A customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) | |
+| [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [sonicether](https://github.com/sonicether), [vlad](https://github.com/vlad2305m), & [henkelmax](https://github.com/henkelmax) | |
+| [Sound Controller](https://modrinth.com/mod/sound-controller) | Provides complete control over the volume of every sound in the game. | [BVengo](https://github.com/BVengo) | |
+| [Screencopy](https://modrinth.com/mod/screencopy) | Let's you copy screenshot to clipboard. | [ImUrX](https://github.com/ImUrX) | |
+| [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui) | Improves the command block user interface by allowing for visual newlining . | [Tectato](https://github.com/Tectato) | |
+| [Better Statistics Screen](https://modrinth.com/mod/better-stats) | A visual overhaul to the statistics screen, giving useful information in a much more visually appealing format. | [TheCSDev](https://github.com/TheCSDev) | |
+| [Craftify](https://modrinth.com/mod/craftify) | Shows your currently playing music on your HUD. | [ThatGravyBoat](https://github.com/ThatGravyBoat) | |
+| [Resourcify](https://modrinth.com/mod/resourcify) | Lets you view, download, and update resource packs from Modrinth all in game. | [DeDiamondPro](https://github.com/DeDiamondPro) | |
+| [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) | Improves the look of bubbles in water. | [Tschipcraft](https://github.com/Tschipcraft) | |
+| [NoRefreshScroll](https://modrinth.com/mod/norefreshscroll) | Stops the multiplayer screen from scrolling to bottom when refreshing. | [Thatsmusic99](https://github.com/Thatsmusic99) | |
+| [Particle Tweaks](https://modrinth.com/mod/particle-tweaks) | Makes particles look nicer by adding growing/fading effects and water physics. | [Lunade_](https://github.com/AViewFromTheTop) | |
+| [Particle Rain](https://modrinth.com/mod/particle-rain) | Replaces the rain effect with particles. | [PigCart](https://github.com/PigCart) | |
+| [SkinShuffle](https://modrinth.com/mod/skinshuffle) | Allows you to change, store, and customize your skins in game. | [mineblock11](https://github.com/mineblock11) | |
+| [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations) | Adds a small animation when holding items similar to old console editions of the game. | [Trivaxy](https://github.com/Trivaxy) | |
+| [Draggable Lists](https://modrinth.com/mod/draggable-lists) | Allows you to drag to order resourcepacks, datapacks, worlds, and servers. | [MrMelon54](https://github.com/MrMelon54) | |
+| [Highlight](https://modrinth.com/mod/highlight) | Changes hitboxes to allow them to not be axis alligned, making them look much smoother on some blocks. | [Team Resourceful](https://github.com/Team-Resourceful) | |
+| [Fluid Void Fading](https://modrinth.com/mod/fluidvoidfading) | Makes liquids like water and lava slowly fade out in the void. Looks great in games like Skyblock, Skyways, or similar. | [DaFuqs](https://github.com/DaFuqs) | |
+| [Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer) | Makes server pinging smoother and fixes it breaking when refreshing too many times. | [JustAlittleWolf](https://github.com/JustAlittleWolf) | |
+| [Axiom](https://modrinth.com/mod/axiom) | An alternative to WorldEdit and VoxelSniper to make building in singleplayer much easier. | [Moulberry](https://github.com/Moulberry) | |
+| [Sounds](https://modrinth.com/mod/sound) | Adds many more sounds to Minecraft for things that did not previously have sounds. | [mineblock11](https://github.com/mineblock11) | |
+| [SaveMyKeybinds](https://modrinth.com/mod/savemykeybinds) | Allows you to save and load keybind presets. | [MisterCheezeCake](https://github.com/MisterCheezeCake) | |
+| [Elytra Physics](https://modrinth.com/mod/elytra-physics) | A simple mod that adds cape-like physics to the elytra when worn by the player. | [OhHeyItsJosh](https://github.com/OhHeyItsJosh) | |
+| [Better Elytra Render](https://modrinth.com/mod/better-elytra-render) | Improves the look of elytra by changing its position on the player. | [KGriffon](https://github.com/kgriff0n) | |
+| [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect) | Adds a confirmation dialogue before exiting your world/server. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [View Model](https://modrinth.com/mod/no-ones-view-model) | Lets you change the hands positions, similar to Overflow Animations and Dulkir. | [No-One](https://github.com/I-No-oNe) | |
+| [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | Makes the loading screen darker. Allows for some customization. | [A5b84](https://github.com/A5b84) | |
+| [Gamma Utils](https://modrinth.com/mod/gamma-utils) | A customizable fullbright mod. | [Sjouwer](https://github.com/Sjouwer) | |
+| [Toolshot](https://modrinth.com/mod/toolshot) | Screenshot Tooltips just like they look in game! | [sivthepolarfox](https://github.com/sivthepolarfox) | |
+| [Startup Timer](https://modrinth.com/mod/startup-timer) | Make a notification and sound when Minecraft finishes loading, letting you know when and exactly how long Minecraft took to load! | [ZhuRuoLing](https://github.com/ZhuRuoLing) & [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+
+[All Polyfrost mods!](https://modrinth.com/organization/polyfrost) TODO: add these to the list soon
 
 ### Hypixel Mods
 
@@ -208,10 +202,10 @@ These are general mods for Hypixel.
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [Hypixel AutoGG](https://modrinth.com/mod/hypixelautogg) | Automatically says GG on game ends. | [spacebytee](https://github.com/spacebytee) |
-| [Hypixel AutoTip](https://modrinth.com/mod/hypixelautotip) | Automatically tips players around every 15 minutes using /tipall. | [Lily2565](https://github.com/Lilyy2565) |
-| [Hypixel Tab Completions](https://modrinth.com/mod/hypixel-tab-completions) | A simple Fabric mod that adds tab completions to common commands on Hypixel. | [OperationPotato](https://github.com/OperationPotato) |
-| [Quickjoin](https://modrinth.com/mod/quickjoin) | Quickly join any game on Hypixel using an in-game menu. | [QWERTZexe](https://github.com/QWERTZexe) |
+| [Hytile Reborn](https://modrinth.com/mod/hytils) | Hytils Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, including Colored Beds, Height Overlay, Chat Message Blockers, Auto Queue, Autocomplete for /play and plenty others to discover on your own! | [Polyfrost](https://github.com/Polyfrost) | |
+| [Hypixel AutoTip](https://modrinth.com/mod/hypixelautotip) | Automatically tips players around every 15 minutes using /tipall. | [Lily2565](https://github.com/Lilyy2565) | |
+| [Hypixel Tab Completions](https://modrinth.com/mod/hypixel-tab-completions) | A simple Fabric mod that adds tab completions to common commands on Hypixel. | [OperationPotato](https://github.com/OperationPotato) | |
+| [Quickjoin](https://modrinth.com/mod/quickjoin) | Quickly join any game on Hypixel using an in-game menu. | [QWERTZexe](https://github.com/QWERTZexe) | |
 
 ### Hypixel SkyBlock Mods
 
@@ -219,22 +213,22 @@ These are mods for Hypixel SkyBlock.
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [SkyBlock Item List](https://modrinth.com/mod/skyblock-item-list) | A purpose-built item and recipe viewer for Hypixel SkyBlock. | [OperationPotato](https://github.com/OperationPotato) |
-| [Modern Warp Menu](https://modrinth.com/mod/modern-warp-menu) | A prettier warp menu for Hypixel SkyBlock, ported to modern minecraft. | [Yukkuritaku](https://github.com/Yukkuritaku) |
-| [SkyBlock Custom Scoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard) | SkyHanni's CustomScoreboard for modern Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) |
-| [Skyblocker](https://modrinth.com/mod/skyblocker-liap) | A general purpose Hypixel SkyBlock utility mod. | [SkyblockerMod Team](https://github.com/SkyblockerMod) |
-| [SkyBlock Profile Viewer](https://modrinth.com/mod/skyblock-profile-viewer) | A modern Hypixel SkyBlock profile viewer. | [Meowdding](https://github.com/meowdding) |
+| [SkyBlock Item List](https://modrinth.com/mod/skyblock-item-list) | A purpose-built item and recipe viewer for Hypixel SkyBlock. | [OperationPotato](https://github.com/OperationPotato) | |
+| [Modern Warp Menu](https://modrinth.com/mod/modern-warp-menu) | A prettier warp menu for Hypixel SkyBlock, ported to modern minecraft. | [Yukkuritaku](https://github.com/Yukkuritaku) | |
+| [SkyBlock Custom Scoreboard](https://modrinth.com/mod/skyblock-custom-scoreboard) | SkyHanni's CustomScoreboard for modern Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) | |
+| [Skyblocker](https://modrinth.com/mod/skyblocker-liap) | A general purpose Hypixel SkyBlock utility mod. | [SkyblockerMod Team](https://github.com/SkyblockerMod) | |
+| [SkyBlock Profile Viewer](https://modrinth.com/mod/skyblock-profile-viewer) | A modern Hypixel SkyBlock profile viewer. | [Meowdding](https://github.com/meowdding) | |
 | [Firmament](https://modrinth.com/mod/firmament) | An NEU inspired SkyBlock mod. | [nea890](https://github.com/nea89o) | Use [Firmament Packet Fix](https://modrinth.com/mod/firmament-packet-fix). Firmament also current causes memory leaks. |
-| [Firmament Mod Announce Remover](https://modrinth.com/mod/firmament-packet-fix) | Disables Firmament's ModAnnouncer feature which sends a list of your mods to every server you join. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) |
-| [SkyCubed](https://modrinth.com/mod/skycubed) | SkyCubed is a Hypixel SkyBlock UI overhaul mod, changing all aspects of the UI in-game to be more inline into it looking like its own game. | [Meowdding](https://github.com/meowdding) | 
-| [SkyOcean](https://modrinth.com/mod/skyocean) | SkyOcean is a mod that aims to improve the playing experience while staying true to the skyblock style, meaning that we aim to integrate with the base game in a seamless way. | [Meowdding](https://github.com/meowdding) |
-| [SkyHanni](https://modrinth.com/mod/skyhanni) | The same SkyHanni from 1.8.9, known for its garden related features. | [hannibal002](https://github.com/hannibal002) |
-| [Skyblock Overhaul (SBO)](https://modrinth.com/mod/skyblock-overhaul) | SkyblockOverhaul is a mod for the Mythological Ritual event in Hypixel SkyBlock and custom partyfinder. | [SkyblockOverhaul Team](https://github.com/SkyblockOverhaul) |
-| [Odin](https://modrinth.com/mod/odin) | Hypixel SkyBlock mod which focuses on end game Dungeons & Kuudra. | [odtheking](https://github.com/odtheking) |
-| [SkyBlock RPC](https://modrinth.com/mod/skyblock-rpc) | A Discord integration for Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) |
-| [Catharsis](https://modrinth.com/mod/catharsis) | A Resourcepack mod for Hypixel SkyBlock | [Meowdding](https://github.com/meowdding) |
-| [Roughly Enough Items](https://modrinth.com/mod/rei) | An NEI mod. Not a SkyBlock specific mod, but mainly used on client modding for SkyBlock. | [shedaniel](https://github.com/shedaniel) |
-| [REI Search Bar Calculations](https://modrinth.com/mod/rei-search-bar-calculations) | Adds a calculator to REI's search bar. | [BigBou](https://github.com/ABigBou) |
+| [Firmament Mod Announce Remover](https://modrinth.com/mod/firmament-packet-fix) | Disables Firmament's ModAnnouncer feature which sends a list of your mods to every server you join. | [Microcontrollers](https://codeberg.org/MicrocontrollersDev) | |
+| [SkyCubed](https://modrinth.com/mod/skycubed) | SkyCubed is a Hypixel SkyBlock UI overhaul mod, changing all aspects of the UI in-game to be more inline into it looking like its own game. | [Meowdding](https://github.com/meowdding) | |
+| [SkyOcean](https://modrinth.com/mod/skyocean) | SkyOcean is a mod that aims to improve the playing experience while staying true to the skyblock style, meaning that we aim to integrate with the base game in a seamless way. | [Meowdding](https://github.com/meowdding) | |
+| [SkyHanni](https://modrinth.com/mod/skyhanni) | The same SkyHanni from 1.8.9, known for its garden related features. | [hannibal002](https://github.com/hannibal002) | |
+| [Skyblock Overhaul (SBO)](https://modrinth.com/mod/skyblock-overhaul) | SkyblockOverhaul is a mod for the Mythological Ritual event in Hypixel SkyBlock and custom partyfinder. | [SkyblockOverhaul Team](https://github.com/SkyblockOverhaul) | |
+| [Odin](https://modrinth.com/mod/odin) | Hypixel SkyBlock mod which focuses on end game Dungeons & Kuudra. | [odtheking](https://github.com/odtheking) | |
+| [SkyBlock RPC](https://modrinth.com/mod/skyblock-rpc) | A Discord integration for Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) | |
+| [Catharsis](https://modrinth.com/mod/catharsis) | A Resourcepack mod for Hypixel SkyBlock | [Meowdding](https://github.com/meowdding) | |
+| [Roughly Enough Items](https://modrinth.com/mod/rei) | An NEI mod. Not a SkyBlock specific mod, but mainly used on client modding for SkyBlock. | [shedaniel](https://github.com/shedaniel) | |
+| [REI Search Bar Calculations](https://modrinth.com/mod/rei-search-bar-calculations) | Adds a calculator to REI's search bar. | [BigBou](https://github.com/ABigBou) | |
 
 ### OptiFine Replacements
 
@@ -248,24 +242,24 @@ Features that OptiFine provides that are not resource pack related.
 
 | Mod | Description | Author | Notes |
 | --- | --- | --- | --- |
-| [Iris](https://modrinth.com/mod/iris) | Shaders. More customizable than OptiFine's. | [IrisShaders](https://github.com/IrisShaders) |
-| [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
-| [Cosmetica](https://modrinth.com/mod/cosmetica) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc)
-| [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and snow, more customizable than OptiFine.. | [LambdAurora](https://github.com/LambdAurora) |
-| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
-| [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://github.com/ramidzkh) |
+| [Iris](https://modrinth.com/mod/iris) | Shaders. More customizable than OptiFine's. | [IrisShaders](https://github.com/IrisShaders) | |
+| [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) | |
+| [Cosmetica](https://modrinth.com/mod/cosmetica) | Capes. Free, more customizable than OptiFine, and other cosmetics. | [Cosmetica-cc](https://github.com/Cosmetica-cc) | |
+| [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and snow, more customizable than OptiFine.. | [LambdAurora](https://github.com/LambdAurora) | |
+| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) | |
+| [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://github.com/ramidzkh) | |
 
 #### Resource Packs
 
 Resource pack features that MCPatcher/OptiFine has. Not all support the MCPatcher format.
 
-| Mod | Feature | Supports MCPatcher format| Notes | Author |
+| Mod | Feature | Supports MCPatcher format | Notes | Author |
 | --- | --- | --- | --- | --- |
 | [Nuit](https://modrinth.com/mod/nuit) | Custom sky. | 🚧 | Requires [Nuit Interop](https://modrinth.com/mod/nuit-interop) for OptiFine support. | [FlashyReese](https://github.com/FlashyReese) && [AMereBagatelle](https://github.com/AMereBagatelle) |
 | [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. | ✅ | | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Animatica Refabricated](https://modrinth.com/mod/animaticarefabricated) | Animated textures. | ✅ | | [FoundationGames](https://github.com/FoundationGames) & [Coredex](https://github.com/coredex-source) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. | ✅ | | [opekope2](https://github.com/opekope2) |
-| [Polytone](https://modrinth.com/mod/polytone) | Custom colors, sounds, particles, GUI elements, and more. | ✅ | More customizable. | [MehVahdJukaar](https://github.com/MehVahdJukaar)  |
+| [Polytone](https://modrinth.com/mod/polytone) | Custom colors, sounds, particles, GUI elements, and more. | ✅ | More customizable. | [MehVahdJukaar](https://github.com/MehVahdJukaar) |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Custom entity models. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
 | [Entity Sound Features](https://modrinth.com/mod/esf) | Entity sound variation. | ✅ | More customizable. | [Traben](https://github.com/Traben-0) |
@@ -277,7 +271,7 @@ Resource pack features that MCPatcher/OptiFine has. Not all support the MCPatche
 
 If you are one of those weirdos who uses internal shaders (you shouldn't btw), here's a mod that does the same thing.
 
-| Mod | Description | Author
+| Mod | Description | Author |
 | --- | --- | --- |
 | [Simply No Shading](https://modrinth.com/mod/simply-no-shading) | Internal Shaders. | [StartsMercury](https://github.com/StartsMercury) |
 
@@ -289,14 +283,14 @@ These are mods that are not recommended for use. They have either been replaced 
 | --- | --- | --- |
 | Krypton | Krypton is most beneficial when used on the server, and only provides microoptimizations for the client. Unfortunately these changes regularly cause issues with other mods like e4mc and ViaFabricPlus. | [astei](https://github.com/astei) |
 | Krypton FNP Patcher | Same reason as Krypton. | [404Setup](https://github.com/404Setup) |
-| Exordium | Exordium has terrible mod compatibility on modern Minecraft version, and even breaks several vanilla graphcs. It also no longer provides massive performance gains on 1.21.10+. | [tr7zw](https://github.com/tr7zw) | | May break some HUD elements from other mods. |
+| Exordium | Exordium has terrible mod compatibility on modern Minecraft version, and even breaks several vanilla graphcs. It also no longer provides massive performance gains on 1.21.10+. May break some HUD elements from other mods. | [tr7zw](https://github.com/tr7zw) |
 | Embeddium | Embeddium is a fork of Sodium with worse performance, worse compatability, and less features. There is no reason to use this mod. | [embeddedt](https://github.com/embeddedt) |
 | More Culling | This mod is made by a user who was been exposed for making malware. Additionally, it causes many weird crashes. | [fxmorin](https://github.com/fxmorin) |
 | MemoryLeakFix | This mod is made by a user who was been exposed for making malware. Additionally, this mod does next to nothing and it too causes many weird crashes. | [fxmorin](https://github.com/fxmorin) |
 | ThreatenGL | This mod does not actually improve performance, as stated by both Jellysquid and IMS. It attempts to force the game to use a newer OpenGL version but does not do anything with it. | [Numelon](https://github.com/Numelon-Softworks) |
 | GpuTape | This mod simply does nothing. | [ITsMrToad](https://github.com/ITsMrToad) |
 | Palladium | This mod has questionable improvements and causes many crashes with other mods, including Iris. | [ITsMrToad](https://github.com/ITsMrToad) |
-| Better Beds | BetterBeds has been replaced by Better Block Entities. Feel free to use if Better Block Entities is not yet updated to the current version.| [Motschen](https://github.com/Motschen) |
+| Better Beds | BetterBeds has been replaced by Better Block Entities. Feel free to use if Better Block Entities is not yet updated to the current version. | [Motschen](https://github.com/Motschen) |
 | Clear Void | Clear Void has been replaced by [Smooth Skies](https://modrinth.com/mod/smooth-skies). | [yezhiyi9670](https://github.com/yezhiyi9670) |
 | SkyblockAddons Unofficial | SkyblockAddons has long since been EOL'd by its original dev team. Other Skyblock mods have now expanded upon all its features. | [Biscuit](https://github.com/BiscuitDevelopment) & [Fix3dll](https://github.com/Fix3dll) |
 
@@ -310,7 +304,7 @@ Notes:
 * Leave your name and GitHub link in the contributors credits section in alphabetical order, even for a tiny change
 * Please try to use Modrinth/GitHub links over CurseForge links whenever possible (Modrinth is preferred over GitHub).
 * When crediting authors, please use a GitHub link instead of a Modrinth/CurseForge author page if possible.
-    * Credit the GitHub organization if the GitHub profile that owns the repository is an organization profile, don't use the person credited on Modrinth/CurseForge 
+  * Credit the GitHub organization if the GitHub profile that owns the repository is an organization profile, don't use the person credited on Modrinth/CurseForge
 * Make sure "Allow edits by maintainers" is enabled in your PRs.
 
 ## Contributors

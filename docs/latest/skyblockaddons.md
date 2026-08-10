@@ -7,7 +7,7 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 
 * "Minion Cannot Reach" Warning - ?
 * Adjust Zoom with +/- Keys - ?
-* Allow Locking Slots - [Firmament](https://modrinth.com/mod/firmament)
+* Allow Locking Slots - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Firmament](https://modrinth.com/mod/firmament)
 * Axe Cooldown Indicator - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Bal Boss Warning - Useless
 * Birch Park Rainmaker Timer - [Skyblock Tweaks](https://modrinth.com/mod/sbt)
@@ -30,7 +30,7 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Disable Teleport Pad Messages - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Discord Rich Presence - [SkyBlock RPC](https://modrinth.com/mod/skyblock-rpc)
 * Dolphin Pet Tracker - ?
-* Don't Reset Cursor Between Inventories - [Firmament](https://modrinth.com/mod/firmament) / [Better Screens](https://modrinth.com/mod/better-screens)
+* Don't Reset Cursor Between Inventories - [Better Screens](https://modrinth.com/mod/better-screens) / [Firmament](https://modrinth.com/mod/firmament)
 * Dragon Tracker - ?
 * Drill Fuel Bar - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
 * Drill Fuel Number - [Skyblocker](https://modrinth.com/mod/skyblocker-liap)
@@ -84,7 +84,7 @@ The entire SBA dev team has abandoned the original mod and there is not much rea
 * Reforge Filter - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Replace Roman Numerals on Items - [SkyHanni](https://modrinth.com/mod/skyhanni)
 * Rock Pet Tracker - ?
-* Show Backpack Preview - [Firmament](https://modrinth.com/mod/firmament)
+* Show Backpack Preview - [Skyblocker](https://modrinth.com/mod/skyblocker-liap) / [Firmament](https://modrinth.com/mod/firmament)
 * Show Bait List While Holding a Rod - ?
 * Show Base Stat Boost for Dungeon Items - ?
 * Show Broken Dragon Fragments - ?

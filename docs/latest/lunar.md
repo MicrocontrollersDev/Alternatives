@@ -26,7 +26,7 @@ Note that OneClient contains in-game purchases such as cosmetics that can be com
 
 ## Mods
 
-### Performance
+### General Performance
 
 * Performance Improvements - See my [full list of performance mods](https://alternatives.microcontrollers.dev/latest/migrating/#performance)
 
@@ -40,20 +40,19 @@ Note that OneClient contains in-game purchases such as cosmetics that can be com
 
 * Chat Filter - ?
 * Chat Height Fix - [Chatting](https://modrinth.com/mod/chatting)
-* Don't Clear Chat History - [Chat Plus](https://modrinth.com/mod/chat-plus)
+* Don't Clear Chat History - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
 * Highlighted Name - [ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * Background Opacity - Vanilla (Accessibility Options)
 * Hide Incoming Messages - ?
 * Stack Spam Messages - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
 * Stop Servers from Closing Chat - [Better Screens](https://modrinth.com/mod/betterscreens)
 * Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
-* Unlimited Chat - [Chat Plus](https://modrinth.com/mod/chat-plus)
+* Unlimited Chat - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
 * Chat Animation - [Chat Animation](https://modrinth.com/mod/chatanimation)
 
 ### Hypixel Mods
 
-
-* Hypixel Skyblock - See Skyblock mods [here](https://alternatives.microcontrollers.dev/latest/migrating/#skyblock-mods)
+* Hypixel Skyblock - [See Skyblock mods here](https://alternatives.microcontrollers.dev/latest/migrating/#skyblock-mods)
 * Remove Guild MOTD - [Hytils Reborn](https://modrinth.com/mod/hytils)
 * Remove Guild on Tab - [Hytils Reborn](https://modrinth.com/mod/hytils)
 * Short Chat Channel Messages - [Hytils Reborn](https://modrinth.com/mod/hytils)
