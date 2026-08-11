@@ -69,7 +69,7 @@ nav:
           - "Migrating to Latest": "latest/migrating.md"
       - "Clients":
           - "Badlion Client": "latest/badlion.md"
-          - "Feather Client": "latest/feather.md"
+          - "Dawn (Feather) Client": "latest/feather.md"
           - "Lunar Client": "latest/lunar.md"
       - "Mods":
           - "Aaron's Mod": "latest/aaronsmod.md"
