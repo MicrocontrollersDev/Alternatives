@@ -1,6 +1,6 @@
 <script src="https://keepandroidopen.org/banner.js?size=mini"></script>
 
-# Dawn (Feather) "Client" Alternatives
+# Dawn (Feather) Client Alternatives
 
 Please note that this page may be outdated due to Minecraft update cycles.
 
