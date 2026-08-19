@@ -26,13 +26,13 @@ recommend using these modpacks:
   
 * Auto Text - [Command Keys](https://modrinth.com/mod/commandkeys) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
 * Clear Chat - Vanilla
-* Compact Chat - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Compact Chat - [ChatTweaks](https://modrinth.com/mod/chattweaks)
 * Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
-* 24 Hour Timestamps - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* 24 Hour Timestamps - [ChatTweaks](https://modrinth.com/mod/chattweaks)
 * Fancy Fonts - Vanilla (resource pack)
 * Filter DMs - ?
 * Vanilla Background - Irrelevant
-* Timestamps - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Timestamps - [ChatTweaks](https://modrinth.com/mod/chattweaks)
 * Chat Messages Notifications - ?
 * Chat Opacity - [Chatting](https://modrinth.com/mod/chatting)
 * Chat Size - [Chatting](https://modrinth.com/mod/chatting)
@@ -60,7 +60,7 @@ recommend using these modpacks:
 * Ingame Server Switcher - ?
 * Item Counter - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Info - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
+* Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite) & [ItemPhysic Lite Config](https://modrinth.com/mod/itemphysicliteconfig)
 * MiniMap - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
 * Pack Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Ping - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
@@ -111,7 +111,7 @@ recommend using these modpacks:
 * Replay Mod - [Flashback](https://modrinth.com/mod/flashback) / [Replay Mod](https://modrinth.com/mod/replaymod)
 * Schematica Mod - [Litematica](https://modrinth.com/mod/litematica)
 * TeamSpeak Mod - ?
-* MumbleLink - ?
+* MumbleLink - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 # Contributors
 

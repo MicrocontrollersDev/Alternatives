@@ -35,14 +35,14 @@ recommend using these modpacks:
 
 * Chat Filter - ?
 * Chat Height Fix - [Chatting](https://modrinth.com/mod/chatting)
-* Don't Clear Chat History - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Don't Clear Chat History - [ChatTweaks](https://modrinth.com/mod/chattweaks)
 * Highlighted Name - [ChatHighlighter](https://modrinth.com/mod/chathighlighter)
 * Background Opacity - Vanilla (Accessibility Options)
 * Hide Incoming Messages - ?
-* Stack Spam Messages - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Stack Spam Messages - [ChatTweaks](https://modrinth.com/mod/chattweaks)
 * Stop Servers from Closing Chat - [Better Screens](https://modrinth.com/mod/betterscreens)
 * Text Shadow - [Sciophobia](https://modrinth.com/mod/sciophobia)
-* Unlimited Chat - [Chat Tweaks](https://modrinth.com/mod/chattweaks)
+* Unlimited Chat - [ChatTweaks](https://modrinth.com/mod/chattweaks)
 * Chat Animation - [Chat Animation](https://modrinth.com/mod/chatanimation)
 
 ### Hypixel Mods
@@ -79,12 +79,12 @@ recommend using these modpacks:
 * Day Counter - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * DirectionHUD - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * FPS - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [FPS - Display](https://modrinth.com/mod/fpsdisplay)
-* Item Tracker - ?
+* Item Tracker - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Key Strokes - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [TipTapShow](https://modrinth.com/mod/tiptapshow)
 * Memory Usage - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Pack Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Ping - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Potion Effects - [EvergreenHUD](https://modrinth.com/mod/evergreenhud) / [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) / [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)
+* Potion Effects - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Potion Counter - [PotionCounter](https://modrinth.com/mod/potioncounter)
 * Stopwatch - ?
 * Server Address - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
@@ -128,7 +128,7 @@ recommend using these modpacks:
 * Replay Mod - [Replay Mod](https://modrinth.com/mod/replaymod)
 * Screenshot Uploader - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
 * Auto Text Hot Key - [Command Keys](https://modrinth.com/mod/commandkeys) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
-* Mumble Link - ?
+* Mumble Link - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 * Boss Bar - [VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Freelook - [Freelook](https://modrinth.com/mod/freelook-oneconfig) **(May be bannable on some servers, auto disabled on hypixel)**
 * Quickplay - [Quickjoin](https://modrinth.com/mod/quickjoin)
@@ -184,7 +184,7 @@ recommend using these modpacks:
 ## Other
 
 * Vanilla Bug Fixes - [Debugify](https://modrinth.com/mod/debugify)
-* Resource Pack Menu - [Pack Manager](https://modrinth.com/mod/pack-manager)
+* Resource Pack Menu - [Packed Packs](https://modrinth.com/mod/packed-packs)
 * Custom Main Menu - [FancyMenu](https://modrinth.com/mod/fancymenu)
 * Discord Rich Presence - [CraftPresence](https://modrinth.com/mod/craftpresence)
 * In Game Account Switcher - [In Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) / [PolyPlus](https://modrinth.com/mod/polyplus)
