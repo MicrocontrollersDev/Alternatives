@@ -23,7 +23,8 @@ If you are too lazy to install all these mods yourself and want a one-click cohe
 recommend using these modpacks:
 
 * [OneClient](https://polyfrost.org/oneclient)
-  * Note that OneClient contains in-game purchases such as cosmetics that can be completely disabled if desired.
+  * OneClient is currently only available via its custom launcher, a Modrinth modpack is currently in review
+  * Note that OneClient contains in-game purchases such as cosmetics that can be completely disabled if desired
 * More to come!
 
 ### Visuals
