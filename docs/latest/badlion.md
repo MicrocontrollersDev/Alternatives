@@ -8,12 +8,12 @@ It is *essential* that you read the **[Migrating to Latest](https://alternatives
 
 ## Modpacks
 
-If you are too lazy to install all these mods yourself and want a one-click cohesive client experience like Lunar Client,** we
+If you are too lazy to install all these mods yourself and want a one-click cohesive client experience like Badlion Client, we
 recommend using these modpacks:
 
 * [OneClient](https://polyfrost.org/oneclient)
-  * OneClient is currently only available via its custom launcher, a Modrinth modpack is currently in review
-  * Note that OneClient contains in-game purchases such as cosmetics that can be completely disabled if desired
+    * OneClient is currently only available via its custom launcher, a Modrinth modpack is currently in review
+    * Note that OneClient contains in-game purchases such as cosmetics that can be completely disabled if desired
 * More to come!
 
 ## Mods
@@ -63,13 +63,14 @@ recommend using these modpacks:
 * Item Info - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Item Physics - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite) & [ItemPhysic Lite Config](https://modrinth.com/mod/itemphysicliteconfig)
 * MiniMap - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) **(May be bannable on some servers like Hypixel, depending on what it is used for)**
-* Pack Display - [EvergreenHUD](
+* Pack Display - [EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+
 ### Visual Mods
 
 * Block Overlay - [Custom Block Highlight](https://modrinth.com/mod/custom-block-highlight)
 * Clear Water - [Vanilla Tweaks Resourcepack](https://vanillatweaks.net/picker/resource-packs)
 * Cosmetics - [Cosmetica](https://modrinth.com/mod/cosmetica) (Completely free and works with BLC capes)
-  * Wavey Capes - [Wavey Capes](https://modrinth.com/mod/wavey-capes)
+    * Wavey Capes - [Wavey Capes](https://modrinth.com/mod/wavey-capes)
 * Enchant Glint - ?
 * FOV - ?
 * Fullbright - [Gamma Utils](https://modrinth.com/mod/gamma-utils)
