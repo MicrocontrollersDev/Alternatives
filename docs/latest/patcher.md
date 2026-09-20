@@ -182,7 +182,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 * GUI Crosshair - [Crosshair Tweaks](https://modrinth.com/mod/crosshairtweaks)
 * Startup Notification - [Startup Time](https://modrinth.com/mod/startup-time)
 * Clean Main Menu - Irrelevant
-* Open to LAN Replacement - ?
+* Open to LAN Replacement - [Better Screens](https://modrinth.com/mod/better-screens)
 * Smart Disconnect - [Confirm Disconnect](https://modrinth.com/mod/confirm-disconnect)
 * Image Preview - ?
 * Image Preview Width - ?
@@ -197,7 +197,7 @@ This list is based off all features that exist in PolyPatcher and/or Patcher, as
 
 * Favorite Screenshot - ?
 * Delete Screenshot - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
-* Upload Screenshot - ?
+* Upload Screenshot - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
 * Copy Screenshot - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
 * Open Screenshots Folder - [Screenshot Message Enhancer](https://modrinth.com/mod/screenshotmessageenhancer)
 * Screenshot Manager - ?
