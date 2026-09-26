@@ -67,6 +67,7 @@
 * [RaphyTwin](https://github.com/RaphyTwin)
 * [RayDeeUx](https://github.com/RayDeeUx)
 * [Rayless](https://github.com/UnderscoreRayless)
+* [Saimiau](https://github.com/Saimiau)
 * [Salmon](https://github.com/Scherso)
 * [Shiggy](https://github.com/Shiggy-dev)
 * [Solonovamax](https://github.com/solonovamax)
