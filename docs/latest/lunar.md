@@ -10,16 +10,6 @@ Please note that this page may be outdated due to Minecraft update cycles.
 
 It is recommended that you read the **[Migrating to Latest](https://alternatives.microcontrollers.dev/latest/migrating)** list first, as it includes all recommended mods that are not included here, as well as a full guide on how to install these mods and Fabric.
 
-## Modpacks
-
-If you are too lazy to install all these mods yourself and want a one-click cohesive client experience like Lunar Client, we
-recommend using these modpacks:
-
-* [OneClient](https://polyfrost.org/oneclient)
-    * OneClient is currently only available via its custom launcher or [Modrinth modpack](https://modrinth.com/modpack/oneclient-modpack)
-    * Note that OneClient contains in-game purchases such as cosmetics that can be completely disabled if desired
-* More to come!
-
 ## Mods
 
 ### General Performance
