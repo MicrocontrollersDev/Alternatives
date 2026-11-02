@@ -40,14 +40,14 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 **If you are too lazy to install all these mods yourself and want a cohesive client experience like on 1.8,** we
 recommend using **[OneClient](https://polyfrost.org/oneclient)**.
 
-It is a "client" that feels like a traditional client, having a **one-click install**, a lot of pre-packaged mods, and a cohesive
-experience, but it also is **fully open-source,** uses Fabric instead of working around it, and is made by mod developers
-who are actually in the Minecraft modding community.
+A "client" that feels like a traditional client, having a **one-click install**, plenty of pre-packaged mods, and a cohesive
+experience, while remaining **fully open-source,** using Fabric instead of working around it, and being developed by mod developers
+who are deeply immersed in the Minecraft modding community.
 
-Rather than one monolithic client that ruins compatibility with other mods, **OneClient installs the best performance and QOL
-mods from this list** and splits itself up into smaller mods that can even be installed separately via Modrinth.
+Rather than one monolithic client that ruins compatibility with other mods, **OneClient bundles the best performance and QOL
+mods from this list** and splits itself up into smaller mods that can also be installed separately via Modrinth.
 
-Note that OneClient contains in-game purchases such as cosmetics that can be completely disabled if desired.
+Note that OneClient contains in-game purchases such as cosmetics that can be **completely disabled** if desired.
 
 ## Mods
 
@@ -224,7 +224,6 @@ These are mods for Hypixel SkyBlock.
 | [Odin](https://modrinth.com/mod/odin) | Hypixel SkyBlock mod which focuses on end game Dungeons & Kuudra. | [odtheking](https://github.com/odtheking) | |
 | [SkyBlock RPC](https://modrinth.com/mod/skyblock-rpc) | A Discord integration for Hypixel SkyBlock. | [Meowdding](https://github.com/meowdding) | |
 | [Catharsis](https://modrinth.com/mod/catharsis) | A resource pack mod for Hypixel SkyBlock | [Meowdding](https://github.com/meowdding) | |
-| [Roughly Enough Items](https://modrinth.com/mod/rei) | An NEI mod. Not a SkyBlock specific mod, but mainly used on client modding for SkyBlock. | [shedaniel](https://github.com/shedaniel) | |
 
 ### OptiFine Replacements
 
