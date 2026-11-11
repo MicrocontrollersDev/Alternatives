@@ -283,7 +283,7 @@ These are mods that are not recommended for use. They have either been replaced 
 | More Culling | This mod is made by a user who was exposed for making malware. Additionally, it causes many weird crashes. | [fxmorin](https://github.com/fxmorin) |
 | MemoryLeakFix | This mod is made by a user who was exposed for making malware. Additionally, this mod does next to nothing and it too causes many weird crashes. | [fxmorin](https://github.com/fxmorin) |
 | ThreatenGL | This mod does not actually improve performance, as stated by both Jellysquid and IMS. It attempts to force the game to use a newer OpenGL version but does not do anything with it. | [Numelon](https://github.com/Numelon-Softworks) |
-| GpuTape | This mod simply does nothing. | [ITsMrToad](https://github.com/ITsMrToad) |
+| GpuTape | This mod does not do anything useful to improve performance, and is incompatible with Polydium. | [ITsMrToad](https://github.com/ITsMrToad) |
 | Palladium | This mod has questionable improvements and causes many crashes with other mods, including Iris. | [ITsMrToad](https://github.com/ITsMrToad) |
 | Better Beds | BetterBeds has been replaced by Better Block Entities. Feel free to use if Better Block Entities is not yet updated to the current version. | [Motschen](https://github.com/Motschen) |
 | Clear Void | Clear Void has been replaced by [Smooth Skies](https://modrinth.com/mod/smooth-skies). | [yezhiyi9670](https://github.com/yezhiyi9670) |
