@@ -78,7 +78,6 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Remove Reloading Screen](https://modrinth.com/mod/rrls) | Allows you to access other parts of the game by removing the reload screen except for the progress bar. | [dima_dencep](https://github.com/dimadencep) | |
 | [Particle Core](https://modrinth.com/mod/particle-core) | Several optimizations to particles in Minecraft and customization of particle rendering, i.e., being able to turn them on/off individually and putting them in a reduced state. | [fzzyhmstrs](https://github.com/fzzyhmstrs) | |
 | [Force Close Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen) | Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration. | [kennytv](https://github.com/kennytv) | |
-| [BadOptimizations](https://modrinth.com/mod/badoptimizations) | A collection of micro-optimizations. | [Thosea](https://github.com/imthosea) | |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | A mod based on Starlight that improves the performance of light updates in Minecraft. | [RelativityMC](https://github.com/RelativityMC) | Only useful in singleplayer, can still use on multiplayer. |
 | [FastQuit](https://modrinth.com/mod/fastquit) | Allows you to go back to the title screen while the world is still loading or saving. It is done in a way that prevents world corruption. | [KingContaria](https://github.com/KingContaria) | Only useful in singleplayer, can still use on multiplayer. |
 | [C2ME](https://modrinth.com/mod/c2me-fabric) | C2ME is an experimental mod that attempts to multithread chunk generation, I/O, and loading. | [RelativityMC](https://github.com/RelativityMC) | Only useful in singleplayer, can still use on multiplayer. |
@@ -276,18 +275,19 @@ These are mods that are not recommended for use. They have either been replaced 
 
 | Mod | Reasoning | Author |
 | --- | --- | --- |
-| Krypton | Krypton is most beneficial when used on the server, and only provides microoptimizations for the client. Unfortunately these changes regularly cause issues with other mods like e4mc and ViaFabricPlus. | [astei](https://github.com/astei) |
+| Krypton | This mod is most beneficial when used on the server, and only provides microoptimizations for the client. Unfortunately these changes regularly cause issues with other mods like e4mc and ViaFabricPlus. | [astei](https://github.com/astei) |
 | Krypton FNP Patcher | Same reason as Krypton. | [404Setup](https://github.com/404Setup) |
-| Exordium | Exordium has terrible mod compatibility on modern Minecraft versions, and even breaks several vanilla graphics. It also no longer provides massive performance gains on 1.21.10+. May break some HUD elements from other mods. | [tr7zw](https://github.com/tr7zw) |
-| Embeddium | Embeddium is a fork of Sodium with worse performance, worse compatibility, and less features. There is no reason to use this mod. | [embeddedt](https://github.com/embeddedt) |
+| Exordium | This mod has terrible mod compatibility on modern Minecraft versions, and even breaks several vanilla graphics. It also no longer provides massive performance gains on 1.21.10+. May break some HUD elements from other mods. | [tr7zw](https://github.com/tr7zw) |
+| Embeddium | This mod is a fork of Sodium with worse performance, worse compatibility, and less features. There is no reason to use this mod. | [embeddedt](https://github.com/embeddedt) |
 | More Culling | This mod is made by a user who was exposed for making malware. Additionally, it causes many weird crashes. | [fxmorin](https://github.com/fxmorin) |
 | MemoryLeakFix | This mod is made by a user who was exposed for making malware. Additionally, this mod does next to nothing and it too causes many weird crashes. | [fxmorin](https://github.com/fxmorin) |
 | ThreatenGL | This mod does not actually improve performance, as stated by both Jellysquid and IMS. It attempts to force the game to use a newer OpenGL version but does not do anything with it. | [Numelon](https://github.com/Numelon-Softworks) |
-| GpuTape | This mod does not do anything useful to improve performance, and is incompatible with Polydium. | [ITsMrToad](https://github.com/ITsMrToad) |
+| GPUBooster | This mod does not do anything useful to improve performance, and is incompatible with Polydium. | [ITsMrToad](https://github.com/ITsMrToad) |
 | Palladium | This mod has questionable improvements and causes many crashes with other mods, including Iris. | [ITsMrToad](https://github.com/ITsMrToad) |
-| Better Beds | BetterBeds has been replaced by Better Block Entities. Feel free to use if Better Block Entities is not yet updated to the current version. | [Motschen](https://github.com/Motschen) |
-| Clear Void | Clear Void has been replaced by [Smooth Skies](https://modrinth.com/mod/smooth-skies). | [yezhiyi9670](https://github.com/yezhiyi9670) |
+| Better Beds | This mod has been replaced by [Better Block Entities](https://modrinth.com/mod/better-block-entities). Feel free to use if Better Block Entities is not yet updated to the current version. | [Motschen](https://github.com/Motschen) |
+| Clear Void | This mod has been replaced by [Smooth Skies](https://modrinth.com/mod/smooth-skies). | [yezhiyi9670](https://github.com/yezhiyi9670) |
 | SkyblockAddons Unofficial | SkyblockAddons has long since been EOL'd by its original dev team. Other SkyBlock mods have now expanded upon all its features. | [Biscuit](https://github.com/BiscuitDevelopment) & [Fix3dll](https://github.com/Fix3dll) |
+| BadOptimizations | This mod has no impact on performance and can cause issues. | [Thosea](https://github.com/imthosea) |
 
 # Notes
 
